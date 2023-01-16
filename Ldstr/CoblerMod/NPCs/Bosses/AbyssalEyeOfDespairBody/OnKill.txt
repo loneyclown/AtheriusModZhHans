@@ -1,12 +1,12 @@
 0 :
 {
 	Origin : At last it is over. The remaining eye blinks at you and drifts off
-	Current : At last it is over. The remaining eye blinks at you and drifts off
+	Current : 终于结束了。 剩下的眼睛朝你眨了眨又飘走了
 }
 
 1 :
 {
 	Origin : Desite its one eye, you could tell it winked at you...
-	Current : Desite its one eye, you could tell it winked at you...
+	Current : 除了它的一只眼睛，你可以看出它对你眨了眨眼……
 }
 

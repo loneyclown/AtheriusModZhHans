@@ -4,7 +4,7 @@
 		Increased herbalist resource regen rate by 15%
 		[c/0EA300:Herbalist Class]
 	Current : 
-		Increased herbalist resource regen rate by 15%
-		[c/0EA300:Herbalist Class]
+		草药资源再生率提高 15%
+		[c/0EA300:草药师 Class]
 }
 

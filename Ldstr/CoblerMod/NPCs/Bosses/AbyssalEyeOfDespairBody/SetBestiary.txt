@@ -6,9 +6,9 @@
 		However, they Eye of Hope is far too weak at this point to defeat this eye.
 		Will you lend it a hand?
 	Current : 
-		Countless worlds it has left feeling nothing but despair.
-		The only thing in its path now what remains of The Abyssal Eye of Hope.
-		However, they Eye of Hope is far too weak at this point to defeat this eye.
-		Will you lend it a hand?
+		它离开的无数世界只感到绝望。
+		现在，它的路径上唯一剩下的就是深渊希望之眼。
+		但是，他们希望之眼在这一点上太弱了，无法击败这只眼睛。
+		你愿意帮忙吗？
 }
 

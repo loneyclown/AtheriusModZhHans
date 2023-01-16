@@ -1,43 +1,43 @@
 0 :
 {
 	Origin : BossChecklist
-	Current : BossChecklist
+	Current : Boss清单
 }
 
 1 :
 {
 	Origin : BossChecklist
-	Current : BossChecklist
+	Current : Boss清单
 }
 
 2 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 3 :
 {
 	Origin : Mecha Stone Golem
-	Current : Mecha Stone Golem
+	Current : 机甲石傀儡
 }
 
 4 :
 {
 	Origin : Spawns anywhere at night time using the Stone Disk
-	Current : Spawns anywhere at night time using the Stone Disk
+	Current : 使用石盘在夜间的任何地方生成
 }
 
 6 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 7 :
 {
 	Origin : Undead Executioner
-	Current : Undead Executioner
+	Current : 亡灵刽子手
 }
 
 8 :
@@ -46,38 +46,38 @@
 		Spawns anywhere at night time using the Bones To Ashes
 		He is always lurking...
 	Current : 
-		Spawns anywhere at night time using the Bones To Ashes
-		He is always lurking...
+		使用白骨成灰在夜间的任何地方生成
+		他总是潜伏...
 }
 
 10 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 11 :
 {
 	Origin : Flaming Exarch
-	Current : Flaming Exarch
+	Current : 烈焰主教
 }
 
 12 :
 {
 	Origin : Small chance of spawning naturally in the underworld biome.
-	Current : Small chance of spawning naturally in the underworld biome.
+	Current : 在地下世界生物群落中自然生成的几率很小。
 }
 
 14 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 15 :
 {
 	Origin : Robotic Bear
-	Current : Robotic Bear
+	Current : 机器熊
 }
 
 16 :
@@ -86,80 +86,80 @@
 		Spawns anywhere at any time as long as the player is on the ground and not flying around
 		[c/8A0A0A:Puhuhuhuhuhuhuhuhu]
 	Current : 
-		Spawns anywhere at any time as long as the player is on the ground and not flying around
+		只要玩家在地面上而不是四处飞来飞去，就可以随时随地生成
 		[c/8A0A0A:Puhuhuhuhuhuhuhuhu]
 }
 
 18 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 19 :
 {
 	Origin : Fallen Servant
-	Current : Fallen Servant
+	Current : 堕落的仆人
 }
 
 20 :
 {
 	Origin : Spawns in the sky biome at night time using the Curious Gem
-	Current : Spawns in the sky biome at night time using the Curious Gem
+	Current : 使用好奇宝石在夜间在天空生物群落中生成
 }
 
 22 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 23 :
 {
 	Origin : Aqua Magi
-	Current : Aqua Magi
+	Current : 水系魔法师
 }
 
 24 :
 {
 	Origin : Spawns in the beach biome at any time using the Turning Tide
-	Current : Spawns in the beach biome at any time using the Turning Tide
+	Current : 随时使用力挽狂澜在海滩生物群系中生成
 }
 
 26 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 27 :
 {
 	Origin : Colossal Golem
-	Current : Colossal Golem
+	Current : 巨大魔像
 }
 
 28 :
 {
 	Origin : Spawns anywhere at night time and in the jungle using the Burned Moss
-	Current : Spawns anywhere at night time and in the jungle using the Burned Moss
+	Current : 使用燃烧的苔藓在夜间和丛林中的任何地方生成
 }
 
 30 :
 {
 	Origin : AddBoss
-	Current : AddBoss
+	Current : 添加Boss
 }
 
 31 :
 {
 	Origin : Oblivion Moose
-	Current : Oblivion Moose
+	Current : 遗忘驼鹿
 }
 
 32 :
 {
 	Origin : Spawns anywhere at night time using the Oblivion Cube
-	Current : Spawns anywhere at night time using the Oblivion Cube
+	Current : 使用遗忘魔方在夜间的任何地方生成
 }
 
 34 :
@@ -171,7 +171,7 @@
 35 :
 {
 	Origin : Abyssal Eyes
-	Current : Abyssal Eyes
+	Current : 深渊之眼
 }
 
 36 :
@@ -180,8 +180,8 @@
 		Spawns anywhere at night time using the Dim Candles
 		Stop the Abyssal Eye of Despair before it manages to kill the Abyssal Eye of Hope...
 	Current : 
-		Spawns anywhere at night time using the Dim Candles
-		Stop the Abyssal Eye of Despair before it manages to kill the Abyssal Eye of Hope...
+		使用昏暗的蜡烛在夜间的任何地方生成
+		在绝望深渊之眼杀死希望深渊之眼之前阻止它...
 }
 
 38 :
@@ -193,13 +193,13 @@
 39 :
 {
 	Origin : Portal Guardian
-	Current : Portal Guardian
+	Current : 门户守护者
 }
 
 40 :
 {
 	Origin : Spawns in the hallow biome at night time using the Warped Fate
-	Current : Spawns in the hallow biome at night time using the Warped Fate
+	Current : 使用扭曲的命运在夜间在神圣生物群系中生成
 }
 
 42 :
@@ -211,13 +211,13 @@
 43 :
 {
 	Origin : The Primaries
-	Current : The Primaries
+	Current : 初选
 }
 
 44 :
 {
 	Origin : Spawns anywhere at night time using 3 Shades of Gray
-	Current : Spawns anywhere at night time using 3 Shades of Gray
+	Current : 使用 3 种灰色阴影在夜间的任何地方生成
 }
 
 46 :
@@ -229,12 +229,12 @@
 47 :
 {
 	Origin : Hell's Angel
-	Current : Hell's Angel
+	Current : 地狱天使
 }
 
 48 :
 {
 	Origin : Spawns anywhere at night time using the 'Broken' Skull
-	Current : Spawns anywhere at night time using the 'Broken' Skull
+	Current : 使用“破碎的”头骨在夜间的任何地方产生
 }
 

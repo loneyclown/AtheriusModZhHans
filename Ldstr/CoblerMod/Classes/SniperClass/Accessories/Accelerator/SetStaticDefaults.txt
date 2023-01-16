@@ -5,8 +5,8 @@
 		Increased speed of the special shots
 		Sniper Class
 	Current : 
-		5% increased damage in snipers
-		Increased speed of the special shots
-		Sniper Class
+		狙击手的伤害增加 5%
+		提高特殊镜头的速度
+		狙击手 Class
 }
 

@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Beer Grimoire
-	Current : Beer Grimoire
+	Current : 啤酒魔法书
 }
 
 1 :
@@ -12,9 +12,9 @@
 		Each level will give you a new and stronger skill to use!
 		Damage depends on the level and how many mana the player still has
 	Current : 
-		This is a magic book!
-		Level it up 5 times by getting a number of kills with this book!
-		Each level will give you a new and stronger skill to use!
-		Damage depends on the level and how many mana the player still has
+		这是一本魔法书！
+		通过这本书获得一定数量的杀戮，将其升级 5 次！
+		每个级别都会给你一个新的更强大的技能来使用！
+		伤害取决于等级和玩家剩余的法力值
 }
 

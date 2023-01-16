@@ -1,37 +1,37 @@
 Content :
 {
 	Origin : What're you thinking about? JK JK I know what you're thinking about!
-	Current : What're you thinking about? JK JK I know what you're thinking about!
+	Current : 你在想什么？ JK JK 我知道你在想什么！
 }
 
 DislikeBiome :
 {
 	Origin : What's so good about this biome anyway? I can't read anything here.
-	Current : What's so good about this biome anyway? I can't read anything here.
+	Current : 无论如何，这个生物群系有什么好处？ 我在这里什么也看不到。
 }
 
 DislikeCrowded :
 {
 	Origin : Too many people! My mind can't read this much at once!
-	Current : Too many people! My mind can't read this much at once!
+	Current : 太多人！ 我的脑子不能一下子读这么多！
 }
 
 DislikeNPC :
 {
 	Origin : I tried reading the Pirates mind once. It was a lot of R's and not much else.
-	Current : I tried reading the Pirates mind once. It was a lot of R's and not much else.
+	Current : 我试过一次读懂海盗的思想。 这是很多 R 而不是其他。
 }
 
 FarFromHome :
 {
 	Origin : Is it possible to read my mind from the past? I think that'll help me find my way home.
-	Current : Is it possible to read my mind from the past? I think that'll help me find my way home.
+	Current : 有没有可能从过去读懂我的思想？ 我想那会帮助我找到回家的路。
 }
 
 HateBiome :
 {
 	Origin : It's so boring here! Let me know when you have a new home ready for me to leave here.
-	Current : It's so boring here! Let me know when you have a new home ready for me to leave here.
+	Current : 这里好无聊！ 当你准备好我离开这里的新家时，请告诉我。
 }
 
 HateNPC :

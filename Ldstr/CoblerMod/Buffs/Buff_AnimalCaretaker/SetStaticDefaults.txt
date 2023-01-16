@@ -1,12 +1,12 @@
 0 :
 {
 	Origin : Animal Caretaker
-	Current : Animal Caretaker
+	Current : 动物管理员
 }
 
 1 :
 {
 	Origin : The more animals around, the more you heal passively
-	Current : The more animals around, the more you heal passively
+	Current : 周围的动物越多，你就越被动地治愈
 }
 

@@ -1,12 +1,12 @@
 0 :
 {
 	Origin : Animal Thriver
-	Current : Animal Thriver
+	Current : 动物茁壮成长
 }
 
 1 :
 {
 	Origin : The more animals around, the stronger the herbalist crit
-	Current : The more animals around, the stronger the herbalist crit
+	Current : 周围的动物越多，草药师暴击越强
 }
 

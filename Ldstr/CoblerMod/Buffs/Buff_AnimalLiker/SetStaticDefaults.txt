@@ -1,12 +1,12 @@
 0 :
 {
 	Origin : Animal Liker
-	Current : Animal Liker
+	Current : 喜欢动物的人
 }
 
 1 :
 {
 	Origin : The more animals around, the stronger the herbalist knockback
-	Current : The more animals around, the stronger the herbalist knockback
+	Current : 周围的动物越多，草药师的击退力就越强
 }
 

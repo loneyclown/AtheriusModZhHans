@@ -9,12 +9,12 @@
 		Immunity to poison and bleeding
 		[c/0EA300:Herbalist Class]
 	Current : 
-		Spirit dog poisons enemies on hit
-		Also has a chance to curse enemies on hit
-		Spirit Dog is bigger in size
-		Small increase in herbalist crit
-		Spirit Dog will fire projectiles at enemies
-		Immunity to poison and bleeding
-		[c/0EA300:Herbalist Class]
+		灵犬击中敌人会中毒
+		也有机会在击中时诅咒敌人
+		灵犬体型更大
+		小幅增加药师暴击
+		灵犬会向敌人发射弹丸
+		免疫毒素和流血
+		[c/0EA300:草药师 Class]
 }
 

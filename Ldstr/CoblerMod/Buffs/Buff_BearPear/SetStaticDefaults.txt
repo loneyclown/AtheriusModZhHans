@@ -1,12 +1,12 @@
 0 :
 {
 	Origin : Bear Pear
-	Current : Bear Pear
+	Current : 熊梨
 }
 
 1 :
 {
 	Origin : Increased Herbalist Damage
-	Current : Increased Herbalist Damage
+	Current : 草药师伤害增加
 }
 

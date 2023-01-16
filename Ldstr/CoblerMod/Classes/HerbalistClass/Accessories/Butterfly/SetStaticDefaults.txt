@@ -6,9 +6,9 @@
 		Increased mana amount upon consuming herbalist potions
 		[c/0EA300:Herbalist Class]
 	Current : 
-		Butterflies spawn when around enemies
-		Increased herbalist damage by 6%
-		Increased mana amount upon consuming herbalist potions
-		[c/0EA300:Herbalist Class]
+		蝴蝶在敌人周围生成
+		草药师的伤害提高 6%
+		消耗草药药水后法力值增加
+		[c/0EA300:草药师 Class]
 }
 
