@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : One Plant at a Time => Immortality
-	Current : One Plant at a Time => Immortality
+	Current : 一次一株 => 永生
 }
 
 Tooltip :
 {
 	Origin : Disable this to be able to kill your critters after consuming 'One Plant at a Time'.
-	Current : Disable this to be able to kill your critters after consuming 'One Plant at a Time'.
+	Current : 禁用此功能可以在食用“一次一株植物”后杀死您的小动物。
 }
 

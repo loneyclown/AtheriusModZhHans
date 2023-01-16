@@ -1,7 +1,7 @@
 Label :
 {
 	Origin : % For Consumption
-	Current : % For Consumption
+	Current : 消费百分比
 }
 
 Tooltip :
@@ -10,7 +10,7 @@ Tooltip :
 		Give a % for when you want your herbalist weapon to consume damage upon use
 		For example, 50% means that herbalist resource will not be consumed/applied unless at least 50% of it is full
 	Current : 
-		Give a % for when you want your herbalist weapon to consume damage upon use
-		For example, 50% means that herbalist resource will not be consumed/applied unless at least 50% of it is full
+		给你的草药医生武器在使用时消耗伤害的百分比
+		例如，50% 表示草药师资源不会被消耗/应用，除非至少有 50% 已满
 }
 

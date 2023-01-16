@@ -1,7 +1,7 @@
 Label :
 {
 	Origin : Critter Ghost
-	Current : Critter Ghost
+	Current : 小动物幽灵
 }
 
 Tooltip :
@@ -10,7 +10,7 @@ Tooltip :
 		Show a little friendly ghost flying away whenever a critter dies.
 		Herbalists will need this enabled if they want spirits.
 	Current : 
-		Show a little friendly ghost flying away whenever a critter dies.
-		Herbalists will need this enabled if they want spirits.
+		每当小动物死亡时，展示一个友善的小幽灵飞走。
+		如果草药师想要烈酒，他们将需要启用此功能。
 }
 

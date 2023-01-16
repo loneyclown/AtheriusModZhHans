@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Psychokinesis - Memorize Buff Length
-	Current : Psychokinesis - Memorize Buff Length
+	Current : 念力 - 记住增益长度
 }
 
 Tooltip :
 {
 	Origin : How long you want the memorize buff to last. Cannot last anymore than 45 seconds
-	Current : How long you want the memorize buff to last. Cannot last anymore than 45 seconds
+	Current : 您希望记忆增益持续多长时间。 不能持续超过 45 秒
 }
 

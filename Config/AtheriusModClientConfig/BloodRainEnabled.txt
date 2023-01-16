@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Enable Blood Rain
-	Current : Enable Blood Rain
+	Current : 启用血雨
 }
 
 Tooltip :
 {
 	Origin : Enables Blood Rain from the Sins Rune tiers 5 and 6.
-	Current : Enables Blood Rain from the Sins Rune tiers 5 and 6.
+	Current : 启用罪恶符文第 5 层和第 6 层的血雨。
 }
 

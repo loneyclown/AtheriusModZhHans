@@ -1,13 +1,13 @@
 Header :
 {
 	Origin : Grimoire Config
-	Current : Grimoire Config
+	Current : 魔法书配置
 }
 
 Label :
 {
 	Origin : Debug Mode
-	Current : Debug Mode
+	Current : 调试模式
 }
 
 Tooltip :
@@ -16,7 +16,7 @@ Tooltip :
 		All grimoires will be maxed out and will do 0 damage to enemies
 		This way you can check what all the spells do/look like to determine what grimoire you'd want to master
 	Current : 
-		All grimoires will be maxed out and will do 0 damage to enemies
-		This way you can check what all the spells do/look like to determine what grimoire you'd want to master
+		所有魔法书都将被最大化并且对敌人造成 0 伤害
+		通过这种方式，您可以检查所有法术的作用/外观，以确定您想要掌握的魔法书
 }
 

@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Lingering Crimson Convert
-	Current : Lingering Crimson Convert
+	Current : 挥之不去的猩红转化
 }
 
 Tooltip :
 {
 	Origin : Lingering Crimson converts all grass into crimson grass upon use.
-	Current : Lingering Crimson converts all grass into crimson grass upon use.
+	Current : 挥之不去的猩红在使用时将所有草转化为猩红草。
 }
 

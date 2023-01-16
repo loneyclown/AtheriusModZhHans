@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Enable Spelunker
-	Current : Enable Spelunker
+	Current : 启用洞穴探险
 }
 
 Tooltip :
 {
 	Origin : Enables Spelunker from the Greed Rune tiers 4, 5, and 6.
-	Current : Enables Spelunker from the Greed Rune tiers 4, 5, and 6.
+	Current : 从贪婪符文第 4、5 和 6 层启用探险者。
 }
 

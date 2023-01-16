@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Psychokinesis - Burst Radius
-	Current : Psychokinesis - Burst Radius
+	Current : 念力 - 爆发半径
 }
 
 Tooltip :
 {
 	Origin : The radius of your projectiles when using Burst
-	Current : The radius of your projectiles when using Burst
+	Current : 使用爆发时弹丸的半径
 }
 

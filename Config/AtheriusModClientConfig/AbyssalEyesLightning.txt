@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Abyssal Eyes Lightning
-	Current : Abyssal Eyes Lightning
+	Current : 深渊之眼闪电
 }
 
 Tooltip :
 {
 	Origin : Enables lightning effects while fighting the Abyssal Eyes.
-	Current : Enables lightning effects while fighting the Abyssal Eyes.
+	Current : 在与深渊之眼战斗时启用闪电效果。
 }
 

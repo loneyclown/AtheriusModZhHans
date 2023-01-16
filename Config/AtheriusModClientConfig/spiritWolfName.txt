@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Name of Spirit Wolf
-	Current : Name of Spirit Wolf
+	Current : 幽狼之名
 }
 
 Tooltip :
 {
 	Origin : Give a name to the spirit doggo who aides the herbalist throughout
-	Current : Give a name to the spirit doggo who aides the herbalist throughout
+	Current : 给全程协助草药师的精神狗狗命名
 }
 

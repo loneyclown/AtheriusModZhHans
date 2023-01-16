@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Grimoires Level Limit - Moonlord
-	Current : Grimoires Level Limit - Moonlord
+	Current : 魔法书等级限制 - 月亮领主
 }
 
 Tooltip :
 {
 	Origin : The limit of which the grimoire can level up to prior to beating the Moonlord
-	Current : The limit of which the grimoire can level up to prior to beating the Moonlord
+	Current : 在击败月亮领主之前，魔法书可以升级到的极限
 }
 

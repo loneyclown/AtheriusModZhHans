@@ -1,18 +1,18 @@
 Header :
 {
 	Origin : Herbalist Config
-	Current : Herbalist Config
+	Current : 草药配置
 }
 
 Label :
 {
 	Origin : Herbalist Plants Lesser Spawn Rate
-	Current : Herbalist Plants Lesser Spawn Rate
+	Current : 草药师植物较低的生成率
 }
 
 Tooltip :
 {
 	Origin : The higher the number, the lesser chance of Herbalist plants spawning. 1 is the highest spawn rate.
-	Current : The higher the number, the lesser chance of Herbalist plants spawning. 1 is the highest spawn rate.
+	Current : 数字越高，草药师植物生成的几率就越小。 1 是最高的几率。
 }
 

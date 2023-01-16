@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Enable Plant Consumption
-	Current : Enable Plant Consumption
+	Current : 启用植物消费
 }
 
 Tooltip :
 {
 	Origin : Enables plant consumption whenever you hold down right click while holding an herbalist weapon.
-	Current : Enables plant consumption whenever you hold down right click while holding an herbalist weapon.
+	Current : 只要您在拿着草药专家武器的同时按住右键单击，就会启用植物消耗。
 }
 

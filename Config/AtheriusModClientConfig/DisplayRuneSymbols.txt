@@ -1,18 +1,18 @@
 Header :
 {
 	Origin : Atherius Mod Config
-	Current : Atherius Mod Config
+	Current : Atherius 模组配置
 }
 
 Label :
 {
 	Origin : Show Rune Symbols
-	Current : Show Rune Symbols
+	Current : 显示符文符号
 }
 
 Tooltip :
 {
 	Origin : Display the symbols around the player when they have a rune equipped.
-	Current : Display the symbols around the player when they have a rune equipped.
+	Current : 当玩家装备了符文时，在他们周围显示符号。
 }
 

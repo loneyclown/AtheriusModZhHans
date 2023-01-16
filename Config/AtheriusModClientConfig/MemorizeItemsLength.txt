@@ -1,18 +1,18 @@
 Header :
 {
 	Origin : Psychokinesis Config
-	Current : Psychokinesis Config
+	Current : 念力配置
 }
 
 Label :
 {
 	Origin : Psychokinesis - Memorize List Length
-	Current : Psychokinesis - Memorize List Length
+	Current : 念力 - 记住列表长度
 }
 
 Tooltip :
 {
 	Origin : The amount of items you want to have memorized using the psychokinesis skill
-	Current : The amount of items you want to have memorized using the psychokinesis skill
+	Current : 您想使用念力技能记住的项目数量
 }
 

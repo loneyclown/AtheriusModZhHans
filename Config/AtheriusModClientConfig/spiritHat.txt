@@ -1,7 +1,7 @@
 Label :
 {
 	Origin : Spirit Hats
-	Current : Spirit Hats
+	Current : 灵帽
 }
 
 Tooltip :
@@ -10,7 +10,7 @@ Tooltip :
 		Choose a hat for your herbalist spirits to wear!
 		Possible Choices are: None, Wizard, Fedora, Mask, Windroot, Cowboy, Noir
 	Current : 
-		Choose a hat for your herbalist spirits to wear!
-		Possible Choices are: None, Wizard, Fedora, Mask, Windroot, Cowboy, Noir
+		为您的草药师精神选择一顶帽子！
+		可能的选择有：None、向导、软呢帽、面具、风根、牛仔、黑色
 }
 

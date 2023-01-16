@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Enable Skeet Shooting
-	Current : Enable Skeet Shooting
+	Current : 启用双向飞碟射击
 }
 
 Tooltip :
 {
 	Origin : Enables Range trait for sending out skeet shots. Right click while holding a range weapon to do so.
-	Current : Enables Range trait for sending out skeet shots. Right click while holding a range weapon to do so.
+	Current : 启用射程特性以发送双向飞碟射击。 手持远程武器右键单击即可。
 }
 

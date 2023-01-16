@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Nature UI
-	Current : Nature UI
+	Current : 自然 UI
 }
 
 Tooltip :
 {
 	Origin : Displays the UI for nature consumption for the herbalist class
-	Current : Displays the UI for nature consumption for the herbalist class
+	Current : 显示草药师职业 UI
 }
 

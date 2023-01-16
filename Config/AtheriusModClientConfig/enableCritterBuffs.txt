@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Critter Buffs
-	Current : Critter Buffs
+	Current : 小动物爱好者
 }
 
 Tooltip :
 {
 	Origin : Gain buffs as the herbalist around all your friendly critters
-	Current : Gain buffs as the herbalist around all your friendly critters
+	Current : 在所有友好的小动物周围作为草药师获得增益
 }
 

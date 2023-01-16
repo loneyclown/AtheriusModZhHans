@@ -1,12 +1,12 @@
 Label :
 {
 	Origin : Grimoires Level Limit - WOF
-	Current : Grimoires Level Limit - WOF
+	Current : 魔典等级限制 - WOF
 }
 
 Tooltip :
 {
 	Origin : The limit of which the grimoire can level up to prior to beating the Wall of Flesh
-	Current : The limit of which the grimoire can level up to prior to beating the Wall of Flesh
+	Current : 魔法书在击败血肉墙之前可以升级到的极限
 }
 
