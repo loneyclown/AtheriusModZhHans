@@ -4,7 +4,7 @@
 		Once a power entity now fallen to the depths of failure.
 		You must be the one to give it hope or end its suffering.
 	Current : 
-		Once a power entity now fallen to the depths of failure.
-		You must be the one to give it hope or end its suffering.
+		曾经的权力实体现在陷入了失败的深渊。
+		你必须是那个给它希望或结束它痛苦的人。
 }
 

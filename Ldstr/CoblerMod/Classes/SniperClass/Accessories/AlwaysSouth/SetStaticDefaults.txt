@@ -4,7 +4,7 @@
 		Special shots will always head south
 		Sniper Class
 	Current : 
-		Special shots will always head south
-		Sniper Class
+		特殊镜头将始终向南
+		狙击 Class
 }
 

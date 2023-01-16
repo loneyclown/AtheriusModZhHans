@@ -5,8 +5,8 @@
 		
 		From blood to roses. From the sunset to medium rare steak. Red is controlled by this being.
 	Current : 
-		'Rouge' is one of the 3 primaries. It revolves around red.
-		
-		From blood to roses. From the sunset to medium rare steak. Red is controlled by this being.
+		'Rouge'是3个初选之一。 它围绕着红色。
+
+		从鲜血到玫瑰。 从日落牛排到三分熟牛排。 红色被这个存在所控制。
 }
 

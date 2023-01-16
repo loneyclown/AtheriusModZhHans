@@ -6,9 +6,9 @@
 		All it knows is the command given by Hades to him and his 5 servants.
 		And thus there became the will to bring down those with power.
 	Current : 
-		Summoned by Hades, this being believes in nothing
-		Or better yet, it has no thoughts at all.
-		All it knows is the command given by Hades to him and his 5 servants.
-		And thus there became the will to bring down those with power.
+		被哈迪斯召唤，这个人什么都不相信
+		或者更好的是，它根本没有思想。
+		它所知道的只是哈迪斯给他和他的 5 个仆人的命令。
+		于是就有了打倒有权势者的意志。
 }
 

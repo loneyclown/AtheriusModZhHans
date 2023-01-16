@@ -5,8 +5,8 @@
 		Reduced time for special shot cooldown
 		Sniper Class
 	Current : 
-		5% increased damage in snipers
-		Reduced time for special shot cooldown
-		Sniper Class
+		狙击手的伤害增加 5%
+		减少特殊射击冷却时间
+		狙击 Class
 }
 

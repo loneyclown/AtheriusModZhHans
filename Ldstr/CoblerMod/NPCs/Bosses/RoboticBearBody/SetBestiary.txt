@@ -11,14 +11,14 @@
 		This boss is a reference to the game 'Danganronpa'
 		All credit goes to Spike Chunsoft and the developers of Danganronpa
 	Current : 
-		There were myths of a world renowned school that suddenly lost all funding...
-		Some say it was the most tragic event to ever happen in the schools history...
-		Whatever it was, the school is no longer accessible, but there's more to it that just that!
-		And that's where this odd bear comes in...
-		
-		Puhuhuhuhuhuhuhuhuhuhu.
-		
-		This boss is a reference to the game 'Danganronpa'
-		All credit goes to Spike Chunsoft and the developers of Danganronpa
+		有一个世界著名的学校突然失去所有资金的神话......
+		有人说这是学校历史上发生过的最悲惨的事件……
+		不管是什么，学校都不再可以进入了，但除此之外还有更多！
+		这就是这只奇怪的熊进来的地方......
+
+		什么奇奇怪怪的。[原文：Puhuhuhuhuhuhuhuhuhuhu.]
+
+		这个老板是对游戏'Danganronpa'的参考
+		所有功劳归功于 Spike Chunsoft 和 Danganronpa 的开发者
 }
 

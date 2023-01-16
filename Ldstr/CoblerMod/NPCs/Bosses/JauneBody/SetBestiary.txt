@@ -5,8 +5,8 @@
 		
 		From the sun to sand. From lemons to melons. Yellow is controlled by this being.
 	Current : 
-		'Jaune' is one of the 3 primaries. It revolves around yellow.
-		
-		From the sun to sand. From lemons to melons. Yellow is controlled by this being.
+		'Jaune' 是 3 个初选之一。 它围绕着黄色。
+
+		从太阳到沙子。 从柠檬到甜瓜。 黄色被这个存在控制。
 }
 

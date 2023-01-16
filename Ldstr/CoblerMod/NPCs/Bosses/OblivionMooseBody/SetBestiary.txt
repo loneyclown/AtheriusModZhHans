@@ -4,7 +4,7 @@
 		One of the old legends that came around even before myths like the chupacabra.
 		The Oblivion Moose had been known to erupt entire meadows up in flames with it's bright gem.
 	Current : 
-		One of the old legends that came around even before myths like the chupacabra.
-		The Oblivion Moose had been known to erupt entire meadows up in flames with it's bright gem.
+		甚至在卓柏卡布拉之类的神话出现之前就已经存在的古老传说之一。
+		众所周知，遗忘驼鹿会用它明亮的宝石在火焰中爆发整个草地。
 }
 

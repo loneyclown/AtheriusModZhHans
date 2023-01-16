@@ -4,7 +4,7 @@
 		An ancient guardian for the travelers far and beyond.
 		He wishes to use this world as a new outpost.
 	Current : 
-		An ancient guardian for the travelers far and beyond.
-		He wishes to use this world as a new outpost.
+		远古旅行者的远古守护者。
+		他希望将这个世界作为新的据点。
 }
 

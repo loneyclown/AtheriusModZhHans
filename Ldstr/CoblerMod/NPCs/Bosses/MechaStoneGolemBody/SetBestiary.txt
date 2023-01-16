@@ -6,9 +6,9 @@
 		And when those get hit by rocks, they turn into rsocks.
 		What do you think this rock formation does then to the now human rocks?
 	Current : 
-		He cares only about 2 things in life.
-		Throwing rocks and watching those get hit by rocks.
-		And when those get hit by rocks, they turn into rsocks.
-		What do you think this rock formation does then to the now human rocks?
+		他只关心生活中的两件事。
+		扔石头，看着那些被石头击中的人。
+		当那些被石头击中时，它们会变成 rsocks。
+		你认为这个岩层对现在的人类岩石有什么影响？
 }
 

@@ -1,12 +1,12 @@
 0 :
 {
 	Origin : Bones to Ashes. These Ashes of War
-	Current : Bones to Ashes. These Ashes of War
+	Current : 骨灰化。 这些战争的灰烬
 }
 
 1 :
 {
 	Origin : Come to me my Servants. Rise from the Floor
-	Current : Come to me my Servants. Rise from the Floor
+	Current : 到我这里来，我的仆人。 从地板上站起来
 }
 
