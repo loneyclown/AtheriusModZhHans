@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Hunter Leggings
+	Current : Hunter Leggings
+}
+
+1 :
+{
+	Origin : 8% increased movement speed
+	Current : 8% increased movement speed
+}
+

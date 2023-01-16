@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Screw You Golem
+	Current : Screw You Golem
+}
+
+1 :
+{
+	Origin : 
+		All herbalist damage on the golem is doubled
+		Plants don't like the golem....
+	Current : 
+		All herbalist damage on the golem is doubled
+		Plants don't like the golem....
+}
+

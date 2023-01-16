@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Strong Stick
+	Current : Strong Stick
+}
+

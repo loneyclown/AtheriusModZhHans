@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Purple Blade
+	Current : Purple Blade
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Herbalist plants, berries, and nuts will heal an additional 10
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Herbalist plants, berries, and nuts will heal an additional 10
+		[c/0EA300:Herbalist Class]
+}
+

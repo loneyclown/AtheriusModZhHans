@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Eye For An Eye
+	Current : Eye For An Eye
+}
+
+1 :
+{
+	Origin : He will serve you well
+	Current : He will serve you well
+}
+

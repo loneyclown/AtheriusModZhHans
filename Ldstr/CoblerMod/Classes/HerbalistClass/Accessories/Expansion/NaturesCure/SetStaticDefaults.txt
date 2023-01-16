@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Nature's Cure
+	Current : Nature's Cure
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Increased max mana by 40
+		Walking near corrupt and crimson tiles will transform it back into forest biome
+		You're like a walking talking clentaminator
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 8%
+		Increased max mana by 40
+		Walking near corrupt and crimson tiles will transform it back into forest biome
+		You're like a walking talking clentaminator
+		[c/0EA300:Herbalist Class]
+}
+

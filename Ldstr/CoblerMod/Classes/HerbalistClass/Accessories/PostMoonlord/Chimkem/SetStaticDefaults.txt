@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		All critters gain 2.5x more additional HP
+		
+		All critters also gain 1.5x more damage
+		All critters also gain 1.75x more life regen
+		All the critters know Chimken. All the critters love Chimkem.
+		[c/0EA300:Herbalist Class]
+	Current : 
+		All critters gain 2.5x more additional HP
+		
+		All critters also gain 1.5x more damage
+		All critters also gain 1.75x more life regen
+		All the critters know Chimken. All the critters love Chimkem.
+		[c/0EA300:Herbalist Class]
+}
+

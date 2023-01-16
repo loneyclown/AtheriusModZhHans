@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Spreadshot AK-47
+	Current : Spreadshot AK-47
+}
+
+1 :
+{
+	Origin : 
+		You see Ivan...
+		When shooting spreadshot AK47,
+		You get shoot bullet in many direction.
+		Yes, yes very helpful when next to drunken pig.
+		Gun is inaccurate and you get tipsy while shooting it.
+	Current : 
+		You see Ivan...
+		When shooting spreadshot AK47,
+		You get shoot bullet in many direction.
+		Yes, yes very helpful when next to drunken pig.
+		Gun is inaccurate and you get tipsy while shooting it.
+}
+

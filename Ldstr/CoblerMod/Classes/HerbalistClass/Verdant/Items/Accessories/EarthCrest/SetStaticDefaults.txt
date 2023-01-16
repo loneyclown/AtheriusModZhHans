@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		Become part of Earth's core. 
+		Increase range damage by 25% 
+		20% chance to not use ammo 
+		Increases Max Life by 25% 
+		Player will gradually take damage overtime with this equipped
+		In exchange, Every kill will grant you 20 HP. Can you beat death?
+	Current : 
+		Become part of Earth's core. 
+		Increase range damage by 25% 
+		20% chance to not use ammo 
+		Increases Max Life by 25% 
+		Player will gradually take damage overtime with this equipped
+		In exchange, Every kill will grant you 20 HP. Can you beat death?
+}
+

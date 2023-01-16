@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		A small fragment formed by the thoughts of nature
+		Maybe someone has an idea on how this works...
+	Current : 
+		A small fragment formed by the thoughts of nature
+		Maybe someone has an idea on how this works...
+}
+

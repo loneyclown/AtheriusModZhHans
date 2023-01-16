@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		It is the truest reflection of who you are
+		[c/0EA300:Herbalist Class]
+	Current : 
+		It is the truest reflection of who you are
+		[c/0EA300:Herbalist Class]
+}
+

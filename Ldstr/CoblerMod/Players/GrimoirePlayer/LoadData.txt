@@ -1,0 +1,648 @@
+0 :
+{
+	Origin : X
+	Current : X
+}
+
+1 :
+{
+	Origin : 0
+	Current : 0
+}
+
+2 :
+{
+	Origin : Fire
+	Current : Fire
+}
+
+3 :
+{
+	Origin : Dark
+	Current : Dark
+}
+
+4 :
+{
+	Origin : Demon
+	Current : Demon
+}
+
+5 :
+{
+	Origin : Ice
+	Current : Ice
+}
+
+6 :
+{
+	Origin : Light
+	Current : Light
+}
+
+7 :
+{
+	Origin : Lightning
+	Current : Lightning
+}
+
+8 :
+{
+	Origin : Star
+	Current : Star
+}
+
+9 :
+{
+	Origin : Water
+	Current : Water
+}
+
+10 :
+{
+	Origin : Wind
+	Current : Wind
+}
+
+11 :
+{
+	Origin : Word
+	Current : Word
+}
+
+12 :
+{
+	Origin : Dice
+	Current : Dice
+}
+
+13 :
+{
+	Origin : Trap
+	Current : Trap
+}
+
+14 :
+{
+	Origin : Plant
+	Current : Plant
+}
+
+15 :
+{
+	Origin : Blood
+	Current : Blood
+}
+
+16 :
+{
+	Origin : Chaos
+	Current : Chaos
+}
+
+17 :
+{
+	Origin : Food
+	Current : Food
+}
+
+18 :
+{
+	Origin : Death
+	Current : Death
+}
+
+19 :
+{
+	Origin : Paint
+	Current : Paint
+}
+
+20 :
+{
+	Origin : Mirror
+	Current : Mirror
+}
+
+21 :
+{
+	Origin : Poison
+	Current : Poison
+}
+
+22 :
+{
+	Origin : Music
+	Current : Music
+}
+
+23 :
+{
+	Origin : Mercury
+	Current : Mercury
+}
+
+24 :
+{
+	Origin : Gravity
+	Current : Gravity
+}
+
+25 :
+{
+	Origin : Transformation
+	Current : Transformation
+}
+
+26 :
+{
+	Origin : Smoke
+	Current : Smoke
+}
+
+27 :
+{
+	Origin : Mischief
+	Current : Mischief
+}
+
+28 :
+{
+	Origin : Heart
+	Current : Heart
+}
+
+29 :
+{
+	Origin : Rotting
+	Current : Rotting
+}
+
+30 :
+{
+	Origin : Crystal
+	Current : Crystal
+}
+
+31 :
+{
+	Origin : Void
+	Current : Void
+}
+
+32 :
+{
+	Origin : Curse
+	Current : Curse
+}
+
+33 :
+{
+	Origin : Spatial
+	Current : Spatial
+}
+
+34 :
+{
+	Origin : Dream
+	Current : Dream
+}
+
+35 :
+{
+	Origin : String
+	Current : String
+}
+
+36 :
+{
+	Origin : Time
+	Current : Time
+}
+
+37 :
+{
+	Origin : Earth
+	Current : Earth
+}
+
+38 :
+{
+	Origin : Compass
+	Current : Compass
+}
+
+39 :
+{
+	Origin : Skin
+	Current : Skin
+}
+
+40 :
+{
+	Origin : Fortify
+	Current : Fortify
+}
+
+41 :
+{
+	Origin : Plasma
+	Current : Plasma
+}
+
+42 :
+{
+	Origin : Aether (TBA)
+	Current : Aether (TBA)
+}
+
+43 :
+{
+	Origin : Nether (TBA)
+	Current : Nether (TBA)
+}
+
+44 :
+{
+	Origin : Gold
+	Current : Gold
+}
+
+45 :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+46 :
+{
+	Origin : Techno
+	Current : Techno
+}
+
+47 :
+{
+	Origin : Beer
+	Current : Beer
+}
+
+48 :
+{
+	Origin : Space (TBA)
+	Current : Space (TBA)
+}
+
+49 :
+{
+	Origin : Acid (TBA)
+	Current : Acid (TBA)
+}
+
+50 :
+{
+	Origin : Echo
+	Current : Echo
+}
+
+51 :
+{
+	Origin : Magnet (TBA)
+	Current : Magnet (TBA)
+}
+
+52 :
+{
+	Origin : ED501F
+	Current : ED501F
+}
+
+53 :
+{
+	Origin : 212326
+	Current : 212326
+}
+
+54 :
+{
+	Origin : 5900000000
+	Current : 5900000000
+}
+
+55 :
+{
+	Origin : 5CDDF7
+	Current : 5CDDF7
+}
+
+56 :
+{
+	Origin : D2B48C
+	Current : D2B48C
+}
+
+57 :
+{
+	Origin : DBCB1A
+	Current : DBCB1A
+}
+
+58 :
+{
+	Origin : D322F2
+	Current : D322F2
+}
+
+59 :
+{
+	Origin : 1871F5
+	Current : 1871F5
+}
+
+60 :
+{
+	Origin : 27D117
+	Current : 27D117
+}
+
+61 :
+{
+	Origin : 785A77
+	Current : 785A77
+}
+
+62 :
+{
+	Origin : C9C9C9
+	Current : C9C9C9
+}
+
+63 :
+{
+	Origin : AD9E87
+	Current : AD9E87
+}
+
+64 :
+{
+	Origin : 22D711
+	Current : 22D711
+}
+
+65 :
+{
+	Origin : 4A0000
+	Current : 4A0000
+}
+
+66 :
+{
+	Origin : A30808
+	Current : A30808
+}
+
+67 :
+{
+	Origin : D4A683
+	Current : D4A683
+}
+
+68 :
+{
+	Origin : 311150
+	Current : 311150
+}
+
+69 :
+{
+	Origin : FFFFFF
+	Current : FFFFFF
+}
+
+70 :
+{
+	Origin : 7D7474
+	Current : 7D7474
+}
+
+71 :
+{
+	Origin : 5A2D8A
+	Current : 5A2D8A
+}
+
+72 :
+{
+	Origin : 6CE0E0
+	Current : 6CE0E0
+}
+
+73 :
+{
+	Origin : 7D7474
+	Current : 7D7474
+}
+
+74 :
+{
+	Origin : 080678
+	Current : 080678
+}
+
+75 :
+{
+	Origin : 7194F5
+	Current : 7194F5
+}
+
+76 :
+{
+	Origin : 5D5D5D
+	Current : 5D5D5D
+}
+
+77 :
+{
+	Origin : EE7621
+	Current : EE7621
+}
+
+78 :
+{
+	Origin : AD176A
+	Current : AD176A
+}
+
+79 :
+{
+	Origin : 505211
+	Current : 505211
+}
+
+80 :
+{
+	Origin : BF1BB4
+	Current : BF1BB4
+}
+
+81 :
+{
+	Origin : 4502AB
+	Current : 4502AB
+}
+
+82 :
+{
+	Origin : C82223
+	Current : C82223
+}
+
+83 :
+{
+	Origin : 1AC76D
+	Current : 1AC76D
+}
+
+84 :
+{
+	Origin : F745F1
+	Current : F745F1
+}
+
+85 :
+{
+	Origin : FF45F1
+	Current : FF45F1
+}
+
+86 :
+{
+	Origin : 4C92D9
+	Current : 4C92D9
+}
+
+87 :
+{
+	Origin : 6E4C27
+	Current : 6E4C27
+}
+
+88 :
+{
+	Origin : 08872A
+	Current : 08872A
+}
+
+89 :
+{
+	Origin : D1A78C
+	Current : D1A78C
+}
+
+90 :
+{
+	Origin : 305075
+	Current : 305075
+}
+
+91 :
+{
+	Origin : 3A4A7A
+	Current : 3A4A7A
+}
+
+92 :
+{
+	Origin : FFFFFF
+	Current : FFFFFF
+}
+
+93 :
+{
+	Origin : FFFFFF
+	Current : FFFFFF
+}
+
+94 :
+{
+	Origin : DEBB0D
+	Current : DEBB0D
+}
+
+95 :
+{
+	Origin : B83E23
+	Current : B83E23
+}
+
+96 :
+{
+	Origin : 37E68E
+	Current : 37E68E
+}
+
+97 :
+{
+	Origin : EDC42F
+	Current : EDC42F
+}
+
+98 :
+{
+	Origin : FFFFFF
+	Current : FFFFFF
+}
+
+99 :
+{
+	Origin : FFFFFF
+	Current : FFFFFF
+}
+
+100 :
+{
+	Origin : A509B0
+	Current : A509B0
+}
+
+101 :
+{
+	Origin : FFFFFF
+	Current : FFFFFF
+}
+
+102 :
+{
+	Origin : currentGrimoireLevel
+	Current : currentGrimoireLevel
+}
+
+103 :
+{
+	Origin : currentGrimoireLevel
+	Current : currentGrimoireLevel
+}
+
+104 :
+{
+	Origin : currentGrimoireKillCount
+	Current : currentGrimoireKillCount
+}
+
+105 :
+{
+	Origin : currentGrimoireKillCount
+	Current : currentGrimoireKillCount
+}
+
+106 :
+{
+	Origin : hasSwordEquipped
+	Current : hasSwordEquipped
+}
+
+107 :
+{
+	Origin : hasSwordEquipped
+	Current : hasSwordEquipped
+}
+

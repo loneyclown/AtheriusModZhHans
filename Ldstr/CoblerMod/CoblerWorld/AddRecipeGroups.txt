@@ -1,0 +1,42 @@
+0 :
+{
+	Origin : CoblerMod:HerbalistPlantsTiles1
+	Current : CoblerMod:HerbalistPlantsTiles1
+}
+
+1 :
+{
+	Origin : CoblerMod:HerbalistPlantsTiles2
+	Current : CoblerMod:HerbalistPlantsTiles2
+}
+
+2 :
+{
+	Origin : CoblerMod:HerbalistPlantsTiles3
+	Current : CoblerMod:HerbalistPlantsTiles3
+}
+
+3 :
+{
+	Origin : CoblerMod:HerbalistPlantsNPCs1
+	Current : CoblerMod:HerbalistPlantsNPCs1
+}
+
+4 :
+{
+	Origin : CoblerMod:HerbalistPlantsNPCs2
+	Current : CoblerMod:HerbalistPlantsNPCs2
+}
+
+5 :
+{
+	Origin : CoblerMod:HerbalistPlantsNPCs3
+	Current : CoblerMod:HerbalistPlantsNPCs3
+}
+
+6 :
+{
+	Origin : CoblerMod:HerbalistSkulls
+	Current : CoblerMod:HerbalistSkulls
+}
+

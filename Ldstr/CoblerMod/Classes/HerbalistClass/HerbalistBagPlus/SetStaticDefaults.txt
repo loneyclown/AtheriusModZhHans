@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 
+		Used to hold all the herbalist plants
+		This acts differently from chests and piggy banks
+		Left click while holding it to store plants and berries in the bag
+		Right click while holding it to unload all of your plants back into the world
+		You can store up to full stack of each plant type
+		Only 1 bag is allowed. Any additional bag will still make you store only 1 of each plant total
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Used to hold all the herbalist plants
+		This acts differently from chests and piggy banks
+		Left click while holding it to store plants and berries in the bag
+		Right click while holding it to unload all of your plants back into the world
+		You can store up to full stack of each plant type
+		Only 1 bag is allowed. Any additional bag will still make you store only 1 of each plant total
+		[c/0EA300:Herbalist Class]
+}
+

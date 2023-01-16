@@ -1,0 +1,204 @@
+0 :
+{
+	Origin : You need to have a grimoire in your hands
+	Current : You need to have a grimoire in your hands
+}
+
+1 :
+{
+	Origin : Magic:
+	Current : Magic:
+}
+
+2 :
+{
+	Origin : 5900000000
+	Current : 5900000000
+}
+
+4 :
+{
+	Origin : You cannot switch levels until you put away the sword
+	Current : You cannot switch levels until you put away the sword
+}
+
+5 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+6 :
+{
+	Origin : :The current magic level for this grimoire is 
+	Current : :The current magic level for this grimoire is 
+}
+
+7 :
+{
+	Origin : ]
+	Current : ]
+}
+
+8 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+9 :
+{
+	Origin : :This grimoire is at its max level]
+	Current : :This grimoire is at its max level]
+}
+
+10 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+11 :
+{
+	Origin : :You need 
+	Current : :You need 
+}
+
+12 :
+{
+	Origin : 
+		 ]
+	Current : 
+		 ]
+}
+
+13 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+14 :
+{
+	Origin : :more kills to level it up]
+	Current : :more kills to level it up]
+}
+
+15 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+16 :
+{
+	Origin : :The current rank of this saber is 
+	Current : :The current rank of this saber is 
+}
+
+17 :
+{
+	Origin : ]
+	Current : ]
+}
+
+18 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+19 :
+{
+	Origin : :This is not the same saber. You cannot use another one of the same saber.]
+	Current : :This is not the same saber. You cannot use another one of the same saber.]
+}
+
+20 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+21 :
+{
+	Origin : :This saber is at its max rank]
+	Current : :This saber is at its max rank]
+}
+
+22 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+23 :
+{
+	Origin : :You need 
+	Current : :You need 
+}
+
+24 :
+{
+	Origin : 
+		 ]
+	Current : 
+		 ]
+}
+
+25 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+26 :
+{
+	Origin : :more kills to rank it up to 
+	Current : :more kills to rank it up to 
+}
+
+27 :
+{
+	Origin : ]
+	Current : ]
+}
+
+28 :
+{
+	Origin : [c/AE0EC7:Your psychokinesis level is 
+	Current : [c/AE0EC7:Your psychokinesis level is 
+}
+
+29 :
+{
+	Origin : ]
+	Current : ]
+}
+
+30 :
+{
+	Origin : [c/AE0EC7:You have maxed out your psychokinesis abilities]
+	Current : [c/AE0EC7:You have maxed out your psychokinesis abilities]
+}
+
+31 :
+{
+	Origin : [c/AE0EC7:You need 
+	Current : [c/AE0EC7:You need 
+}
+
+32 :
+{
+	Origin : 
+		 ]
+	Current : 
+		 ]
+}
+
+33 :
+{
+	Origin : [c/AE0EC7:more kills/uses to level it up]
+	Current : [c/AE0EC7:more kills/uses to level it up]
+}
+

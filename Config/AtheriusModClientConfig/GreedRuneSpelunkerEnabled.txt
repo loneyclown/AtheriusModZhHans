@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Enable Spelunker
+	Current : Enable Spelunker
+}
+
+Tooltip :
+{
+	Origin : Enables Spelunker from the Greed Rune tiers 4, 5, and 6.
+	Current : Enables Spelunker from the Greed Rune tiers 4, 5, and 6.
+}
+

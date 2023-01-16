@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Tombstone
+	Current : Tombstone
+}
+
+1 :
+{
+	Origin : Next time you're about to die, you won't =)
+	Current : Next time you're about to die, you won't =)
+}
+

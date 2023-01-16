@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires a wheel of color discs around the player
+		On contact, these discs will release more discs, allowing for a bombardment of color
+	Current : 
+		Fires a wheel of color discs around the player
+		On contact, these discs will release more discs, allowing for a bombardment of color
+}
+

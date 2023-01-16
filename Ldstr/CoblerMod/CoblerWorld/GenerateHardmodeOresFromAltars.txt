@@ -1,0 +1,36 @@
+0 :
+{
+	Origin : [c/7B00FF:Dathite begins to grow in your world...]
+	Current : [c/7B00FF:Dathite begins to grow in your world...]
+}
+
+1 :
+{
+	Origin : Dathite begins to grow in your world...
+	Current : Dathite begins to grow in your world...
+}
+
+2 :
+{
+	Origin : [c/FF9800:Thusium begins to grow in your world...]
+	Current : [c/FF9800:Thusium begins to grow in your world...]
+}
+
+3 :
+{
+	Origin : Thusium begins to grow in your world...
+	Current : Thusium begins to grow in your world...
+}
+
+4 :
+{
+	Origin : [c/00A9FF:Cebalt begins to grow in your world...]
+	Current : [c/00A9FF:Cebalt begins to grow in your world...]
+}
+
+5 :
+{
+	Origin : Cebalt begins to grow in your world...
+	Current : Cebalt begins to grow in your world...
+}
+

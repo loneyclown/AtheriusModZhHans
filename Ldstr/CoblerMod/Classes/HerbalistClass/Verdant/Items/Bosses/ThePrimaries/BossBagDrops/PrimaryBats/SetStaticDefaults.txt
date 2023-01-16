@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Summons three priamry bats to fight for you
+		They each will fire little color pelets
+	Current : 
+		Summons three priamry bats to fight for you
+		They each will fire little color pelets
+}
+

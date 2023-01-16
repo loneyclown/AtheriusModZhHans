@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Fine Oak Helmet
+	Current : Fine Oak Helmet
+}
+
+1 :
+{
+	Origin : 
+		Slight increase in critter life regen and health
+		Armor Set: Enemies get poisoned on hit
+	Current : 
+		Slight increase in critter life regen and health
+		Armor Set: Enemies get poisoned on hit
+}
+

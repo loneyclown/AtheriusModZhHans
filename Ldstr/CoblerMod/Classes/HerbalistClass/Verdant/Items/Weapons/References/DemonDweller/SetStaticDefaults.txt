@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Those hit cannot use magic
+		Gives a lucky buff to the player
+		Increased damage on demons
+	Current : 
+		Those hit cannot use magic
+		Gives a lucky buff to the player
+		Increased damage on demons
+}
+

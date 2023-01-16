@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Inception
+	Current : Inception
+}
+
+1 :
+{
+	Origin : 
+		Fires a surge of missiles that explode on contact
+		[c/00FFC0:A weapon passed down for ages between portal guardians]
+	Current : 
+		Fires a surge of missiles that explode on contact
+		[c/00FFC0:A weapon passed down for ages between portal guardians]
+}
+

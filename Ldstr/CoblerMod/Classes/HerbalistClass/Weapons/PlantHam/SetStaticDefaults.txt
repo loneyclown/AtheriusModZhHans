@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Puts the Ham in Plant Ham
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Puts the Ham in Plant Ham
+		[c/0EA300:Herbalist Class]
+}
+

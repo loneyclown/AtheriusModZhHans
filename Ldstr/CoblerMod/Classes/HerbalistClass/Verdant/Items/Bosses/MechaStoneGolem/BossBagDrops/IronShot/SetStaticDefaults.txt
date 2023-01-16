@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires rocks like the old days
+		20% chance not to consume ammo.
+	Current : 
+		Fires rocks like the old days
+		20% chance not to consume ammo.
+}
+

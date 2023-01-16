@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Images/Misc/MoonExplosion/Explosion
+	Current : Images/Misc/MoonExplosion/Explosion
+}
+

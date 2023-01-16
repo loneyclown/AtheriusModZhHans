@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Reaper
+	Current : Reaper
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Reaper_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Reaper_Bestiary
+}
+

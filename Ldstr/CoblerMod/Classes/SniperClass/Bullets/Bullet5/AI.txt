@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Betsy
+	Current : Betsy
+}
+
+1 :
+{
+	Origin : HonorsCall
+	Current : HonorsCall
+}
+
+2 :
+{
+	Origin : Legacy
+	Current : Legacy
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Player has a 1% chance to not die
+		If they survive, they will get back half their health
+	Current : 
+		Player has a 1% chance to not die
+		If they survive, they will get back half their health
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Nightwatch
+	Current : Nightwatch
+}
+
+1 :
+{
+	Origin : Herbalist damage is doubled if it is nighttime
+	Current : Herbalist damage is doubled if it is nighttime
+}
+

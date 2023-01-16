@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Intercepts all projectiles and NPCs
+		Any projectile coming at them will be transformed into a leaf
+		Also, any NPC with health less than 1000 HP will be turned into a leaf
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Intercepts all projectiles and NPCs
+		Any projectile coming at them will be transformed into a leaf
+		Also, any NPC with health less than 1000 HP will be turned into a leaf
+		[c/0EA300:Herbalist Class]
+}
+

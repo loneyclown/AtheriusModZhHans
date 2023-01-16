@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased the scale of herbalist items by 10%
+		Herbalist items restore 25 more mana on consumption
+		Herbalist berries heal 5 more HP on consumption
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased the scale of herbalist items by 10%
+		Herbalist items restore 25 more mana on consumption
+		Herbalist berries heal 5 more HP on consumption
+		[c/0EA300:Herbalist Class]
+}
+

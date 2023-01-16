@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Flaycium Chestplate
+	Current : Flaycium Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased magic crit by 10%
+		Armor Set: Increased attack speed by 15%
+	Current : 
+		Increased magic crit by 10%
+		Armor Set: Increased attack speed by 15%
+}
+

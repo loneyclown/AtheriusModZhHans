@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		What's this? All alone?
+		NO MAIDEN?
+		Given the wrath buff and increased attack speed
+	Current : 
+		What's this? All alone?
+		NO MAIDEN?
+		Given the wrath buff and increased attack speed
+}
+

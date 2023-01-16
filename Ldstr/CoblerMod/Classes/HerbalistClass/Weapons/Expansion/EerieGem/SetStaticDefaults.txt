@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		I don't like the looks of this weapon...
+		I'm not sure what it is though...
+		Gradually increases in damage overtime
+		[c/0EA300:Herbalist Class]
+	Current : 
+		I don't like the looks of this weapon...
+		I'm not sure what it is though...
+		Gradually increases in damage overtime
+		[c/0EA300:Herbalist Class]
+}
+

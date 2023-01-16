@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Gain 3 life passive for having this in inventory
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Gain 3 life passive for having this in inventory
+		[c/0EA300:Herbalist Class]
+}
+

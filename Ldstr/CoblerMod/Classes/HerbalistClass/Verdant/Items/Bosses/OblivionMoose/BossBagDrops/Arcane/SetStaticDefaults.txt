@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased attack speed by 15%
+		Oblivion explosion spawned whenever an enemy is killed
+	Current : 
+		Increased attack speed by 15%
+		Oblivion explosion spawned whenever an enemy is killed
+}
+

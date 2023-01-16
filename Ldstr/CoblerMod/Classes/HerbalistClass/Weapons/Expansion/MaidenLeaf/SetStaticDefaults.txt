@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Enemies get lovestruck, cursed fire and poisoned on hit
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Enemies get lovestruck, cursed fire and poisoned on hit
+		[c/0EA300:Herbalist Class]
+}
+

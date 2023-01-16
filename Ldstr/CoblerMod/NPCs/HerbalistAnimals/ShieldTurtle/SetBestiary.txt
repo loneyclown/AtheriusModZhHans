@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		They will be your shield.
+		Now you need to be their sword.
+	Current : 
+		They will be your shield.
+		Now you need to be their sword.
+}
+

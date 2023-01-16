@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : [c/0EA300:Herbalist Shield]
+	Current : [c/0EA300:Herbalist Shield]
+}
+
+1 :
+{
+	Origin : [c/0EA300:Herbalist Shield]
+	Current : [c/0EA300:Herbalist Shield]
+}
+
+2 :
+{
+	Origin : [c/0EA300:Herbalist Shield Dye]
+	Current : [c/0EA300:Herbalist Shield Dye]
+}
+

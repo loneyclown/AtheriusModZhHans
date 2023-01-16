@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Codename 'Snowball', these bunnies walk their own paths. Any of those who oppose them must first hear what they have to say.
+	Current : Codename 'Snowball', these bunnies walk their own paths. Any of those who oppose them must first hear what they have to say.
+}
+

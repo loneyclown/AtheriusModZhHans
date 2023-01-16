@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Leaf Tonic
+	Current : Leaf Tonic
+}
+
+1 :
+{
+	Origin : So pretty...
+	Current : So pretty...
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : currentSaberLevel
+	Current : currentSaberLevel
+}
+
+1 :
+{
+	Origin : currentSaberKillCount
+	Current : currentSaberKillCount
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : RoboticBearBody_Body
+	Current : RoboticBearBody_Body
+}
+
+1 :
+{
+	Origin : RoboticBearBody_Head
+	Current : RoboticBearBody_Head
+}
+

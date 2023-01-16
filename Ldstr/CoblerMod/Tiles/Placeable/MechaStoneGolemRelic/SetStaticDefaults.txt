@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Mecha Stone Golem Relic
+	Current : Mecha Stone Golem Relic
+}
+

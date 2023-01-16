@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires 3 guns in a clockwork fashion
+		Those 3 guns then fire 2 more guns
+		Unfortunately, those 2 guns then only fire bullets
+	Current : 
+		Fires 3 guns in a clockwork fashion
+		Those 3 guns then fire 2 more guns
+		Unfortunately, those 2 guns then only fire bullets
+}
+

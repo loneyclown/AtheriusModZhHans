@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : currentGrimoireLevel
+	Current : currentGrimoireLevel
+}
+
+1 :
+{
+	Origin : currentGrimoireKillCount
+	Current : currentGrimoireKillCount
+}
+
+2 :
+{
+	Origin : hasSwordEquipped
+	Current : hasSwordEquipped
+}
+

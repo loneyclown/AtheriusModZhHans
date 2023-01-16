@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Herbalist plants heal by 10 more HP during the daytime
+		However, herbalist plants heal by 3 less HP damage during the nighttime
+		Herbalist passive heal increased by 3 during the daytime as well
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Herbalist plants heal by 10 more HP during the daytime
+		However, herbalist plants heal by 3 less HP damage during the nighttime
+		Herbalist passive heal increased by 3 during the daytime as well
+		[c/0EA300:Herbalist Class]
+}
+

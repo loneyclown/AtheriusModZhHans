@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Immunity to Fallen Angel and Despair Debuffs
+		Player deals 20% more damage to bosses
+		When below 150 HP, players magic damage increases by 25%
+	Current : 
+		Immunity to Fallen Angel and Despair Debuffs
+		Player deals 20% more damage to bosses
+		When below 150 HP, players magic damage increases by 25%
+}
+

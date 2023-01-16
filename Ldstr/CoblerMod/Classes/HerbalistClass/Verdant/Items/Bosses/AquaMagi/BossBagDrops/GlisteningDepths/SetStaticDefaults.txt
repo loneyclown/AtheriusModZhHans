@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires water discs similar to light discs
+		Fires a little faster and also soaks enemies
+	Current : 
+		Fires water discs similar to light discs
+		Fires a little faster and also soaks enemies
+}
+

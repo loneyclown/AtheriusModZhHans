@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Every hit will increase herbalist damage by 0.5%
+		Will max out at 10% and reset every 2 minutes of no hits
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Every hit will increase herbalist damage by 0.5%
+		Will max out at 10% and reset every 2 minutes of no hits
+		[c/0EA300:Herbalist Class]
+}
+

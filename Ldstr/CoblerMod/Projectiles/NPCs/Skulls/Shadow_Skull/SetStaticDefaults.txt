@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Shadow's Skull
+	Current : Shadow's Skull
+}
+

@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : 
+		While swinging, leaves will start falling from the sky
+		Leaves will also spawn around the player's mouse every swing before coming back to them
+		If the player is on the ground, rock formations will start sprouting up
+		Every 3 swings the rocks get bigger before returning to normal size
+		Rocks have a higher range and spawn more formations
+		Rocks will also spawn under any enemies on the ground
+		'Mother Nature has a different view of the world. Make sure you don't get on her bad side.'
+		[c/0EA300:Herbalist Class]
+	Current : 
+		While swinging, leaves will start falling from the sky
+		Leaves will also spawn around the player's mouse every swing before coming back to them
+		If the player is on the ground, rock formations will start sprouting up
+		Every 3 swings the rocks get bigger before returning to normal size
+		Rocks have a higher range and spawn more formations
+		Rocks will also spawn under any enemies on the ground
+		'Mother Nature has a different view of the world. Make sure you don't get on her bad side.'
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Turning Tide
+	Current : Turning Tide
+}
+
+1 :
+{
+	Origin : Summons Aqua Magi
+	Current : Summons Aqua Magi
+}
+

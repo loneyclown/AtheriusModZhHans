@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Rarer plants will have a higher chance of showing
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Rarer plants will have a higher chance of showing
+		[c/0EA300:Herbalist Class]
+}
+

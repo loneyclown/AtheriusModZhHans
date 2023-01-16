@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 
+		Increased herbalist passive healing by 10
+		Enemies on the ground will sometimes have an earthquake spawn under them
+		This could potentially chain attack, leading to bigger and bigger earthquakes
+		Will stop once the NPC is dead or on its own
+		For every critter around you, your attack and defense increases
+		'I have an army'
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist passive healing by 10
+		Enemies on the ground will sometimes have an earthquake spawn under them
+		This could potentially chain attack, leading to bigger and bigger earthquakes
+		Will stop once the NPC is dead or on its own
+		For every critter around you, your attack and defense increases
+		'I have an army'
+		[c/0EA300:Herbalist Class]
+}
+

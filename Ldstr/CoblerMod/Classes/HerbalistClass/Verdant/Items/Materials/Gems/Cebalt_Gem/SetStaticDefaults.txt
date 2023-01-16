@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Cebalt Gem
+	Current : Cebalt Gem
+}
+

@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : IronCarbine
+	Current : IronCarbine
+}
+
+1 :
+{
+	Origin : Kraber
+	Current : Kraber
+}
+
+2 :
+{
+	Origin : Corruptor
+	Current : Corruptor
+}
+
+3 :
+{
+	Origin : KingOfNines
+	Current : KingOfNines
+}
+
+4 :
+{
+	Origin : RitualRepeater
+	Current : RitualRepeater
+}
+

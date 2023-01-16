@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Abyssal Eyes Relic
+	Current : Abyssal Eyes Relic
+}
+

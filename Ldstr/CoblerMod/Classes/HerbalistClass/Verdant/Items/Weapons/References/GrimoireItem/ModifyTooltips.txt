@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : grimoire
+	Current : grimoire
+}
+
+1 :
+{
+	Origin : [c/3CE348:Debug Mode]
+	Current : [c/3CE348:Debug Mode]
+}
+

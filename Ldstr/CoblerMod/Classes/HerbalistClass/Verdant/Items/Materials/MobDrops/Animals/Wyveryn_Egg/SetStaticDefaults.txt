@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Wyveryn Egg
+	Current : Wyveryn Egg
+}
+

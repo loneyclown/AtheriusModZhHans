@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased herbalist healing by 50 HP
+		Increased herbalist mana restoration by 50 Mana
+		Increased number of herbalist rings by 2
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Increased herbalist healing by 50 HP
+		Increased herbalist mana restoration by 50 Mana
+		Increased number of herbalist rings by 2
+		[c/0EA300:Herbalist Class]
+}
+

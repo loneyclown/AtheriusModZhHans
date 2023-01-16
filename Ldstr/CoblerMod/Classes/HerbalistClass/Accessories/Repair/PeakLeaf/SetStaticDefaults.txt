@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased passive berry healing by 5
+		Increased herbalist knockback by 10%
+		Leaf projectiles deal double damage
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased passive berry healing by 5
+		Increased herbalist knockback by 10%
+		Leaf projectiles deal double damage
+		[c/0EA300:Herbalist Class]
+}
+

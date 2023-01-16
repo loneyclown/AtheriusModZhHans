@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Golden Sword
+	Current : Golden Sword
+}
+
+1 :
+{
+	Origin : 
+		Those hit may drop a gold coin
+		Spawned in from the Gold grimoire
+	Current : 
+		Those hit may drop a gold coin
+		Spawned in from the Gold grimoire
+}
+

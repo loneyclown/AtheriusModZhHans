@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Hunter Helmet
+	Current : Hunter Helmet
+}
+
+1 :
+{
+	Origin : 10% increased movement speed
+	Current : 10% increased movement speed
+}
+

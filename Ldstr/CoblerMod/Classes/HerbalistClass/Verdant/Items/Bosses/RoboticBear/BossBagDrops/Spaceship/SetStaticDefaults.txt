@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 25%
+		You're just really good at gaming I guess...
+	Current : 
+		Increased generic damage by 25%
+		You're just really good at gaming I guess...
+}
+

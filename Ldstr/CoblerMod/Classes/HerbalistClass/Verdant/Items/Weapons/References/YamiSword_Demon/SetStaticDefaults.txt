@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Yami's Sword
+	Current : Yami's Sword
+}
+
+1 :
+{
+	Origin : 
+		Fires death sickles
+		Gives a lucky and wrath buff to the player
+		Increased damage on demons
+	Current : 
+		Fires death sickles
+		Gives a lucky and wrath buff to the player
+		Increased damage on demons
+}
+

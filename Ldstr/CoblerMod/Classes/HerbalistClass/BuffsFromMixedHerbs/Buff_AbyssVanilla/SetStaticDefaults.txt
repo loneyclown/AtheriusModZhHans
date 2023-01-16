@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Abyss Vanilla
+	Current : Abyss Vanilla
+}
+
+1 :
+{
+	Origin : Player has greater crit
+	Current : Player has greater crit
+}
+

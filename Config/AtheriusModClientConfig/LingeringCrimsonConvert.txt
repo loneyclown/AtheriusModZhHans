@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Lingering Crimson Convert
+	Current : Lingering Crimson Convert
+}
+
+Tooltip :
+{
+	Origin : Lingering Crimson converts all grass into crimson grass upon use.
+	Current : Lingering Crimson converts all grass into crimson grass upon use.
+}
+

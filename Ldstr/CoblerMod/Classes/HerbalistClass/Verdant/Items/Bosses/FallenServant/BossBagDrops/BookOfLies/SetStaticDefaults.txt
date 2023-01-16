@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires a burst of projectiles
+		Do not trust this item
+		Damage, knockback, mana, and even the kind of projectile is going to be unkown
+	Current : 
+		Fires a burst of projectiles
+		Do not trust this item
+		Damage, knockback, mana, and even the kind of projectile is going to be unkown
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : From flowers to roots, the herbalist doesn't feel sappy when it comes to all plants
+	Current : From flowers to roots, the herbalist doesn't feel sappy when it comes to all plants
+}
+
+1 :
+{
+	Origin : Mods.CoblerMod.NPCs.Herbalist
+	Current : Mods.CoblerMod.NPCs.Herbalist
+}
+

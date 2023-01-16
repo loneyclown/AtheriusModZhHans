@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : BleuBody_Head
+	Current : BleuBody_Head
+}
+
+1 :
+{
+	Origin : BleuBody_Wing
+	Current : BleuBody_Wing
+}
+

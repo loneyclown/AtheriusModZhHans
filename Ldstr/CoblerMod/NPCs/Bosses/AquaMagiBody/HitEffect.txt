@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : AquaMagiBody_Head
+	Current : AquaMagiBody_Head
+}
+
+1 :
+{
+	Origin : AquaMagiBody_Arm
+	Current : AquaMagiBody_Arm
+}
+

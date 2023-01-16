@@ -1,0 +1,48 @@
+0 :
+{
+	Origin : 0
+	Current : 0
+}
+
+1 :
+{
+	Origin : 3461AD
+	Current : 3461AD
+}
+
+2 :
+{
+	Origin : F7E134
+	Current : F7E134
+}
+
+3 :
+{
+	Origin : D9553B
+	Current : D9553B
+}
+
+4 :
+{
+	Origin : currentSaberLevel
+	Current : currentSaberLevel
+}
+
+5 :
+{
+	Origin : currentSaberLevel
+	Current : currentSaberLevel
+}
+
+6 :
+{
+	Origin : currentSaberKillCount
+	Current : currentSaberKillCount
+}
+
+7 :
+{
+	Origin : currentSaberKillCount
+	Current : currentSaberKillCount
+}
+

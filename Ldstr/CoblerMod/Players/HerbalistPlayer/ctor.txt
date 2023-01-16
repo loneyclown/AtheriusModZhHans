@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : Normal
+	Current : Normal
+}
+
+1 :
+{
+	Origin : Eight Ball
+	Current : Eight Ball
+}
+
+2 :
+{
+	Origin : Sin Wave
+	Current : Sin Wave
+}
+
+3 :
+{
+	Origin : Dancing
+	Current : Dancing
+}
+
+4 :
+{
+	Origin : Unpredictable
+	Current : Unpredictable
+}
+

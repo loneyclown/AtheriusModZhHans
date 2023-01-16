@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Sniper Mode
+	Current : Sniper Mode
+}
+
+1 :
+{
+	Origin : Pew Pew
+	Current : Pew Pew
+}
+

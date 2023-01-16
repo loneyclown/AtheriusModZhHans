@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Arrulica
+	Current : Arrulica
+}
+
+1 :
+{
+	Origin : Player has no dash delay
+	Current : Player has no dash delay
+}
+

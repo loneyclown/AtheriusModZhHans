@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		I don't know where you found this
+		But think twice before showing the herbalist...
+		[c/0EA300:Herbalist Class]
+	Current : 
+		I don't know where you found this
+		But think twice before showing the herbalist...
+		[c/0EA300:Herbalist Class]
+}
+

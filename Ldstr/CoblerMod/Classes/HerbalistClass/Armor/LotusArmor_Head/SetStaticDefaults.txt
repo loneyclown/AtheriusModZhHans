@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Lotus Helmet
+	Current : Lotus Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased scale of herbalist weapons by 15%
+		Armor Set: Increased Herbalist Damage by 5%
+		For every 100 HP missing
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased scale of herbalist weapons by 15%
+		Armor Set: Increased Herbalist Damage by 5%
+		For every 100 HP missing
+		[c/0EA300:Herbalist Class]
+}
+

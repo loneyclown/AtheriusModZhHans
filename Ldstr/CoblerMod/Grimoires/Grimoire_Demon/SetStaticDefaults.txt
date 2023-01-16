@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Demon Grimoire
+	Current : Demon Grimoire
+}
+
+1 :
+{
+	Origin : 
+		This is a magic book!
+		Level it up 5 times by getting a number of kills with this book!
+		Each level will give you a new and stronger skill to use!
+	Current : 
+		This is a magic book!
+		Level it up 5 times by getting a number of kills with this book!
+		Each level will give you a new and stronger skill to use!
+}
+

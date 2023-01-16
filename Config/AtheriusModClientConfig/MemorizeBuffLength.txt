@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Psychokinesis - Memorize Buff Length
+	Current : Psychokinesis - Memorize Buff Length
+}
+
+Tooltip :
+{
+	Origin : How long you want the memorize buff to last. Cannot last anymore than 45 seconds
+	Current : How long you want the memorize buff to last. Cannot last anymore than 45 seconds
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased herbalist passive healing by 5 HP
+		Starts storming whenever enemies are nearby
+		Let's hope they're right when they say lightning doesn't strike the same spot twice
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Increased herbalist passive healing by 5 HP
+		Starts storming whenever enemies are nearby
+		Let's hope they're right when they say lightning doesn't strike the same spot twice
+		[c/0EA300:Herbalist Class]
+}
+

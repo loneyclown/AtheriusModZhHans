@@ -1,0 +1,276 @@
+AbyssalEyesRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+AbyssalEyesTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+AquaMagiRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+AquaMagiTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Blucium_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Blucium_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+BoquilaHerb :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Cebalt_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Cebalt_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+CiligetteHerb :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+ColossalGolemRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+ColossalGolemTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+CourgetteHerb :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+CrushingBowl_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Dathite_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Dathite_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+FallenServantRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+FallenServantTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+FigusHerb :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+FlamingExarchRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+FlamingExarchTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Flaycium_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Flaycium_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+HellsAngelRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+HellsAngelTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Legil_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Legil_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+MechaStoneGolemRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+MechaStoneGolemTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+OblivionMooseRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+OblivionMooseTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+ObolaHerb :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+PortalGuardianRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+PortalGuardianTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+PygmyPearHerb :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+RoboticBearRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+RoboticBearTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Rose_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+ThePrimariesRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+ThePrimariesTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Thusium_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Thusium_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Tuskian_Ore :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+Tuskian_Refined_Tile :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+UndeadExecutionerRelic :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+
+UndeadExecutionerTrophy :
+{
+	Origin : __EMPTY__
+	Current : __EMPTY__
+}
+

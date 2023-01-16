@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Stryllis Robe
+	Current : Stryllis Robe
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist healing by 25% of players health
+		Armor Set: Increase herbalist damage by 25%
+	Current : 
+		Increased herbalist healing by 25% of players health
+		Armor Set: Increase herbalist damage by 25%
+}
+

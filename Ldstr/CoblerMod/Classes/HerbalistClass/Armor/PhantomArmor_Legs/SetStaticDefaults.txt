@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Phantom Leggings
+	Current : Phantom Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased minion crit by 25%
+		Armor Set: Increased max number of minions by 2
+	Current : 
+		Increased minion crit by 25%
+		Armor Set: Increased max number of minions by 2
+}
+

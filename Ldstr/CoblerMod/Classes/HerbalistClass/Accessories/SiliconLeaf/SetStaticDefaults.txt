@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+}
+

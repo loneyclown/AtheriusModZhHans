@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Deals 2x damage to most light enemies
+	Current : Deals 2x damage to most light enemies
+}
+

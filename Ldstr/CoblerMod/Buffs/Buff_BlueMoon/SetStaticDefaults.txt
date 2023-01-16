@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Blue Moon
+	Current : Blue Moon
+}
+
+1 :
+{
+	Origin : Increased Herbalist Damage and Healing during a snow moon
+	Current : Increased Herbalist Damage and Healing during a snow moon
+}
+

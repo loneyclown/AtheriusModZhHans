@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Tuskian Axe
+	Current : Tuskian Axe
+}
+

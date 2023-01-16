@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Gain health everytime you kill an enemy
+	Current : Gain health everytime you kill an enemy
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Aqua Magi
+	Current : Aqua Magi
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/AquaMagi_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/AquaMagi_Bestiary
+}
+

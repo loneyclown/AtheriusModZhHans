@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Special shots will always head west
+		Sniper Class
+	Current : 
+		Special shots will always head west
+		Sniper Class
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Feel like a bear
+		Player has increased all attack
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Feel like a bear
+		Player has increased all attack
+		[c/0EA300:Herbalist Class]
+}
+

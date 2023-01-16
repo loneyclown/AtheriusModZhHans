@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Deals double damage whenever player is on the ground
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Deals double damage whenever player is on the ground
+		[c/0EA300:Herbalist Class]
+}
+

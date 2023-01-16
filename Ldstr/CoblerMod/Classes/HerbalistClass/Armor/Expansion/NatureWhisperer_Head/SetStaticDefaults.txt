@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Nature Whisperer Helmet
+	Current : Nature Whisperer Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased critter damage by 20%
+		Armor Set: Critters drop herbalist plants at a faster rate
+	Current : 
+		Increased critter damage by 20%
+		Armor Set: Critters drop herbalist plants at a faster rate
+}
+

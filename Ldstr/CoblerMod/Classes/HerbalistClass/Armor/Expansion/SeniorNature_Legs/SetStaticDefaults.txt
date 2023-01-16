@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Senior Nature Leggings
+	Current : Senior Nature Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist potion healing by 75 HP
+		Increased herbalist mana healing by 50 mana
+		Armor Set: berries heal an addtional 10 HP
+	Current : 
+		Increased herbalist potion healing by 75 HP
+		Increased herbalist mana healing by 50 mana
+		Armor Set: berries heal an addtional 10 HP
+}
+

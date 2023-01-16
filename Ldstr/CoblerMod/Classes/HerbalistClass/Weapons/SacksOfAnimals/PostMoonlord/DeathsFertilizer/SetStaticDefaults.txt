@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Death's Fertilizer
+	Current : Death's Fertilizer
+}
+
+1 :
+{
+	Origin : 
+		Fires poison seeds
+		Upon killing an enemy, any dirt around the player will turn into grass
+		There is also a slight chance to randomly change nearby dirt into grass
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fires poison seeds
+		Upon killing an enemy, any dirt around the player will turn into grass
+		There is also a slight chance to randomly change nearby dirt into grass
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		Become part of the flames. 
+		Increase melee damage by 20% 
+		Ability to walk on lava 
+		Immune to lava 
+		Player will gradually take damage overtime with this equipped
+		In exchange, Every kill will grant you 20 HP. Can you beat death?
+	Current : 
+		Become part of the flames. 
+		Increase melee damage by 20% 
+		Ability to walk on lava 
+		Immune to lava 
+		Player will gradually take damage overtime with this equipped
+		In exchange, Every kill will grant you 20 HP. Can you beat death?
+}
+

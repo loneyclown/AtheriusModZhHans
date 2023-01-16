@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Triple Double Gun
+	Current : Triple Double Gun
+}
+

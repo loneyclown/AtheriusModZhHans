@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 1)]
+	Current : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 1)]
+}
+
+1 :
+{
+	Origin : Increases Summon damage by 5%
+	Current : Increases Summon damage by 5%
+}
+

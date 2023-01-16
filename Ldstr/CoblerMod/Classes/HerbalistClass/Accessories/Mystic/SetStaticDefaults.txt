@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Herbalist Badge: Mystic
+	Current : Herbalist Badge: Mystic
+}
+
+1 :
+{
+	Origin : 
+		All Herbalist potions that restore mana
+		will now restore additional 25% of the player's max mana
+		Herbalist plants on consumption will restore 10 more mana
+		[c/0EA300:Herbalist Class]
+	Current : 
+		All Herbalist potions that restore mana
+		will now restore additional 25% of the player's max mana
+		Herbalist plants on consumption will restore 10 more mana
+		[c/0EA300:Herbalist Class]
+}
+

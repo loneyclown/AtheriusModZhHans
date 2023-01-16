@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Bubushka's AK-47
+	Current : Bubushka's AK-47
+}
+
+1 :
+{
+	Origin : 
+		You see Ivan...
+		When shooting AK47,
+		You get shoot the AK47.
+		Yes, very beautiful piece of Russian gun.
+		Gun is inaccurate and you get tipsy while shooting it.
+	Current : 
+		You see Ivan...
+		When shooting AK47,
+		You get shoot the AK47.
+		Yes, very beautiful piece of Russian gun.
+		Gun is inaccurate and you get tipsy while shooting it.
+}
+

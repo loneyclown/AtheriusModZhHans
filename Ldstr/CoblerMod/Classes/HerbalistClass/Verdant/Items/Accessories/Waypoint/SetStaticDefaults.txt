@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Gain 1% increase in damage each hit up to 35%
+		Resets after 15 seconds of no hits
+	Current : 
+		Gain 1% increase in damage each hit up to 35%
+		Resets after 15 seconds of no hits
+}
+

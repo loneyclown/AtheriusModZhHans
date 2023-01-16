@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Spawns in rotating petals that constantly fire leaves
+		Many herbalists in the past have avoided this weapon
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spawns in rotating petals that constantly fire leaves
+		Many herbalists in the past have avoided this weapon
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 
+		Spirit dog poisons enemies on hit
+		Also has a chance to curse enemies on hit
+		Spirit Dog is bigger in size
+		Small increase in herbalist crit
+		Spirit Dog will fire projectiles at enemies
+		Immunity to poison and bleeding
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spirit dog poisons enemies on hit
+		Also has a chance to curse enemies on hit
+		Spirit Dog is bigger in size
+		Small increase in herbalist crit
+		Spirit Dog will fire projectiles at enemies
+		Immunity to poison and bleeding
+		[c/0EA300:Herbalist Class]
+}
+

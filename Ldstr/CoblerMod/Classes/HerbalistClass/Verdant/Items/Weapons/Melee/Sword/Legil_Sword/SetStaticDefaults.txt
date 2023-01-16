@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Legil Sword
+	Current : Legil Sword
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Increased summon damage by 15%
+	Current : Increased summon damage by 15%
+}
+

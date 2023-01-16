@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/FF0000:A][c/FFFFFF:m][c/0000FF:e][c/FF0000:r][c/FFFFFF:i][c/0000FF:c][c/FF0000:a]
+	Current : [c/FF0000:A][c/FFFFFF:m][c/0000FF:e][c/FF0000:r][c/FFFFFF:i][c/0000FF:c][c/FF0000:a]
+}
+
+1 :
+{
+	Origin : [c/FF0000:No description] [c/FFFFFF:is needed to describe] [c/0000FF:this beauty]
+	Current : [c/FF0000:No description] [c/FFFFFF:is needed to describe] [c/0000FF:this beauty]
+}
+

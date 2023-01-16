@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Dark Sword
+	Current : Dark Sword
+}
+
+1 :
+{
+	Origin : Using a weapon from the dark grimoire
+	Current : Using a weapon from the dark grimoire
+}
+

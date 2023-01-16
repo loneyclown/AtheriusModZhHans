@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Legil Leggings
+	Current : Legil Leggings
+}
+
+1 :
+{
+	Origin : Increased generic damage by 5%
+	Current : Increased generic damage by 5%
+}
+

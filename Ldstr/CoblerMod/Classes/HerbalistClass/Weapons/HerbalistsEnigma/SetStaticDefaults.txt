@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Herbalist's Enigma
+	Current : Herbalist's Enigma
+}
+
+1 :
+{
+	Origin : [c/0EA300:Herbalist Class]
+	Current : [c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Breaker Helmet
+	Current : Breaker Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased ranged crit by 10%
+		Armor Set: Increased ranged knockback by 25%
+	Current : 
+		Increased ranged crit by 10%
+		Armor Set: Increased ranged knockback by 25%
+}
+

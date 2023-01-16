@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Nagito's Revolver
+	Current : Nagito's Revolver
+}
+
+1 :
+{
+	Origin : 
+		Has a 1 in 6 chance of not firing
+		Fires truth bullets and gives despair to enemies
+	Current : 
+		Has a 1 in 6 chance of not firing
+		Fires truth bullets and gives despair to enemies
+}
+

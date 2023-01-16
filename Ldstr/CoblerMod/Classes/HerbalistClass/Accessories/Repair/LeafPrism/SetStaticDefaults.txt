@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased herbalist plant healing bonus by 3Increased herbalist plant mana bonus by 5
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Increased herbalist plant healing bonus by 3Increased herbalist plant mana bonus by 5
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Earthfire Staff
+	Current : Earthfire Staff
+}
+
+1 :
+{
+	Origin : Summons a burning flower to fight for you
+	Current : Summons a burning flower to fight for you
+}
+

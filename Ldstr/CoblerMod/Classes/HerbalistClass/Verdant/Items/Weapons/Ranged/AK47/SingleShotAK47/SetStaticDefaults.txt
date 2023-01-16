@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Single Shot AK-47
+	Current : Single Shot AK-47
+}
+
+1 :
+{
+	Origin : 
+		You see Ivan...
+		When shooting single shot AK47,
+		You only get 1 shoot.
+		But it can be more accurate shoot, just like all Russian AK47.
+		Gun is inaccurate and you get tipsy while shooting it.
+	Current : 
+		You see Ivan...
+		When shooting single shot AK47,
+		You only get 1 shoot.
+		But it can be more accurate shoot, just like all Russian AK47.
+		Gun is inaccurate and you get tipsy while shooting it.
+}
+

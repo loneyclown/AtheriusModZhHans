@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 2)]
+	Current : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 2)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Ranged Damage by 8%
+		Normal bullets and arrows are stronger now
+	Current : 
+		Increases Ranged Damage by 8%
+		Normal bullets and arrows are stronger now
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased herbalist crit by 10
+		When spawned in, critters will have 50 more HP
+		They will also have increased life regen
+		Critters will not take damage from the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist crit by 10
+		When spawned in, critters will have 50 more HP
+		They will also have increased life regen
+		Critters will not take damage from the player
+		[c/0EA300:Herbalist Class]
+}
+

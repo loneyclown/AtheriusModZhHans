@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Gold Tier 5 Cooldown
+	Current : Gold Tier 5 Cooldown
+}
+
+1 :
+{
+	Origin : Cannot use Gold Tier 5
+	Current : Cannot use Gold Tier 5
+}
+

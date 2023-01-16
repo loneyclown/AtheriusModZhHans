@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Immunity to frozen
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Immunity to frozen
+		[c/0EA300:Herbalist Class]
+}
+

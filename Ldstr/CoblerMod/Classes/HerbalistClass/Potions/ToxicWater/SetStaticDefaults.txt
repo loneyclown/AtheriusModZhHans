@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Heals well
+		But you won't feel too well after...
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Heals well
+		But you won't feel too well after...
+		[c/0EA300:Herbalist Class]
+}
+

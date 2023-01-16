@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Abyssal Sphere
+	Current : Abyssal Sphere
+}
+

@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : Spirit Wolf Mask
+	Current : Spirit Wolf Mask
+}
+
+1 :
+{
+	Origin : 
+		This summons a spirit wolf to fight for the herbalist
+		Being a part of nature, herbalists are able to communicate with spirit animals
+		As such this wolf will cost no minion slots and get stronger over time with the herbalist
+		However this wolf will not work with those who aren't herbalists
+		An herbalist accessory must be equipped in order to be followed
+		[c/0EA300:Herbalist Class]
+	Current : 
+		This summons a spirit wolf to fight for the herbalist
+		Being a part of nature, herbalists are able to communicate with spirit animals
+		As such this wolf will cost no minion slots and get stronger over time with the herbalist
+		However this wolf will not work with those who aren't herbalists
+		An herbalist accessory must be equipped in order to be followed
+		[c/0EA300:Herbalist Class]
+}
+

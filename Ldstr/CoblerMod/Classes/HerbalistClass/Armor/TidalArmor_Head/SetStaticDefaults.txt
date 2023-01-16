@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Tidal Helmet
+	Current : Tidal Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased magic crit by 15%
+		Player heals faster when near water
+		Armor Set: Cut mana costs by half
+	Current : 
+		Increased magic crit by 15%
+		Player heals faster when near water
+		Armor Set: Cut mana costs by half
+}
+

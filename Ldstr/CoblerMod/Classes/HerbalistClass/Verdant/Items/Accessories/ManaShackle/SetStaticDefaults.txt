@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increase max mana by 20
+		Increased mana regen by 15%
+	Current : 
+		Increase max mana by 20
+		Increased mana regen by 15%
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Portal Guardian Relic
+	Current : Portal Guardian Relic
+}
+

@@ -1,0 +1,180 @@
+0 :
+{
+	Origin : 
+		[c/AE0EC7:You are preparing for a boss right now and you have lost to it once already.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Yeah you definitely should try more potions.
+	Current : 
+		[c/AE0EC7:You are preparing for a boss right now and you have lost to it once already.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Yeah you definitely should try more potions.
+}
+
+1 :
+{
+	Origin : 
+		[c/AE0EC7:You aren't sure to keep your current class because you like summoner more.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		The only 'class' you really need is your mind.
+	Current : 
+		[c/AE0EC7:You aren't sure to keep your current class because you like summoner more.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		The only 'class' you really need is your mind.
+}
+
+2 :
+{
+	Origin : 
+		[c/AE0EC7:You are waiting until nighttime right now to fight another boss.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Nighttime couldn't come sooner huh?
+	Current : 
+		[c/AE0EC7:You are waiting until nighttime right now to fight another boss.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Nighttime couldn't come sooner huh?
+}
+
+3 :
+{
+	Origin : 
+		[c/AE0EC7:You're thinking about looking for more bunnies to kill right now.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		I just hope you and the dryad are on good terms.
+	Current : 
+		[c/AE0EC7:You're thinking about looking for more bunnies to kill right now.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		I just hope you and the dryad are on good terms.
+}
+
+4 :
+{
+	Origin : 
+		[c/AE0EC7:You need a few more bars for crafting but don't want to go mining. You want to check your friend's chests.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Just make sure you don't make it too obvious. Oh and don't tell them I told you!
+	Current : 
+		[c/AE0EC7:You need a few more bars for crafting but don't want to go mining. You want to check your friend's chests.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Just make sure you don't make it too obvious. Oh and don't tell them I told you!
+}
+
+5 :
+{
+	Origin : 
+		[c/AE0EC7:You still have yet to build a hellevator because you think teleporters are cooler.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		I mean if you insist...
+	Current : 
+		[c/AE0EC7:You still have yet to build a hellevator because you think teleporters are cooler.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		I mean if you insist...
+}
+
+6 :
+{
+	Origin : 
+		[c/AE0EC7:You have a lot of voodoo dolls in your chest right now.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		None of them are for me right? Right?
+	Current : 
+		[c/AE0EC7:You have a lot of voodoo dolls in your chest right now.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		None of them are for me right? Right?
+}
+
+7 :
+{
+	Origin : 
+		[c/AE0EC7:You are thinking about going into the dungeon before lifting the curse.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Do it.
+	Current : 
+		[c/AE0EC7:You are thinking about going into the dungeon before lifting the curse.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Do it.
+}
+
+8 :
+{
+	Origin : 
+		[c/AE0EC7:You just got a new pet and you don't know if you should replace your old one or not.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		It'll never forgive you if you do. I know because I can read their minds.
+	Current : 
+		[c/AE0EC7:You just got a new pet and you don't know if you should replace your old one or not.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		It'll never forgive you if you do. I know because I can read their minds.
+}
+
+9 :
+{
+	Origin : 
+		[c/AE0EC7:X]You believe that the moonlord is really difficult to fight...
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Are you spawner class? I bet that's why!
+	Current : 
+		[c/AE0EC7:X]You believe that the moonlord is really difficult to fight...
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Are you spawner class? I bet that's why!
+}
+
+10 :
+{
+	Origin : 
+		[c/AE0EC7:You are wondering where you are even supposed to find Psycho Frags?]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		They're dispersed among the world. In the ground. In the walls. Psychokinetic energy is everywhere. It's just a matter of where they clump up enough to become a Psycho Frag.
+	Current : 
+		[c/AE0EC7:You are wondering where you are even supposed to find Psycho Frags?]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		They're dispersed among the world. In the ground. In the walls. Psychokinetic energy is everywhere. It's just a matter of where they clump up enough to become a Psycho Frag.
+}
+
+11 :
+{
+	Origin : 
+		[c/AE0EC7:You are wondering what is her psychokinetic level anyway.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Do you see that rock over there? No because I sent it away before you started asking that question.
+	Current : 
+		[c/AE0EC7:You are wondering what is her psychokinetic level anyway.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Do you see that rock over there? No because I sent it away before you started asking that question.
+}
+
+12 :
+{
+	Origin : 
+		[c/AE0EC7:You want to go mining again because you need more hallowed bars.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		That's not where you find hallowed bars but I'm guessing you meant something else...
+	Current : 
+		[c/AE0EC7:You want to go mining again because you need more hallowed bars.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		That's not where you find hallowed bars but I'm guessing you meant something else...
+}
+
+13 :
+{
+	Origin : 
+		[c/AE0EC7:You don't know where to find half of these plants.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		There's a Cobler's Mod Wiki that you can check for help on the herbalist plants. Though not all of the wiki is done at the moment.
+	Current : 
+		[c/AE0EC7:You don't know where to find half of these plants.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		There's a Cobler's Mod Wiki that you can check for help on the herbalist plants. Though not all of the wiki is done at the moment.
+}
+
+14 :
+{
+	Origin : 
+		[c/AE0EC7:You are thinking about uninstalling Cobler's Mod.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Personally, I think there are better options...
+	Current : 
+		[c/AE0EC7:You are thinking about uninstalling Cobler's Mod.]
+		[c/B648C7:...] [c/B97BC3:...] ...
+		Personally, I think there are better options...
+}
+

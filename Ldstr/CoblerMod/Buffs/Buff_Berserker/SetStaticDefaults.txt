@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Berserker
+	Current : Berserker
+}
+
+1 :
+{
+	Origin : Increased Damage, Decreased Defense and life regen
+	Current : Increased Damage, Decreased Defense and life regen
+}
+

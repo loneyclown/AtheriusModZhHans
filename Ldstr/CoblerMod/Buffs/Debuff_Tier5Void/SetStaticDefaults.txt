@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Pitch Black Cooldown
+	Current : Pitch Black Cooldown
+}
+
+1 :
+{
+	Origin : Cannot use Pitch Black
+	Current : Cannot use Pitch Black
+}
+

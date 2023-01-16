@@ -1,0 +1,120 @@
+0 :
+{
+	Origin : [c/710193:You cannot memorize nothing]
+	Current : [c/710193:You cannot memorize nothing]
+}
+
+1 :
+{
+	Origin : [c/710193:Memorizing Item]
+	Current : [c/710193:Memorizing Item]
+}
+
+2 :
+{
+	Origin : [c/710193:Currently have 
+	Current : [c/710193:Currently have 
+}
+
+3 :
+{
+	Origin : memorized. Adding new item onto current slot]
+	Current : memorized. Adding new item onto current slot]
+}
+
+4 :
+{
+	Origin : [c/710193:This item is already memorized]
+	Current : [c/710193:This item is already memorized]
+}
+
+5 :
+{
+	Origin : [c/710193:Current Memory: 
+	Current : [c/710193:Current Memory: 
+}
+
+6 :
+{
+	Origin : =>
+	Current : =>
+}
+
+7 :
+{
+	Origin : ]
+	Current : ]
+}
+
+8 :
+{
+	Origin : [c/710193:Cannot change while memorizing an item]
+	Current : [c/710193:Cannot change while memorizing an item]
+}
+
+9 :
+{
+	Origin : [c/710193:You currently have nothing memorized]
+	Current : [c/710193:You currently have nothing memorized]
+}
+
+10 :
+{
+	Origin : [c/710193:Already in use]
+	Current : [c/710193:Already in use]
+}
+
+11 :
+{
+	Origin : [c/710193:Already in use]
+	Current : [c/710193:Already in use]
+}
+
+12 :
+{
+	Origin : [c/710193:You have nothing memorized at the moment]
+	Current : [c/710193:You have nothing memorized at the moment]
+}
+
+13 :
+{
+	Origin : [c/710193:You cannot memorize an empty slot]
+	Current : [c/710193:You cannot memorize an empty slot]
+}
+
+14 :
+{
+	Origin : [c/710193:Cannot get another item while one is being memorized]
+	Current : [c/710193:Cannot get another item while one is being memorized]
+}
+
+15 :
+{
+	Origin : You're psych level is now level [c/710193:
+	Current : You're psych level is now level [c/710193:
+}
+
+16 :
+{
+	Origin : ]! You have learned [c/710193:
+	Current : ]! You have learned [c/710193:
+}
+
+17 :
+{
+	Origin : ]!
+	Current : ]!
+}
+
+18 :
+{
+	Origin : 710193
+	Current : 710193
+}
+
+20 :
+{
+	Origin : 710193
+	Current : 710193
+}
+

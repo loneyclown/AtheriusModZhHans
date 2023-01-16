@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Fires up to 4 or 5 wind blades
+		Occasionally spawns in a wisp that pushes away NPCs
+		Also spawns in poison clouds on occasion
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fires up to 4 or 5 wind blades
+		Occasionally spawns in a wisp that pushes away NPCs
+		Also spawns in poison clouds on occasion
+		[c/0EA300:Herbalist Class]
+}
+

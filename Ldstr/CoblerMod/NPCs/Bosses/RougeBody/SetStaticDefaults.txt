@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Rouge
+	Current : Rouge
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Rouge_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Rouge_Bestiary
+}
+

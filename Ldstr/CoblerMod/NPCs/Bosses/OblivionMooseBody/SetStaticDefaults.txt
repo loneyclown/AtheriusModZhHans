@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Oblivion Moose
+	Current : Oblivion Moose
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/OblivionMoose_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/OblivionMoose_Bestiary
+}
+

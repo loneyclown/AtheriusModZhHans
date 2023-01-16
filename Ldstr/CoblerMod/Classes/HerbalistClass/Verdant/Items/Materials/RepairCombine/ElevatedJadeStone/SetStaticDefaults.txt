@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Elevated Jade Stone
+	Current : Elevated Jade Stone
+}
+

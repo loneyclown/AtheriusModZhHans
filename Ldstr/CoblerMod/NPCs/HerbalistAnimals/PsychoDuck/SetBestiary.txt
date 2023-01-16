@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : I never trusted ducks to begin with...
+	Current : I never trusted ducks to begin with...
+}
+

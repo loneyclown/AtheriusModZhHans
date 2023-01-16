@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Herbalist Badge: Healer
+	Current : Herbalist Badge: Healer
+}
+
+1 :
+{
+	Origin : 
+		All Herbalist potions that restore health
+		will now restore additional 25% of the player's max health
+		Herbalist plants on consumption will restore 10 more health
+		[c/0EA300:Herbalist Class]
+	Current : 
+		All Herbalist potions that restore health
+		will now restore additional 25% of the player's max health
+		Herbalist plants on consumption will restore 10 more health
+		[c/0EA300:Herbalist Class]
+}
+

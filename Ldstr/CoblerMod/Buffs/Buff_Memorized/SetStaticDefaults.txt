@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Memorized
+	Current : Memorized
+}
+
+1 :
+{
+	Origin : Using an item only from your mind
+	Current : Using an item only from your mind
+}
+

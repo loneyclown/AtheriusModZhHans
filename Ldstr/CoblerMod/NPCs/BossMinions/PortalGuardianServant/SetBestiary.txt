@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Loyal servant to the Portal Guardian
+		It can't be said how many times it's been killed...
+		
+		Or how many times it's resurrected itself...
+	Current : 
+		Loyal servant to the Portal Guardian
+		It can't be said how many times it's been killed...
+		
+		Or how many times it's resurrected itself...
+}
+

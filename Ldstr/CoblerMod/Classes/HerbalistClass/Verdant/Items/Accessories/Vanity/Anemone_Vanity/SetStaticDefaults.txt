@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Anemone (Vanity Flower)
+	Current : Anemone (Vanity Flower)
+}
+
+1 :
+{
+	Origin : So Perty.
+	Current : So Perty.
+}
+

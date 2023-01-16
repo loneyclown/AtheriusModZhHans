@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Frozen Embers
+	Current : Frozen Embers
+}
+
+1 :
+{
+	Origin : It's hot! Now it's cold! Now it's perfect temperature...Gives both 'on fire' and 'frozen' debuffs.Can also act like a torch when swung! Until the ice melts and destroys the fire...
+	Current : It's hot! Now it's cold! Now it's perfect temperature...Gives both 'on fire' and 'frozen' debuffs.Can also act like a torch when swung! Until the ice melts and destroys the fire...
+}
+

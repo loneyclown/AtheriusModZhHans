@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : GrandpasRifle
+	Current : GrandpasRifle
+}
+
+1 :
+{
+	Origin : AtomicAnnie
+	Current : AtomicAnnie
+}
+
+2 :
+{
+	Origin : The Pig
+	Current : The Pig
+}
+

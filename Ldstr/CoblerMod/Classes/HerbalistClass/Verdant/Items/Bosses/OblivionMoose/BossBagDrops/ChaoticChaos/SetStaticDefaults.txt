@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires a burst of scythes
+		Also on use, a chance to spawn in a chaos orb circling the player until it explodes
+	Current : 
+		Fires a burst of scythes
+		Also on use, a chance to spawn in a chaos orb circling the player until it explodes
+}
+

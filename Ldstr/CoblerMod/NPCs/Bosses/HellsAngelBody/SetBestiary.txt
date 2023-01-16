@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Summoned by Hades, this being believes in nothing
+		Or better yet, it has no thoughts at all.
+		All it knows is the command given by Hades to him and his 5 servants.
+		And thus there became the will to bring down those with power.
+	Current : 
+		Summoned by Hades, this being believes in nothing
+		Or better yet, it has no thoughts at all.
+		All it knows is the command given by Hades to him and his 5 servants.
+		And thus there became the will to bring down those with power.
+}
+

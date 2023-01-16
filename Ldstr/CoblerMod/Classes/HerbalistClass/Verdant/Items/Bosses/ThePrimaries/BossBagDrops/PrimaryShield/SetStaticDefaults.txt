@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased defense by 20
+		Increased health by 150 H
+		Players attack will increased based on the color of their hair
+		It will be added via the 3 RGB numbers divided by 20
+		So if your hair color is (100, 100, 100), you will gain 300 or 15% increased attack
+	Current : 
+		Increased defense by 20
+		Increased health by 150 H
+		Players attack will increased based on the color of their hair
+		It will be added via the 3 RGB numbers divided by 20
+		So if your hair color is (100, 100, 100), you will gain 300 or 15% increased attack
+}
+

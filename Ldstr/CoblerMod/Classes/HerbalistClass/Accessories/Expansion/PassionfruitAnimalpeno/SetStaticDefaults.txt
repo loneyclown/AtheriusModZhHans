@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased herbalist passive healing by 2
+		Increased damage from animals by 15%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist passive healing by 2
+		Increased damage from animals by 15%
+		[c/0EA300:Herbalist Class]
+}
+

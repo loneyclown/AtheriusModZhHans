@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Ugly Axe
+	Current : Ugly Axe
+}
+
+1 :
+{
+	Origin : 
+		It didn't WANT to be an ugly axe 
+		Blame the modder for making it this bad...
+	Current : 
+		It didn't WANT to be an ugly axe 
+		Blame the modder for making it this bad...
+}
+

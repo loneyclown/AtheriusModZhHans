@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Honor's Call
+	Current : Honor's Call
+}
+
+1 :
+{
+	Origin : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+	Current : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+}
+

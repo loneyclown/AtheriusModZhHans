@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Fires void balls, which erase enemies on hit
+		Also has a chance to release a bunch of void shadows
+		Enemies must have less than 650 health in order to be erased
+		This does not affect bosses
+	Current : 
+		Fires void balls, which erase enemies on hit
+		Also has a chance to release a bunch of void shadows
+		Enemies must have less than 650 health in order to be erased
+		This does not affect bosses
+}
+

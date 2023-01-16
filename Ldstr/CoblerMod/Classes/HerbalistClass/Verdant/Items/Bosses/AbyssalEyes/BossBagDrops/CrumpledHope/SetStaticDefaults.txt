@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Player loses all defense
+		Player generic attack increased by 65%
+		Player attack speed increased by 25%
+		Player crit chance increased by 25%
+		[c/800606:'There's nothing left... We might as well go all in...']
+	Current : 
+		Player loses all defense
+		Player generic attack increased by 65%
+		Player attack speed increased by 25%
+		Player crit chance increased by 25%
+		[c/800606:'There's nothing left... We might as well go all in...']
+}
+

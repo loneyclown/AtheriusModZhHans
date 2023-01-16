@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : This bird isn't afraid to go out with a bang.
+	Current : This bird isn't afraid to go out with a bang.
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : The Portal Guardian shakes its head and teleports away...
+	Current : The Portal Guardian shakes its head and teleports away...
+}
+

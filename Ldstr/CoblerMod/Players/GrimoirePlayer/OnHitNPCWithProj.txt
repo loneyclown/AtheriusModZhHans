@@ -1,0 +1,54 @@
+0 :
+{
+	Origin : Grimoire
+	Current : Grimoire
+}
+
+1 :
+{
+	Origin : Fire Grimoire
+	Current : Fire Grimoire
+}
+
+2 :
+{
+	Origin : Water Grimoire
+	Current : Water Grimoire
+}
+
+3 :
+{
+	Origin : Earth Grimoire
+	Current : Earth Grimoire
+}
+
+4 :
+{
+	Origin : Curse Grimoire
+	Current : Curse Grimoire
+}
+
+5 :
+{
+	Origin : Lightning Grimoire
+	Current : Lightning Grimoire
+}
+
+6 :
+{
+	Origin : Poison Grimoire
+	Current : Poison Grimoire
+}
+
+7 :
+{
+	Origin : Mirror Grimoire
+	Current : Mirror Grimoire
+}
+
+8 :
+{
+	Origin : Ice Grimoire
+	Current : Ice Grimoire
+}
+

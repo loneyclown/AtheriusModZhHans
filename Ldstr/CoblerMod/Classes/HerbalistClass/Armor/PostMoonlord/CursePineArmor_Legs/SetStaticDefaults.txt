@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Curse Pine Leggings
+	Current : Curse Pine Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased max life by 50
+		Inrceased max mana by 50
+		Any enemy with less than 500 HP does no damage to the player
+		Armor Set: Gain a stat buff based on the biome you're in
+		The number of critters around you also increased the buff's effect
+	Current : 
+		Increased max life by 50
+		Inrceased max mana by 50
+		Any enemy with less than 500 HP does no damage to the player
+		Armor Set: Gain a stat buff based on the biome you're in
+		The number of critters around you also increased the buff's effect
+}
+

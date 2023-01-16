@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Custom swing animation
+		Enemies will become oblivious on hit
+	Current : 
+		Custom swing animation
+		Enemies will become oblivious on hit
+}
+

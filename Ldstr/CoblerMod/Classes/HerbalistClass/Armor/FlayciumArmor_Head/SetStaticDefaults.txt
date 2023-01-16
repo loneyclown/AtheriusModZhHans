@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Flaycium Helmet
+	Current : Flaycium Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased magic knockback by 10%
+		Armor Set: Increased attack speed by 15%
+	Current : 
+		Increased magic knockback by 10%
+		Armor Set: Increased attack speed by 15%
+}
+

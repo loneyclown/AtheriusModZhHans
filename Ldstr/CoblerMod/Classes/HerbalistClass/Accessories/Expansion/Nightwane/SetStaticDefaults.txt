@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Spirit wolf does 25% more damage at nighttime
+		However, the wolf does 15% less damage during the daytime
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spirit wolf does 25% more damage at nighttime
+		However, the wolf does 15% less damage during the daytime
+		[c/0EA300:Herbalist Class]
+}
+

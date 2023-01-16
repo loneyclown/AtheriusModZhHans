@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Yasgess Helmet
+	Current : Yasgess Helmet
+}
+
+1 :
+{
+	Origin : 
+		Normal critters will fire leaves at 2x a faster rate
+		Increased critter healing by 25 HP
+		Armor Set: You will gain a random herbalist stat buff
+		depending on the biome you're in
+		The amount of critters around you will also affect its significance
+	Current : 
+		Normal critters will fire leaves at 2x a faster rate
+		Increased critter healing by 25 HP
+		Armor Set: You will gain a random herbalist stat buff
+		depending on the biome you're in
+		The amount of critters around you will also affect its significance
+}
+

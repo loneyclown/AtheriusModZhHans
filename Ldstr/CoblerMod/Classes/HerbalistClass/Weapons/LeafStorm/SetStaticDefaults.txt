@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Summons a leaf portal that shoots projectiles at all enemies
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Summons a leaf portal that shoots projectiles at all enemies
+		[c/0EA300:Herbalist Class]
+}
+

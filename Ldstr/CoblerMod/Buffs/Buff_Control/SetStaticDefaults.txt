@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Control
+	Current : Control
+}
+
+1 :
+{
+	Origin : Steal the mind of another
+	Current : Steal the mind of another
+}
+

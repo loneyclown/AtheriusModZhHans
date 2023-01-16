@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Tulsi Chestplate
+	Current : Tulsi Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist crit by 10
+		Increased the size of critters by 15%
+		Every so often critters will spawn in a wind orb to push back enemies
+		Armor Set: Critters can turn dirt blocks into grass blocks
+	Current : 
+		Increased herbalist crit by 10
+		Increased the size of critters by 15%
+		Every so often critters will spawn in a wind orb to push back enemies
+		Armor Set: Critters can turn dirt blocks into grass blocks
+}
+

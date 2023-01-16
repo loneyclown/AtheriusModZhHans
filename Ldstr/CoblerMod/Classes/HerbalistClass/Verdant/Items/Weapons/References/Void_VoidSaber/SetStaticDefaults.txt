@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Void Saber
+	Current : Void Saber
+}
+
+1 :
+{
+	Origin : 
+		When hitting an enemy,They will disappear
+		Spawned in from the Gold grimoire
+	Current : 
+		When hitting an enemy,They will disappear
+		Spawned in from the Gold grimoire
+}
+

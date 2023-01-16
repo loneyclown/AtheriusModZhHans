@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased herbalist crit by 10
+		Herbalist weapons increase in scale
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist crit by 10
+		Herbalist weapons increase in scale
+		[c/0EA300:Herbalist Class]
+}
+

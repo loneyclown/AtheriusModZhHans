@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Wrenches have a chance to not consume wires
+	Current : 
+		Increased generic damage by 10%
+		Wrenches have a chance to not consume wires
+}
+

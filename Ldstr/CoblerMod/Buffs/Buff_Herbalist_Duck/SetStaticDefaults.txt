@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Duck
+	Current : Duck
+}
+
+1 :
+{
+	Origin : With an herbalist accessory, you get a small trait from the duck
+	Current : With an herbalist accessory, you get a small trait from the duck
+}
+

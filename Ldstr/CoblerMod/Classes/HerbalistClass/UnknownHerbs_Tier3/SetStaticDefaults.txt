@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Unknown Mixture (Tier 3)
+	Current : Unknown Mixture (Tier 3)
+}
+
+1 :
+{
+	Origin : 
+		With enough crafting and testing you're sure to get the right mixture
+		[c/0EA300:Herbalist Class]
+	Current : 
+		With enough crafting and testing you're sure to get the right mixture
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : The More The Mana-ier
+	Current : The More The Mana-ier
+}
+
+1 :
+{
+	Origin : The more animals around, the more herbalist potions restore mana
+	Current : The more animals around, the more herbalist potions restore mana
+}
+

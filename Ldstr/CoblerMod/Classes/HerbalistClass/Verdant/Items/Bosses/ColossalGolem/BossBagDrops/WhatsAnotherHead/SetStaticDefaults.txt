@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : What's Another Head?
+	Current : What's Another Head?
+}
+
+1 :
+{
+	Origin : Summons a golem head to charge at enemies
+	Current : Summons a golem head to charge at enemies
+}
+

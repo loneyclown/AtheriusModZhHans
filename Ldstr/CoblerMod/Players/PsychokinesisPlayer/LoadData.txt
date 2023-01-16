@@ -1,0 +1,96 @@
+0 :
+{
+	Origin : numberOfSkillsLearned
+	Current : numberOfSkillsLearned
+}
+
+1 :
+{
+	Origin : numberOfSkillsLearned
+	Current : numberOfSkillsLearned
+}
+
+2 :
+{
+	Origin : numberOfPsychUses
+	Current : numberOfPsychUses
+}
+
+3 :
+{
+	Origin : numberOfPsychUses
+	Current : numberOfPsychUses
+}
+
+4 :
+{
+	Origin : psychoLevel
+	Current : psychoLevel
+}
+
+5 :
+{
+	Origin : psychoLevel
+	Current : psychoLevel
+}
+
+6 :
+{
+	Origin : memorizeItemsList
+	Current : memorizeItemsList
+}
+
+7 :
+{
+	Origin : memorizeItemsList
+	Current : memorizeItemsList
+}
+
+8 :
+{
+	Origin : currentMemoryCount
+	Current : currentMemoryCount
+}
+
+9 :
+{
+	Origin : currentMemoryCount
+	Current : currentMemoryCount
+}
+
+10 :
+{
+	Origin : fragmentsGiven
+	Current : fragmentsGiven
+}
+
+11 :
+{
+	Origin : fragmentsGiven
+	Current : fragmentsGiven
+}
+
+12 :
+{
+	Origin : itemSpawned
+	Current : itemSpawned
+}
+
+13 :
+{
+	Origin : itemSpawned
+	Current : itemSpawned
+}
+
+14 :
+{
+	Origin : initialComment
+	Current : initialComment
+}
+
+15 :
+{
+	Origin : initialComment
+	Current : initialComment
+}
+

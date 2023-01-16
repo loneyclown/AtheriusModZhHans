@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : sniperDamage
+	Current : sniperDamage
+}
+
+1 :
+{
+	Origin : sniperMult
+	Current : sniperMult
+}
+
+2 :
+{
+	Origin : sniperKnock
+	Current : sniperKnock
+}
+

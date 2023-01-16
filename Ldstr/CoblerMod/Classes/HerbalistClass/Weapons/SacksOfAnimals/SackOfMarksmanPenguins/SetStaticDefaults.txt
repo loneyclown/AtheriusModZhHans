@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Uses penguins as ammo to spawn in marksman penguins
+		These ice critters will go invisible and fire sniper shots on enemies
+		Can only have a max of 3 of these at a time
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Uses penguins as ammo to spawn in marksman penguins
+		These ice critters will go invisible and fire sniper shots on enemies
+		Can only have a max of 3 of these at a time
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Spirit
+	Current : Spirit
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Spirit_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Spirit_Bestiary
+}
+

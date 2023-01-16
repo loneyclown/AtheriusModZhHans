@@ -1,0 +1,42 @@
+0 :
+{
+	Origin : None
+	Current : None
+}
+
+1 :
+{
+	Origin : Fedora
+	Current : Fedora
+}
+
+2 :
+{
+	Origin : Wizard
+	Current : Wizard
+}
+
+3 :
+{
+	Origin : Windroot
+	Current : Windroot
+}
+
+4 :
+{
+	Origin : Mask
+	Current : Mask
+}
+
+5 :
+{
+	Origin : Cowboy
+	Current : Cowboy
+}
+
+6 :
+{
+	Origin : Noir
+	Current : Noir
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Senioress Nature Breastplate
+	Current : Senioress Nature Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Critters drop herbalist plants at a faster rate
+		Armor Set: herbalist crit is doubled
+	Current : 
+		Critters drop herbalist plants at a faster rate
+		Armor Set: herbalist crit is doubled
+}
+

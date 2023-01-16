@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/3F8C30:Greed] [c/FFFFFF:(Tier 5)]
+	Current : [c/383842:Rune of] [c/3F8C30:Greed] [c/FFFFFF:(Tier 5)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Herbalist damage by 18%
+		Player now have permanent spelunker
+		Herbalist passive heal increased by 4 HP 
+		Increased block range
+		Immune to Confused and Stoned
+		10% chance of dropping 1-5 gold coins everytime you kill an enemy
+	Current : 
+		Increases Herbalist damage by 18%
+		Player now have permanent spelunker
+		Herbalist passive heal increased by 4 HP 
+		Increased block range
+		Immune to Confused and Stoned
+		10% chance of dropping 1-5 gold coins everytime you kill an enemy
+}
+

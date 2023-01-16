@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Nature's Knight Leggings
+	Current : Nature's Knight Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased critter damage by 10%
+		Slightly increased critter drop rate
+		Armor Set: Increased number of herbalist circles by 2
+	Current : 
+		Increased critter damage by 10%
+		Slightly increased critter drop rate
+		Armor Set: Increased number of herbalist circles by 2
+}
+

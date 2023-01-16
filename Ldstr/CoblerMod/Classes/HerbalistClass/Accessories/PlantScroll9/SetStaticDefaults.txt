@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Herbalist Plant Modifier (Tier 9)
+	Current : Herbalist Plant Modifier (Tier 9)
+}
+
+1 :
+{
+	Origin : Equip this to only find plants given from scroll 9
+	Current : Equip this to only find plants given from scroll 9
+}
+

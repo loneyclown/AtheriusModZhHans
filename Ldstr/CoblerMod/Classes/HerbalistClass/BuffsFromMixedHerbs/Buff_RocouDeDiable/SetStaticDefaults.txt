@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Rocou De Diable
+	Current : Rocou De Diable
+}
+
+1 :
+{
+	Origin : The next 10 hits on the player will do half damage
+	Current : The next 10 hits on the player will do half damage
+}
+

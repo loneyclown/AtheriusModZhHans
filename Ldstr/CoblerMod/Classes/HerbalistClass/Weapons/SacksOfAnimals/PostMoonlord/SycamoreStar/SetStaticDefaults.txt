@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires little herbalist stars
+		When more than 1 star is out, the stars will begin playing catch with each other
+		Get 5 stars out and then mom comes in to join the little stars
+	Current : 
+		Fires little herbalist stars
+		When more than 1 star is out, the stars will begin playing catch with each other
+		Get 5 stars out and then mom comes in to join the little stars
+}
+

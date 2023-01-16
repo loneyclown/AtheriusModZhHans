@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		You can always trust Cooper!
+		Displays various information to the player
+	Current : 
+		You can always trust Cooper!
+		Displays various information to the player
+}
+

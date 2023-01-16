@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		A bowl for mixing herbs together
+		[c/0EA300:Herbalist Class]
+	Current : 
+		A bowl for mixing herbs together
+		[c/0EA300:Herbalist Class]
+}
+

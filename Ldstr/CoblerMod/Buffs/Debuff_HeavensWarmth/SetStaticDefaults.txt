@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Heaven's Warmth
+	Current : Heaven's Warmth
+}
+
+1 :
+{
+	Origin : Needs to recharge
+	Current : Needs to recharge
+}
+

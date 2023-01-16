@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Windroot (Vanity Flower)
+	Current : Windroot (Vanity Flower)
+}
+
+1 :
+{
+	Origin : So Perty.
+	Current : So Perty.
+}
+

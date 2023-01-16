@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Senioress Nature Leggings
+	Current : Senioress Nature Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Armor Set: herbalist crit is doubled
+	Current : 
+		Increased herbalist damage by 6%
+		Armor Set: herbalist crit is doubled
+}
+

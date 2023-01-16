@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Catalina Leggings
+	Current : Catalina Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist plant healing bonus by 5
+		Increased herbalist healing bonus by 100
+		Armor Set: All herbalist plants have a 2x drop rate
+	Current : 
+		Increased herbalist plant healing bonus by 5
+		Increased herbalist healing bonus by 100
+		Armor Set: All herbalist plants have a 2x drop rate
+}
+

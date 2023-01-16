@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Sends out a water vortex
+	Current : Sends out a water vortex
+}
+

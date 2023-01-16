@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Less than half mana will grant a mana star every 5 seconds
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Less than half mana will grant a mana star every 5 seconds
+		[c/0EA300:Herbalist Class]
+}
+

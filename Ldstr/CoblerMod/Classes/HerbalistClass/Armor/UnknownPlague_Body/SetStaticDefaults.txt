@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Unknown Plague Breastplate
+	Current : Unknown Plague Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased scale of all herbalist weapons by 20%
+		Increased drop rate from critters
+		Armor Set: Herbalist passive healing increased by 10
+	Current : 
+		Increased scale of all herbalist weapons by 20%
+		Increased drop rate from critters
+		Armor Set: Herbalist passive healing increased by 10
+}
+

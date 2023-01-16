@@ -1,0 +1,18 @@
+Header :
+{
+	Origin : Psychokinesis Config
+	Current : Psychokinesis Config
+}
+
+Label :
+{
+	Origin : Psychokinesis - Memorize List Length
+	Current : Psychokinesis - Memorize List Length
+}
+
+Tooltip :
+{
+	Origin : The amount of items you want to have memorized using the psychokinesis skill
+	Current : The amount of items you want to have memorized using the psychokinesis skill
+}
+

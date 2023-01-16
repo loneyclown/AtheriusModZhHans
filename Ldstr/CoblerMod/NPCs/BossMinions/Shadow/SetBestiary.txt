@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Goes invisible from time to time before snatching away their prey.
+	Current : Goes invisible from time to time before snatching away their prey.
+}
+

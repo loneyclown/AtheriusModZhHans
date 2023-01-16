@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Herbalist Book
+		Strong enough winds to send then away
+	Current : 
+		Herbalist Book
+		Strong enough winds to send then away
+}
+

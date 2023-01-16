@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Gain an additional 3 life passive for having this in inventory
+		Gain an additional hearbalist ring for having this in inventory
+		SO ELEGANT!
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Gain an additional 3 life passive for having this in inventory
+		Gain an additional hearbalist ring for having this in inventory
+		SO ELEGANT!
+		[c/0EA300:Herbalist Class]
+}
+

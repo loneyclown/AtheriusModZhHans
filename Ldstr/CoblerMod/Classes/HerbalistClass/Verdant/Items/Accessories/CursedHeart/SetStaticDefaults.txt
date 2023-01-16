@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased Generic damage and crit by 25%
+		Gain 50 HP with each hit but
+		Also will have 0 defense
+	Current : 
+		Increased Generic damage and crit by 25%
+		Gain 50 HP with each hit but
+		Also will have 0 defense
+}
+

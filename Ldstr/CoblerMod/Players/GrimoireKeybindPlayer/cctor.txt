@@ -1,0 +1,1800 @@
+0 :
+{
+	Origin : Fireball
+	Current : Fireball
+}
+
+1 :
+{
+	Origin : Fire Whip
+	Current : Fire Whip
+}
+
+2 :
+{
+	Origin : Flame Wheel
+	Current : Flame Wheel
+}
+
+3 :
+{
+	Origin : Guiding Embers
+	Current : Guiding Embers
+}
+
+4 :
+{
+	Origin : Fireworks
+	Current : Fireworks
+}
+
+5 :
+{
+	Origin : Salamander's Breath
+	Current : Salamander's Breath
+}
+
+6 :
+{
+	Origin : Death Sickle
+	Current : Death Sickle
+}
+
+7 :
+{
+	Origin : Dull Expression
+	Current : Dull Expression
+}
+
+8 :
+{
+	Origin : Dimension Wall
+	Current : Dimension Wall
+}
+
+9 :
+{
+	Origin : Dimension Slash
+	Current : Dimension Slash
+}
+
+10 :
+{
+	Origin : Black Hole
+	Current : Black Hole
+}
+
+11 :
+{
+	Origin : Dimension Slash - Equinox
+	Current : Dimension Slash - Equinox
+}
+
+12 :
+{
+	Origin : Demon Sword
+	Current : Demon Sword
+}
+
+13 :
+{
+	Origin : Demon Slash
+	Current : Demon Slash
+}
+
+14 :
+{
+	Origin : Demon Spear
+	Current : Demon Spear
+}
+
+15 :
+{
+	Origin : Demon Friend
+	Current : Demon Friend
+}
+
+16 :
+{
+	Origin : Demon Pulse
+	Current : Demon Pulse
+}
+
+17 :
+{
+	Origin : Not Yet
+	Current : Not Yet
+}
+
+18 :
+{
+	Origin : Ice Beam
+	Current : Ice Beam
+}
+
+19 :
+{
+	Origin : Avalanche
+	Current : Avalanche
+}
+
+20 :
+{
+	Origin : Dancing Tips
+	Current : Dancing Tips
+}
+
+21 :
+{
+	Origin : Snow Phalanx
+	Current : Snow Phalanx
+}
+
+22 :
+{
+	Origin : Hailstorm
+	Current : Hailstorm
+}
+
+23 :
+{
+	Origin : Shattered Ice
+	Current : Shattered Ice
+}
+
+24 :
+{
+	Origin : Beam
+	Current : Beam
+}
+
+25 :
+{
+	Origin : Holy Blade
+	Current : Holy Blade
+}
+
+26 :
+{
+	Origin : Blink
+	Current : Blink
+}
+
+27 :
+{
+	Origin : Array Dagger
+	Current : Array Dagger
+}
+
+28 :
+{
+	Origin : Light Whip
+	Current : Light Whip
+}
+
+29 :
+{
+	Origin : Falling Light
+	Current : Falling Light
+}
+
+30 :
+{
+	Origin : Blitz Ball
+	Current : Blitz Ball
+}
+
+31 :
+{
+	Origin : Thunder Wave
+	Current : Thunder Wave
+}
+
+32 :
+{
+	Origin : Shear Bolt
+	Current : Shear Bolt
+}
+
+33 :
+{
+	Origin : Electrical Current
+	Current : Electrical Current
+}
+
+34 :
+{
+	Origin : Zeus' Wrath
+	Current : Zeus' Wrath
+}
+
+35 :
+{
+	Origin : Ceranos
+	Current : Ceranos
+}
+
+36 :
+{
+	Origin : Fallen Star
+	Current : Fallen Star
+}
+
+37 :
+{
+	Origin : Silver Lining
+	Current : Silver Lining
+}
+
+38 :
+{
+	Origin : Dwarf Moon
+	Current : Dwarf Moon
+}
+
+39 :
+{
+	Origin : Dancing with the Stars
+	Current : Dancing with the Stars
+}
+
+40 :
+{
+	Origin : Universe
+	Current : Universe
+}
+
+41 :
+{
+	Origin : 200 Billion and Counting
+	Current : 200 Billion and Counting
+}
+
+42 :
+{
+	Origin : Water Ball
+	Current : Water Ball
+}
+
+43 :
+{
+	Origin : Water Burst
+	Current : Water Burst
+}
+
+44 :
+{
+	Origin : Aqua Dome
+	Current : Aqua Dome
+}
+
+45 :
+{
+	Origin : Water Vortex
+	Current : Water Vortex
+}
+
+46 :
+{
+	Origin : Kraken
+	Current : Kraken
+}
+
+47 :
+{
+	Origin : Sea Dragon's Roar
+	Current : Sea Dragon's Roar
+}
+
+48 :
+{
+	Origin : Vortex
+	Current : Vortex
+}
+
+49 :
+{
+	Origin : Wind Blade
+	Current : Wind Blade
+}
+
+50 :
+{
+	Origin : Whrilwind
+	Current : Whrilwind
+}
+
+51 :
+{
+	Origin : Windstorm
+	Current : Windstorm
+}
+
+52 :
+{
+	Origin : Spirit World
+	Current : Spirit World
+}
+
+53 :
+{
+	Origin : Spirit Bow
+	Current : Spirit Bow
+}
+
+54 :
+{
+	Origin : Kneel
+	Current : Kneel
+}
+
+55 :
+{
+	Origin : Despair
+	Current : Despair
+}
+
+56 :
+{
+	Origin : Steal
+	Current : Steal
+}
+
+57 :
+{
+	Origin : Freeze
+	Current : Freeze
+}
+
+58 :
+{
+	Origin : Disappear
+	Current : Disappear
+}
+
+59 :
+{
+	Origin : Erupt
+	Current : Erupt
+}
+
+60 :
+{
+	Origin : Big Money
+	Current : Big Money
+}
+
+61 :
+{
+	Origin : Yahtzee
+	Current : Yahtzee
+}
+
+62 :
+{
+	Origin : Hearty Throw
+	Current : Hearty Throw
+}
+
+63 :
+{
+	Origin : Big Boom
+	Current : Big Boom
+}
+
+64 :
+{
+	Origin : Magic Trick
+	Current : Magic Trick
+}
+
+65 :
+{
+	Origin : 20-Roll
+	Current : 20-Roll
+}
+
+66 :
+{
+	Origin : Poison
+	Current : Poison
+}
+
+67 :
+{
+	Origin : Firewall
+	Current : Firewall
+}
+
+68 :
+{
+	Origin : Turn Around
+	Current : Turn Around
+}
+
+69 :
+{
+	Origin : Life Drain
+	Current : Life Drain
+}
+
+70 :
+{
+	Origin : Hidden Spark
+	Current : Hidden Spark
+}
+
+71 :
+{
+	Origin : Hidden Minefield
+	Current : Hidden Minefield
+}
+
+72 :
+{
+	Origin : Leaf
+	Current : Leaf
+}
+
+73 :
+{
+	Origin : Bloom
+	Current : Bloom
+}
+
+74 :
+{
+	Origin : Blooming Missile
+	Current : Blooming Missile
+}
+
+75 :
+{
+	Origin : Nature Orb
+	Current : Nature Orb
+}
+
+76 :
+{
+	Origin : Mother Nature
+	Current : Mother Nature
+}
+
+77 :
+{
+	Origin : Garden of Growth
+	Current : Garden of Growth
+}
+
+78 :
+{
+	Origin : Blood Ball
+	Current : Blood Ball
+}
+
+79 :
+{
+	Origin : Rend
+	Current : Rend
+}
+
+80 :
+{
+	Origin : Red Fountain
+	Current : Red Fountain
+}
+
+81 :
+{
+	Origin : Ignited Blood
+	Current : Ignited Blood
+}
+
+82 :
+{
+	Origin : Eternal Blood
+	Current : Eternal Blood
+}
+
+83 :
+{
+	Origin : Scars
+	Current : Scars
+}
+
+84 :
+{
+	Origin : Guiding Light
+	Current : Guiding Light
+}
+
+85 :
+{
+	Origin : Berserker
+	Current : Berserker
+}
+
+86 :
+{
+	Origin : Fury
+	Current : Fury
+}
+
+87 :
+{
+	Origin : Eruption
+	Current : Eruption
+}
+
+88 :
+{
+	Origin : Utopia
+	Current : Utopia
+}
+
+89 :
+{
+	Origin : Pure Chaos
+	Current : Pure Chaos
+}
+
+90 :
+{
+	Origin : Hearty Meal
+	Current : Hearty Meal
+}
+
+91 :
+{
+	Origin : More Food
+	Current : More Food
+}
+
+92 :
+{
+	Origin : Flour Pound
+	Current : Flour Pound
+}
+
+93 :
+{
+	Origin : With Syrup
+	Current : With Syrup
+}
+
+94 :
+{
+	Origin : God's Gift
+	Current : God's Gift
+}
+
+95 :
+{
+	Origin : Royal Delivery
+	Current : Royal Delivery
+}
+
+96 :
+{
+	Origin : Death Sickle
+	Current : Death Sickle
+}
+
+97 :
+{
+	Origin : Dying Light
+	Current : Dying Light
+}
+
+98 :
+{
+	Origin : Death Portal
+	Current : Death Portal
+}
+
+99 :
+{
+	Origin : Midnight
+	Current : Midnight
+}
+
+100 :
+{
+	Origin : Fallen Angel
+	Current : Fallen Angel
+}
+
+101 :
+{
+	Origin : Death
+	Current : Death
+}
+
+102 :
+{
+	Origin : Paintball
+	Current : Paintball
+}
+
+103 :
+{
+	Origin : Raining Colors
+	Current : Raining Colors
+}
+
+104 :
+{
+	Origin : Wet Floor
+	Current : Wet Floor
+}
+
+105 :
+{
+	Origin : Artist's Gift
+	Current : Artist's Gift
+}
+
+106 :
+{
+	Origin : Color Wheel
+	Current : Color Wheel
+}
+
+107 :
+{
+	Origin : Canvas
+	Current : Canvas
+}
+
+108 :
+{
+	Origin : Too Ugly
+	Current : Too Ugly
+}
+
+109 :
+{
+	Origin : Reflect Refrain
+	Current : Reflect Refrain
+}
+
+110 :
+{
+	Origin : Shattered Universe
+	Current : Shattered Universe
+}
+
+111 :
+{
+	Origin : Mirror Atom
+	Current : Mirror Atom
+}
+
+112 :
+{
+	Origin : Friendly Neighbor
+	Current : Friendly Neighbor
+}
+
+113 :
+{
+	Origin : Friendly Fire
+	Current : Friendly Fire
+}
+
+114 :
+{
+	Origin : Friend
+	Current : Friend
+}
+
+115 :
+{
+	Origin : Toxic Entrance
+	Current : Toxic Entrance
+}
+
+116 :
+{
+	Origin : Gas Cloud
+	Current : Gas Cloud
+}
+
+117 :
+{
+	Origin : Noxious Gas
+	Current : Noxious Gas
+}
+
+118 :
+{
+	Origin : Dr. Barrett
+	Current : Dr. Barrett
+}
+
+119 :
+{
+	Origin : Poisoned World
+	Current : Poisoned World
+}
+
+120 :
+{
+	Origin : Note
+	Current : Note
+}
+
+121 :
+{
+	Origin : Carried Tunes
+	Current : Carried Tunes
+}
+
+122 :
+{
+	Origin : Lullaby
+	Current : Lullaby
+}
+
+123 :
+{
+	Origin : Rising Notes
+	Current : Rising Notes
+}
+
+124 :
+{
+	Origin : World Tour
+	Current : World Tour
+}
+
+125 :
+{
+	Origin : Biggest Fans
+	Current : Biggest Fans
+}
+
+126 :
+{
+	Origin : Mercury Ball
+	Current : Mercury Ball
+}
+
+127 :
+{
+	Origin : Clear Whip
+	Current : Clear Whip
+}
+
+128 :
+{
+	Origin : Take Form
+	Current : Take Form
+}
+
+129 :
+{
+	Origin : Clear Puff
+	Current : Clear Puff
+}
+
+130 :
+{
+	Origin : Silver Pellets
+	Current : Silver Pellets
+}
+
+131 :
+{
+	Origin : Clear Landing
+	Current : Clear Landing
+}
+
+132 :
+{
+	Origin : Portal Ray
+	Current : Portal Ray
+}
+
+133 :
+{
+	Origin : Fall
+	Current : Fall
+}
+
+134 :
+{
+	Origin : Blitz
+	Current : Blitz
+}
+
+135 :
+{
+	Origin : Gravity Ball
+	Current : Gravity Ball
+}
+
+136 :
+{
+	Origin : Ancient Orb
+	Current : Ancient Orb
+}
+
+137 :
+{
+	Origin : One's Will
+	Current : One's Will
+}
+
+138 :
+{
+	Origin : Air Particles
+	Current : Air Particles
+}
+
+139 :
+{
+	Origin : Restore
+	Current : Restore
+}
+
+140 :
+{
+	Origin : Mirage
+	Current : Mirage
+}
+
+141 :
+{
+	Origin : Dust to Ashes
+	Current : Dust to Ashes
+}
+
+142 :
+{
+	Origin : Magical Gel
+	Current : Magical Gel
+}
+
+143 :
+{
+	Origin : Free Air
+	Current : Free Air
+}
+
+144 :
+{
+	Origin : Smoky Ring
+	Current : Smoky Ring
+}
+
+145 :
+{
+	Origin : Filled Smoke
+	Current : Filled Smoke
+}
+
+146 :
+{
+	Origin : Smoke Bomb
+	Current : Smoke Bomb
+}
+
+147 :
+{
+	Origin : Evaporate
+	Current : Evaporate
+}
+
+148 :
+{
+	Origin : Cursed Smoke
+	Current : Cursed Smoke
+}
+
+149 :
+{
+	Origin : Smoke Field
+	Current : Smoke Field
+}
+
+150 :
+{
+	Origin : Sneak
+	Current : Sneak
+}
+
+151 :
+{
+	Origin : Steal
+	Current : Steal
+}
+
+152 :
+{
+	Origin : Backstab
+	Current : Backstab
+}
+
+153 :
+{
+	Origin : Life Force
+	Current : Life Force
+}
+
+154 :
+{
+	Origin : My Buffs
+	Current : My Buffs
+}
+
+155 :
+{
+	Origin : Group of Mischiefs
+	Current : Group of Mischiefs
+}
+
+156 :
+{
+	Origin : Love Hurts
+	Current : Love Hurts
+}
+
+157 :
+{
+	Origin : Pounding Heart
+	Current : Pounding Heart
+}
+
+158 :
+{
+	Origin : Restore
+	Current : Restore
+}
+
+159 :
+{
+	Origin : Heal
+	Current : Heal
+}
+
+160 :
+{
+	Origin : Hearty Gift
+	Current : Hearty Gift
+}
+
+161 :
+{
+	Origin : Heal Thy Axe
+	Current : Heal Thy Axe
+}
+
+162 :
+{
+	Origin : Rot
+	Current : Rot
+}
+
+163 :
+{
+	Origin : Rotten Heart
+	Current : Rotten Heart
+}
+
+164 :
+{
+	Origin : More Rotting
+	Current : More Rotting
+}
+
+165 :
+{
+	Origin : Plague
+	Current : Plague
+}
+
+166 :
+{
+	Origin : Rotting Wall
+	Current : Rotting Wall
+}
+
+167 :
+{
+	Origin : Black Plague
+	Current : Black Plague
+}
+
+168 :
+{
+	Origin : Missile
+	Current : Missile
+}
+
+169 :
+{
+	Origin : Dust to Dust
+	Current : Dust to Dust
+}
+
+170 :
+{
+	Origin : Crystal Bomb
+	Current : Crystal Bomb
+}
+
+171 :
+{
+	Origin : Deception Bow
+	Current : Deception Bow
+}
+
+172 :
+{
+	Origin : Arcane Flux
+	Current : Arcane Flux
+}
+
+173 :
+{
+	Origin : Sparkling Sky
+	Current : Sparkling Sky
+}
+
+174 :
+{
+	Origin : Void Ball
+	Current : Void Ball
+}
+
+175 :
+{
+	Origin : Shadow
+	Current : Shadow
+}
+
+176 :
+{
+	Origin : Disappear
+	Current : Disappear
+}
+
+177 :
+{
+	Origin : Erupt
+	Current : Erupt
+}
+
+178 :
+{
+	Origin : Void Saber
+	Current : Void Saber
+}
+
+179 :
+{
+	Origin : Pitch Black
+	Current : Pitch Black
+}
+
+180 :
+{
+	Origin : Soul Burn
+	Current : Soul Burn
+}
+
+181 :
+{
+	Origin : Cursed Arrow
+	Current : Cursed Arrow
+}
+
+182 :
+{
+	Origin : Dedication
+	Current : Dedication
+}
+
+183 :
+{
+	Origin : Cursed Souls
+	Current : Cursed Souls
+}
+
+184 :
+{
+	Origin : Revenge
+	Current : Revenge
+}
+
+185 :
+{
+	Origin : Cursed Sapling
+	Current : Cursed Sapling
+}
+
+186 :
+{
+	Origin : Flick
+	Current : Flick
+}
+
+187 :
+{
+	Origin : Spatial Awareness
+	Current : Spatial Awareness
+}
+
+188 :
+{
+	Origin : Clustered Particles
+	Current : Clustered Particles
+}
+
+189 :
+{
+	Origin : Portal
+	Current : Portal
+}
+
+190 :
+{
+	Origin : Spatial Blast
+	Current : Spatial Blast
+}
+
+191 :
+{
+	Origin : Mass Warp
+	Current : Mass Warp
+}
+
+192 :
+{
+	Origin : Click
+	Current : Click
+}
+
+193 :
+{
+	Origin : Brain Game
+	Current : Brain Game
+}
+
+194 :
+{
+	Origin : Yoo Hoo
+	Current : Yoo Hoo
+}
+
+195 :
+{
+	Origin : One's Thought
+	Current : One's Thought
+}
+
+196 :
+{
+	Origin : Surprise
+	Current : Surprise
+}
+
+197 :
+{
+	Origin : Dream World
+	Current : Dream World
+}
+
+198 :
+{
+	Origin : Line of Pink
+	Current : Line of Pink
+}
+
+199 :
+{
+	Origin : Strung String
+	Current : Strung String
+}
+
+200 :
+{
+	Origin : Gone Fishing
+	Current : Gone Fishing
+}
+
+201 :
+{
+	Origin : Bland Whip
+	Current : Bland Whip
+}
+
+202 :
+{
+	Origin : Dark Whip
+	Current : Dark Whip
+}
+
+203 :
+{
+	Origin : One's Fate
+	Current : One's Fate
+}
+
+204 :
+{
+	Origin : Time Missile
+	Current : Time Missile
+}
+
+205 :
+{
+	Origin : Contain
+	Current : Contain
+}
+
+206 :
+{
+	Origin : Tick Tock
+	Current : Tick Tock
+}
+
+207 :
+{
+	Origin : Warp
+	Current : Warp
+}
+
+208 :
+{
+	Origin : World Clock
+	Current : World Clock
+}
+
+209 :
+{
+	Origin : Shining Clocks
+	Current : Shining Clocks
+}
+
+210 :
+{
+	Origin : Nice Rock
+	Current : Nice Rock
+}
+
+211 :
+{
+	Origin : Quake
+	Current : Quake
+}
+
+212 :
+{
+	Origin : Falling Boulders
+	Current : Falling Boulders
+}
+
+213 :
+{
+	Origin : Earthquake
+	Current : Earthquake
+}
+
+214 :
+{
+	Origin : Harden
+	Current : Harden
+}
+
+215 :
+{
+	Origin : Nature's Curse
+	Current : Nature's Curse
+}
+
+216 :
+{
+	Origin : Compass Throw
+	Current : Compass Throw
+}
+
+217 :
+{
+	Origin : Lost
+	Current : Lost
+}
+
+218 :
+{
+	Origin : Zip
+	Current : Zip
+}
+
+219 :
+{
+	Origin : Redirect
+	Current : Redirect
+}
+
+220 :
+{
+	Origin : Grand Compass
+	Current : Grand Compass
+}
+
+221 :
+{
+	Origin : True North
+	Current : True North
+}
+
+222 :
+{
+	Origin : Harden
+	Current : Harden
+}
+
+223 :
+{
+	Origin : Burn
+	Current : Burn
+}
+
+224 :
+{
+	Origin : Poisoned
+	Current : Poisoned
+}
+
+225 :
+{
+	Origin : Thorny
+	Current : Thorny
+}
+
+226 :
+{
+	Origin : Loose Skin
+	Current : Loose Skin
+}
+
+227 :
+{
+	Origin : Skin Go Boom
+	Current : Skin Go Boom
+}
+
+228 :
+{
+	Origin : Shield Throw
+	Current : Shield Throw
+}
+
+229 :
+{
+	Origin : Swivle
+	Current : Swivle
+}
+
+230 :
+{
+	Origin : Deflect
+	Current : Deflect
+}
+
+231 :
+{
+	Origin : Hearty Protector
+	Current : Hearty Protector
+}
+
+232 :
+{
+	Origin : Grand Shield
+	Current : Grand Shield
+}
+
+233 :
+{
+	Origin : Fortify
+	Current : Fortify
+}
+
+234 :
+{
+	Origin : Nano Bullet
+	Current : Nano Bullet
+}
+
+235 :
+{
+	Origin : Plasma Balls
+	Current : Plasma Balls
+}
+
+236 :
+{
+	Origin : Chained Beam
+	Current : Chained Beam
+}
+
+237 :
+{
+	Origin : Fate's Gift
+	Current : Fate's Gift
+}
+
+238 :
+{
+	Origin : One Spark
+	Current : One Spark
+}
+
+239 :
+{
+	Origin : Many Sparks
+	Current : Many Sparks
+}
+
+240 :
+{
+	Origin : Aether 1
+	Current : Aether 1
+}
+
+241 :
+{
+	Origin : Aether 2
+	Current : Aether 2
+}
+
+242 :
+{
+	Origin : Aether 3
+	Current : Aether 3
+}
+
+243 :
+{
+	Origin : Aether 4
+	Current : Aether 4
+}
+
+244 :
+{
+	Origin : Aether 5
+	Current : Aether 5
+}
+
+245 :
+{
+	Origin : Aether 6
+	Current : Aether 6
+}
+
+246 :
+{
+	Origin : Nether 1
+	Current : Nether 1
+}
+
+247 :
+{
+	Origin : Nether 2
+	Current : Nether 2
+}
+
+248 :
+{
+	Origin : Nether 3
+	Current : Nether 3
+}
+
+249 :
+{
+	Origin : Nether 4
+	Current : Nether 4
+}
+
+250 :
+{
+	Origin : Nether 5
+	Current : Nether 5
+}
+
+251 :
+{
+	Origin : Nether 6
+	Current : Nether 6
+}
+
+252 :
+{
+	Origin : Gold Coin
+	Current : Gold Coin
+}
+
+253 :
+{
+	Origin : Bright Sky
+	Current : Bright Sky
+}
+
+254 :
+{
+	Origin : Golden Blade
+	Current : Golden Blade
+}
+
+255 :
+{
+	Origin : Toss A Coin
+	Current : Toss A Coin
+}
+
+256 :
+{
+	Origin : Gold Skull
+	Current : Gold Skull
+}
+
+257 :
+{
+	Origin : Filthy Rich
+	Current : Filthy Rich
+}
+
+258 :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+259 :
+{
+	Origin : EXPlosion
+	Current : EXPlosion
+}
+
+260 :
+{
+	Origin : EXPLOsion
+	Current : EXPLOsion
+}
+
+261 :
+{
+	Origin : EXPLOSIon
+	Current : EXPLOSIon
+}
+
+262 :
+{
+	Origin : EXPLOSION
+	Current : EXPLOSION
+}
+
+263 :
+{
+	Origin : EXXXPLLLOOOOOOOOOSION!
+	Current : EXXXPLLLOOOOOOOOOSION!
+}
+
+264 :
+{
+	Origin : 80-MB
+	Current : 80-MB
+}
+
+265 :
+{
+	Origin : S4-W
+	Current : S4-W
+}
+
+266 :
+{
+	Origin : M-1N3
+	Current : M-1N3
+}
+
+267 :
+{
+	Origin : Sh-O0T3R
+	Current : Sh-O0T3R
+}
+
+268 :
+{
+	Origin : TR4-CK
+	Current : TR4-CK
+}
+
+269 :
+{
+	Origin : M-1N3 F1-3LD
+	Current : M-1N3 F1-3LD
+}
+
+270 :
+{
+	Origin : Chug
+	Current : Chug
+}
+
+271 :
+{
+	Origin : Round's On Me
+	Current : Round's On Me
+}
+
+272 :
+{
+	Origin : The Worst Beer
+	Current : The Worst Beer
+}
+
+273 :
+{
+	Origin : Sober Up
+	Current : Sober Up
+}
+
+274 :
+{
+	Origin : The Best Beer
+	Current : The Best Beer
+}
+
+275 :
+{
+	Origin : Seeing 'Double'
+	Current : Seeing 'Double'
+}
+
+276 :
+{
+	Origin : Space 1
+	Current : Space 1
+}
+
+277 :
+{
+	Origin : Space 2
+	Current : Space 2
+}
+
+278 :
+{
+	Origin : Space 3
+	Current : Space 3
+}
+
+279 :
+{
+	Origin : Space 4
+	Current : Space 4
+}
+
+280 :
+{
+	Origin : Space 5
+	Current : Space 5
+}
+
+281 :
+{
+	Origin : Space 6
+	Current : Space 6
+}
+
+282 :
+{
+	Origin : Acid 1
+	Current : Acid 1
+}
+
+283 :
+{
+	Origin : Acid 2
+	Current : Acid 2
+}
+
+284 :
+{
+	Origin : Acid 3
+	Current : Acid 3
+}
+
+285 :
+{
+	Origin : Acid 4
+	Current : Acid 4
+}
+
+286 :
+{
+	Origin : Acid 5
+	Current : Acid 5
+}
+
+287 :
+{
+	Origin : Acid 6
+	Current : Acid 6
+}
+
+288 :
+{
+	Origin : Duplicate
+	Current : Duplicate
+}
+
+289 :
+{
+	Origin : Mimic
+	Current : Mimic
+}
+
+290 :
+{
+	Origin : Return to Sender
+	Current : Return to Sender
+}
+
+291 :
+{
+	Origin : Vast Collection
+	Current : Vast Collection
+}
+
+292 :
+{
+	Origin : 2 > 1
+	Current : 2 > 1
+}
+
+293 :
+{
+	Origin : Boss Duplication
+	Current : Boss Duplication
+}
+
+294 :
+{
+	Origin : Magnet 1
+	Current : Magnet 1
+}
+
+295 :
+{
+	Origin : Magnet 2
+	Current : Magnet 2
+}
+
+296 :
+{
+	Origin : Magnet 3
+	Current : Magnet 3
+}
+
+297 :
+{
+	Origin : Magnet 4
+	Current : Magnet 4
+}
+
+298 :
+{
+	Origin : Magnet 5
+	Current : Magnet 5
+}
+
+299 :
+{
+	Origin : Magnet 6
+	Current : Magnet 6
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 'A Part of Nature' Leggings
+	Current : 'A Part of Nature' Leggings
+}
+
+1 :
+{
+	Origin : 
+		Slight increase in herbalist crit
+		Herbalist potions that restore mana restore 50 more mana
+		Armor Set: No damage to critters
+	Current : 
+		Slight increase in herbalist crit
+		Herbalist potions that restore mana restore 50 more mana
+		Armor Set: No damage to critters
+}
+

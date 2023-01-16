@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Soul Servant Minion
+	Current : Soul Servant Minion
+}
+
+1 :
+{
+	Origin : He'll be your sword
+	Current : He'll be your sword
+}
+

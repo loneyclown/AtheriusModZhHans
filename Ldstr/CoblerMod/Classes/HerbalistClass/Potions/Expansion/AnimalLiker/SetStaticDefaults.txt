@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increase herbalist knockback when animals are around
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increase herbalist knockback when animals are around
+		[c/0EA300:Herbalist Class]
+}
+

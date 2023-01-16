@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		The mother now sees you as one of her own
+		This boss only deal 1 damage to you with this equipped
+	Current : 
+		The mother now sees you as one of her own
+		This boss only deal 1 damage to you with this equipped
+}
+

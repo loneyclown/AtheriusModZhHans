@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Magic and water are her two specialties.
+		Put them together for water magic and it's a show!.
+	Current : 
+		Magic and water are her two specialties.
+		Put them together for water magic and it's a show!.
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Consume to remove the herbalist shield debuff
+		You will get potion sickness however
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Consume to remove the herbalist shield debuff
+		You will get potion sickness however
+		[c/0EA300:Herbalist Class]
+}
+

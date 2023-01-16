@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Prickle
+	Current : Prickle
+}
+
+1 :
+{
+	Origin : 
+		Chance of getting a thorn everytime you hit an enemy
+		Poisons Enemy
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Chance of getting a thorn everytime you hit an enemy
+		Poisons Enemy
+		[c/0EA300:Herbalist Class]
+}
+

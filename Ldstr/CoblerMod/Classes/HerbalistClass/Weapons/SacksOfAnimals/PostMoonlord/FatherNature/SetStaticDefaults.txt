@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		While swinging, leaves will start falling from the sky
+		If the player is on the ground, rock formations will start sprouting up
+		Every 3 swings the rocks get bigger before returning to normal size
+		'Father Nature is a lot more chilled back. He'll let you pass on some things'
+		[c/0EA300:Herbalist Class]
+	Current : 
+		While swinging, leaves will start falling from the sky
+		If the player is on the ground, rock formations will start sprouting up
+		Every 3 swings the rocks get bigger before returning to normal size
+		'Father Nature is a lot more chilled back. He'll let you pass on some things'
+		[c/0EA300:Herbalist Class]
+}
+

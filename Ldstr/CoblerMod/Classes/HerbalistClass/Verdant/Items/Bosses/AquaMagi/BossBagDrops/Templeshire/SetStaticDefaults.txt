@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Send downs water balls from the sky
+		Also makes it start raining on use
+	Current : 
+		Send downs water balls from the sky
+		Also makes it start raining on use
+}
+

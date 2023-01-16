@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : [c/0EA300:Herbalist Class]
+	Current : [c/0EA300:Herbalist Class]
+}
+

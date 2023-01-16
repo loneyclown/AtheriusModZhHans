@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Squirrels now count as ammunition
+		Use this bag to release them while in combat
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Squirrels now count as ammunition
+		Use this bag to release them while in combat
+		[c/0EA300:Herbalist Class]
+}
+

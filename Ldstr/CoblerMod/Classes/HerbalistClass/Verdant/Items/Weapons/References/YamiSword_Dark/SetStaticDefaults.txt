@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Yami's Sword
+	Current : Yami's Sword
+}
+
+1 :
+{
+	Origin : Dimension slash time
+	Current : Dimension slash time
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : [c/383842:Rune]
+	Current : [c/383842:Rune]
+}
+
+1 :
+{
+	Origin : [c/383842:Rune]
+	Current : [c/383842:Rune]
+}
+
+2 :
+{
+	Origin : [c/383842:Rune Dye]
+	Current : [c/383842:Rune Dye]
+}
+

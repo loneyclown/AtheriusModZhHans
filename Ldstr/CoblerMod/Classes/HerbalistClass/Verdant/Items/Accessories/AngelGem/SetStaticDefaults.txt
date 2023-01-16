@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Immunity to Fallen Angel
+	Current : Immunity to Fallen Angel
+}
+

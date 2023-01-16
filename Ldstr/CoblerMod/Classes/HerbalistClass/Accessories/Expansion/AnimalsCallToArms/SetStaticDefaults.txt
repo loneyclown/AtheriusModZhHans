@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Animals: Call to Arms
+	Current : Animals: Call to Arms
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		All friendly animals near the player will randomly fire projectiles
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		All friendly animals near the player will randomly fire projectiles
+		[c/0EA300:Herbalist Class]
+}
+

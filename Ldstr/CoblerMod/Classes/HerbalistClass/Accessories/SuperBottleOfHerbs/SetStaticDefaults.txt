@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased herbalist resource by 75
+		Increased herbalist resource regen rate by 30%
+		Increased herbalist damage by 10%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist resource by 75
+		Increased herbalist resource regen rate by 30%
+		Increased herbalist damage by 10%
+		[c/0EA300:Herbalist Class]
+}
+

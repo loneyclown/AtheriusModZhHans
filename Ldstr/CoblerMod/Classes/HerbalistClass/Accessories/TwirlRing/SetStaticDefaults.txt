@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Slightly increases herbalist crit
+		All plants can now drop double
+		This doesn't apply to the rarest plants (after scroll 10)
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Slightly increases herbalist crit
+		All plants can now drop double
+		This doesn't apply to the rarest plants (after scroll 10)
+		[c/0EA300:Herbalist Class]
+}
+

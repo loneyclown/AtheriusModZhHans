@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Grik'drard
+	Current : Grik'drard
+}
+
+1 :
+{
+	Origin : 
+		Dying light falls from the sky
+		A final wisp from Hell's angel
+	Current : 
+		Dying light falls from the sky
+		A final wisp from Hell's angel
+}
+

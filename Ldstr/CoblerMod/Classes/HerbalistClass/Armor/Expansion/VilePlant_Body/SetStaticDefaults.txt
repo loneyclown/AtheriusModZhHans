@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Vile Plant Breastplate
+	Current : Vile Plant Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increase in herbalist crit
+		Critters drop herbalist plants at a faster rate
+		Armor Set: critters may drop you a potion
+	Current : 
+		Increase in herbalist crit
+		Critters drop herbalist plants at a faster rate
+		Armor Set: critters may drop you a potion
+}
+

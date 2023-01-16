@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		Increase in herbalist crit
+		Increased herbalist healing passive by 10
+		Increased herbalist resource by 75
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increase in herbalist crit
+		Increased herbalist healing passive by 10
+		Increased herbalist resource by 75
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+}
+

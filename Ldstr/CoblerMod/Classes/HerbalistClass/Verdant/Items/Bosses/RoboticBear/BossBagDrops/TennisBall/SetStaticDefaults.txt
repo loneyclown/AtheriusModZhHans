@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		This item does nothing
+		Just doesn't give much of a will to live (F)
+	Current : 
+		This item does nothing
+		Just doesn't give much of a will to live (F)
+}
+

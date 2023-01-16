@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		5% increased damage in snipers
+		Reduced time for special shot cooldown
+		Sniper Class
+	Current : 
+		5% increased damage in snipers
+		Reduced time for special shot cooldown
+		Sniper Class
+}
+

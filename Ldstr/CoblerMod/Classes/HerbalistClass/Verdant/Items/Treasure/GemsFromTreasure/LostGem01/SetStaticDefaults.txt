@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Lost Gem #1
+	Current : Lost Gem #1
+}
+
+1 :
+{
+	Origin : 
+		The power if you collect all 12...
+		It could surpass everything...
+	Current : 
+		The power if you collect all 12...
+		It could surpass everything...
+}
+

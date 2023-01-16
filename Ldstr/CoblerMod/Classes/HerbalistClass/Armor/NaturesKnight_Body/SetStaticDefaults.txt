@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Nature's Knight Breastplate
+	Current : Nature's Knight Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Slightly increased critter life regen
+		Increased intensity from the falling leaves
+		Armor Set: Increased number of herbalist circles by 2
+	Current : 
+		Slightly increased critter life regen
+		Increased intensity from the falling leaves
+		Armor Set: Increased number of herbalist circles by 2
+}
+

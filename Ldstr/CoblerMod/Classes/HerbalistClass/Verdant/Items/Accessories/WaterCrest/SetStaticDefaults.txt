@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Become part of the vast seas. 
+		Gain the ability to walk on water 
+		Increase summon damage by 15%
+		Player will gradually take damage overtime with this equipped
+		In exchange, Every kill will grant you 20 HP. Can you beat death?
+	Current : 
+		Become part of the vast seas. 
+		Gain the ability to walk on water 
+		Increase summon damage by 15%
+		Player will gradually take damage overtime with this equipped
+		In exchange, Every kill will grant you 20 HP. Can you beat death?
+}
+

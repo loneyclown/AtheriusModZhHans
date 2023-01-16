@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Doomsday
+	Current : Doomsday
+}
+
+1 :
+{
+	Origin : 
+		[c/00FFC0:Fires multiple rapid shots]
+		It builds up in speed over time
+	Current : 
+		[c/00FFC0:Fires multiple rapid shots]
+		It builds up in speed over time
+}
+

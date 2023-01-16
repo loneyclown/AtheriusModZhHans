@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : HerbalistMod: Herbalist Resource Bar
+	Current : HerbalistMod: Herbalist Resource Bar
+}
+

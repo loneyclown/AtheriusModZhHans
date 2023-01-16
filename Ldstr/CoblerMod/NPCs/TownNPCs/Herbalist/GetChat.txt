@@ -1,0 +1,270 @@
+0 :
+{
+	Origin : is making all of my flowers dance again...
+	Current : is making all of my flowers dance again...
+}
+
+1 :
+{
+	Origin : C'mon, let's go see what
+	Current : C'mon, let's go see what
+}
+
+2 :
+{
+	Origin : is doing right now. I'd like to see if there are any new plants!
+	Current : is doing right now. I'd like to see if there are any new plants!
+}
+
+3 :
+{
+	Origin : If I see
+	Current : If I see
+}
+
+4 :
+{
+	Origin : destroy 1 more part of nature I'm sending him down under.
+	Current : destroy 1 more part of nature I'm sending him down under.
+}
+
+5 :
+{
+	Origin : creeps me out. I bet there's not even a face behind that mask...
+	Current : creeps me out. I bet there's not even a face behind that mask...
+}
+
+6 :
+{
+	Origin : Why'd I dye my hair green? I didn't dye it, it just changed overtime through nature. But don't tell
+	Current : Why'd I dye my hair green? I didn't dye it, it just changed overtime through nature. But don't tell
+}
+
+7 :
+{
+	Origin : that!
+	Current : that!
+}
+
+8 :
+{
+	Origin : That's a really cool weapon! Did you use Windroot to make it??? Tell me you have spare Windroot!
+	Current : That's a really cool weapon! Did you use Windroot to make it??? Tell me you have spare Windroot!
+}
+
+9 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+10 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+11 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+12 :
+{
+	Origin : ]
+	Current : ]
+}
+
+13 :
+{
+	Origin : Tell me you have windroot?! That plant is so beautiful!
+	Current : Tell me you have windroot?! That plant is so beautiful!
+}
+
+14 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+15 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+16 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+17 :
+{
+	Origin : ]
+	Current : ]
+}
+
+18 :
+{
+	Origin : Do you ever just lay in the grass and stare up?
+	Current : Do you ever just lay in the grass and stare up?
+}
+
+19 :
+{
+	Origin : What do you mean you've never heard of perennial rosaceae?
+	Current : What do you mean you've never heard of perennial rosaceae?
+}
+
+20 :
+{
+	Origin : How much mulch could a mulch chuck chuck if a mulch chuck wanted to plant something?
+	Current : How much mulch could a mulch chuck chuck if a mulch chuck wanted to plant something?
+}
+
+21 :
+{
+	Origin : You still want to know how I showed up? Sorry, that's for another time.
+	Current : You still want to know how I showed up? Sorry, that's for another time.
+}
+
+22 :
+{
+	Origin : Verdant
+	Current : Verdant
+}
+
+23 :
+{
+	Origin : InVerdant
+	Current : InVerdant
+}
+
+24 :
+{
+	Origin : This place is magical... What is this unforseen amount of nature?
+	Current : This place is magical... What is this unforseen amount of nature?
+}
+
+25 :
+{
+	Origin : The roots lying within are strong... What if this place has special windroot?!
+	Current : The roots lying within are strong... What if this place has special windroot?!
+}
+
+26 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+27 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+28 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+29 :
+{
+	Origin : ]
+	Current : ]
+}
+
+30 :
+{
+	Origin : Has
+	Current : Has
+}
+
+31 :
+{
+	Origin : been here yet? I need to show her this place!
+	Current : been here yet? I need to show her this place!
+}
+
+32 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+33 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+34 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+35 :
+{
+	Origin : ]
+	Current : ]
+}
+
+36 :
+{
+	Origin : We better keep
+	Current : We better keep
+}
+
+37 :
+{
+	Origin : away from this place! He'll destroy it all!
+	Current : away from this place! He'll destroy it all!
+}
+
+38 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+39 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+40 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+41 :
+{
+	Origin : ]
+	Current : ]
+}
+
+42 :
+{
+	Origin : Nature is often hidden, sometimes overcome, seldom extinguished...
+	Current : Nature is often hidden, sometimes overcome, seldom extinguished...
+}
+
+43 :
+{
+	Origin : The farther one gets into the wilderness, the greater is the attraction of its lonely freedom...
+	Current : The farther one gets into the wilderness, the greater is the attraction of its lonely freedom...
+}
+
+44 :
+{
+	Origin : There is a delight in the hardy life of the open. There are no words that can tell the hidden spirit of the wilderness that can reveal its mystery, its melancholy and its charm...
+	Current : There is a delight in the hardy life of the open. There are no words that can tell the hidden spirit of the wilderness that can reveal its mystery, its melancholy and its charm...
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Flaming Exarch Relic
+	Current : Flaming Exarch Relic
+}
+

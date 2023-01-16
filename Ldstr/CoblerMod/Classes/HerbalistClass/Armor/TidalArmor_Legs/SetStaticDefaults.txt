@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Tidal Leggings
+	Current : Tidal Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased magic speed by 15%
+		Player can walk on water
+		Armor Set: Cut mana costs by half
+	Current : 
+		Increased magic speed by 15%
+		Player can walk on water
+		Armor Set: Cut mana costs by half
+}
+

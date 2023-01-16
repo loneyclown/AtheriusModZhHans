@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Vile Plant Helmet
+	Current : Vile Plant Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist passive heal by 8 HP
+		Armor Set: critters may drop you a potion
+	Current : 
+		Increased herbalist passive heal by 8 HP
+		Armor Set: critters may drop you a potion
+}
+

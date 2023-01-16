@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : These birds are actually blind. There's too much blood around them...
+	Current : These birds are actually blind. There's too much blood around them...
+}
+

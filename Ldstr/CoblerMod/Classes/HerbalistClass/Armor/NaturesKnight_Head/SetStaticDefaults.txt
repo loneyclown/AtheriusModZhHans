@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Nature's Knight Helmet
+	Current : Nature's Knight Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased critter life by 10
+		Increased damage from the trees
+		Armor Set: Increased number of herbalist circles by 2
+	Current : 
+		Increased critter life by 10
+		Increased damage from the trees
+		Armor Set: Increased number of herbalist circles by 2
+}
+

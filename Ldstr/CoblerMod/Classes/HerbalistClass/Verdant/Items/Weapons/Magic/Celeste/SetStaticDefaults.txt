@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Herbalist Book
+		An upgrade from the Wind Weaver
+	Current : 
+		Herbalist Book
+		An upgrade from the Wind Weaver
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		When you hit an enemy they begin bleeding and losing health non stop
+		Meanwhile, you gain half their life
+		Shoutout to 'Blissful Elwyn' for the sprite!
+	Current : 
+		When you hit an enemy they begin bleeding and losing health non stop
+		Meanwhile, you gain half their life
+		Shoutout to 'Blissful Elwyn' for the sprite!
+}
+

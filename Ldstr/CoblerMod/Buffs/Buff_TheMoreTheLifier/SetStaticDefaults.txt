@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : The More The Life-ier
+	Current : The More The Life-ier
+}
+
+1 :
+{
+	Origin : The more animals around, the more herbalist potions restore health
+	Current : The more animals around, the more herbalist potions restore health
+}
+

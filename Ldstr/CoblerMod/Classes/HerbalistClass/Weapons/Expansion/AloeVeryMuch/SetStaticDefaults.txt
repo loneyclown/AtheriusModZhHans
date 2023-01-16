@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Spawns in magic healing circles
+		If a player walks into it and has less than half their health,
+		then the healing circle will activate
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spawns in magic healing circles
+		If a player walks into it and has less than half their health,
+		then the healing circle will activate
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Fine Oak Breastplate
+	Current : Fine Oak Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increasednumber of herbalist rings by 1
+		Armor Set: Enemies get poisoned on hit
+	Current : 
+		Increasednumber of herbalist rings by 1
+		Armor Set: Enemies get poisoned on hit
+}
+

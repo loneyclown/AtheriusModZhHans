@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Aqua Magi Relic
+	Current : Aqua Magi Relic
+}
+

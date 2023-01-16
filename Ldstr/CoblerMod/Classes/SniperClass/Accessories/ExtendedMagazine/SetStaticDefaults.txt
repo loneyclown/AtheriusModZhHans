@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 'Extended Magazine'
+	Current : 'Extended Magazine'
+}
+
+1 :
+{
+	Origin : 
+		Increased sniper knockback
+		No ammo consumption for all sniper weapons
+		Yes this is a magazine
+		Sniper Class
+	Current : 
+		Increased sniper knockback
+		No ammo consumption for all sniper weapons
+		Yes this is a magazine
+		Sniper Class
+}
+

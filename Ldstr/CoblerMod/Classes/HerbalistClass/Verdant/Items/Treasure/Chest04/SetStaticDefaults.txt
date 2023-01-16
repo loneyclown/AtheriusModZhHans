@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Lost Chest
+	Current : Lost Chest
+}
+
+1 :
+{
+	Origin : 
+		Find the key for this chest to open it
+		One of the bosses contains the correct key
+		Right click this chest to open when you have the key
+		[c/684A4A:Chest 4]
+	Current : 
+		Find the key for this chest to open it
+		One of the bosses contains the correct key
+		Right click this chest to open when you have the key
+		[c/684A4A:Chest 4]
+}
+

@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased herbalist passive healing by 3 HP
+		Increased herbalist berry restoration by 5 HP
+		Increased herbalist plant restoration by 3 HP
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist passive healing by 3 HP
+		Increased herbalist berry restoration by 5 HP
+		Increased herbalist plant restoration by 3 HP
+		[c/0EA300:Herbalist Class]
+}
+

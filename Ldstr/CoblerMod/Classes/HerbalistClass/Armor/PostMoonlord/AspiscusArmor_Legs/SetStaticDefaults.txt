@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Aspiscus Leggings
+	Current : Aspiscus Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased number of herbalist rings by 2
+		Increased movement speed by 15%
+		Armor Set: Increased herbalist damage based on the biome you're in
+		Corruption and Crimson biome do not harm herbalist damage anymore
+	Current : 
+		Increased number of herbalist rings by 2
+		Increased movement speed by 15%
+		Armor Set: Increased herbalist damage based on the biome you're in
+		Corruption and Crimson biome do not harm herbalist damage anymore
+}
+

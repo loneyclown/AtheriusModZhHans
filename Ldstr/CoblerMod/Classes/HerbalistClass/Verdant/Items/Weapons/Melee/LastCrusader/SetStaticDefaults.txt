@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Gain the ironskin buff whenever you kill an enemy
+		Swords also burst out of enemies upon death
+	Current : 
+		Gain the ironskin buff whenever you kill an enemy
+		Swords also burst out of enemies upon death
+}
+

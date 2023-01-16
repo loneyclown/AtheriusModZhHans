@@ -1,0 +1,78 @@
+Content :
+{
+	Origin : What're you thinking about? JK JK I know what you're thinking about!
+	Current : What're you thinking about? JK JK I know what you're thinking about!
+}
+
+DislikeBiome :
+{
+	Origin : What's so good about this biome anyway? I can't read anything here.
+	Current : What's so good about this biome anyway? I can't read anything here.
+}
+
+DislikeCrowded :
+{
+	Origin : Too many people! My mind can't read this much at once!
+	Current : Too many people! My mind can't read this much at once!
+}
+
+DislikeNPC :
+{
+	Origin : I tried reading the Pirates mind once. It was a lot of R's and not much else.
+	Current : I tried reading the Pirates mind once. It was a lot of R's and not much else.
+}
+
+FarFromHome :
+{
+	Origin : Is it possible to read my mind from the past? I think that'll help me find my way home.
+	Current : Is it possible to read my mind from the past? I think that'll help me find my way home.
+}
+
+HateBiome :
+{
+	Origin : It's so boring here! Let me know when you have a new home ready for me to leave here.
+	Current : It's so boring here! Let me know when you have a new home ready for me to leave here.
+}
+
+HateNPC :
+{
+	Origin : Why do I have to be by the Party Girl? She's loud enough on the outside, it's even worse in her mind!
+	Current : Why do I have to be by the Party Girl? She's loud enough on the outside, it's even worse in her mind!
+}
+
+LikeBiome :
+{
+	Origin : I don't see how people dislike this biome! There's so much you can learn from the creatures!
+	Current : I don't see how people dislike this biome! There's so much you can learn from the creatures!
+}
+
+LikeNPC :
+{
+	Origin : You think the Wizard is capable of reading mind too?! I'm gonna go ask!
+	Current : You think the Wizard is capable of reading mind too?! I'm gonna go ask!
+}
+
+LoveBiome :
+{
+	Origin : ... ... ... Oh were you talking to me? Sorry this biome just had a higher priority! ... ... ...
+	Current : ... ... ... Oh were you talking to me? Sorry this biome just had a higher priority! ... ... ...
+}
+
+LoveNPC :
+{
+	Origin : The Witch Doctor is so fascinating to listen to! I don't even know half of what he thinks but it's very cool!
+	Current : The Witch Doctor is so fascinating to listen to! I don't even know half of what he thinks but it's very cool!
+}
+
+LoveSpace :
+{
+	Origin : I love the amount of space here! I can practice firing my missiles!
+	Current : I love the amount of space here! I can practice firing my missiles!
+}
+
+NoHome :
+{
+	Origin : Nowhere to call home. I'll just read this worms mind and see what he does to survive...
+	Current : Nowhere to call home. I'll just read this worms mind and see what he does to survive...
+}
+

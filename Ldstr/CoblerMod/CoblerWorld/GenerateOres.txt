@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Spawning Cobler's Ores
+	Current : Spawning Cobler's Ores
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Tuskian Skull
+	Current : Tuskian Skull
+}
+

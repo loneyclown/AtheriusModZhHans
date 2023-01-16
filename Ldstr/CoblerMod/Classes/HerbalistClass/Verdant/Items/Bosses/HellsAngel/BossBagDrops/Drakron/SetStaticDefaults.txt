@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires a clockwork burst of skulls
+		That explode on impact
+	Current : 
+		Fires a clockwork burst of skulls
+		That explode on impact
+}
+

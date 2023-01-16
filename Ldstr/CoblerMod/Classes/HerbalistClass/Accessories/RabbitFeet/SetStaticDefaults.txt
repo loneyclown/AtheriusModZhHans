@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Small increase in herbalist crit
+		Spirit Dog will fire projectiles at enemies
+		Immunity to poison and bleeding
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Small increase in herbalist crit
+		Spirit Dog will fire projectiles at enemies
+		Immunity to poison and bleeding
+		[c/0EA300:Herbalist Class]
+}
+

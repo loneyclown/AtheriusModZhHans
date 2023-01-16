@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Custom swing animation
+		Enemies start bleeding when they get hit
+		When you hit an enemy, 3 explosions will spawn as well
+		Explosives have been built into the weapon now =)
+	Current : 
+		Custom swing animation
+		Enemies start bleeding when they get hit
+		When you hit an enemy, 3 explosions will spawn as well
+		Explosives have been built into the weapon now =)
+}
+

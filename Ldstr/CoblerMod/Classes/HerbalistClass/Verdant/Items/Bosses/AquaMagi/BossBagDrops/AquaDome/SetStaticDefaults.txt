@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		When the player gets hit and has less than 1/4 HP,
+		There is a 50% chance of a water dome spawning, protecting the player
+	Current : 
+		When the player gets hit and has less than 1/4 HP,
+		There is a 50% chance of a water dome spawning, protecting the player
+}
+

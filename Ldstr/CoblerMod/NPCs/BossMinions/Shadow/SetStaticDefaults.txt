@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Shadow
+	Current : Shadow
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Shadow_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Shadow_Bestiary
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires a rock each time you thrust the blade
+		Spawns in rocks from the ground below
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fires a rock each time you thrust the blade
+		Spawns in rocks from the ground below
+		[c/0EA300:Herbalist Class]
+}
+

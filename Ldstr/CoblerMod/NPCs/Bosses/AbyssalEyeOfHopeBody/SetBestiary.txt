@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Goes from world to world restoring hope into them.
+		But time has passed and this eye is growing weak.
+		Lend it your aid to finish off the Abyssal Eye of Despair...
+	Current : 
+		Goes from world to world restoring hope into them.
+		But time has passed and this eye is growing weak.
+		Lend it your aid to finish off the Abyssal Eye of Despair...
+}
+

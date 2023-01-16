@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : ShadowMoon
+	Current : ShadowMoon
+}
+
+1 :
+{
+	Origin : Comet
+	Current : Comet
+}
+
+2 :
+{
+	Origin : Popeye
+	Current : Popeye
+}
+

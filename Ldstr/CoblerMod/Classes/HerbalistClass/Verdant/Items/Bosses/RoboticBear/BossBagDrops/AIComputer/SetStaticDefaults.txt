@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Computer AI
+	Current : Computer AI
+}
+
+1 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Right click while equipped to change genders whenever you want!
+	Current : 
+		Increased generic damage by 10%
+		Right click while equipped to change genders whenever you want!
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased herbalist knockback by 5%
+		Increased herbalist healing passive by 5
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist knockback by 5%
+		Increased herbalist healing passive by 5
+		[c/0EA300:Herbalist Class]
+}
+

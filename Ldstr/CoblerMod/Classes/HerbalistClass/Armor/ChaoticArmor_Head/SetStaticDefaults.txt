@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Chaotic Helmet
+	Current : Chaotic Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased melee damage by 12%
+		Armor Set: Increased attack speed by 15%
+	Current : 
+		Increased melee damage by 12%
+		Armor Set: Increased attack speed by 15%
+}
+

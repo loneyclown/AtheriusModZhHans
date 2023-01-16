@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Click anywhere on the the screen with your mouse
+		Any enemy around it will be sent into your dream world
+		Dream world you say? [c/FF44C7:Anything can happen in the dream world!]
+	Current : 
+		Click anywhere on the the screen with your mouse
+		Any enemy around it will be sent into your dream world
+		Dream world you say? [c/FF44C7:Anything can happen in the dream world!]
+}
+

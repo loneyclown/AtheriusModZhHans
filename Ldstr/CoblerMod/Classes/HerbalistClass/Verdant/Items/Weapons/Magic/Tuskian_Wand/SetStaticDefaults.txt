@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Tuskian Wand
+	Current : Tuskian Wand
+}
+

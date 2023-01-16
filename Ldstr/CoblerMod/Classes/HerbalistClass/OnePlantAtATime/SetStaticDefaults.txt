@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		You've become a part of nature, perhaps even it's guardian
+		Upon consumption, all critters (excluding the custom critters) will become immortal
+		[c/0EA300:Herbalist Class]
+	Current : 
+		You've become a part of nature, perhaps even it's guardian
+		Upon consumption, all critters (excluding the custom critters) will become immortal
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Smaller AK-47
+	Current : Smaller AK-47
+}
+
+1 :
+{
+	Origin : 
+		You see Ivan...
+		When shooting smaller AK47,
+		You get shoot in smaller places as well.
+		Yes, yes very helpful when in small home.
+		Gun is inaccurate and you get tipsy while shooting it.
+	Current : 
+		You see Ivan...
+		When shooting smaller AK47,
+		You get shoot in smaller places as well.
+		Yes, yes very helpful when in small home.
+		Gun is inaccurate and you get tipsy while shooting it.
+}
+

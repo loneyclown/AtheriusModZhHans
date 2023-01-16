@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Mommy said I have big bones!
+		Those big bones didn't seem to help you live longer...
+	Current : 
+		Mommy said I have big bones!
+		Those big bones didn't seem to help you live longer...
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 1)]
+	Current : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 1)]
+}
+
+1 :
+{
+	Origin : Increases Magic damage by 5%
+	Current : Increases Magic damage by 5%
+}
+

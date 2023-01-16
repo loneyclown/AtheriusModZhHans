@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Melee damage increased by 10%
+		Blucium skulls have a higher chance of showing
+	Current : 
+		Melee damage increased by 10%
+		Blucium skulls have a higher chance of showing
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Shop
+	Current : Shop
+}
+
+1 :
+{
+	Origin : Check Grimoire
+	Current : Check Grimoire
+}
+

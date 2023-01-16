@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased range damage by 25%
+		Increased range crit and knockback by 20%
+		Upon getting hit, there is a 33% chance that you will take damage
+		Otherwise you will heal instead
+		Upon touching an enemy, there is a 50% chance that they will become confused
+	Current : 
+		Increased range damage by 25%
+		Increased range crit and knockback by 20%
+		Upon getting hit, there is a 33% chance that you will take damage
+		Otherwise you will heal instead
+		Upon touching an enemy, there is a 50% chance that they will become confused
+}
+

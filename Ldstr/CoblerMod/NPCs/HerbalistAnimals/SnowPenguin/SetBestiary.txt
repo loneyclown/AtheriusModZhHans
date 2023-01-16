@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Why is it brown? It tries various methods to stay warm in the snow.
+	Current : Why is it brown? It tries various methods to stay warm in the snow.
+}
+

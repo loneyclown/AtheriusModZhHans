@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Dragonsoul
+	Current : Dragonsoul
+}
+
+1 :
+{
+	Origin : SwiftScope
+	Current : SwiftScope
+}
+
+2 :
+{
+	Origin : Discharge
+	Current : Discharge
+}
+

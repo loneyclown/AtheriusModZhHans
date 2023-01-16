@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : A minion willing to sacrifice its life for its mother golem. It's not just another head, it's another life.
+	Current : A minion willing to sacrifice its life for its mother golem. It's not just another head, it's another life.
+}
+

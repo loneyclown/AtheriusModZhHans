@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		A large monument from deep in the jungle.
+		This being caters to its little ones whenever it can.
+		Sometimes if you're lucky you can even hear one of the little ones go *whoosh*!
+	Current : 
+		A large monument from deep in the jungle.
+		This being caters to its little ones whenever it can.
+		Sometimes if you're lucky you can even hear one of the little ones go *whoosh*!
+}
+

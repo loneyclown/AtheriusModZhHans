@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Warped Fate
+	Current : Warped Fate
+}
+
+1 :
+{
+	Origin : Summons Portal Guardian
+	Current : Summons Portal Guardian
+}
+

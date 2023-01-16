@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Spirit Bow
+	Current : Spirit Bow
+}
+
+1 :
+{
+	Origin : Fire spirit arrows
+	Current : Fire spirit arrows
+}
+

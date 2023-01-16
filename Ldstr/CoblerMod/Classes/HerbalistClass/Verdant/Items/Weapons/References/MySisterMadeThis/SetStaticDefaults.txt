@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		'Make an item that spawns in bunnies when you swing' (10% chance whenever you swing)
+		'And displays a really random text' (0.1% chance whenever you swing)
+		'And kills every mob on the screen when you swing' (1% chance whenever you swing)
+	Current : 
+		'Make an item that spawns in bunnies when you swing' (10% chance whenever you swing)
+		'And displays a really random text' (0.1% chance whenever you swing)
+		'And kills every mob on the screen when you swing' (1% chance whenever you swing)
+}
+

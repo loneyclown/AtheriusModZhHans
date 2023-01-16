@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Upon getting hit, a healing circle will appear
+		if the player has less than half their health
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Upon getting hit, a healing circle will appear
+		if the player has less than half their health
+		[c/0EA300:Herbalist Class]
+}
+

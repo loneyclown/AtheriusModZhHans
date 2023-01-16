@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires a surge of wind arrows
+		That go in all 8 directions of the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fires a surge of wind arrows
+		That go in all 8 directions of the player
+		[c/0EA300:Herbalist Class]
+}
+

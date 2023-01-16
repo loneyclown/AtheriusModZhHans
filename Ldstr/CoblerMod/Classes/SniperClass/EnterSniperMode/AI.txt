@@ -1,0 +1,144 @@
+0 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+1 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+2 :
+{
+	Origin : MPH N
+	Current : MPH N
+}
+
+3 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+4 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+5 :
+{
+	Origin : MPH S
+	Current : MPH S
+}
+
+6 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+7 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+8 :
+{
+	Origin : MPH E
+	Current : MPH E
+}
+
+9 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+10 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+11 :
+{
+	Origin : MPH W
+	Current : MPH W
+}
+
+12 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+13 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+14 :
+{
+	Origin : MPH N
+	Current : MPH N
+}
+
+15 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+16 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+17 :
+{
+	Origin : MPH S
+	Current : MPH S
+}
+
+18 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+19 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+20 :
+{
+	Origin : MPH E
+	Current : MPH E
+}
+
+21 :
+{
+	Origin : 33FF77
+	Current : 33FF77
+}
+
+22 :
+{
+	Origin : Wind:
+	Current : Wind:
+}
+
+23 :
+{
+	Origin : MPH W
+	Current : MPH W
+}
+

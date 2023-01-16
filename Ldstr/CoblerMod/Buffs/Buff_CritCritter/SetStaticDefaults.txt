@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Crit Critter
+	Current : Crit Critter
+}
+
+1 :
+{
+	Origin : Greatly increased herbalist crit
+	Current : Greatly increased herbalist crit
+}
+

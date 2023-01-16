@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Truth Bullets
+	Current : Truth Bullets
+}
+
+1 :
+{
+	Origin : 
+		Left click to fire truth bullets while fighting the Robotic Bear
+		Hit quotes that sound hopeful to start damaging it
+		Avoid the quotes that sound more... despairful...
+	Current : 
+		Left click to fire truth bullets while fighting the Robotic Bear
+		Hit quotes that sound hopeful to start damaging it
+		Avoid the quotes that sound more... despairful...
+}
+

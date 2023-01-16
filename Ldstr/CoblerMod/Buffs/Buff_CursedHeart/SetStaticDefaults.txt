@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Cursed Heart
+	Current : Cursed Heart
+}
+
+1 :
+{
+	Origin : Gain back all Defense once this ends
+	Current : Gain back all Defense once this ends
+}
+

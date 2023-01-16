@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : [c/0E9D05:Nature: 
+	Current : [c/0E9D05:Nature: 
+}
+
+1 :
+{
+	Origin : /
+	Current : /
+}
+
+2 :
+{
+	Origin : ]
+	Current : ]
+}
+

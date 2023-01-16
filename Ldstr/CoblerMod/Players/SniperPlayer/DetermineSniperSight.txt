@@ -1,0 +1,186 @@
+0 :
+{
+	Origin : Corruptor
+	Current : Corruptor
+}
+
+1 :
+{
+	Origin : KingOfNines
+	Current : KingOfNines
+}
+
+2 :
+{
+	Origin : Kraber
+	Current : Kraber
+}
+
+3 :
+{
+	Origin : IronCarbine
+	Current : IronCarbine
+}
+
+4 :
+{
+	Origin : RitualRepeater
+	Current : RitualRepeater
+}
+
+5 :
+{
+	Origin : AtomicAnnie
+	Current : AtomicAnnie
+}
+
+6 :
+{
+	Origin : GrandpasRifle
+	Current : GrandpasRifle
+}
+
+7 :
+{
+	Origin : ThePig
+	Current : ThePig
+}
+
+8 :
+{
+	Origin : HerosCarbine
+	Current : HerosCarbine
+}
+
+9 :
+{
+	Origin : IncomingStorm
+	Current : IncomingStorm
+}
+
+10 :
+{
+	Origin : Narcoleptic
+	Current : Narcoleptic
+}
+
+11 :
+{
+	Origin : Warbringer
+	Current : Warbringer
+}
+
+12 :
+{
+	Origin : Betsy
+	Current : Betsy
+}
+
+13 :
+{
+	Origin : HonorsCall
+	Current : HonorsCall
+}
+
+14 :
+{
+	Origin : Legacy
+	Current : Legacy
+}
+
+15 :
+{
+	Origin : Popeye
+	Current : Popeye
+}
+
+16 :
+{
+	Origin : Comet
+	Current : Comet
+}
+
+17 :
+{
+	Origin : ShadowMoon
+	Current : ShadowMoon
+}
+
+18 :
+{
+	Origin : BanditsLongrifle
+	Current : BanditsLongrifle
+}
+
+19 :
+{
+	Origin : Extermination
+	Current : Extermination
+}
+
+20 :
+{
+	Origin : ForsakenRifle
+	Current : ForsakenRifle
+}
+
+21 :
+{
+	Origin : JudgementFusil
+	Current : JudgementFusil
+}
+
+22 :
+{
+	Origin : Termination
+	Current : Termination
+}
+
+23 :
+{
+	Origin : EndedDreams
+	Current : EndedDreams
+}
+
+24 :
+{
+	Origin : Leviathan
+	Current : Leviathan
+}
+
+25 :
+{
+	Origin : Rapture
+	Current : Rapture
+}
+
+26 :
+{
+	Origin : SerpentsCourier
+	Current : SerpentsCourier
+}
+
+27 :
+{
+	Origin : VowedBlaster
+	Current : VowedBlaster
+}
+
+28 :
+{
+	Origin : Discharge
+	Current : Discharge
+}
+
+29 :
+{
+	Origin : Dragonsoul
+	Current : Dragonsoul
+}
+
+30 :
+{
+	Origin : SwiftScope
+	Current : SwiftScope
+}
+

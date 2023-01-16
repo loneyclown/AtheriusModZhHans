@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Techo Magic: Ranged Robot
+	Current : Techo Magic: Ranged Robot
+}
+

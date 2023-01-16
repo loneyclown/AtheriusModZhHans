@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Flaming Exarch
+	Current : Flaming Exarch
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/FlamingExarch_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/FlamingExarch_Bestiary
+}
+

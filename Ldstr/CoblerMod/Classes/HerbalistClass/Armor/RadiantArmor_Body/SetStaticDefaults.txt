@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Radiant Chestplate
+	Current : Radiant Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased magic knockback by 15%
+		Armor Set: Increased mana regen
+	Current : 
+		Increased magic knockback by 15%
+		Armor Set: Increased mana regen
+}
+

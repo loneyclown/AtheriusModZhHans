@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/FallenServantRelic
+	Current : CoblerMod/Tiles/Furniture/FallenServantRelic
+}
+

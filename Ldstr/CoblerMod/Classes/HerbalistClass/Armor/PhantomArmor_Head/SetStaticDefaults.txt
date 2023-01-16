@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Phantom Helmet
+	Current : Phantom Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased minion knockback by 15%
+		Armor Set: Increased max number of minions by 2
+	Current : 
+		Increased minion knockback by 15%
+		Armor Set: Increased max number of minions by 2
+}
+

@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Hell's Garden
+	Current : Hell's Garden
+}
+
+1 :
+{
+	Origin : 
+		It's a simple concept really
+		The more hits you get, the stronger you become
+		And the critters get stronger as well
+		[c/0EA300:Herbalist Class]
+	Current : 
+		It's a simple concept really
+		The more hits you get, the stronger you become
+		And the critters get stronger as well
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		If the player is in the corruption or crimson biome...
+		Player generic attack increased by 25%
+		Player attack speed increased by 10%
+		Player crit chance increased by 15%
+	Current : 
+		If the player is in the corruption or crimson biome...
+		Player generic attack increased by 25%
+		Player attack speed increased by 10%
+		Player crit chance increased by 15%
+}
+

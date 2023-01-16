@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Colossal Golem Relic
+	Current : Colossal Golem Relic
+}
+

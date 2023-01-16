@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Greatly increases herbalist crit
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Greatly increases herbalist crit
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Putirine
+	Current : Putirine
+}
+
+1 :
+{
+	Origin : Less than half mana will grant 50 mana every 5 seconds
+	Current : Less than half mana will grant 50 mana every 5 seconds
+}
+

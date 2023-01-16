@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased herbalist crit by 4
+		Increased herbalist knockback by 10%
+		Increased number of herbalist rings by 2
+		Increased herbalist plant healing bonus by 3Increased herbalist plant mana bonus by 5
+		Increased passive berry healing by 5
+		Leaf projectiles deal double damage
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Increased herbalist crit by 4
+		Increased herbalist knockback by 10%
+		Increased number of herbalist rings by 2
+		Increased herbalist plant healing bonus by 3Increased herbalist plant mana bonus by 5
+		Increased passive berry healing by 5
+		Leaf projectiles deal double damage
+		[c/0EA300:Herbalist Class]
+}
+

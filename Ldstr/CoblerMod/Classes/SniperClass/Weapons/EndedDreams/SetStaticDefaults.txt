@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+	Current : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+}
+

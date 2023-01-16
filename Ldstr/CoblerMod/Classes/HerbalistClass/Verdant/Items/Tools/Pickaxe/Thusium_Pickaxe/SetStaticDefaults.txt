@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Thusium Pickaxe
+	Current : Thusium Pickaxe
+}
+

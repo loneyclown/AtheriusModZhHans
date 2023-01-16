@@ -1,0 +1,78 @@
+Content :
+{
+	Origin : There is no such thing as false hope. Yet despair lingers when we commit sins.
+	Current : There is no such thing as false hope. Yet despair lingers when we commit sins.
+}
+
+DislikeBiome :
+{
+	Origin : I hate sand. It's coarse and it gets everywhere.
+	Current : I hate sand. It's coarse and it gets everywhere.
+}
+
+DislikeCrowded :
+{
+	Origin : The numbers of people in here are too much. I lust for a more quiet area.
+	Current : The numbers of people in here are too much. I lust for a more quiet area.
+}
+
+DislikeNPC :
+{
+	Origin : The golfer is someone who would have no maidens. I do not wish to see him.
+	Current : The golfer is someone who would have no maidens. I do not wish to see him.
+}
+
+FarFromHome :
+{
+	Origin : Far from home. That doesn't affect me too much though.
+	Current : Far from home. That doesn't affect me too much though.
+}
+
+HateBiome :
+{
+	Origin : This place is too pure to exist in. I wish to not be here.
+	Current : This place is too pure to exist in. I wish to not be here.
+}
+
+HateNPC :
+{
+	Origin : The painter is a sinner and worse. May he be non existent for whenever I'm around.
+	Current : The painter is a sinner and worse. May he be non existent for whenever I'm around.
+}
+
+LikeBiome :
+{
+	Origin : It's peaceful down here. Only the sounds of minecart tracks every now and then.
+	Current : It's peaceful down here. Only the sounds of minecart tracks every now and then.
+}
+
+LikeNPC :
+{
+	Origin : The Pirate knows a thing or two about the letter R. I must know what it is.
+	Current : The Pirate knows a thing or two about the letter R. I must know what it is.
+}
+
+LoveBiome :
+{
+	Origin : This place is swarming with sins. A delicate topic which I enjoy.
+	Current : This place is swarming with sins. A delicate topic which I enjoy.
+}
+
+LoveNPC :
+{
+	Origin : The Arms Dealer has seen things himself in his life. I can tell that we'll get along just fine.
+	Current : The Arms Dealer has seen things himself in his life. I can tell that we'll get along just fine.
+}
+
+LoveSpace :
+{
+	Origin : This air is open and fresh. Perhaps I am showing signs of greed.
+	Current : This air is open and fresh. Perhaps I am showing signs of greed.
+}
+
+NoHome :
+{
+	Origin : In this empty canvas of a world. If only I had a place to call home.
+	Current : In this empty canvas of a world. If only I had a place to call home.
+}
+

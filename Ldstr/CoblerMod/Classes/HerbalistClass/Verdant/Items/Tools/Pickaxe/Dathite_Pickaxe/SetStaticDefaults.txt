@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Dathite Pickaxe
+	Current : Dathite Pickaxe
+}
+

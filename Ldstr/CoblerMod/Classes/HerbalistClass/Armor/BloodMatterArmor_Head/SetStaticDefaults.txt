@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Blood Matter Helmet
+	Current : Blood Matter Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased melee damage by 10%
+		Increased movement speed by 10%
+		Armor Set: Player is immune to bleeding
+	Current : 
+		Increased melee damage by 10%
+		Increased movement speed by 10%
+		Armor Set: Player is immune to bleeding
+}
+

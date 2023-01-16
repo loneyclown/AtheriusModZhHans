@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Shoots an array of fire blitzes above the mouse
+		Also ignites enemies
+	Current : 
+		Shoots an array of fire blitzes above the mouse
+		Also ignites enemies
+}
+

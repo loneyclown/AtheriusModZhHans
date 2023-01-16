@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Can you throw infinite shurikens?
+		Sure you can!
+	Current : 
+		Can you throw infinite shurikens?
+		Sure you can!
+}
+

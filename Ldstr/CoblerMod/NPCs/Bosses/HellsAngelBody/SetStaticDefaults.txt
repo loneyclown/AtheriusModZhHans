@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Hell's Angel
+	Current : Hell's Angel
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/HellsAngel_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/HellsAngel_Bestiary
+}
+

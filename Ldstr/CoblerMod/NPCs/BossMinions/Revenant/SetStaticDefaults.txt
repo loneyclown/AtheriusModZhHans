@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Revenant
+	Current : Revenant
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Revenant_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Revenant_Bestiary
+}
+

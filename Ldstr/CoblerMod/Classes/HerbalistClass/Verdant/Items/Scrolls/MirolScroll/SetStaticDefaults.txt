@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		Some has started
+		Mother nature feels strong
+		Comes a new biome
+		Where new plants belong
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+	Current : 
+		Some has started
+		Mother nature feels strong
+		Comes a new biome
+		Where new plants belong
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Vile Plant Leggings
+	Current : Vile Plant Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Increased herbalist mana healing by 75 mana
+		Armor Set: critters may drop you a potion
+	Current : 
+		Increased herbalist damage by 8%
+		Increased herbalist mana healing by 75 mana
+		Armor Set: critters may drop you a potion
+}
+

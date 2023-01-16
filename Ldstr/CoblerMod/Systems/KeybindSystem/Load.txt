@@ -1,0 +1,120 @@
+0 :
+{
+	Origin : (Atherius) Enable Herbalist Plants
+	Current : (Atherius) Enable Herbalist Plants
+}
+
+1 :
+{
+	Origin : NumPad5
+	Current : NumPad5
+}
+
+2 :
+{
+	Origin : (Atherius) Enable Herbalist Shield
+	Current : (Atherius) Enable Herbalist Shield
+}
+
+3 :
+{
+	Origin : NumPad4
+	Current : NumPad4
+}
+
+4 :
+{
+	Origin : (Atherius) Change Leaf AI
+	Current : (Atherius) Change Leaf AI
+}
+
+5 :
+{
+	Origin : NumPad6
+	Current : NumPad6
+}
+
+6 :
+{
+	Origin : (Atherius) Change Magic Skill
+	Current : (Atherius) Change Magic Skill
+}
+
+7 :
+{
+	Origin : P
+	Current : P
+}
+
+8 :
+{
+	Origin : (Atherius) Surpass Your Limits
+	Current : (Atherius) Surpass Your Limits
+}
+
+9 :
+{
+	Origin : O
+	Current : O
+}
+
+10 :
+{
+	Origin : (Atherius) Check Overall Level(s)
+	Current : (Atherius) Check Overall Level(s)
+}
+
+11 :
+{
+	Origin : L
+	Current : L
+}
+
+12 :
+{
+	Origin : (Atherius) Use Thought
+	Current : (Atherius) Use Thought
+}
+
+13 :
+{
+	Origin : Mouse3
+	Current : Mouse3
+}
+
+14 :
+{
+	Origin : (Atherius) Next Thought
+	Current : (Atherius) Next Thought
+}
+
+15 :
+{
+	Origin : NumPad2
+	Current : NumPad2
+}
+
+16 :
+{
+	Origin : (Atherius) Previous Thought
+	Current : (Atherius) Previous Thought
+}
+
+17 :
+{
+	Origin : NumPad1
+	Current : NumPad1
+}
+
+18 :
+{
+	Origin : (Atherius) Warp Icon Teleport
+	Current : (Atherius) Warp Icon Teleport
+}
+
+19 :
+{
+	Origin : X
+	Current : X
+}
+

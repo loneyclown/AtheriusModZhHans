@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Bear Pear
+	Current : Bear Pear
+}
+
+1 :
+{
+	Origin : Increased Herbalist Damage
+	Current : Increased Herbalist Damage
+}
+

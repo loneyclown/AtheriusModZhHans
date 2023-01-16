@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Spawns blood arrows from the sky on use
+		When hitting an enemy, two walls will form around them
+		As well as the enemy will become confused and lose health slowly
+		You can choose to finish it or watch it suffer...
+	Current : 
+		Spawns blood arrows from the sky on use
+		When hitting an enemy, two walls will form around them
+		As well as the enemy will become confused and lose health slowly
+		You can choose to finish it or watch it suffer...
+}
+

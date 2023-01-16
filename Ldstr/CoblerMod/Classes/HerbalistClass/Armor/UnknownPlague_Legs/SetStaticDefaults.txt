@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Unknown Plague Leggings
+	Current : Unknown Plague Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased herbalist crit by 3
+		Armor Set: Herbalist passive healing increased by 10
+	Current : 
+		Increased herbalist damage by 6%
+		Increased herbalist crit by 3
+		Armor Set: Herbalist passive healing increased by 10
+}
+

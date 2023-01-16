@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Bones to Ashes. These Ashes of War
+	Current : Bones to Ashes. These Ashes of War
+}
+
+1 :
+{
+	Origin : Come to me my Servants. Rise from the Floor
+	Current : Come to me my Servants. Rise from the Floor
+}
+

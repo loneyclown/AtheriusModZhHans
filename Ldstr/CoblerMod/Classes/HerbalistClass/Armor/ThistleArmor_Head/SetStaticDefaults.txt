@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Thistle Helmet
+	Current : Thistle Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist crit by 5
+		Armor Set: Consuming an herb grants the player 40 temporary mana
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist crit by 5
+		Armor Set: Consuming an herb grants the player 40 temporary mana
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Nature UI
+	Current : Nature UI
+}
+
+Tooltip :
+{
+	Origin : Displays the UI for nature consumption for the herbalist class
+	Current : Displays the UI for nature consumption for the herbalist class
+}
+

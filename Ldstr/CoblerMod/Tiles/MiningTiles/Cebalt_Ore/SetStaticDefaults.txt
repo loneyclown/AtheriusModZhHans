@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Cebalt Ore
+	Current : Cebalt Ore
+}
+

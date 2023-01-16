@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Psychokinesis - Burst Radius
+	Current : Psychokinesis - Burst Radius
+}
+
+Tooltip :
+{
+	Origin : The radius of your projectiles when using Burst
+	Current : The radius of your projectiles when using Burst
+}
+

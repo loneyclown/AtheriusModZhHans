@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Turtle
+	Current : Turtle
+}
+
+1 :
+{
+	Origin : With an herbalist accessory, you get a small trait from the turtle
+	Current : With an herbalist accessory, you get a small trait from the turtle
+}
+

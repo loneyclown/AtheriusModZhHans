@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Sniper's Desire
+	Current : Sniper's Desire
+}
+
+1 :
+{
+	Origin : 
+		10% increased damage in snipers
+		Neglect wind resistance for special shots
+		Sniper Class
+	Current : 
+		10% increased damage in snipers
+		Neglect wind resistance for special shots
+		Sniper Class
+}
+

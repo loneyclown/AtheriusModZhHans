@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 39993A
+	Current : 39993A
+}
+
+1 :
+{
+	Origin : Lucky
+	Current : Lucky
+}
+
+2 :
+{
+	Origin : Wow! I guess I am just really [c/36CF25:lucky]...
+	Current : Wow! I guess I am just really [c/36CF25:lucky]...
+}
+

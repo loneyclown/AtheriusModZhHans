@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : PortalGuardianBody_Back
+	Current : PortalGuardianBody_Back
+}
+
+1 :
+{
+	Origin : PortalGuardianBody_Front
+	Current : PortalGuardianBody_Front
+}
+
+2 :
+{
+	Origin : PortalGuardianBody_Sword
+	Current : PortalGuardianBody_Sword
+}
+

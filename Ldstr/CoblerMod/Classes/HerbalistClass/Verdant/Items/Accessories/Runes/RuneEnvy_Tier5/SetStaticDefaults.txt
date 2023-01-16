@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 5)]
+	Current : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 5)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Ranged Damage by 18%
+		Normal bullets and arrows are stronger now
+		Player immune to cursed and slient
+		Increased ranged knockback and attack speed by 12%
+		Conserve more ammo and pick up hearts further away
+		Boosted jump as well
+	Current : 
+		Increases Ranged Damage by 18%
+		Normal bullets and arrows are stronger now
+		Player immune to cursed and slient
+		Increased ranged knockback and attack speed by 12%
+		Conserve more ammo and pick up hearts further away
+		Boosted jump as well
+}
+

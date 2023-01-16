@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Frog
+	Current : Frog
+}
+
+1 :
+{
+	Origin : With an herbalist accessory, you get a small trait from the frog
+	Current : With an herbalist accessory, you get a small trait from the frog
+}
+

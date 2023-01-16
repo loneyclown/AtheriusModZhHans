@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/3F8C30:Greed] [c/FFFFFF:(Tier 4)]
+	Current : [c/383842:Rune of] [c/3F8C30:Greed] [c/FFFFFF:(Tier 4)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Herbalist damage by 15%
+		Player now have permanent spelunker
+		Herbalist passive heal increased by 4 HP 
+		Increased block range
+		Immune to confused
+	Current : 
+		Increases Herbalist damage by 15%
+		Player now have permanent spelunker
+		Herbalist passive heal increased by 4 HP 
+		Increased block range
+		Immune to confused
+}
+

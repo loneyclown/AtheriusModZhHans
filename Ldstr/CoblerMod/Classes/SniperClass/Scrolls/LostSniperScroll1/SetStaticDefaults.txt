@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Upon reading this
+		All sniper damage will increase by 10% permanently
+		Can only be used once
+	Current : 
+		Upon reading this
+		All sniper damage will increase by 10% permanently
+		Can only be used once
+}
+

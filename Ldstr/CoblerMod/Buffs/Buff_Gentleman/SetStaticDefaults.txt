@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Gentleman
+	Current : Gentleman
+}
+
+1 :
+{
+	Origin : 
+		Immune to poison, bleeding, and darkness
+		
+	Current : 
+		Immune to poison, bleeding, and darkness
+		
+}
+

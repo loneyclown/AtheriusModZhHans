@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Primary Bats
+	Current : Primary Bats
+}
+
+1 :
+{
+	Origin : 3 little bats of RBY
+	Current : 3 little bats of RBY
+}
+

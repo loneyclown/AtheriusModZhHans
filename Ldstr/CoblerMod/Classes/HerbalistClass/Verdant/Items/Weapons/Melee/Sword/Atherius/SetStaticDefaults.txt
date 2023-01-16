@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Atherius
+	Current : Atherius
+}
+
+1 :
+{
+	Origin : [c/00FFC0:So you wish to defy the gods youself? So be it]
+	Current : [c/00FFC0:So you wish to defy the gods youself? So be it]
+}
+

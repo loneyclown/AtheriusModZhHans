@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Thusium Sword
+	Current : Thusium Sword
+}
+

@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Did you know that this could control wind currents?
+		Did you also know that Vaporeon is th-
+		Eh, nevermind...
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Did you know that this could control wind currents?
+		Did you also know that Vaporeon is th-
+		Eh, nevermind...
+		[c/0EA300:Herbalist Class]
+}
+

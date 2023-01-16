@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Chimas
+	Current : Chimas
+}
+
+1 :
+{
+	Origin : 
+		'Mur Chimas' can be heard in the distance.
+		[c/0EA300:Herbalist Class]
+	Current : 
+		'Mur Chimas' can be heard in the distance.
+		[c/0EA300:Herbalist Class]
+}
+

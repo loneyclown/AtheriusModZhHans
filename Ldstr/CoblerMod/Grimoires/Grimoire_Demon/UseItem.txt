@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Need to put other sword away.
+	Current : Need to put other sword away.
+}
+

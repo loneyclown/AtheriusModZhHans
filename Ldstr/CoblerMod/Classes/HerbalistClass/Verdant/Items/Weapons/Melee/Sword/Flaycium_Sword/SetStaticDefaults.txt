@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Flaycium Sword
+	Current : Flaycium Sword
+}
+

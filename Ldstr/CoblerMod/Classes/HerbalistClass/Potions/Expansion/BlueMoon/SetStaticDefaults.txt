@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increase herbalist damage and healing during a snow moon
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increase herbalist damage and healing during a snow moon
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Doubles the number of animals when caught
+		Good potion for when you are trying to catch more animals
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Doubles the number of animals when caught
+		Good potion for when you are trying to catch more animals
+		[c/0EA300:Herbalist Class]
+}
+

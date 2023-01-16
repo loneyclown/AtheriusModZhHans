@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Enemies slow down and get poisoned on hit
+		Releases poison clouds
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Enemies slow down and get poisoned on hit
+		Releases poison clouds
+		[c/0EA300:Herbalist Class]
+}
+

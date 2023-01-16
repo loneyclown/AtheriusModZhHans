@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Echolla Chestplate
+	Current : Echolla Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased swing speed by 15%
+		Increased herbalist passive heal by 5
+		If player is in the hallow biome, they will have increased crit
+		Armor Set: Spawn a wind orb upon getting hit
+		This will push back all enemies around the area
+	Current : 
+		Increased swing speed by 15%
+		Increased herbalist passive heal by 5
+		If player is in the hallow biome, they will have increased crit
+		Armor Set: Spawn a wind orb upon getting hit
+		This will push back all enemies around the area
+}
+

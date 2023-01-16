@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Grimoires Level Limit - Moonlord
+	Current : Grimoires Level Limit - Moonlord
+}
+
+Tooltip :
+{
+	Origin : The limit of which the grimoire can level up to prior to beating the Moonlord
+	Current : The limit of which the grimoire can level up to prior to beating the Moonlord
+}
+

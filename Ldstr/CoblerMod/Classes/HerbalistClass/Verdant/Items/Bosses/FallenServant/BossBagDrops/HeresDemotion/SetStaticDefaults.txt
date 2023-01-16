@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Here's Demotion
+	Current : Here's Demotion
+}
+
+1 :
+{
+	Origin : 'Heeeeerrrrreeeee's Deeeeemotion!'
+	Current : 'Heeeeerrrrreeeee's Deeeeemotion!'
+}
+

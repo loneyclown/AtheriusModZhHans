@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : 
+		There were myths of a world renowned school that suddenly lost all funding...
+		Some say it was the most tragic event to ever happen in the schools history...
+		Whatever it was, the school is no longer accessible, but there's more to it that just that!
+		And that's where this odd bear comes in...
+		
+		Puhuhuhuhuhuhuhuhuhuhu.
+		
+		This boss is a reference to the game 'Danganronpa'
+		All credit goes to Spike Chunsoft and the developers of Danganronpa
+	Current : 
+		There were myths of a world renowned school that suddenly lost all funding...
+		Some say it was the most tragic event to ever happen in the schools history...
+		Whatever it was, the school is no longer accessible, but there's more to it that just that!
+		And that's where this odd bear comes in...
+		
+		Puhuhuhuhuhuhuhuhuhuhu.
+		
+		This boss is a reference to the game 'Danganronpa'
+		All credit goes to Spike Chunsoft and the developers of Danganronpa
+}
+

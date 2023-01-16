@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : RBY Scroll
+	Current : RBY Scroll
+}
+
+1 :
+{
+	Origin : 
+		In the underwold biome, attack speed and knockback is increased by 20%
+		In the ocean biome, damage and crit is increased by 15%
+		In the desert biome, Max health and mana is inceased by 150 each
+		In the snow biome, all 3 of these come into affect
+		Otherwise, player will just gain 20% increase in generic damage
+	Current : 
+		In the underwold biome, attack speed and knockback is increased by 20%
+		In the ocean biome, damage and crit is increased by 15%
+		In the desert biome, Max health and mana is inceased by 150 each
+		In the snow biome, all 3 of these come into affect
+		Otherwise, player will just gain 20% increase in generic damage
+}
+

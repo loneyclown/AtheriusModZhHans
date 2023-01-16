@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Echo Minion
+	Current : Echo Minion
+}
+
+1 :
+{
+	Origin : His name is Echo
+	Current : His name is Echo
+}
+

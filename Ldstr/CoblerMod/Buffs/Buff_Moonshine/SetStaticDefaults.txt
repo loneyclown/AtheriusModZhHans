@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Moonshine
+	Current : Moonshine
+}
+
+1 :
+{
+	Origin : Herbalist damage is doubled if the player is higher in the sky
+	Current : Herbalist damage is doubled if the player is higher in the sky
+}
+

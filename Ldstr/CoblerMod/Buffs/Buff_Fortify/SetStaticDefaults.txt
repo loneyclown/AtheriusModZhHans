@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Fortify
+	Current : Fortify
+}
+
+1 :
+{
+	Origin : Your mind is a fortress
+	Current : Your mind is a fortress
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		10% increased damage in snipers
+		Anywhere between a 0% and 100% chance to not consume ammo on sniper shot
+		Sniper Class
+	Current : 
+		10% increased damage in snipers
+		Anywhere between a 0% and 100% chance to not consume ammo on sniper shot
+		Sniper Class
+}
+

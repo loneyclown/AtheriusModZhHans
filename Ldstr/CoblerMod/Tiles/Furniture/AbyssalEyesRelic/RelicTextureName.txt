@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/AbyssalEyesRelic
+	Current : CoblerMod/Tiles/Furniture/AbyssalEyesRelic
+}
+

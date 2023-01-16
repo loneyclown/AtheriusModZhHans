@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Party Donut
+	Current : Party Donut
+}
+
+1 :
+{
+	Origin : 
+		Congrats! You found one of the 3 party donuts!
+		These 3 donuts were added into Cobler's Mod to make 1000 items!
+		Hold it in the air to celebrate!
+	Current : 
+		Congrats! You found one of the 3 party donuts!
+		These 3 donuts were added into Cobler's Mod to make 1000 items!
+		Hold it in the air to celebrate!
+}
+

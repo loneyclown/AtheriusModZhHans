@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : 35% increase in crit
+	Current : 35% increase in crit
+}
+

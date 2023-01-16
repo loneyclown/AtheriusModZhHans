@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Items/Hooks/AOT_ManeuverGearChain
+	Current : CoblerMod/Items/Hooks/AOT_ManeuverGearChain
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Shine bright!
+		Herbalist potions heal even more!
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Shine bright!
+		Herbalist potions heal even more!
+		[c/0EA300:Herbalist Class]
+}
+

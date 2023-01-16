@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Sends out 5 small explosions
+		Floowing each explosion, there will be a leaf burst
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Sends out 5 small explosions
+		Floowing each explosion, there will be a leaf burst
+		[c/0EA300:Herbalist Class]
+}
+

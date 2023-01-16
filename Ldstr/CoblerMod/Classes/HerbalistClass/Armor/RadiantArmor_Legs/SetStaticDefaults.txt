@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Radiant Leggings
+	Current : Radiant Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased magic damage by 10%
+		Armor Set: Increased mana regen
+	Current : 
+		Increased magic damage by 10%
+		Armor Set: Increased mana regen
+}
+

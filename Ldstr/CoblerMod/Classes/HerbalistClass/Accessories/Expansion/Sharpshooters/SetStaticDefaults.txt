@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Increased herbalist healing by 100 HP
+		All friendly animals near the player will fire projectiles towards enemies
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 8%
+		Increased herbalist healing by 100 HP
+		All friendly animals near the player will fire projectiles towards enemies
+		[c/0EA300:Herbalist Class]
+}
+

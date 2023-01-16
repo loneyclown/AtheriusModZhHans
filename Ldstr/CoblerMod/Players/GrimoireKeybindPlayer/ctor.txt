@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : Turn
+	Current : Turn
+}
+
+1 :
+{
+	Origin : Despair
+	Current : Despair
+}
+
+2 :
+{
+	Origin : Steal
+	Current : Steal
+}
+
+3 :
+{
+	Origin : Freeze
+	Current : Freeze
+}
+
+4 :
+{
+	Origin : Disappear
+	Current : Disappear
+}
+

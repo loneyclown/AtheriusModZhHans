@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Creates a stream of green flames behind the player
+		After some time the flames will drop, burning whatever lies below
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Creates a stream of green flames behind the player
+		After some time the flames will drop, burning whatever lies below
+		[c/0EA300:Herbalist Class]
+}
+

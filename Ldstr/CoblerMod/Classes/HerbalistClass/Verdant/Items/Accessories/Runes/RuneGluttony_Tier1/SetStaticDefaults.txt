@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0F2280:Gluttony] [c/FFFFFF:(Tier 1)]
+	Current : [c/383842:Rune of] [c/0F2280:Gluttony] [c/FFFFFF:(Tier 1)]
+}
+
+1 :
+{
+	Origin : Increases range damage by 5%
+	Current : Increases range damage by 5%
+}
+

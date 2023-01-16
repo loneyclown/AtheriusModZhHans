@@ -1,0 +1,16 @@
+Label :
+{
+	Origin : Critter Ghost
+	Current : Critter Ghost
+}
+
+Tooltip :
+{
+	Origin : 
+		Show a little friendly ghost flying away whenever a critter dies.
+		Herbalists will need this enabled if they want spirits.
+	Current : 
+		Show a little friendly ghost flying away whenever a critter dies.
+		Herbalists will need this enabled if they want spirits.
+}
+

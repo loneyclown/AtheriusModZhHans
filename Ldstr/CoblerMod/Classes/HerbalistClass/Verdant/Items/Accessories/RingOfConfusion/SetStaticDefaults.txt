@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Ring of Confusion
+	Current : Ring of Confusion
+}
+
+1 :
+{
+	Origin : NPCs hit will become confused
+	Current : NPCs hit will become confused
+}
+

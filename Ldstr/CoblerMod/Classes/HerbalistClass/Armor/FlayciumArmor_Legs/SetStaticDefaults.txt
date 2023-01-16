@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Flaycium Leggings
+	Current : Flaycium Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased magic damage by 10%
+		Armor Set: Increased attack speed by 15%
+	Current : 
+		Increased magic damage by 10%
+		Armor Set: Increased attack speed by 15%
+}
+

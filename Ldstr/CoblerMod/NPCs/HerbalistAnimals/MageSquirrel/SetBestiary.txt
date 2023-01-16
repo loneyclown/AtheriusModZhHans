@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Little magicial furry friend. Watch out for its fireballs.
+	Current : Little magicial furry friend. Watch out for its fireballs.
+}
+

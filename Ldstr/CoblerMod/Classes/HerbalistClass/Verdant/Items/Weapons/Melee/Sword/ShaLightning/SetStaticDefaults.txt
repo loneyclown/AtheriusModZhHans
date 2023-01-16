@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Custom swing animation
+		Enemies get electrocuted when they get hit
+		When you hit an enemy, a lightning orb will spawn
+	Current : 
+		Custom swing animation
+		Enemies get electrocuted when they get hit
+		When you hit an enemy, a lightning orb will spawn
+}
+

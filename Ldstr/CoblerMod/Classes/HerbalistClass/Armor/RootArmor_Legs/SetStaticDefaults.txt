@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Root Leggings
+	Current : Root Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased health from plant consumption by 2
+		Armor Set: Increased herbalist damage by 6%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased health from plant consumption by 2
+		Armor Set: Increased herbalist damage by 6%
+		[c/0EA300:Herbalist Class]
+}
+

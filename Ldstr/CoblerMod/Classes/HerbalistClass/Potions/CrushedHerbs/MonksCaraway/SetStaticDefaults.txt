@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Monk's Caraway
+	Current : Monk's Caraway
+}
+
+1 :
+{
+	Origin : [c/0EA300:Herbalist Class]
+	Current : [c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 'A Part of Nature' Breastplate
+	Current : 'A Part of Nature' Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Increased intensity of leaves falling
+		Armor Set: No damage to critters
+	Current : 
+		Increased herbalist damage by 8%
+		Increased intensity of leaves falling
+		Armor Set: No damage to critters
+}
+

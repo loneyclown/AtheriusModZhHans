@@ -1,0 +1,1454 @@
+Buff_AbyssVanilla :
+{
+	Name :
+	{
+		Origin : Abyss Vanilla
+		Current : 深渊
+	}
+	Description :
+	{
+		Origin : Player has greater crit
+		Current : 玩家有更大的暴击
+	}
+}
+
+Buff_AllDay :
+{
+	Name :
+	{
+		Origin : All Day
+		Current : 一整天
+	}
+	Description :
+	{
+		Origin : 65. All Day.
+		Current : 65. 一整天。
+	}
+}
+
+Buff_AnimalCaretaker :
+{
+	Name :
+	{
+		Origin : Animal Caretaker
+		Current : 动物管理员
+	}
+	Description :
+	{
+		Origin : The more animals around, the more you heal passively
+		Current : 周围的动物越多，你就越被动地治愈
+	}
+}
+
+Buff_AnimalLiker :
+{
+	Name :
+	{
+		Origin : Animal Liker
+		Current : 喜欢动物的人
+	}
+	Description :
+	{
+		Origin : The more animals around, the stronger the herbalist knockback
+		Current : 周围的动物越多，草药师的击退力就越强
+	}
+}
+
+Buff_AnimalLover :
+{
+	Name :
+	{
+		Origin : Animal Lover
+		Current : 动物爱好者
+	}
+	Description :
+	{
+		Origin : The more animals around, the stronger the herbalist damage
+		Current : 周围的动物越多，草药师的伤害就越强
+	}
+}
+
+Buff_AnimalThriver :
+{
+	Name :
+	{
+		Origin : Animal Thriver
+		Current : 动物茁壮成长
+	}
+	Description :
+	{
+		Origin : The more animals around, the stronger the herbalist crit
+		Current : 周围的动物越多，草药师的暴击就越强
+	}
+}
+
+Buff_Arrulica :
+{
+	Name :
+	{
+		Origin : Arrulica
+		Current : 芝麻菜
+	}
+	Description :
+	{
+		Origin : Player has no dash delay
+		Current : 玩家没有冲刺延迟
+	}
+}
+
+Buff_BearPear :
+{
+	Name :
+	{
+		Origin : Bear Pear
+		Current : 熊梨
+	}
+	Description :
+	{
+		Origin : Increased Herbalist Damage
+		Current : 草药师伤害增加
+	}
+}
+
+Buff_BearTonic :
+{
+	Name :
+	{
+		Origin : Bear Tonic
+		Current : 熊补药
+	}
+	Description :
+	{
+		Origin : 
+			Feel like a bear
+			Player has increased all attack
+		Current : 
+			熊的力量！
+			玩家增加了所有攻击
+	}
+}
+
+Buff_Berserker :
+{
+	Name :
+	{
+		Origin : Berserker
+		Current : 狂战士
+	}
+	Description :
+	{
+		Origin : Increased Damage, Decreased Defense and life regen
+		Current : 增加伤害，减少防御和生命恢复
+	}
+}
+
+Buff_BlueMoon :
+{
+	Name :
+	{
+		Origin : Blue Moon
+		Current : 蓝月
+	}
+	Description :
+	{
+		Origin : Increased Herbalist Damage and Healing during a snow moon
+		Current : 在霜月期间增加草药师的伤害和治疗
+	}
+}
+
+Buff_ColorWheel :
+{
+	Name :
+	{
+		Origin : Lingering Shades
+		Current : 挥之不去的阴影
+	}
+	Description :
+	{
+		Origin : Color Wheel around player
+		Current : 玩家周围的色轮
+	}
+}
+
+Buff_Control :
+{
+	Name :
+	{
+		Origin : Control
+		Current : 控制
+	}
+	Description :
+	{
+		Origin : Steal the mind of another
+		Current : 窃取另一个人的思想
+	}
+}
+
+Buff_CritCritter :
+{
+	Name :
+	{
+		Origin : Crit Critter
+		Current : 暴击小动物
+	}
+	Description :
+	{
+		Origin : Greatly increased herbalist crit
+		Current : 大大增加了草药师的暴击率
+	}
+}
+
+Buff_CursedHeart :
+{
+	Name :
+	{
+		Origin : Cursed Heart
+		Current : 诅咒之心
+	}
+	Description :
+	{
+		Origin : Gain back all Defense once this ends
+		Current : 结束后恢复所有防御
+	}
+}
+
+Buff_DinnerBell :
+{
+	Name :
+	{
+		Origin : Dinner Bell
+		Current : 晚饭铃
+	}
+	Description :
+	{
+		Origin : Increased number of herbalist circles
+		Current : 草药师圈子的数量增加
+	}
+}
+
+Buff_Fate :
+{
+	Name :
+	{
+		Origin : Fate
+		Current : 命运
+	}
+	Description :
+	{
+		Origin : Next time you're about to die, you won't =)
+		Current : 下次你要死的时候，你不会=）
+	}
+}
+
+Buff_FireRue :
+{
+	Name :
+	{
+		Origin : Fire Rue
+		Current : 消防街
+	}
+	Description :
+	{
+		Origin : 
+			Become immune to fire
+			Also casts a fire ring around them
+		Current : 
+			对火免疫
+			还在他们周围施放一个火环
+	}
+}
+
+Buff_Fortify :
+{
+	Name :
+	{
+		Origin : Fortify
+		Current : 设防
+	}
+	Description :
+	{
+		Origin : Your mind is a fortress
+		Current : 你的思想是一座堡垒
+	}
+}
+
+Buff_FromTheGrave :
+{
+	Name :
+	{
+		Origin : From the Grave
+		Current : 从坟墓
+	}
+	Description :
+	{
+		Origin : Enemies are in for a surprise upon death
+		Current : 敌人死后会有惊喜
+	}
+}
+
+Buff_Gentleman :
+{
+	Name :
+	{
+		Origin : Gentleman
+		Current : 绅士
+	}
+	Description :
+	{
+		Origin : 
+			Immune to poison, bleeding, and darkness
+			
+		Current : 
+			免疫毒素、流血和黑暗
+			
+	}
+}
+
+Buff_GottaCatchEmAll :
+{
+	Name :
+	{
+		Origin : Gotta Catch Em All
+		Current : 需要把他们全都抓到
+	}
+	Description :
+	{
+		Origin : 
+			Doubles the number of critters caught
+			
+		Current : 
+			捕获的小动物数量翻倍
+			
+	}
+}
+
+Buff_Harden :
+{
+	Name :
+	{
+		Origin : Harden
+		Current : 硬化
+	}
+	Description :
+	{
+		Origin : Increased Melee Damage and Defense
+		Current : 增加近战伤害和防御
+	}
+}
+
+Buff_Herbalist_Bird :
+{
+	Name :
+	{
+		Origin : Bird
+		Current : 鸟
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the bird
+		Current : 使用草药配饰，您可以从鸟身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Bunny :
+{
+	Name :
+	{
+		Origin : Bunny
+		Current : 兔子
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the bunny
+		Current : 使用草药配饰，你会从兔子那里获得一个小特征
+	}
+}
+
+Buff_Herbalist_Butterfly :
+{
+	Name :
+	{
+		Origin : Butterfly
+		Current : 蝴蝶
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the butterfly
+		Current : 使用草药配饰，您可以从蝴蝶那里获得一个小特征
+	}
+}
+
+Buff_Herbalist_Dolphin :
+{
+	Name :
+	{
+		Origin : Dolphin
+		Current : 海豚
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the dolphin
+		Current : 使用草药配饰，您可以从海豚身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Duck :
+{
+	Name :
+	{
+		Origin : Duck
+		Current : 鸭子
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the duck
+		Current : 使用草药配饰，您可以从鸭子身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Firefly :
+{
+	Name :
+	{
+		Origin : Firefly
+		Current : 萤火虫
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the firefly
+		Current : 有了草药配饰，你会从萤火虫身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Frog :
+{
+	Name :
+	{
+		Origin : Frog
+		Current : 青蛙
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the frog
+		Current : 使用草药配饰，您可以从青蛙身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Owl :
+{
+	Name :
+	{
+		Origin : Owl
+		Current : 猫头鹰
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the owl
+		Current : 使用草药配饰，您可以从猫头鹰那里获得一个小特征
+	}
+}
+
+Buff_Herbalist_Penguin :
+{
+	Name :
+	{
+		Origin : Penguin
+		Current : 企鹅
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the penguin
+		Current : 使用草药配饰，您可以从企鹅身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Scorpion :
+{
+	Name :
+	{
+		Origin : Scorpion
+		Current : 蝎
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the scorpion
+		Current : 使用草药配饰，您可以从蝎子身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_Squirrel :
+{
+	Name :
+	{
+		Origin : Squirrel
+		Current : 松鼠
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the squirrel
+		Current : 使用草药配饰，您可以从松鼠那里获得一个小特征
+	}
+}
+
+Buff_Herbalist_Turtle :
+{
+	Name :
+	{
+		Origin : Turtle
+		Current : 龟
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the turtle
+		Current : 使用草药配饰，您可以从海龟身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_VerdantButterfly :
+{
+	Name :
+	{
+		Origin : Pixie Butterly
+		Current : 小精灵蝴蝶
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the pixie butterfly
+		Current : 使用草药配饰，您可以从小精灵蝴蝶身上获得一个小特征
+	}
+}
+
+Buff_Herbalist_VerdantSquirrel :
+{
+	Name :
+	{
+		Origin : Verdant Squirrel
+		Current : 青松鼠
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the verdant squirrel
+		Current : 使用草药配饰，您可以从青翠的松鼠那里获得一个小特征
+	}
+}
+
+Buff_Herbalist_Worm :
+{
+	Name :
+	{
+		Origin : Worm
+		Current : 蠕虫
+	}
+	Description :
+	{
+		Origin : With an herbalist accessory, you get a small trait from the worm
+		Current : 使用草药配饰，您可以从蠕虫身上获得一个小特征
+	}
+}
+
+Buff_Konnider :
+{
+	Name :
+	{
+		Origin : Konnider
+		Current : 康奈德
+	}
+	Description :
+	{
+		Origin : Immunity to frozen
+		Current : 免疫冷冻
+	}
+}
+
+Buff_LeafTonic :
+{
+	Name :
+	{
+		Origin : Leaf Tonic
+		Current : 叶补
+	}
+	Description :
+	{
+		Origin : So pretty...
+		Current : 很漂亮...
+	}
+}
+
+Buff_MeleeRobot :
+{
+	Name :
+	{
+		Origin : Melee Robot
+		Current : 近战机器人
+	}
+	Description :
+	{
+		Origin : Didn't saw that coming
+		Current : 没看到未来
+	}
+}
+
+Buff_MellowBorage :
+{
+	Name :
+	{
+		Origin : Mellow Borage
+		Current : 醇香琉璃苣
+	}
+	Description :
+	{
+		Origin : For 2 minutes critical hits are nullified
+		Current : 2 分钟内，暴击无效化
+	}
+}
+
+Buff_Memorized :
+{
+	Name :
+	{
+		Origin : Memorized
+		Current : 记住了
+	}
+	Description :
+	{
+		Origin : Using an item only from your mind
+		Current : 仅使用您心中的物品
+	}
+}
+
+Buff_Mimic :
+{
+	Name :
+	{
+		Origin : Mimic
+		Current : 模仿
+	}
+	Description :
+	{
+		Origin : Steal the stats of another entity
+		Current : 窃取另一个实体的统计数据
+	}
+}
+
+Buff_Moonshine :
+{
+	Name :
+	{
+		Origin : Moonshine
+		Current : 月光
+	}
+	Description :
+	{
+		Origin : Herbalist damage is doubled if the player is higher in the sky
+		Current : 如果玩家在天空中更高，草药师的伤害会加倍
+	}
+}
+
+Buff_MorningWood :
+{
+	Name :
+	{
+		Origin : Morning Wood
+		Current : 晨木
+	}
+	Description :
+	{
+		Origin : Trees will do more damage when firing leaves
+		Current : 射击树叶时树木会造成更多伤害
+	}
+}
+
+Buff_Nightwatch :
+{
+	Name :
+	{
+		Origin : Nightwatch
+		Current : 夜间值班
+	}
+	Description :
+	{
+		Origin : Herbalist damage is doubled if it is nighttime
+		Current : 如果是夜间，草药师的伤害会翻倍
+	}
+}
+
+Buff_NotYet :
+{
+	Name :
+	{
+		Origin : Not Yet
+		Current : 还没有
+	}
+	Description :
+	{
+		Origin : Not Yet
+		Current : 还没有
+	}
+}
+
+Buff_Protein :
+{
+	Name :
+	{
+		Origin : Protein
+		Current : 蛋白质
+	}
+	Description :
+	{
+		Origin : Slightly increased damage
+		Current : 伤害略有增加
+	}
+}
+
+Buff_Putirine :
+{
+	Name :
+	{
+		Origin : Putirine
+		Current : 嘌呤
+	}
+	Description :
+	{
+		Origin : Less than half mana will grant 50 mana every 5 seconds
+		Current : 少于一半的法力值每 5 秒会提供 50 法力值
+	}
+}
+
+Buff_RangedRobot :
+{
+	Name :
+	{
+		Origin : Ranged Robot
+		Current : 远程机器人
+	}
+	Description :
+	{
+		Origin : Pew pew
+		Current : 我有两把枪，一把叫射，一把叫...砰！
+	}
+}
+
+Buff_RocouDeDiable :
+{
+	Name :
+	{
+		Origin : Rocou De Diable
+		Current : Rocou De Diable
+	}
+	Description :
+	{
+		Origin : The next 10 hits on the player will do half damage
+		Current : 接下来对玩家的 10 次攻击将造成一半伤害
+	}
+}
+
+Buff_RosaArmorSet :
+{
+	Name :
+	{
+		Origin : Rosa Armor Buff
+		Current : 玫瑰护甲浅黄色
+	}
+	Description :
+	{
+		Origin : Slightly increased defense
+		Current : 略微增加防御
+	}
+}
+
+Buff_ScrewYouGolem :
+{
+	Name :
+	{
+		Origin : Screw You Golem
+		Current : 去你的魔像
+	}
+	Description :
+	{
+		Origin : 
+			All herbalist damage on the golem is doubled
+			Plants don't like the golem....
+		Current : 
+			魔像上的所有草药师伤害加倍
+			植物不喜欢傀儡....
+	}
+}
+
+Buff_ShimmerDill :
+{
+	Name :
+	{
+		Origin : Shimmer Dill
+		Current : 微光莳萝
+	}
+	Description :
+	{
+		Origin : 
+			Start shimmering!
+			Player will be granted an extra slot
+			
+		Current : 
+			开始闪闪发光！
+			玩家将获得一个额外的插槽
+			
+	}
+}
+
+Buff_SniperMode :
+{
+	Name :
+	{
+		Origin : Sniper Mode
+		Current : 狙击模式
+	}
+	Description :
+	{
+		Origin : Pew Pew
+		Current : 我有两把枪，一把叫射，一把叫...砰！
+	}
+}
+
+Buff_Starseeker :
+{
+	Name :
+	{
+		Origin : Starseeker
+		Current : 寻星者
+	}
+	Description :
+	{
+		Origin : Fly forever
+		Current : 永远飞翔
+	}
+}
+
+Buff_SunElixir :
+{
+	Name :
+	{
+		Origin : Sun Elixir
+		Current : 太阳药
+	}
+	Description :
+	{
+		Origin : Increased Herbalist Heals
+		Current : 增加草药治疗
+	}
+}
+
+Buff_TheMoreTheLifier :
+{
+	Name :
+	{
+		Origin : The More The Life-ier
+		Current : 越多越活
+	}
+	Description :
+	{
+		Origin : The more animals around, the more herbalist potions restore health
+		Current : 周围的动物越多，恢复健康的药水就越多
+	}
+}
+
+Buff_TheMoreTheManaier :
+{
+	Name :
+	{
+		Origin : The More The Mana-ier
+		Current : 越多越聪明
+	}
+	Description :
+	{
+		Origin : The more animals around, the more herbalist potions restore mana
+		Current : 周围的动物越多，恢复法力的药水就越多
+	}
+}
+
+Buff_ThistleArmorSet :
+{
+	Name :
+	{
+		Origin : Thistle Armor Buff
+		Current : 蓟盔甲增益
+	}
+	Description :
+	{
+		Origin : Slightly increased mana
+		Current : 法力略有增加
+	}
+}
+
+Buff_ThoughtfulThinking :
+{
+	Name :
+	{
+		Origin : Thoughtful Thinking
+		Current : 深思熟虑
+	}
+	Description :
+	{
+		Origin : You're playing terraria. Life is good.
+		Current : 你在玩泰拉瑞亚。 生活很好。
+	}
+}
+
+Buff_TierSkin :
+{
+	Name :
+	{
+		Origin : Skin Magic
+		Current : 皮肤魔法
+	}
+	Description :
+	{
+		Origin : Changes color of skin
+		Current : 改变皮肤的颜色
+	}
+}
+
+Buff_Tombstone :
+{
+	Name :
+	{
+		Origin : Tombstone
+		Current : Tombstone
+	}
+	Description :
+	{
+		Origin : Next time you're about to die, you won't =)
+		Current : Next time you're about to die, you won't =)
+	}
+}
+
+Buff_ViperNigella :
+{
+	Name :
+	{
+		Origin : Viper Nigella
+		Current : Viper Nigella
+	}
+	Description :
+	{
+		Origin : Weapons deal poison
+		Current : Weapons deal poison
+	}
+}
+
+Buff_Waypoint :
+{
+	Name :
+	{
+		Origin : Waypoint
+		Current : Waypoint
+	}
+	Description :
+	{
+		Origin : Incrementing damage
+		Current : Incrementing damage
+	}
+}
+
+Debuff_Bleu :
+{
+	Name :
+	{
+		Origin : Bleu
+		Current : Bleu
+	}
+	Description :
+	{
+		Origin : Don't get hit by Jaune's or Rouge's projectiles...
+		Current : Don't get hit by Jaune's or Rouge's projectiles...
+	}
+}
+
+Debuff_DarkSword :
+{
+	Name :
+	{
+		Origin : Dark Sword
+		Current : Dark Sword
+	}
+	Description :
+	{
+		Origin : Using a weapon from the dark grimoire
+		Current : Using a weapon from the dark grimoire
+	}
+}
+
+Debuff_DemonSword :
+{
+	Name :
+	{
+		Origin : Demon Sword
+		Current : Demon Sword
+	}
+	Description :
+	{
+		Origin : Using a weapon from the demon grimoire
+		Current : Using a weapon from the demon grimoire
+	}
+}
+
+Debuff_Despair :
+{
+	Name :
+	{
+		Origin : Despair
+		Current : Despair
+	}
+	Description :
+	{
+		Origin : Succomb to despair. Puhuhu.
+		Current : Succomb to despair. Puhuhu.
+	}
+}
+
+Debuff_DevilsAwakening :
+{
+	Name :
+	{
+		Origin : Devil's Awakening
+		Current : Devil's Awakening
+	}
+	Description :
+	{
+		Origin : Will die next time hit by a boss
+		Current : Will die next time hit by a boss
+	}
+}
+
+Debuff_ExplosionStaff :
+{
+	Name :
+	{
+		Origin : Explosion Staff
+		Current : Explosion Staff
+	}
+	Description :
+	{
+		Origin : EXPLOSION
+		Current : EXPLOSION
+	}
+}
+
+Debuff_FaithfulWindroot :
+{
+	Name :
+	{
+		Origin : Faithful Windroot Cooldown
+		Current : Faithful Windroot Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot use Faithful Windroot skill
+		Current : Cannot use Faithful Windroot skill
+	}
+}
+
+Debuff_FallenAngel :
+{
+	Name :
+	{
+		Origin : Fallen Angel
+		Current : Fallen Angel
+	}
+	Description :
+	{
+		Origin : Cannot fly
+		Current : Cannot fly
+	}
+}
+
+Debuff_GoldenSword :
+{
+	Name :
+	{
+		Origin : Golden Sword
+		Current : Golden Sword
+	}
+	Description :
+	{
+		Origin : Using a weapon from the gold grimoire
+		Current : Using a weapon from the gold grimoire
+	}
+}
+
+Debuff_HealThyAxe :
+{
+	Name :
+	{
+		Origin : Heal Thy Axe
+		Current : Heal Thy Axe
+	}
+	Description :
+	{
+		Origin : Using a weapon from the heart grimoire
+		Current : Using a weapon from the heart grimoire
+	}
+}
+
+Debuff_HeavensWarmth :
+{
+	Name :
+	{
+		Origin : Heaven's Warmth
+		Current : Heaven's Warmth
+	}
+	Description :
+	{
+		Origin : Needs to recharge
+		Current : Needs to recharge
+	}
+}
+
+Debuff_Hellreaver :
+{
+	Name :
+	{
+		Origin : Heallreaver Cooldown
+		Current : Heallreaver Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot use Hellreaver skill
+		Current : Cannot use Hellreaver skill
+	}
+}
+
+Debuff_HerbalistShield :
+{
+	Name :
+	{
+		Origin : Herbalist Shield
+		Current : Herbalist Shield
+	}
+	Description :
+	{
+		Origin : Cannot get back your shield while this debuff is active
+		Current : Cannot get back your shield while this debuff is active
+	}
+}
+
+Debuff_Jaune :
+{
+	Name :
+	{
+		Origin : Jaune
+		Current : Jaune
+	}
+	Description :
+	{
+		Origin : Don't get hit by Rouge's or Bleu's projectiles...
+		Current : Don't get hit by Rouge's or Bleu's projectiles...
+	}
+}
+
+Debuff_Oblivious :
+{
+	Name :
+	{
+		Origin : Oblivious
+		Current : Oblivious
+	}
+	Description :
+	{
+		Origin : Deal no damage to the enemy
+		Current : Deal no damage to the enemy
+	}
+}
+
+Debuff_PortalGuardian :
+{
+	Name :
+	{
+		Origin : Portal Guardian
+		Current : Portal Guardian
+	}
+	Description :
+	{
+		Origin : All Portal Guardian moves will do 1.5x the damage on the player
+		Current : All Portal Guardian moves will do 1.5x the damage on the player
+	}
+}
+
+Debuff_Rouge :
+{
+	Name :
+	{
+		Origin : Rogue
+		Current : Rogue
+	}
+	Description :
+	{
+		Origin : Don't get hit by Jaune's or Bleu's projectiles...
+		Current : Don't get hit by Jaune's or Bleu's projectiles...
+	}
+}
+
+Debuff_SniperCooldown :
+{
+	Name :
+	{
+		Origin : Sniper Cooldown
+		Current : Sniper Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot go back into sniper mode until this is gone
+		Current : Cannot go back into sniper mode until this is gone
+	}
+}
+
+Debuff_SpiritBow :
+{
+	Name :
+	{
+		Origin : Spirit Bow
+		Current : Spirit Bow
+	}
+	Description :
+	{
+		Origin : Using a weapon from the wind grimoire
+		Current : Using a weapon from the wind grimoire
+	}
+}
+
+Debuff_Tier5Dream :
+{
+	Name :
+	{
+		Origin : Dream World
+		Current : Dream World
+	}
+	Description :
+	{
+		Origin : Cannot use Dream World
+		Current : Cannot use Dream World
+	}
+}
+
+Debuff_Tier5Gold :
+{
+	Name :
+	{
+		Origin : Gold Tier 5 Cooldown
+		Current : Gold Tier 5 Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot use Gold Tier 5
+		Current : Cannot use Gold Tier 5
+	}
+}
+
+Debuff_Tier5Ice :
+{
+	Name :
+	{
+		Origin : Shattered Ice Cooldown
+		Current : Shattered Ice Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot use Shattered Ice
+		Current : Cannot use Shattered Ice
+	}
+}
+
+Debuff_Tier5Paint :
+{
+	Name :
+	{
+		Origin : Canvas Cooldown
+		Current : Canvas Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot use Canvas
+		Current : Cannot use Canvas
+	}
+}
+
+Debuff_Tier5Void :
+{
+	Name :
+	{
+		Origin : Pitch Black Cooldown
+		Current : Pitch Black Cooldown
+	}
+	Description :
+	{
+		Origin : Cannot use Pitch Black
+		Current : Cannot use Pitch Black
+	}
+}
+
+Debuff_Tombstone :
+{
+	Name :
+	{
+		Origin : Tombstone used
+		Current : Tombstone used
+	}
+	Description :
+	{
+		Origin : You're welcome
+		Current : You're welcome
+	}
+}
+
+Debuff_Turn :
+{
+	Name :
+	{
+		Origin : Turn
+		Current : Turn
+	}
+	Description :
+	{
+		Origin : Turn
+		Current : Turn
+	}
+}
+
+Debuff_VoidSaber :
+{
+	Name :
+	{
+		Origin : Void Saber
+		Current : Void Saber
+	}
+	Description :
+	{
+		Origin : Using a weapon from the void grimoire
+		Current : Using a weapon from the void grimoire
+	}
+}
+
+DemonFriendBuff :
+{
+	Name :
+	{
+		Origin : Demon Friend
+		Current : Demon Friend
+	}
+	Description :
+	{
+		Origin : Little buddy
+		Current : Little buddy
+	}
+}
+
+EarthfireBuff :
+{
+	Name :
+	{
+		Origin : Earthfire Minion
+		Current : Earthfire Minion
+	}
+	Description :
+	{
+		Origin : EarthfireBuff
+		Current : EarthfireBuff
+	}
+}
+
+EchoBuff :
+{
+	Name :
+	{
+		Origin : Echo Minion
+		Current : Echo Minion
+	}
+	Description :
+	{
+		Origin : His name is Echo
+		Current : His name is Echo
+	}
+}
+
+EyeForAnEyeBuff :
+{
+	Name :
+	{
+		Origin : Eye For An Eye
+		Current : Eye For An Eye
+	}
+	Description :
+	{
+		Origin : He will serve you well
+		Current : He will serve you well
+	}
+}
+
+PapaLeafBuff :
+{
+	Name :
+	{
+		Origin : Papa Leaf Minion
+		Current : Papa Leaf Minion
+	}
+	Description :
+	{
+		Origin : Someone's feelin sappy
+		Current : Someone's feelin sappy
+	}
+}
+
+PrimaryBatsBuff :
+{
+	Name :
+	{
+		Origin : Primary Bats
+		Current : Primary Bats
+	}
+	Description :
+	{
+		Origin : 3 little bats of RBY
+		Current : 3 little bats of RBY
+	}
+}
+
+SoulServantBuff :
+{
+	Name :
+	{
+		Origin : Soul Servant Minion
+		Current : Soul Servant Minion
+	}
+	Description :
+	{
+		Origin : He'll be your sword
+		Current : He'll be your sword
+	}
+}
+
+SpiritDoggoBuff :
+{
+	Name :
+	{
+		Origin : Bork Bork Nom Nom
+		Current : Bork Bork Nom Nom
+	}
+	Description :
+	{
+		Origin : The herbalist's loyal spirit wolf comes to it's aid
+		Current : The herbalist's loyal spirit wolf comes to it's aid
+	}
+}
+
+WhatsAnotherHeadBuff :
+{
+	Name :
+	{
+		Origin : SWhat's Another Head?
+		Current : SWhat's Another Head?
+	}
+	Description :
+	{
+		Origin : Watch him go!
+		Current : Watch him go!
+	}
+}
+

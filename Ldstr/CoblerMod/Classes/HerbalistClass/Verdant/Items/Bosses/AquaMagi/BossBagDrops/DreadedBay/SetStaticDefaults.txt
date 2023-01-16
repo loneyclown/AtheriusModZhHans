@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires water bolts
+		Also soaks enemies
+	Current : 
+		Fires water bolts
+		Also soaks enemies
+}
+

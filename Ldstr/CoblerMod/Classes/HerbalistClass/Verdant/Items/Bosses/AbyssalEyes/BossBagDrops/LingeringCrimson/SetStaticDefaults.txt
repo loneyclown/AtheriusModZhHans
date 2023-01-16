@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Swing this sin in the air
+		All nearby enemies will begin succombing to death
+		All grass and dirt tiles will become crimson grass
+		This can be enabled/disabled in the config
+	Current : 
+		Swing this sin in the air
+		All nearby enemies will begin succombing to death
+		All grass and dirt tiles will become crimson grass
+		This can be enabled/disabled in the config
+}
+

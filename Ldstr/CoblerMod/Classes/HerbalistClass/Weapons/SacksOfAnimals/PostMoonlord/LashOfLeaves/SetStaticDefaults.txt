@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		You ever get frustrated with some and want to just lash out?
+		Yeah that's this... but with leaves instead of words
+		Lots and lots of leaves...
+		[c/0EA300:Herbalist Class]
+	Current : 
+		You ever get frustrated with some and want to just lash out?
+		Yeah that's this... but with leaves instead of words
+		Lots and lots of leaves...
+		[c/0EA300:Herbalist Class]
+}
+

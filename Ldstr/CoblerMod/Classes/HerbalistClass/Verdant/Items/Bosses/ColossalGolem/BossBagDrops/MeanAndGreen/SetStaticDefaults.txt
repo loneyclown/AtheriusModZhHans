@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires a bunch of toxins
+		Also poisons enemies
+	Current : 
+		Fires a bunch of toxins
+		Also poisons enemies
+}
+

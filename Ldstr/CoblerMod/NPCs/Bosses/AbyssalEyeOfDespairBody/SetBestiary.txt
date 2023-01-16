@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Countless worlds it has left feeling nothing but despair.
+		The only thing in its path now what remains of The Abyssal Eye of Hope.
+		However, they Eye of Hope is far too weak at this point to defeat this eye.
+		Will you lend it a hand?
+	Current : 
+		Countless worlds it has left feeling nothing but despair.
+		The only thing in its path now what remains of The Abyssal Eye of Hope.
+		However, they Eye of Hope is far too weak at this point to defeat this eye.
+		Will you lend it a hand?
+}
+

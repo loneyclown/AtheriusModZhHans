@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Servant
+	Current : Servant
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/PortalGuardianServant_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/PortalGuardianServant_Bestiary
+}
+

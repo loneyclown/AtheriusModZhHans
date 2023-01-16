@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : MapObject.CurshingBowl
+	Current : MapObject.CurshingBowl
+}
+

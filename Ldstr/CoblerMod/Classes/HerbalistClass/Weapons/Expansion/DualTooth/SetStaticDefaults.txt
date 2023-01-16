@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		This name is just plan terrible
+		Spawns in two additional spinning blades
+		If these blades hit, they will create another blade, creating a chain effect
+		Also fires projectiles from the spinning blades
+		[c/0EA300:Herbalist Class]
+	Current : 
+		This name is just plan terrible
+		Spawns in two additional spinning blades
+		If these blades hit, they will create another blade, creating a chain effect
+		Also fires projectiles from the spinning blades
+		[c/0EA300:Herbalist Class]
+}
+

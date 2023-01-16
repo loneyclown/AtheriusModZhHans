@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : One Plant at a Time => Immortality
+	Current : One Plant at a Time => Immortality
+}
+
+Tooltip :
+{
+	Origin : Disable this to be able to kill your critters after consuming 'One Plant at a Time'.
+	Current : Disable this to be able to kill your critters after consuming 'One Plant at a Time'.
+}
+

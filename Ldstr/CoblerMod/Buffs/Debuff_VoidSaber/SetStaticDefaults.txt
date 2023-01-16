@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Void Saber
+	Current : Void Saber
+}
+
+1 :
+{
+	Origin : Using a weapon from the void grimoire
+	Current : Using a weapon from the void grimoire
+}
+

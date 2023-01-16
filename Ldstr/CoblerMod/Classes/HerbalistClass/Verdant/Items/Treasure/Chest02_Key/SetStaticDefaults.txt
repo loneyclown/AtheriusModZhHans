@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Chest Key
+	Current : Chest Key
+}
+
+1 :
+{
+	Origin : 
+		Find the chest for this key to open it
+		The chests can be found somewhere within the world
+		[c/303CA4:Key 2]
+	Current : 
+		Find the chest for this key to open it
+		The chests can be found somewhere within the world
+		[c/303CA4:Key 2]
+}
+

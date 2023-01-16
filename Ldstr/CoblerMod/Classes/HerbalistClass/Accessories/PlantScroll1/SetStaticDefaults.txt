@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Herbalist Plant Modifier (Tier 1)
+	Current : Herbalist Plant Modifier (Tier 1)
+}
+
+1 :
+{
+	Origin : Equip this to only find plants given from scroll 1
+	Current : Equip this to only find plants given from scroll 1
+}
+

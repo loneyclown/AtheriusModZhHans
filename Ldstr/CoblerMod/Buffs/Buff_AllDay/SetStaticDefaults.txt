@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : All Day
+	Current : All Day
+}
+
+1 :
+{
+	Origin : 65. All Day.
+	Current : 65. All Day.
+}
+

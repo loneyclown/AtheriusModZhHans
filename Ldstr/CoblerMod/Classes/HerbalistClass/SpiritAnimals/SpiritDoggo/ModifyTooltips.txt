@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Spirit Wolf
+	Current : Spirit Wolf
+}
+
+1 :
+{
+	Origin : 's Mask
+	Current : 's Mask
+}
+
+2 :
+{
+	Origin : Spirit Wolf Mask
+	Current : Spirit Wolf Mask
+}
+

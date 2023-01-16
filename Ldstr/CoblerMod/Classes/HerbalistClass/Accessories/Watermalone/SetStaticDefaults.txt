@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased herbalist resource by 75
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist resource by 75
+		[c/0EA300:Herbalist Class]
+}
+

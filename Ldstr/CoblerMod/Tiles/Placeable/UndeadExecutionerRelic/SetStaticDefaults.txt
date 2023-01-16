@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Undead Executioner Relic
+	Current : Undead Executioner Relic
+}
+

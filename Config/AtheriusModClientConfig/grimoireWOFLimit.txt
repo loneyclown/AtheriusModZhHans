@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Grimoires Level Limit - WOF
+	Current : Grimoires Level Limit - WOF
+}
+
+Tooltip :
+{
+	Origin : The limit of which the grimoire can level up to prior to beating the Wall of Flesh
+	Current : The limit of which the grimoire can level up to prior to beating the Wall of Flesh
+}
+

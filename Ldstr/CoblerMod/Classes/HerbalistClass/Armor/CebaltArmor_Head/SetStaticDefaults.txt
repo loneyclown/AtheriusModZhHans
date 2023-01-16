@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Cebalt Helmet
+	Current : Cebalt Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased minion knockback by 10%
+		Armor Set: Decreased mana costs by 10%
+	Current : 
+		Increased minion knockback by 10%
+		Armor Set: Decreased mana costs by 10%
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Rosa Helmet
+	Current : Rosa Helmet
+}
+
+1 :
+{
+	Origin : 
+		Slightly increased health regen
+		Armor Set: Slightly increased defense after consuming an herb
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Slightly increased health regen
+		Armor Set: Slightly increased defense after consuming an herb
+		[c/0EA300:Herbalist Class]
+}
+

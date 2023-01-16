@@ -1,0 +1,6 @@
+1 :
+{
+	Origin : Obola Herb
+	Current : Obola Herb
+}
+

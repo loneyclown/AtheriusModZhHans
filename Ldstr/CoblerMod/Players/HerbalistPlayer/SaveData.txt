@@ -1,0 +1,60 @@
+0 :
+{
+	Origin : herbalistDamage
+	Current : herbalistDamage
+}
+
+1 :
+{
+	Origin : herbalistLife
+	Current : herbalistLife
+}
+
+2 :
+{
+	Origin : herbalistMana
+	Current : herbalistMana
+}
+
+3 :
+{
+	Origin : onePlantAtATime
+	Current : onePlantAtATime
+}
+
+4 :
+{
+	Origin : gavePureWindroot
+	Current : gavePureWindroot
+}
+
+5 :
+{
+	Origin : EnableHerbalistShield
+	Current : EnableHerbalistShield
+}
+
+6 :
+{
+	Origin : herbalistPlantsInBag
+	Current : herbalistPlantsInBag
+}
+
+7 :
+{
+	Origin : herbalistCountInBag
+	Current : herbalistCountInBag
+}
+
+8 :
+{
+	Origin : herbalistPlantsInBagPlus
+	Current : herbalistPlantsInBagPlus
+}
+
+9 :
+{
+	Origin : herbalistCountInBagPlus
+	Current : herbalistCountInBagPlus
+}
+

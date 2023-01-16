@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Herbalist Badge: Gatherer
+	Current : Herbalist Badge: Gatherer
+}
+
+1 :
+{
+	Origin : 
+		All herbs and plants you gather now double
+		[c/0EA300:Herbalist Class]
+	Current : 
+		All herbs and plants you gather now double
+		[c/0EA300:Herbalist Class]
+}
+

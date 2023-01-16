@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 2)]
+	Current : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 2)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Magic damage by 8%
+		Spawn more projectiles when using magic items
+	Current : 
+		Increases Magic damage by 8%
+		Spawn more projectiles when using magic items
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Bunnies count as ammunition for this bag
+		Use this bag to release them while in combat
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Bunnies count as ammunition for this bag
+		Use this bag to release them while in combat
+		[c/0EA300:Herbalist Class]
+}
+

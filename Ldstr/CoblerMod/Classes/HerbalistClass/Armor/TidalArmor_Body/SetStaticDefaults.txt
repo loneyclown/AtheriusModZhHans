@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Tidal Chestplate
+	Current : Tidal Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased magic damage by 15%
+		Increased magic knockback by 15%
+		Armor Set: Cut mana costs by half
+	Current : 
+		Increased magic damage by 15%
+		Increased magic knockback by 15%
+		Armor Set: Cut mana costs by half
+}
+

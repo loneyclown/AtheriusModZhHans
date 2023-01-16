@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Rose Ore
+	Current : Rose Ore
+}
+

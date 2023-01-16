@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increase herbalist healing when animals are around
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increase herbalist healing when animals are around
+		[c/0EA300:Herbalist Class]
+}
+

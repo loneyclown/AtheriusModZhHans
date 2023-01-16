@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Tuskian Ore
+	Current : Tuskian Ore
+}
+

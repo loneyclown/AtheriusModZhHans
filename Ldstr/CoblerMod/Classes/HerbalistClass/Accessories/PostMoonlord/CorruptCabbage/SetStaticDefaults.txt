@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased number of herbalist circles by 3
+		All means of herbalist healing is increased by 20%
+		This includes passive, berries, potions, etc.
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased number of herbalist circles by 3
+		All means of herbalist healing is increased by 20%
+		This includes passive, berries, potions, etc.
+		[c/0EA300:Herbalist Class]
+}
+

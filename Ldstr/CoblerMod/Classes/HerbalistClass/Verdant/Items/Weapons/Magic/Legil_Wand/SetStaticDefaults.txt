@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Legil Wand
+	Current : Legil Wand
+}
+

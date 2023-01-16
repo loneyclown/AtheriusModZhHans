@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Only said to be spotted in the mists of Verdant, these little creatureslight up the underground moss with their bright wings.
+	Current : Only said to be spotted in the mists of Verdant, these little creatureslight up the underground moss with their bright wings.
+}
+

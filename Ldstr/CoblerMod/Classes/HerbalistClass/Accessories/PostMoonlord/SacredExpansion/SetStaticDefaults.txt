@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		[c/710DFC:The universe is constantly expanding]
+		[c/710DFC:As is mother nature and her little ones]
+		When a critter dies, they will spawn in some space anomaly
+		It could be falling stars, it could be a black hole
+		[c/0EA300:Herbalist Class]
+	Current : 
+		[c/710DFC:The universe is constantly expanding]
+		[c/710DFC:As is mother nature and her little ones]
+		When a critter dies, they will spawn in some space anomaly
+		It could be falling stars, it could be a black hole
+		[c/0EA300:Herbalist Class]
+}
+

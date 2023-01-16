@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased generic attack speed and knockback by 15%
+		Right click while equipped to place a portal at your current position
+		Press the assigned keybinding to teleport to it whenever
+		It will go away if you die, go too far, or make a new one by right clicking again
+	Current : 
+		Increased generic attack speed and knockback by 15%
+		Right click while equipped to place a portal at your current position
+		Press the assigned keybinding to teleport to it whenever
+		It will go away if you die, go too far, or make a new one by right clicking again
+}
+

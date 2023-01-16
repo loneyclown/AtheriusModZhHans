@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fires spread of poisoned arrows
+	Current : Fires spread of poisoned arrows
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 'Broken' Skull
+	Current : 'Broken' Skull
+}
+
+1 :
+{
+	Origin : Summons Hell's Angel
+	Current : Summons Hell's Angel
+}
+

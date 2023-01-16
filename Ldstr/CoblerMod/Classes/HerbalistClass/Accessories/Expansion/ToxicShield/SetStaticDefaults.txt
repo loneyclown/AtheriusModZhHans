@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 
+		Increased herbalist crit by 10
+		Increased herbalist mana restoration by 75 mana
+		When hit, critters give poison to the enemy
+		When spawned in, critters will have 50 more HP
+		They will also have slight life regen
+		Critters will not take damage from the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist crit by 10
+		Increased herbalist mana restoration by 75 mana
+		When hit, critters give poison to the enemy
+		When spawned in, critters will have 50 more HP
+		They will also have slight life regen
+		Critters will not take damage from the player
+		[c/0EA300:Herbalist Class]
+}
+

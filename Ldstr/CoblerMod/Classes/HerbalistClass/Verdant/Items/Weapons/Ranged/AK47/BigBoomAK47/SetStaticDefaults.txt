@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Big Boom AK-47
+	Current : Big Boom AK-47
+}
+
+1 :
+{
+	Origin : 
+		You see Ivan...
+		When AK make big boom,
+		Nothing ever survive it.
+		Only mother Russia bear have survive big boom AK.
+		Gun is inaccurate and you get tipsy while shooting it.
+	Current : 
+		You see Ivan...
+		When AK make big boom,
+		Nothing ever survive it.
+		Only mother Russia bear have survive big boom AK.
+		Gun is inaccurate and you get tipsy while shooting it.
+}
+

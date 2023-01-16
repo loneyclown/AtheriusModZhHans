@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		Increased attack speed by 10%
+		Increased potion drop rate from critters
+		
+		While the player is in the air, there is a chance
+		of stopping any incoming projectiles and changing it to leaves
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased attack speed by 10%
+		Increased potion drop rate from critters
+		
+		While the player is in the air, there is a chance
+		of stopping any incoming projectiles and changing it to leaves
+		[c/0EA300:Herbalist Class]
+}
+

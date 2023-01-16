@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Despair
+	Current : Despair
+}
+
+1 :
+{
+	Origin : Succomb to despair. Puhuhu.
+	Current : Succomb to despair. Puhuhu.
+}
+

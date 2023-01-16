@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Animal Lover
+	Current : Animal Lover
+}
+
+1 :
+{
+	Origin : The more animals around, the stronger the herbalist damage
+	Current : The more animals around, the stronger the herbalist damage
+}
+

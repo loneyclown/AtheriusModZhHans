@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Upon reading this
+		All sniper mult will increase by 1% permanently
+		Can only be used once
+	Current : 
+		Upon reading this
+		All sniper mult will increase by 1% permanently
+		Can only be used once
+}
+

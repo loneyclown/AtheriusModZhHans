@@ -1,0 +1,16 @@
+Label :
+{
+	Origin : Spirit Hats
+	Current : Spirit Hats
+}
+
+Tooltip :
+{
+	Origin : 
+		Choose a hat for your herbalist spirits to wear!
+		Possible Choices are: None, Wizard, Fedora, Mask, Windroot, Cowboy, Noir
+	Current : 
+		Choose a hat for your herbalist spirits to wear!
+		Possible Choices are: None, Wizard, Fedora, Mask, Windroot, Cowboy, Noir
+}
+

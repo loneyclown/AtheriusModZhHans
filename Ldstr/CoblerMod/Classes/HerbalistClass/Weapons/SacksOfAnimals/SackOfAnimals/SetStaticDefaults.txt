@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Various animals now count as ammunition
+		Use this bag to release them while in combat
+		This can take bunnies, squirrels, ducks, turtles, frogs, penguins, scorpions and birds
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Various animals now count as ammunition
+		Use this bag to release them while in combat
+		This can take bunnies, squirrels, ducks, turtles, frogs, penguins, scorpions and birds
+		[c/0EA300:Herbalist Class]
+}
+

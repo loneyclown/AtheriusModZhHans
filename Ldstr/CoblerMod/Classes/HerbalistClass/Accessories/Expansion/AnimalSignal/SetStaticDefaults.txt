@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		All friendly animals near the player will randomly fire projectiles
+		[c/0EA300:Herbalist Class]
+	Current : 
+		All friendly animals near the player will randomly fire projectiles
+		[c/0EA300:Herbalist Class]
+}
+

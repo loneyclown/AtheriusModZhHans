@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Demon Egg
+	Current : Demon Egg
+}
+

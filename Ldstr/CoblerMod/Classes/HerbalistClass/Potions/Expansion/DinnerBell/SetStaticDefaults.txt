@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increases the number of herbalist circles by 2
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increases the number of herbalist circles by 2
+		[c/0EA300:Herbalist Class]
+}
+

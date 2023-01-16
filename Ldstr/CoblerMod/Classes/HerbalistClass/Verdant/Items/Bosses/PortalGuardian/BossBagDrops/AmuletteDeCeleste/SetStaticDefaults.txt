@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 35% when in the hallow biome
+		Increased generic knockback by 25% when in the hallow biome
+		Increased generic crit by 15% when in the hallow biome
+		Increased attack speed by 10% when in the hallow biome
+		Otherwise all stats increase by half as much in any other biome
+	Current : 
+		Increased generic damage by 35% when in the hallow biome
+		Increased generic knockback by 25% when in the hallow biome
+		Increased generic crit by 15% when in the hallow biome
+		Increased attack speed by 10% when in the hallow biome
+		Otherwise all stats increase by half as much in any other biome
+}
+

@@ -1,0 +1,26 @@
+0 :
+{
+	Origin : Nature's Wrath
+	Current : Nature's Wrath
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased herbalist crit by 10
+		When the player walks near a tree, the tree will fire leaves at nearby enemies
+		Increased herbalist healing by 100 HP
+		Increased herbalist mana restoration by 100 Mana
+		All friendly animals near the player will fire projectiles towards enemies
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Increased herbalist crit by 10
+		When the player walks near a tree, the tree will fire leaves at nearby enemies
+		Increased herbalist healing by 100 HP
+		Increased herbalist mana restoration by 100 Mana
+		All friendly animals near the player will fire projectiles towards enemies
+		[c/0EA300:Herbalist Class]
+}
+

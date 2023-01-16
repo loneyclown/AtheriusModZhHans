@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Enable Blood Rain
+	Current : Enable Blood Rain
+}
+
+Tooltip :
+{
+	Origin : Enables Blood Rain from the Sins Rune tiers 5 and 6.
+	Current : Enables Blood Rain from the Sins Rune tiers 5 and 6.
+}
+

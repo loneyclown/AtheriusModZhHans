@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Immunity to lava and all kinds of fire debuffs
+	Current : Immunity to lava and all kinds of fire debuffs
+}
+

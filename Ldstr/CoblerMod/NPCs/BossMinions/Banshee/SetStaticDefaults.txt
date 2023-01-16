@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Banshee
+	Current : Banshee
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Banshee_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Banshee_Bestiary
+}
+

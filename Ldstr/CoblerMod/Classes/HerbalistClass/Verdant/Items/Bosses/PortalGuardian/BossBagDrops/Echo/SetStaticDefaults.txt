@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Summons a friendly ball named Echo
+	Current : Summons a friendly ball named Echo
+}
+

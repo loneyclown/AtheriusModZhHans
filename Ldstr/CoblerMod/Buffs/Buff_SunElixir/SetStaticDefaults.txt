@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Sun Elixir
+	Current : Sun Elixir
+}
+
+1 :
+{
+	Origin : Increased Herbalist Heals
+	Current : Increased Herbalist Heals
+}
+

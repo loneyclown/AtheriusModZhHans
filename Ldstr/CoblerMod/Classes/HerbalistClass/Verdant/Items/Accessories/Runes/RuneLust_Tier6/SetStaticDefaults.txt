@@ -1,0 +1,28 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/7D0561:Lust] [c/FFFFFF:(Tier 6)]
+	Current : [c/383842:Rune of] [c/7D0561:Lust] [c/FFFFFF:(Tier 6)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Melee Damage by 20%
+		Weapon is imbued with fire
+		Player is immune to lava
+		Defense increased
+		Gain 100 mana every 15 seconds
+		Any NPC that a player hits with a melee weapon will become lovestruck for 5 seconds
+		Meaning that anytime they hit you, it will heal you instead
+		This does not apply to bosses
+	Current : 
+		Increases Melee Damage by 20%
+		Weapon is imbued with fire
+		Player is immune to lava
+		Defense increased
+		Gain 100 mana every 15 seconds
+		Any NPC that a player hits with a melee weapon will become lovestruck for 5 seconds
+		Meaning that anytime they hit you, it will heal you instead
+		This does not apply to bosses
+}
+

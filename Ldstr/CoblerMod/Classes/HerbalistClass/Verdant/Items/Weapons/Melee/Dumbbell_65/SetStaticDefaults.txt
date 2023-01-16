@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Dumbbell (65 LBS)
+	Current : Dumbbell (65 LBS)
+}
+
+1 :
+{
+	Origin : 
+		Dang you're at 65 lbs now?
+		All day!
+		Need at least 30 defense in order to use
+	Current : 
+		Dang you're at 65 lbs now?
+		All day!
+		Need at least 30 defense in order to use
+}
+

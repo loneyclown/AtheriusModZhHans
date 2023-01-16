@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Viper Nigella
+	Current : Viper Nigella
+}
+
+1 :
+{
+	Origin : Weapons deal poison
+	Current : Weapons deal poison
+}
+

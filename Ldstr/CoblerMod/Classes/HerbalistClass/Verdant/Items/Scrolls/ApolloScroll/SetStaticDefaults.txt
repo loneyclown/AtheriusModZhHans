@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		Good thing you'd beaten
+		A boss with bare bone
+		Since out in the snow biome
+		It'd freeze in that zone
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+	Current : 
+		Good thing you'd beaten
+		A boss with bare bone
+		Since out in the snow biome
+		It'd freeze in that zone
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+}
+

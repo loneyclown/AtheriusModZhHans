@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/UndeadExecutionerRelic
+	Current : CoblerMod/Tiles/Furniture/UndeadExecutionerRelic
+}
+

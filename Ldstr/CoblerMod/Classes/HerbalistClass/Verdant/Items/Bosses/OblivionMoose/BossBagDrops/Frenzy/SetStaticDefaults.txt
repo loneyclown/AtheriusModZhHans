@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Any herbalist plant in the players inventory will increase the damage
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Any herbalist plant in the players inventory will increase the damage
+		[c/0EA300:Herbalist Class]
+}
+

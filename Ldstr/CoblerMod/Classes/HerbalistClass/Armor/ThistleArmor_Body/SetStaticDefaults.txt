@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Thistle Breastplate
+	Current : Thistle Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased knockback from Herbalist weapons by 10%
+		Armor Set: Consuming an herb grants the player 40 temporary mana
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased knockback from Herbalist weapons by 10%
+		Armor Set: Consuming an herb grants the player 40 temporary mana
+		[c/0EA300:Herbalist Class]
+}
+

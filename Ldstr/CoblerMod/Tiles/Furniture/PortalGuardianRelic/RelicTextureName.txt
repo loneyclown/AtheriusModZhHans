@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/PortalGuardianRelic
+	Current : CoblerMod/Tiles/Furniture/PortalGuardianRelic
+}
+

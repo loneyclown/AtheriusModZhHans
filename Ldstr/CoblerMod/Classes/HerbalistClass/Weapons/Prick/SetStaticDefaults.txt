@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Prick
+	Current : Prick
+}
+
+1 :
+{
+	Origin : 
+		Chance of getting a thorn everytime you hit an enemy
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Chance of getting a thorn everytime you hit an enemy
+		[c/0EA300:Herbalist Class]
+}
+

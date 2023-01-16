@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fallen Servant Relic
+	Current : Fallen Servant Relic
+}
+

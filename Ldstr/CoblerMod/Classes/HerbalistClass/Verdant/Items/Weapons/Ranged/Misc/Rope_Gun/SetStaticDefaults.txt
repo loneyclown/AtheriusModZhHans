@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Rope Gun
+	Current : Rope Gun
+}
+
+1 :
+{
+	Origin : 
+		Exactly what it sounds like.
+		Does not damage to enemies but good for getting out of tight spaces early on.
+		Shoots rope coils that can cling to walls.
+		Requires rope coil as ammo
+	Current : 
+		Exactly what it sounds like.
+		Does not damage to enemies but good for getting out of tight spaces early on.
+		Shoots rope coils that can cling to walls.
+		Requires rope coil as ammo
+}
+

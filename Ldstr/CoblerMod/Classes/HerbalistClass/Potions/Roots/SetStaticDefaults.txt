@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Gain rapid healing
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Gain rapid healing
+		[c/0EA300:Herbalist Class]
+}
+

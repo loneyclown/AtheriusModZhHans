@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Harpy Egg
+	Current : Harpy Egg
+}
+

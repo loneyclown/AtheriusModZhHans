@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		25% increased magic damage
+		Increased generic knockback by 10%
+		Enemies are worth 1.2x more the amount of coins everytime they're hit
+		This does not count for bosses
+	Current : 
+		25% increased magic damage
+		Increased generic knockback by 10%
+		Enemies are worth 1.2x more the amount of coins everytime they're hit
+		This does not count for bosses
+}
+

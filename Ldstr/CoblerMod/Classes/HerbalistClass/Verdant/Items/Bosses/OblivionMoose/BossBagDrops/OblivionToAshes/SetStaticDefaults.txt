@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Spawn in a barrage of oblivion explosions
+	Current : Spawn in a barrage of oblivion explosions
+}
+

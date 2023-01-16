@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Stryllis Cloak
+	Current : Stryllis Cloak
+}
+
+1 :
+{
+	Origin : 
+		Increased radius of purifying the lands
+		Gain 1 additional herbalist circle
+		Armor Set: Increase herbalist damage by 25%
+	Current : 
+		Increased radius of purifying the lands
+		Gain 1 additional herbalist circle
+		Armor Set: Increase herbalist damage by 25%
+}
+

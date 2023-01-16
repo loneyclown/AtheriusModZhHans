@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Iron Sights?
+	Current : Iron Sights?
+}
+
+1 :
+{
+	Origin : 
+		Greatly increased sniper knockback
+		Reduced wind resistance for special shots
+		Sniper Class
+	Current : 
+		Greatly increased sniper knockback
+		Reduced wind resistance for special shots
+		Sniper Class
+}
+

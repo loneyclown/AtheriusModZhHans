@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Radiant Helmet
+	Current : Radiant Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased magic crit by 15%
+		Armor Set: Increased mana regen
+	Current : 
+		Increased magic crit by 15%
+		Armor Set: Increased mana regen
+}
+

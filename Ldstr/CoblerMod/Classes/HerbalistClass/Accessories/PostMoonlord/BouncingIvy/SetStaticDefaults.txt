@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Enemies on the ground will sometimes have an earthquake spawn under them
+		This could potentially chain attack
+		Will stop once the NPC is dead or on its own
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Enemies on the ground will sometimes have an earthquake spawn under them
+		This could potentially chain attack
+		Will stop once the NPC is dead or on its own
+		[c/0EA300:Herbalist Class]
+}
+

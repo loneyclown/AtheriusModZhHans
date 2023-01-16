@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Starts off like a slow clockwork weapon
+		Everytime an enemy is it, the clockwork picks up a little
+		The next thing you know, each shot fires 6-8 bullets each use
+		Resets after the player kills 10 enemies on the final level
+	Current : 
+		Starts off like a slow clockwork weapon
+		Everytime an enemy is it, the clockwork picks up a little
+		The next thing you know, each shot fires 6-8 bullets each use
+		Resets after the player kills 10 enemies on the final level
+}
+

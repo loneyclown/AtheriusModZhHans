@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Flaycium Wand
+	Current : Flaycium Wand
+}
+

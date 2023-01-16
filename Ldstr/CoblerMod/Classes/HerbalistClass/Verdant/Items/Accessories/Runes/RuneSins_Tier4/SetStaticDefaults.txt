@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 4)]
+	Current : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 4)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Generic damage by 15%
+		Given endurance and gravitation
+		Immune to withered armor and weapon
+		Get an extra accessory slot
+	Current : 
+		Increases Generic damage by 15%
+		Given endurance and gravitation
+		Immune to withered armor and weapon
+		Get an extra accessory slot
+}
+

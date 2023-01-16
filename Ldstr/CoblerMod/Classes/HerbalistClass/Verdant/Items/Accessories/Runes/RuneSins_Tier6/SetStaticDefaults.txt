@@ -1,0 +1,26 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 6)]
+	Current : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 6)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Generic damage by 20%
+		Given endurance and regeneration
+		Immune to withered armor and weapon
+		Can be added as an extra slot
+		Greatly increased defense
+		The rain is picking up...
+		
+	Current : 
+		Increases Generic damage by 20%
+		Given endurance and regeneration
+		Immune to withered armor and weapon
+		Can be added as an extra slot
+		Greatly increased defense
+		The rain is picking up...
+		
+}
+

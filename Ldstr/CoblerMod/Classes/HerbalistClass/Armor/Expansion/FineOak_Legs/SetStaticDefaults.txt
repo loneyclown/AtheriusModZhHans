@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Fine Oak Leggings
+	Current : Fine Oak Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist knockback by 10%
+		Passive healing buff increased by 3 HP
+		Armor Set: Enemies get poisoned on hit
+	Current : 
+		Increased herbalist knockback by 10%
+		Passive healing buff increased by 3 HP
+		Armor Set: Enemies get poisoned on hit
+}
+

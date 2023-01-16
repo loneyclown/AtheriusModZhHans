@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Blink
+	Current : Blink
+}
+
+1 :
+{
+	Origin : 
+		Extremely quick stabs
+		Fires a friendly crystal on hit
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Extremely quick stabs
+		Fires a friendly crystal on hit
+		[c/0EA300:Herbalist Class]
+}
+

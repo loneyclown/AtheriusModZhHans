@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 6)]
+	Current : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 6)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Magic damage by 20%
+		Spawn more projectiles when using magic items
+		Player can see all traps
+		Immune to Frozen and Slow
+		Any enemy you hit will be slow
+		Death Sickles launch out of the player every so often
+	Current : 
+		Increases Magic damage by 20%
+		Spawn more projectiles when using magic items
+		Player can see all traps
+		Immune to Frozen and Slow
+		Any enemy you hit will be slow
+		Death Sickles launch out of the player every so often
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Jaune
+	Current : Jaune
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/Jaune_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/Jaune_Bestiary
+}
+

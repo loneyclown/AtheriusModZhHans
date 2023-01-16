@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fetch me their skulls
+		Damage and knockback varies every shot
+	Current : 
+		Fetch me their skulls
+		Damage and knockback varies every shot
+}
+

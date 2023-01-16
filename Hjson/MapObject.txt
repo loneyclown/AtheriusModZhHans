@@ -1,0 +1,18 @@
+MetalBar :
+{
+	Origin : 金属锭
+	Current : 金属锭
+}
+
+Relic :
+{
+	Origin : 圣物
+	Current : 圣物
+}
+
+Trophy :
+{
+	Origin : 纪念章
+	Current : 纪念章
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Spirits are friendlier.
+		They try to heal more than harm.
+	Current : 
+		Spirits are friendlier.
+		They try to heal more than harm.
+}
+

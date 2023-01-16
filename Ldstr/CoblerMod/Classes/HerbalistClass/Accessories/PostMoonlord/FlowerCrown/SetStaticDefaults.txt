@@ -1,0 +1,28 @@
+0 :
+{
+	Origin : 
+		Enemies on the ground will sometimes have an earthquake spawn under them
+		This could potentially chain attack
+		Will stop once the NPC is dead or on its own
+		Increased herbalist healing passive by 15
+		Increased herbalist healing bonus by 125 HP
+		
+		Increased herbalist resource by 175
+		Increased herbalist resource regen by 150%
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Enemies on the ground will sometimes have an earthquake spawn under them
+		This could potentially chain attack
+		Will stop once the NPC is dead or on its own
+		Increased herbalist healing passive by 15
+		Increased herbalist healing bonus by 125 HP
+		
+		Increased herbalist resource by 175
+		Increased herbalist resource regen by 150%
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+}
+

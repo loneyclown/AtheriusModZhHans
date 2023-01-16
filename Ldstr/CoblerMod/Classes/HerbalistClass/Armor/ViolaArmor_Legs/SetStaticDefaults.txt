@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Viola Leggings
+	Current : Viola Leggings
+}
+
+1 :
+{
+	Origin : 
+		Decreases mana cost from herbalist spells by 8%
+		Armor Set: Increased max speed by 6%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Decreases mana cost from herbalist spells by 8%
+		Armor Set: Increased max speed by 6%
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,6 @@
+1 :
+{
+	Origin : The herbalist's loyal spirit wolf comes to it's aid
+	Current : The herbalist's loyal spirit wolf comes to it's aid
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/7D0561:Lust] [c/FFFFFF:(Tier 2)]
+	Current : [c/383842:Rune of] [c/7D0561:Lust] [c/FFFFFF:(Tier 2)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Melee Damage by 8%
+		Weapon is imbued with fire
+	Current : 
+		Increases Melee Damage by 8%
+		Weapon is imbued with fire
+}
+

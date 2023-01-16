@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Gotta Catch Em All
+	Current : Gotta Catch Em All
+}
+
+1 :
+{
+	Origin : 
+		Doubles the number of critters caught
+		
+	Current : 
+		Doubles the number of critters caught
+		
+}
+

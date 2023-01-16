@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		She's not a fortune teller.
+		She likes to control peoples minds and read what they're thinking instead.
+		Just make sure to not call her a fortune teller...
+	Current : 
+		She's not a fortune teller.
+		She likes to control peoples minds and read what they're thinking instead.
+		Just make sure to not call her a fortune teller...
+}
+
+1 :
+{
+	Origin : Mods.CoblerMod.NPCs.Psychokinetic
+	Current : Mods.CoblerMod.NPCs.Psychokinetic
+}
+

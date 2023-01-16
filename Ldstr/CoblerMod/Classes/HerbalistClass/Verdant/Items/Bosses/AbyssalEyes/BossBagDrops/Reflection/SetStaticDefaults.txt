@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		On use, all nearby HOSTILE projectiles will be duplicated
+		and sent back towards the opposite direction with double the damage
+	Current : 
+		On use, all nearby HOSTILE projectiles will be duplicated
+		and sent back towards the opposite direction with double the damage
+}
+

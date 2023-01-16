@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Friendly plants will constantly be floating around you
+		They will fire at anything that threaten this peaceful world
+		Upon use, [c/0EA300:nature will show it's true power]
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Friendly plants will constantly be floating around you
+		They will fire at anything that threaten this peaceful world
+		Upon use, [c/0EA300:nature will show it's true power]
+		[c/0EA300:Herbalist Class]
+}
+

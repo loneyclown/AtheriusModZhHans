@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : This squirrel has been to the end of the universe and back. But it is constantly expanding so this squirrel is also a liar.
+	Current : This squirrel has been to the end of the universe and back. But it is constantly expanding so this squirrel is also a liar.
+}
+

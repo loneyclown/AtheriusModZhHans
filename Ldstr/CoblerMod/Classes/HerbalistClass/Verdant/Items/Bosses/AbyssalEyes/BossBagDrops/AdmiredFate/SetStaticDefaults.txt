@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Shoots out a water volt
+		Followed by a barrage of dragons
+		Also soaks enemies
+	Current : 
+		Shoots out a water volt
+		Followed by a barrage of dragons
+		Also soaks enemies
+}
+

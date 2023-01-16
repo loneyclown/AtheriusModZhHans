@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Unknown Plague Helmet
+	Current : Unknown Plague Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist potion amount by 50
+		Applies to both life and mana potions
+		Armor Set: Herbalist passive healing increased by 10
+	Current : 
+		Increased herbalist potion amount by 50
+		Applies to both life and mana potions
+		Armor Set: Herbalist passive healing increased by 10
+}
+

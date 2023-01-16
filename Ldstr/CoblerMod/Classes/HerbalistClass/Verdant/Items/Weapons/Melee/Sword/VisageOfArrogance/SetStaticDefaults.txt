@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Visage of Arrogance
+	Current : Visage of Arrogance
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Uses bunnies as ammo to spawn in bunnies ready to go boom
+		Use this bag to release them while in combat
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Uses bunnies as ammo to spawn in bunnies ready to go boom
+		Use this bag to release them while in combat
+		[c/0EA300:Herbalist Class]
+}
+

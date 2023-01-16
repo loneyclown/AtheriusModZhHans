@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Devil's Awakening
+	Current : Devil's Awakening
+}
+
+1 :
+{
+	Origin : Will die next time hit by a boss
+	Current : Will die next time hit by a boss
+}
+

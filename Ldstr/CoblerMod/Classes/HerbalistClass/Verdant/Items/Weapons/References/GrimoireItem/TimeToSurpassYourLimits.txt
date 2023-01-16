@@ -1,0 +1,52 @@
+0 :
+{
+	Origin : Grimoire
+	Current : Grimoire
+}
+
+1 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+2 :
+{
+	Origin : 
+		:It's time to surpass your limits!]
+		[c/
+	Current : 
+		:It's time to surpass your limits!]
+		[c/
+}
+
+3 :
+{
+	Origin : :Press the assigned keybinding with your grimoire in your hands!]
+	Current : :Press the assigned keybinding with your grimoire in your hands!]
+}
+
+4 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+5 :
+{
+	Origin : :
+	Current : :
+}
+
+6 :
+{
+	Origin : Magic:
+	Current : Magic:
+}
+
+7 :
+{
+	Origin : ]
+	Current : ]
+}
+

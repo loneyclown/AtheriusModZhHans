@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		He cares only about 2 things in life.
+		Throwing rocks and watching those get hit by rocks.
+		And when those get hit by rocks, they turn into rsocks.
+		What do you think this rock formation does then to the now human rocks?
+	Current : 
+		He cares only about 2 things in life.
+		Throwing rocks and watching those get hit by rocks.
+		And when those get hit by rocks, they turn into rsocks.
+		What do you think this rock formation does then to the now human rocks?
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+

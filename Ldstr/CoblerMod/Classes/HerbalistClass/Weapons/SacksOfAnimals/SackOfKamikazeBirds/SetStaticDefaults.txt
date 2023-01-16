@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Uses birds as ammo to spawn in birds that suicide charge
+		Just make sure to not get in their line of fire
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Uses birds as ammo to spawn in birds that suicide charge
+		Just make sure to not get in their line of fire
+		[c/0EA300:Herbalist Class]
+}
+

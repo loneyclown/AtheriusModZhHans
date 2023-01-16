@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Animal Caretaker
+	Current : Animal Caretaker
+}
+
+1 :
+{
+	Origin : The more animals around, the more you heal passively
+	Current : The more animals around, the more you heal passively
+}
+

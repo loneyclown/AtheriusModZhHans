@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/7D0561:Lust] [c/FFFFFF:(Tier 5)]
+	Current : [c/383842:Rune of] [c/7D0561:Lust] [c/FFFFFF:(Tier 5)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Melee Damage by 18%
+		Weapon is imbued with fire
+		Player is immune to lava
+		Defense increased
+		Gain 100 mana every 20 seconds
+	Current : 
+		Increases Melee Damage by 18%
+		Weapon is imbued with fire
+		Player is immune to lava
+		Defense increased
+		Gain 100 mana every 20 seconds
+}
+

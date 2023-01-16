@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Spawns 3 leaves
+		When the leaves hit, 2 more leaves will spawn from the player
+		This will continue until a leaf loses contact with an NPC
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spawns 3 leaves
+		When the leaves hit, 2 more leaves will spawn from the player
+		This will continue until a leaf loses contact with an NPC
+		[c/0EA300:Herbalist Class]
+}
+

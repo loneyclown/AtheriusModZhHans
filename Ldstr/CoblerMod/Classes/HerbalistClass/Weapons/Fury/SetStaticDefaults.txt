@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Click a spot on the map, it will spawn daggers there and dash back to the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Click a spot on the map, it will spawn daggers there and dash back to the player
+		[c/0EA300:Herbalist Class]
+}
+

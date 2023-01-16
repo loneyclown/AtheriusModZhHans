@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Immune to poison, bleeding, and darkness
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Immune to poison, bleeding, and darkness
+		[c/0EA300:Herbalist Class]
+}
+

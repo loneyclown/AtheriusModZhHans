@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires a swarm of color orbs on use
+		Those orbs will burst into more orbs upon hitting an enemy
+		Same thing if the sword hits an enemy
+	Current : 
+		Fires a swarm of color orbs on use
+		Those orbs will burst into more orbs upon hitting an enemy
+		Same thing if the sword hits an enemy
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Bear Tonic
+	Current : Bear Tonic
+}
+
+1 :
+{
+	Origin : 
+		Feel like a bear
+		Player has increased all attack
+	Current : 
+		Feel like a bear
+		Player has increased all attack
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Anything mob around you can get despair while equipped
+	Current : 
+		Increased generic damage by 10%
+		Anything mob around you can get despair while equipped
+}
+

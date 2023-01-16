@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Butterflies spawn when around enemies
+		Increased herbalist damage by 6%
+		Increased mana amount upon consuming herbalist potions
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Butterflies spawn when around enemies
+		Increased herbalist damage by 6%
+		Increased mana amount upon consuming herbalist potions
+		[c/0EA300:Herbalist Class]
+}
+

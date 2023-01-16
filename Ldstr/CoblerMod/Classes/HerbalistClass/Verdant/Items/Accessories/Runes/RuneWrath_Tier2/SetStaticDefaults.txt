@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/A10303:Wrath] [c/FFFFFF:(Tier 2)]
+	Current : [c/383842:Rune of] [c/A10303:Wrath] [c/FFFFFF:(Tier 2)]
+}
+
+1 :
+{
+	Origin : 
+		Increases melee damage by 8%
+		Player is given the rage buff
+		Defense is cut in half
+	Current : 
+		Increases melee damage by 8%
+		Player is given the rage buff
+		Defense is cut in half
+}
+

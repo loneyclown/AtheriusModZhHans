@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : AbyssalEyeOfHopeBody_Body
+	Current : AbyssalEyeOfHopeBody_Body
+}
+
+1 :
+{
+	Origin : AbyssalEyeOfHopeBody_Eye
+	Current : AbyssalEyeOfHopeBody_Eye
+}
+

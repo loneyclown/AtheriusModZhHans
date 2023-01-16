@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : JudgementFusil
+	Current : JudgementFusil
+}
+
+1 :
+{
+	Origin : BanditsLongrifle
+	Current : BanditsLongrifle
+}
+
+2 :
+{
+	Origin : Extermination
+	Current : Extermination
+}
+
+3 :
+{
+	Origin : Termination
+	Current : Termination
+}
+
+4 :
+{
+	Origin : ForsakenRifle
+	Current : ForsakenRifle
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Oblivion Cube
+	Current : Oblivion Cube
+}
+
+1 :
+{
+	Origin : Summons Oblivion moose
+	Current : Summons Oblivion moose
+}
+

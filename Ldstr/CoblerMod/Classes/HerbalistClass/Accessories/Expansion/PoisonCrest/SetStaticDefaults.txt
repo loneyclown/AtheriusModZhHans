@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Gain an immunity to poison
+		Enemies hit will become poisoned
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Gain an immunity to poison
+		Enemies hit will become poisoned
+		[c/0EA300:Herbalist Class]
+}
+

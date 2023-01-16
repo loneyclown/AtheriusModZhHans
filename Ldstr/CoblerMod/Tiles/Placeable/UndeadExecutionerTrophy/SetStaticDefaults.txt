@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Undead Executioner Trophy
+	Current : Undead Executioner Trophy
+}
+

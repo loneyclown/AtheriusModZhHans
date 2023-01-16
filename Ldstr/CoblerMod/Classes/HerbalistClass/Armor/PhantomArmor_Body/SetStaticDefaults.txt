@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Phantom Chestplate
+	Current : Phantom Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased minion damage by 15%
+		Armor Set: Increased max number of minions by 2
+	Current : 
+		Increased minion damage by 15%
+		Armor Set: Increased max number of minions by 2
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Codename 'Nibbles', these special ones never have lived long lives. But that's ok. They know what it costs to keep you alive.
+	Current : Codename 'Nibbles', these special ones never have lived long lives. But that's ok. They know what it costs to keep you alive.
+}
+

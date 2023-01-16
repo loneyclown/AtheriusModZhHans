@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : CoblerMod/NPCs/TownNPCs/Herbalist_PureWindroot
+	Current : CoblerMod/NPCs/TownNPCs/Herbalist_PureWindroot
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/TownNPCs/Herbalist
+	Current : CoblerMod/NPCs/TownNPCs/Herbalist
+}
+

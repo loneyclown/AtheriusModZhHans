@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Thusium Wand
+	Current : Thusium Wand
+}
+

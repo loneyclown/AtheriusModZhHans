@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Heallreaver Cooldown
+	Current : Heallreaver Cooldown
+}
+
+1 :
+{
+	Origin : Cannot use Hellreaver skill
+	Current : Cannot use Hellreaver skill
+}
+

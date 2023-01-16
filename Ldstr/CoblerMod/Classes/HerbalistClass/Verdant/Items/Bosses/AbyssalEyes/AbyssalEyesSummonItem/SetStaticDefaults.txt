@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Dim Candles
+	Current : Dim Candles
+}
+
+1 :
+{
+	Origin : Summons Abyssal Eyes
+	Current : Summons Abyssal Eyes
+}
+

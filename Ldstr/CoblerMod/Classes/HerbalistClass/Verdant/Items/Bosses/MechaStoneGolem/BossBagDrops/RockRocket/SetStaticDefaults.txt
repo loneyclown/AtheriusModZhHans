@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fires a spreadshot effect of rocks
+	Current : Fires a spreadshot effect of rocks
+}
+

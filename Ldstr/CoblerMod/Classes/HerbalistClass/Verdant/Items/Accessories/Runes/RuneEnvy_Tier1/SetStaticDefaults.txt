@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 1)]
+	Current : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 1)]
+}
+
+1 :
+{
+	Origin : Increases Ranged Damage by 5%
+	Current : Increases Ranged Damage by 5%
+}
+

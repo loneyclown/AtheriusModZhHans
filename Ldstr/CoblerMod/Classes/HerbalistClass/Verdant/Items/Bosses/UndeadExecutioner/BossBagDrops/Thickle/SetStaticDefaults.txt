@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : It's a thickle! A Deathickle!
+	Current : It's a thickle! A Deathickle!
+}
+

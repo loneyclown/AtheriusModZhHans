@@ -1,0 +1,78 @@
+Content :
+{
+	Origin : I'm really happy right now! I'm ready to start decorating with windroot!
+	Current : I'm really happy right now! I'm ready to start decorating with windroot!
+}
+
+DislikeBiome :
+{
+	Origin : Each sapling is dying here. This is not a good place to call home.
+	Current : Each sapling is dying here. This is not a good place to call home.
+}
+
+DislikeCrowded :
+{
+	Origin : The amount of people here. It's making me feel sappy.
+	Current : The amount of people here. It's making me feel sappy.
+}
+
+DislikeNPC :
+{
+	Origin : The Witch Doctor isn't looking at me right now right? I don't trust it...
+	Current : The Witch Doctor isn't looking at me right now right? I don't trust it...
+}
+
+FarFromHome :
+{
+	Origin : Whoops. I may have drifted off a little too far...
+	Current : Whoops. I may have drifted off a little too far...
+}
+
+HateBiome :
+{
+	Origin : There are no plants here. No life and no nature. It's almost a feeling of despair.
+	Current : There are no plants here. No life and no nature. It's almost a feeling of despair.
+}
+
+HateNPC :
+{
+	Origin : Ugh. Could that Demo Man destroy anymore of this pretty wildlife? =(
+	Current : Ugh. Could that Demo Man destroy anymore of this pretty wildlife? =(
+}
+
+LikeBiome :
+{
+	Origin : Every little plant tells a story. And this biome is great for those little plants.
+	Current : Every little plant tells a story. And this biome is great for those little plants.
+}
+
+LikeNPC :
+{
+	Origin : The party girl is always in a festive mood. She gives good vibes.
+	Current : The party girl is always in a festive mood. She gives good vibes.
+}
+
+LoveBiome :
+{
+	Origin : It's so beautiful here! I can only imagine what kinds of nature grows here!
+	Current : It's so beautiful here! I can only imagine what kinds of nature grows here!
+}
+
+LoveNPC :
+{
+	Origin : The dryad is like the sister I never had... I want to talk more about plants with her...
+	Current : The dryad is like the sister I never had... I want to talk more about plants with her...
+}
+
+LoveSpace :
+{
+	Origin : There's so much space here! I can make as big a greenhouse as I want!
+	Current : There's so much space here! I can make as big a greenhouse as I want!
+}
+
+NoHome :
+{
+	Origin : I have not have a home, but at least no roof gives me a better view of nature...
+	Current : I have not have a home, but at least no roof gives me a better view of nature...
+}
+

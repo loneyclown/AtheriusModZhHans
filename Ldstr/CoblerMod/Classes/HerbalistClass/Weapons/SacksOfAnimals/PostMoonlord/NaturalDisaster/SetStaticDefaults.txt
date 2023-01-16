@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		While swinging, lightning will strike from the sky
+		Large amounts of water will rain down on enemies
+		If the player is close enough to an enemy,
+		Lightning orbs will spawn on them, shocking them
+		'This is all just another part of nature'
+		[c/0EA300:Herbalist Class]
+	Current : 
+		While swinging, lightning will strike from the sky
+		Large amounts of water will rain down on enemies
+		If the player is close enough to an enemy,
+		Lightning orbs will spawn on them, shocking them
+		'This is all just another part of nature'
+		[c/0EA300:Herbalist Class]
+}
+

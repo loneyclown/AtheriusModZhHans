@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Bird
+	Current : Bird
+}
+
+1 :
+{
+	Origin : With an herbalist accessory, you get a small trait from the bird
+	Current : With an herbalist accessory, you get a small trait from the bird
+}
+

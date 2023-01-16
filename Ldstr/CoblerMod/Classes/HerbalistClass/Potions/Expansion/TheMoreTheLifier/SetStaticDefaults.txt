@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		The more animals around, the more herbalist potions restore health
+		[c/0EA300:Herbalist Class]
+	Current : 
+		The more animals around, the more herbalist potions restore health
+		[c/0EA300:Herbalist Class]
+}
+

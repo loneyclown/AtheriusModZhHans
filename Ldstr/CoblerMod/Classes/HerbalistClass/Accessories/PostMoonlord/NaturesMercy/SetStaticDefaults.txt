@@ -1,0 +1,34 @@
+0 :
+{
+	Origin : Nature's Mercy
+	Current : Nature's Mercy
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 15%
+		Increase in herbalist crit by 8
+		When the player walks near a tree, the tree will fire leaves at nearby enemies
+		Increased herbalist healing by 100 HP
+		Increased herbalist mana restoration by 100 Mana
+		All friendly animals near the player will fire projectiles towards enemies
+		If the player is on the ground, all hostile projectiles will be
+		intercepted by a rock formation popping up, protecting the player
+		Increased number of minions by 3
+		Increased number of herbalist rings by 3
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 15%
+		Increase in herbalist crit by 8
+		When the player walks near a tree, the tree will fire leaves at nearby enemies
+		Increased herbalist healing by 100 HP
+		Increased herbalist mana restoration by 100 Mana
+		All friendly animals near the player will fire projectiles towards enemies
+		If the player is on the ground, all hostile projectiles will be
+		intercepted by a rock formation popping up, protecting the player
+		Increased number of minions by 3
+		Increased number of herbalist rings by 3
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 'A Part of Nature' Helmet
+	Current : 'A Part of Nature' Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased berry healing by 5 HP
+		Armor Set: No damage to critters
+	Current : 
+		Increased berry healing by 5 HP
+		Armor Set: No damage to critters
+}
+

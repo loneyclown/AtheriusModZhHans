@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Magma Leggings
+	Current : Magma Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased range crit by 20%
+		Armor Set: Immune to fire debuff
+	Current : 
+		Increased range crit by 20%
+		Armor Set: Immune to fire debuff
+}
+

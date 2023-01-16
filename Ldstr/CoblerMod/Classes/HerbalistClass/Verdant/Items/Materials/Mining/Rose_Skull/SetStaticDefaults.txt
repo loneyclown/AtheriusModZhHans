@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Rose Skull
+	Current : Rose Skull
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Weapons deal posion
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Weapons deal posion
+		[c/0EA300:Herbalist Class]
+}
+

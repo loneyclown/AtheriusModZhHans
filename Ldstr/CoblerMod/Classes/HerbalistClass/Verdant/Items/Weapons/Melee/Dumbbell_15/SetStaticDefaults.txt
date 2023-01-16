@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Dumbbell (15 LBS)
+	Current : Dumbbell (15 LBS)
+}
+
+1 :
+{
+	Origin : 
+		Welcome to Terraria Fitness Bro!
+		You ready to start making some gains?
+		Need at least 5 defense in order to use
+	Current : 
+		Welcome to Terraria Fitness Bro!
+		You ready to start making some gains?
+		Need at least 5 defense in order to use
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Check Psychokinesis
+	Current : Check Psychokinesis
+}
+
+1 :
+{
+	Origin : Give Fragment
+	Current : Give Fragment
+}
+
+2 :
+{
+	Origin : Read Mind
+	Current : Read Mind
+}
+

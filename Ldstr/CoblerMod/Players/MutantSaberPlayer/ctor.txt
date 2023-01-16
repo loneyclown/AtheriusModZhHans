@@ -1,0 +1,90 @@
+0 :
+{
+	Origin : Moon Watcher
+	Current : Moon Watcher
+}
+
+1 :
+{
+	Origin : Eclipse
+	Current : Eclipse
+}
+
+2 :
+{
+	Origin : Might of the Forgotten
+	Current : Might of the Forgotten
+}
+
+3 :
+{
+	Origin : Carrier of the Moon
+	Current : Carrier of the Moon
+}
+
+4 :
+{
+	Origin : Midnight Disintegrator
+	Current : Midnight Disintegrator
+}
+
+5 :
+{
+	Origin : Star Gazer
+	Current : Star Gazer
+}
+
+6 :
+{
+	Origin : Astral Saber
+	Current : Astral Saber
+}
+
+7 :
+{
+	Origin : Smasher of Mystery
+	Current : Smasher of Mystery
+}
+
+8 :
+{
+	Origin : Cunning of Burnt Out Stars
+	Current : Cunning of Burnt Out Stars
+}
+
+9 :
+{
+	Origin : Light Anti-Matter Disintegrator
+	Current : Light Anti-Matter Disintegrator
+}
+
+10 :
+{
+	Origin : Sun Wrath
+	Current : Sun Wrath
+}
+
+11 :
+{
+	Origin : Supernova Proton
+	Current : Supernova Proton
+}
+
+12 :
+{
+	Origin : Hungering Thermal Blade
+	Current : Hungering Thermal Blade
+}
+
+13 :
+{
+	Origin : Cunning of the Sky
+	Current : Cunning of the Sky
+}
+
+14 :
+{
+	Origin : Third Degree Disintegrator
+	Current : Third Degree Disintegrator
+}
+

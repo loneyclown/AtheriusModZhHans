@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Chaotic Chestplate
+	Current : Chaotic Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased melee crit by 12%
+		Armor Set: Increased attack speed by 15%
+	Current : 
+		Increased melee crit by 12%
+		Armor Set: Increased attack speed by 15%
+}
+

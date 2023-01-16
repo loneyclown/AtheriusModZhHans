@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires axes like a boomerang
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fires axes like a boomerang
+		[c/0EA300:Herbalist Class]
+}
+

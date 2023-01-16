@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Player is immune to lava
+		Anytime you're hit by someone, they will catch fire
+	Current : 
+		Player is immune to lava
+		Anytime you're hit by someone, they will catch fire
+}
+

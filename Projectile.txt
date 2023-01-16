@@ -1,0 +1,3546 @@
+AbyssalEyeOfDespair_CirclingFire :
+{
+	Origin : Fireball
+	Current : Fireball
+}
+
+AbyssalEyeOfDespair_Fire :
+{
+	Origin : Blaze
+	Current : Blaze
+}
+
+AbyssalEyeOfDespair_FireBall :
+{
+	Origin : Fireball
+	Current : Fireball
+}
+
+AbyssalEyeOfDespair_FireRing :
+{
+	Origin : Firelash
+	Current : Firelash
+}
+
+AbyssalEyeOfDespair_Meteor :
+{
+	Origin : Abyssal Meteor
+	Current : Abyssal Meteor
+}
+
+AbyssalEyeOfDespairCloudAnim :
+{
+	Origin : Abyssal Eye Of Despair Cloud Anim
+	Current : Abyssal Eye Of Despair Cloud Anim
+}
+
+AbyssalEyeOfDespairSparkAnim :
+{
+	Origin : Abyssal Eye Of Despair Spark Anim
+	Current : Abyssal Eye Of Despair Spark Anim
+}
+
+AbyssalEyeOfDespairSpawnAnim :
+{
+	Origin : Abyssal Eye Of Despair Spawn Anim
+	Current : Abyssal Eye Of Despair Spawn Anim
+}
+
+AbyssalEyeOfDespairSummonAnim :
+{
+	Origin : Abyssal Eye Of Despair Summon Anim
+	Current : Abyssal Eye Of Despair Summon Anim
+}
+
+AbyssalEyeOfHope_ShieldWall :
+{
+	Origin : Abyssal Eye Of Hope_ Shield Wall
+	Current : Abyssal Eye Of Hope_ Shield Wall
+}
+
+AbyssalEyeOfHope_Wave :
+{
+	Origin : Abyssal Eye Of Hope_ Wave
+	Current : Abyssal Eye Of Hope_ Wave
+}
+
+AbyssalEyeOfHopeCloudAnim :
+{
+	Origin : Abyssal Eye Of Hope Cloud Anim
+	Current : Abyssal Eye Of Hope Cloud Anim
+}
+
+AbyssalEyeOfHopeSparkAnim :
+{
+	Origin : Abyssal Eye Of Hope Spark Anim
+	Current : Abyssal Eye Of Hope Spark Anim
+}
+
+AbyssalEyeOfHopeSummonAnim :
+{
+	Origin : Abyssal Eye Of Hope Summon Anim
+	Current : Abyssal Eye Of Hope Summon Anim
+}
+
+AloeVeryMuch_Proj :
+{
+	Origin : Aloe Very Much_ Proj
+	Current : Aloe Very Much_ Proj
+}
+
+Animal_Hitbox :
+{
+	Origin : Animal_ Hitbox
+	Current : Animal_ Hitbox
+}
+
+Animal_Light :
+{
+	Origin : Animal_ Light
+	Current : Animal_ Light
+}
+
+AOT_ManeuverGearProjectile :
+{
+	Origin : ${ProjectileName.AOT_ManeuverGearProjectile}
+	Current : ${ProjectileName.AOT_ManeuverGearProjectile}
+}
+
+AquaMagi_WaterBall :
+{
+	Origin : Aqua Ball
+	Current : Aqua Ball
+}
+
+AquaMagi_WaterEightBall :
+{
+	Origin : Aqua Ball
+	Current : Aqua Ball
+}
+
+AquaMagi_WaterVortex :
+{
+	Origin : Aqua Magi_ Water Vortex
+	Current : Aqua Magi_ Water Vortex
+}
+
+AquaMagi_Wave :
+{
+	Origin : Aqua Magi_ Wave
+	Current : Aqua Magi_ Wave
+}
+
+ArcticPillar_Projectile :
+{
+	Origin : Arctic Pillar_ Projectile
+	Current : Arctic Pillar_ Projectile
+}
+
+ArcticPillar_Projectile_Hitbox :
+{
+	Origin : Arctic Pillar_ Projectile_ Hitbox
+	Current : Arctic Pillar_ Projectile_ Hitbox
+}
+
+Arrowrang_Proj :
+{
+	Origin : Arrow
+	Current : Arrow
+}
+
+AtomicAnnie_Proj :
+{
+	Origin : Atomic Annie_ Proj
+	Current : Atomic Annie_ Proj
+}
+
+AtomicAnnie_Proj_Hitbox :
+{
+	Origin : Atomic Annie_ Proj_ Hitbox
+	Current : Atomic Annie_ Proj_ Hitbox
+}
+
+AWorldOfPlants_Orbit :
+{
+	Origin : A World Of Plants_ Orbit
+	Current : A World Of Plants_ Orbit
+}
+
+AWorldOfPlants_Proj :
+{
+	Origin : A World Of Plants_ Proj
+	Current : A World Of Plants_ Proj
+}
+
+Banshee_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Banshee_Skull :
+{
+	Origin : Banshee's Skull
+	Current : Banshee's Skull
+}
+
+BaseSkeetShot :
+{
+	Origin : Base Skeet Shot
+	Current : Base Skeet Shot
+}
+
+Beach_Leaf_Proj :
+{
+	Origin : Beach_ Leaf_ Proj
+	Current : Beach_ Leaf_ Proj
+}
+
+Beer_Tier3 :
+{
+	Origin : Beer_ Tier3
+	Current : Beer_ Tier3
+}
+
+Beer_Tier5 :
+{
+	Origin : Beer_ Tier5
+	Current : Beer_ Tier5
+}
+
+BladeOfTheHeavens_Projectile :
+{
+	Origin : Blade of the Heavens
+	Current : Blade of the Heavens
+}
+
+Blood_Tier1 :
+{
+	Origin : Blood_ Tier1
+	Current : Blood_ Tier1
+}
+
+Blood_Tier2 :
+{
+	Origin : Blood_ Tier2
+	Current : Blood_ Tier2
+}
+
+Blood_Tier3 :
+{
+	Origin : Blood_ Tier3
+	Current : Blood_ Tier3
+}
+
+Blood_Tier4 :
+{
+	Origin : Blood_ Tier4
+	Current : Blood_ Tier4
+}
+
+Blood_Tier5 :
+{
+	Origin : Blood_ Tier5
+	Current : Blood_ Tier5
+}
+
+Blood_Tier4_Splatter :
+{
+	Origin : Blood_ Tier4_ Splatter
+	Current : Blood_ Tier4_ Splatter
+}
+
+Blood_UseAnimation :
+{
+	Origin : Blood_ Use Animation
+	Current : Blood_ Use Animation
+}
+
+BloodShot :
+{
+	Origin : Blood Shot
+	Current : Blood Shot
+}
+
+Blucium_Projectile :
+{
+	Origin : Blucium_ Projectile
+	Current : Blucium_ Projectile
+}
+
+BluciumStaff_Proj :
+{
+	Origin : Blucium Staff_ Proj
+	Current : Blucium Staff_ Proj
+}
+
+Bullet10 :
+{
+	Origin : Bullet10
+	Current : Bullet10
+}
+
+Bullet2 :
+{
+	Origin : Bullet2
+	Current : Bullet2
+}
+
+Bullet3 :
+{
+	Origin : Bullet3
+	Current : Bullet3
+}
+
+Bullet4 :
+{
+	Origin : Bullet4
+	Current : Bullet4
+}
+
+Bullet5 :
+{
+	Origin : Bullet5
+	Current : Bullet5
+}
+
+Bullet6 :
+{
+	Origin : Bullet6
+	Current : Bullet6
+}
+
+Bullet7 :
+{
+	Origin : Bullet7
+	Current : Bullet7
+}
+
+Bullet8 :
+{
+	Origin : Bullet8
+	Current : Bullet8
+}
+
+Bullet9 :
+{
+	Origin : Bullet9
+	Current : Bullet9
+}
+
+Bullet_Hitbox :
+{
+	Origin : Bullet_ Hitbox
+	Current : Bullet_ Hitbox
+}
+
+Butterfly_Projectile :
+{
+	Origin : Butterfly_ Projectile
+	Current : Butterfly_ Projectile
+}
+
+Cebalt_Projectile :
+{
+	Origin : Cebalt_ Projectile
+	Current : Cebalt_ Projectile
+}
+
+Chaos_Limits :
+{
+	Origin : Chaos_ Limits
+	Current : Chaos_ Limits
+}
+
+Chaos_Tier2 :
+{
+	Origin : Chaos_ Tier2
+	Current : Chaos_ Tier2
+}
+
+Chaos_Tier5 :
+{
+	Origin : Chaos_ Tier5
+	Current : Chaos_ Tier5
+}
+
+ChiakiDamageBoss :
+{
+	Origin : Chiaki Damage Boss
+	Current : Chiaki Damage Boss
+}
+
+ChiakiPunishment :
+{
+	Origin : Chiaki Punishment
+	Current : Chiaki Punishment
+}
+
+ColorExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+ColorOutput_Proj :
+{
+	Origin : Color Orb
+	Current : Color Orb
+}
+
+ColorWeaver_Proj :
+{
+	Origin : Color Weaver
+	Current : Color Weaver
+}
+
+ColorWheel_Proj :
+{
+	Origin : Color Wheel
+	Current : Color Wheel
+}
+
+Compass_Limits :
+{
+	Origin : Compass_ Limits
+	Current : Compass_ Limits
+}
+
+Compass_Tier1 :
+{
+	Origin : Compass_ Tier1
+	Current : Compass_ Tier1
+}
+
+Compass_Tier2 :
+{
+	Origin : Compass_ Tier2
+	Current : Compass_ Tier2
+}
+
+Compass_Tier3 :
+{
+	Origin : Compass_ Tier3
+	Current : Compass_ Tier3
+}
+
+Compass_Tier4 :
+{
+	Origin : Compass_ Tier4
+	Current : Compass_ Tier4
+}
+
+Compass_Tier5 :
+{
+	Origin : Compass_ Tier5
+	Current : Compass_ Tier5
+}
+
+Compass_Tier3_Puff :
+{
+	Origin : Compass_ Tier3_ Puff
+	Current : Compass_ Tier3_ Puff
+}
+
+Corrupt_Leaf_Proj :
+{
+	Origin : Corrupt_ Leaf_ Proj
+	Current : Corrupt_ Leaf_ Proj
+}
+
+Crimson_Leaf_Proj :
+{
+	Origin : Crimson_ Leaf_ Proj
+	Current : Crimson_ Leaf_ Proj
+}
+
+Critter_Thanks :
+{
+	Origin : Critter_ Thanks
+	Current : Critter_ Thanks
+}
+
+Critter_Transform :
+{
+	Origin : Critter_ Transform
+	Current : Critter_ Transform
+}
+
+CritterDeathAnimation :
+{
+	Origin : Critter Death Animation
+	Current : Critter Death Animation
+}
+
+CritterSpirit_Cowboy :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpirit_Fedora :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpirit_Mask :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpirit_Noir :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpirit_None :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpirit_Windroot :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpirit_Wizard :
+{
+	Origin : Critter Spirit
+	Current : Critter Spirit
+}
+
+CritterSpiritExplosion :
+{
+	Origin : Critter Spirit Explosion
+	Current : Critter Spirit Explosion
+}
+
+Crystal_Tier1 :
+{
+	Origin : Crystal_ Tier1
+	Current : Crystal_ Tier1
+}
+
+Crystal_Tier2 :
+{
+	Origin : Crystal_ Tier2
+	Current : Crystal_ Tier2
+}
+
+Crystal_Tier3 :
+{
+	Origin : Crystal_ Tier3
+	Current : Crystal_ Tier3
+}
+
+Crystal_Tier4 :
+{
+	Origin : Crystal_ Tier4
+	Current : Crystal_ Tier4
+}
+
+Crystal_Tier5 :
+{
+	Origin : Crystal_ Tier5
+	Current : Crystal_ Tier5
+}
+
+Crystal_Tier4_Shot :
+{
+	Origin : Crystal_ Tier4_ Shot
+	Current : Crystal_ Tier4_ Shot
+}
+
+Curse_Tier5 :
+{
+	Origin : Curse_ Tier5
+	Current : Curse_ Tier5
+}
+
+Curse_Tier5_Hitbox :
+{
+	Origin : Curse_ Tier5_ Hitbox
+	Current : Curse_ Tier5_ Hitbox
+}
+
+CycleOfLeaves_Proj :
+{
+	Origin : Cycle Of Leaves_ Proj
+	Current : Cycle Of Leaves_ Proj
+}
+
+Dark_Tier2 :
+{
+	Origin : Dark_ Tier2
+	Current : Dark_ Tier2
+}
+
+Dark_Tier3 :
+{
+	Origin : Dark_ Tier3
+	Current : Dark_ Tier3
+}
+
+Dark_Tier4 :
+{
+	Origin : Dark_ Tier4
+	Current : Dark_ Tier4
+}
+
+Dark_Tier5 :
+{
+	Origin : Dark_ Tier5
+	Current : Dark_ Tier5
+}
+
+Dark_Tier1 :
+{
+	Origin : Dark_ Tier1
+	Current : Dark_ Tier1
+}
+
+Dark_Tier4_Addon :
+{
+	Origin : Dark_ Tier4_ Addon
+	Current : Dark_ Tier4_ Addon
+}
+
+Dathite_Projectile :
+{
+	Origin : Dathite_ Projectile
+	Current : Dathite_ Projectile
+}
+
+Death_Limits :
+{
+	Origin : Death_ Limits
+	Current : Death_ Limits
+}
+
+Death_Tier2 :
+{
+	Origin : Death_ Tier2
+	Current : Death_ Tier2
+}
+
+Death_Tier3 :
+{
+	Origin : Death_ Tier3
+	Current : Death_ Tier3
+}
+
+Death_Tier4 :
+{
+	Origin : Death_ Tier4
+	Current : Death_ Tier4
+}
+
+Death_Tier5 :
+{
+	Origin : Death_ Tier5
+	Current : Death_ Tier5
+}
+
+Death_Tier5_Proj :
+{
+	Origin : Death_ Tier5_ Proj
+	Current : Death_ Tier5_ Proj
+}
+
+DeflectProj :
+{
+	Origin : Deflect Proj
+	Current : Deflect Proj
+}
+
+Demon_LightningAnim :
+{
+	Origin : Demon_ Lightning Anim
+	Current : Demon_ Lightning Anim
+}
+
+Demon_Tier1 :
+{
+	Origin : Demon_ Tier1
+	Current : Demon_ Tier1
+}
+
+Demon_Tier2 :
+{
+	Origin : Demon_ Tier2
+	Current : Demon_ Tier2
+}
+
+Demon_Tier3 :
+{
+	Origin : Demon_ Tier3
+	Current : Demon_ Tier3
+}
+
+Demon_Tier5 :
+{
+	Origin : Demon_ Tier5
+	Current : Demon_ Tier5
+}
+
+Demon_TransformAnim :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+DemonFriend :
+{
+	Origin : Demon Friend Minion
+	Current : Demon Friend Minion
+}
+
+DemonWings_Anim :
+{
+	Origin : Demon Wings_ Anim
+	Current : Demon Wings_ Anim
+}
+
+Desert_Leaf_Proj :
+{
+	Origin : Desert_ Leaf_ Proj
+	Current : Desert_ Leaf_ Proj
+}
+
+Dice_1 :
+{
+	Origin : Dice_1
+	Current : Dice_1
+}
+
+Dice_2 :
+{
+	Origin : Dice_2
+	Current : Dice_2
+}
+
+Dice_3 :
+{
+	Origin : Dice_3
+	Current : Dice_3
+}
+
+Dice_4 :
+{
+	Origin : Dice_4
+	Current : Dice_4
+}
+
+Dice_5 :
+{
+	Origin : Dice_5
+	Current : Dice_5
+}
+
+Dice_6 :
+{
+	Origin : Dice_6
+	Current : Dice_6
+}
+
+Dice_Rolling :
+{
+	Origin : Dice_ Rolling
+	Current : Dice_ Rolling
+}
+
+Dice_Tier1 :
+{
+	Origin : Dice_ Tier1
+	Current : Dice_ Tier1
+}
+
+Dice_Tier3 :
+{
+	Origin : Dice_ Tier3
+	Current : Dice_ Tier3
+}
+
+Dice_Tier5 :
+{
+	Origin : Dice_ Tier5
+	Current : Dice_ Tier5
+}
+
+Discharge_Proj :
+{
+	Origin : Discharge_ Proj
+	Current : Discharge_ Proj
+}
+
+Drakron_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Drakron_Proj :
+{
+	Origin : Tarnished Skull
+	Current : Tarnished Skull
+}
+
+Dream_DreamWorld :
+{
+	Origin : Dream_ Dream World
+	Current : Dream_ Dream World
+}
+
+Dream_DreamWorld_Projectile :
+{
+	Origin : Dream_ Dream World_ Projectile
+	Current : Dream_ Dream World_ Projectile
+}
+
+Dream_Limits :
+{
+	Origin : Dream_ Limits
+	Current : Dream_ Limits
+}
+
+Dream_Tier1 :
+{
+	Origin : Dream_ Tier1
+	Current : Dream_ Tier1
+}
+
+Dream_Tier2 :
+{
+	Origin : Dream_ Tier2
+	Current : Dream_ Tier2
+}
+
+Dream_Tier3 :
+{
+	Origin : Dream_ Tier3
+	Current : Dream_ Tier3
+}
+
+Dream_Tier4 :
+{
+	Origin : Dream_ Tier4
+	Current : Dream_ Tier4
+}
+
+Dream_Tier5 :
+{
+	Origin : Dream_ Tier5
+	Current : Dream_ Tier5
+}
+
+DualTooth_Rotate :
+{
+	Origin : Dual Tooth_ Rotate
+	Current : Dual Tooth_ Rotate
+}
+
+Dungeon_Leaf_Proj :
+{
+	Origin : Dungeon_ Leaf_ Proj
+	Current : Dungeon_ Leaf_ Proj
+}
+
+Earth_Limits :
+{
+	Origin : Earth_ Limits
+	Current : Earth_ Limits
+}
+
+Earth_Tier1 :
+{
+	Origin : Earth_ Tier1
+	Current : Earth_ Tier1
+}
+
+Earth_Tier2 :
+{
+	Origin : Earth_ Tier2
+	Current : Earth_ Tier2
+}
+
+Earth_Tier3 :
+{
+	Origin : Earth_ Tier3
+	Current : Earth_ Tier3
+}
+
+Earth_Tier4 :
+{
+	Origin : Earth_ Tier4
+	Current : Earth_ Tier4
+}
+
+EarthfireMinion :
+{
+	Origin : Earthfire Minion
+	Current : Earthfire Minion
+}
+
+Echo_TierAll :
+{
+	Origin : Echo_ Tier All
+	Current : Echo_ Tier All
+}
+
+EchoMinion :
+{
+	Origin : Echo Minion
+	Current : Echo Minion
+}
+
+Eclipse_Projectile :
+{
+	Origin : Eclipse
+	Current : Eclipse
+}
+
+Elegance_Proj :
+{
+	Origin : Elegance_ Proj
+	Current : Elegance_ Proj
+}
+
+EndedDreams_Proj :
+{
+	Origin : Ended Dreams_ Proj
+	Current : Ended Dreams_ Proj
+}
+
+EnterSniperMode :
+{
+	Origin : Enter Sniper Mode
+	Current : Enter Sniper Mode
+}
+
+EnvyOutline :
+{
+	Origin : Envy Outline
+	Current : Envy Outline
+}
+
+Eruptor_Projectile :
+{
+	Origin : Eruptor_ Projectile
+	Current : Eruptor_ Projectile
+}
+
+Eruptor_Projectile_Hitbox :
+{
+	Origin : Eruptor_ Projectile_ Hitbox
+	Current : Eruptor_ Projectile_ Hitbox
+}
+
+Explosion_Tier1 :
+{
+	Origin : Explosion_ Tier1
+	Current : Explosion_ Tier1
+}
+
+Explosion_Tier2 :
+{
+	Origin : Explosion_ Tier2
+	Current : Explosion_ Tier2
+}
+
+Explosion_Tier4 :
+{
+	Origin : Explosion_ Tier4
+	Current : Explosion_ Tier4
+}
+
+EyeForAnEyeMinion :
+{
+	Origin : Eye For An Eye Minion
+	Current : Eye For An Eye Minion
+}
+
+FaithfulWindroot_Holdup :
+{
+	Origin : Faithful Windroot_ Holdup
+	Current : Faithful Windroot_ Holdup
+}
+
+FaithfulWindroot_Proj1 :
+{
+	Origin : Faithful Windroot_ Proj1
+	Current : Faithful Windroot_ Proj1
+}
+
+FaithfulWindroot_Proj2 :
+{
+	Origin : Faithful Windroot_ Proj2
+	Current : Faithful Windroot_ Proj2
+}
+
+FaithfulWindroot_Proj1_Explosion :
+{
+	Origin : Faithful Windroot_ Proj1_ Explosion
+	Current : Faithful Windroot_ Proj1_ Explosion
+}
+
+FaithfulWindroot_RightClick :
+{
+	Origin : Faithful Windroot_ Right Click
+	Current : Faithful Windroot_ Right Click
+}
+
+FaithNecklace_Proj :
+{
+	Origin : Faith Necklace_ Proj
+	Current : Faith Necklace_ Proj
+}
+
+FallenServant_SlashAnimation :
+{
+	Origin : Servant Slash
+	Current : Servant Slash
+}
+
+FallenServant_SwordProj :
+{
+	Origin : Servant Sword
+	Current : Servant Sword
+}
+
+FallenServant_SwordProjReturn :
+{
+	Origin : Servant Sword
+	Current : Servant Sword
+}
+
+FallenServantAnim1 :
+{
+	Origin : Fallen Servant Anim1
+	Current : Fallen Servant Anim1
+}
+
+FallenServantAnim2 :
+{
+	Origin : Fallen Servant Anim2
+	Current : Fallen Servant Anim2
+}
+
+FallenServantCirclingAnim :
+{
+	Origin : Fallen Servant Circling Anim
+	Current : Fallen Servant Circling Anim
+}
+
+FermentedSeed_Curse :
+{
+	Origin : Fermented Seed_ Curse
+	Current : Fermented Seed_ Curse
+}
+
+FermentedSeed_Proj :
+{
+	Origin : Fermented Seed_ Proj
+	Current : Fermented Seed_ Proj
+}
+
+Fire_Limits :
+{
+	Origin : Fire_ Limits
+	Current : Fire_ Limits
+}
+
+Fire_Tier1 :
+{
+	Origin : Fire_ Tier1
+	Current : Fire_ Tier1
+}
+
+Fire_Tier3 :
+{
+	Origin : Fire_ Tier3
+	Current : Fire_ Tier3
+}
+
+Fire_Tier4 :
+{
+	Origin : Fire_ Tier4
+	Current : Fire_ Tier4
+}
+
+Fire_Tier5 :
+{
+	Origin : Fire_ Tier5
+	Current : Fire_ Tier5
+}
+
+Fire_Tier5_Firework :
+{
+	Origin : Fire_ Tier5_ Firework
+	Current : Fire_ Tier5_ Firework
+}
+
+Flaycium_Projectile :
+{
+	Origin : Flaycium_ Projectile
+	Current : Flaycium_ Projectile
+}
+
+Food_Making :
+{
+	Origin : Food_ Making
+	Current : Food_ Making
+}
+
+Food_Tier3 :
+{
+	Origin : Food_ Tier3
+	Current : Food_ Tier3
+}
+
+Food_Tier4 :
+{
+	Origin : Food_ Tier4
+	Current : Food_ Tier4
+}
+
+Food_Tier5 :
+{
+	Origin : Food_ Tier5
+	Current : Food_ Tier5
+}
+
+Food_Tier3_Hitbox :
+{
+	Origin : Food_ Tier3_ Hitbox
+	Current : Food_ Tier3_ Hitbox
+}
+
+ForestryStaff_Proj :
+{
+	Origin : Forestry Staff_ Proj
+	Current : Forestry Staff_ Proj
+}
+
+ForestryStaff_SideExplosion :
+{
+	Origin : Forestry Staff_ Side Explosion
+	Current : Forestry Staff_ Side Explosion
+}
+
+Fortify_Tier1 :
+{
+	Origin : Fortify_ Tier1
+	Current : Fortify_ Tier1
+}
+
+Fortify_Tier2 :
+{
+	Origin : Fortify_ Tier2
+	Current : Fortify_ Tier2
+}
+
+Fortify_Tier3 :
+{
+	Origin : Fortify_ Tier3
+	Current : Fortify_ Tier3
+}
+
+Fortify_Tier4 :
+{
+	Origin : Fortify_ Tier4
+	Current : Fortify_ Tier4
+}
+
+Fortify_Tier5 :
+{
+	Origin : Fortify_ Tier5
+	Current : Fortify_ Tier5
+}
+
+Fury_Proj :
+{
+	Origin : Fury_ Proj
+	Current : Fury_ Proj
+}
+
+FusionZapper_Proj :
+{
+	Origin : Fusion Zapper_ Proj
+	Current : Fusion Zapper_ Proj
+}
+
+GatheringOfNature_Proj :
+{
+	Origin : Gathering Of Nature_ Proj
+	Current : Gathering Of Nature_ Proj
+}
+
+GlisteningDepths_Proj :
+{
+	Origin : Glistening Depths_ Proj
+	Current : Glistening Depths_ Proj
+}
+
+GlobalHostile_Hitbox :
+{
+	Origin : Death
+	Current : Death
+}
+
+GlobalHostile_Hitbox_Large :
+{
+	Origin : Death
+	Current : Death
+}
+
+GluttonyOutline :
+{
+	Origin : Gluttony Outline
+	Current : Gluttony Outline
+}
+
+Gold_Tier1 :
+{
+	Origin : Gold_ Tier1
+	Current : Gold_ Tier1
+}
+
+Gold_Tier2 :
+{
+	Origin : Gold_ Tier2
+	Current : Gold_ Tier2
+}
+
+Gold_Tier3 :
+{
+	Origin : Gold_ Tier3
+	Current : Gold_ Tier3
+}
+
+Gold_Tier4 :
+{
+	Origin : Gold_ Tier4
+	Current : Gold_ Tier4
+}
+
+Gold_Tier5 :
+{
+	Origin : Gold_ Tier5
+	Current : Gold_ Tier5
+}
+
+Gold_Tier5_Hitbox :
+{
+	Origin : Gold_ Tier5_ Hitbox
+	Current : Gold_ Tier5_ Hitbox
+}
+
+GoldEtcher_Proj :
+{
+	Origin : Gold Etcher_ Proj
+	Current : Gold Etcher_ Proj
+}
+
+GolemBossMinion :
+{
+	Origin : Colossal Minion
+	Current : Colossal Minion
+}
+
+Gravity_Limits :
+{
+	Origin : Gravity_ Limits
+	Current : Gravity_ Limits
+}
+
+Gravity_Tier1 :
+{
+	Origin : Gravity_ Tier1
+	Current : Gravity_ Tier1
+}
+
+Gravity_Tier2 :
+{
+	Origin : Gravity_ Tier2
+	Current : Gravity_ Tier2
+}
+
+Gravity_Tier4 :
+{
+	Origin : Gravity_ Tier4
+	Current : Gravity_ Tier4
+}
+
+Gravity_Tier5 :
+{
+	Origin : Gravity_ Tier5
+	Current : Gravity_ Tier5
+}
+
+Gravity_Tier2_Explosion :
+{
+	Origin : Gravity_ Tier2_ Explosion
+	Current : Gravity_ Tier2_ Explosion
+}
+
+GreedOutline :
+{
+	Origin : Greed Outline
+	Current : Greed Outline
+}
+
+HackNSlash_Proj :
+{
+	Origin : Hack N Slash_ Proj
+	Current : Hack N Slash_ Proj
+}
+
+Hallowed_Leaf_Proj :
+{
+	Origin : Hallowed_ Leaf_ Proj
+	Current : Hallowed_ Leaf_ Proj
+}
+
+HealThyCritter_Proj :
+{
+	Origin : Heal Thy Critter_ Proj
+	Current : Heal Thy Critter_ Proj
+}
+
+Heart_Tier1 :
+{
+	Origin : Heart_ Tier1
+	Current : Heart_ Tier1
+}
+
+Heart_Tier2 :
+{
+	Origin : Heart_ Tier2
+	Current : Heart_ Tier2
+}
+
+Heart_Tier3 :
+{
+	Origin : Heart_ Tier3
+	Current : Heart_ Tier3
+}
+
+Heart_Tier4 :
+{
+	Origin : Heart_ Tier4
+	Current : Heart_ Tier4
+}
+
+Heart_Tier5 :
+{
+	Origin : Heart_ Tier5
+	Current : Heart_ Tier5
+}
+
+HeavensWarmth_Heal :
+{
+	Origin : Heavens Warmth_ Heal
+	Current : Heavens Warmth_ Heal
+}
+
+HeavensWarmth_Use :
+{
+	Origin : Heavens Warmth_ Use
+	Current : Heavens Warmth_ Use
+}
+
+Hellreaver_Proj :
+{
+	Origin : Hellreaver_ Proj
+	Current : Hellreaver_ Proj
+}
+
+HellsAngel_CirclingSkull :
+{
+	Origin : Tarnished Skull
+	Current : Tarnished Skull
+}
+
+HellsAngel_Erupt :
+{
+	Origin : Hell's Blaze
+	Current : Hell's Blaze
+}
+
+HellsAngel_Explosion :
+{
+	Origin : Hell's Explosion
+	Current : Hell's Explosion
+}
+
+HellsAngel_Lightning :
+{
+	Origin : Lightning
+	Current : Lightning
+}
+
+HellsAngel_Ring :
+{
+	Origin : Hell's Ring
+	Current : Hell's Ring
+}
+
+HellsAngel_Skull :
+{
+	Origin : Tarnished Skull
+	Current : Tarnished Skull
+}
+
+HellsAngel_SummonServants :
+{
+	Origin : Summoning Servants
+	Current : Summoning Servants
+}
+
+HerbalistCircle1_Poison :
+{
+	Origin : Herbalist Circle1_ Poison
+	Current : Herbalist Circle1_ Poison
+}
+
+HerbalistCircle2_Guardian :
+{
+	Origin : Herbalist Circle2_ Guardian
+	Current : Herbalist Circle2_ Guardian
+}
+
+HerbalistPuff :
+{
+	Origin : Herbalist Puff
+	Current : Herbalist Puff
+}
+
+HerbalistsEnigma_Proj :
+{
+	Origin : Herbalists Enigma_ Proj
+	Current : Herbalists Enigma_ Proj
+}
+
+HerbalistShield_Break :
+{
+	Origin : Herbalist Shield_ Break
+	Current : Herbalist Shield_ Break
+}
+
+HerbalistShield0_Proj :
+{
+	Origin : Herbalist Shield0_ Proj
+	Current : Herbalist Shield0_ Proj
+}
+
+HerbalistShield1_Proj :
+{
+	Origin : Herbalist Shield1_ Proj
+	Current : Herbalist Shield1_ Proj
+}
+
+HerbalistShield10_Proj :
+{
+	Origin : Herbalist Shield10_ Proj
+	Current : Herbalist Shield10_ Proj
+}
+
+HerbalistShield2_Proj :
+{
+	Origin : Herbalist Shield2_ Proj
+	Current : Herbalist Shield2_ Proj
+}
+
+HerbalistShield3_Proj :
+{
+	Origin : Herbalist Shield3_ Proj
+	Current : Herbalist Shield3_ Proj
+}
+
+HerbalistShield4_Proj :
+{
+	Origin : Herbalist Shield4_ Proj
+	Current : Herbalist Shield4_ Proj
+}
+
+HerbalistShield5_Proj :
+{
+	Origin : Herbalist Shield5_ Proj
+	Current : Herbalist Shield5_ Proj
+}
+
+HerbalistShield6_Proj :
+{
+	Origin : Herbalist Shield6_ Proj
+	Current : Herbalist Shield6_ Proj
+}
+
+HerbalistShield7_Proj :
+{
+	Origin : Herbalist Shield7_ Proj
+	Current : Herbalist Shield7_ Proj
+}
+
+HerbalistShield8_Proj :
+{
+	Origin : Herbalist Shield8_ Proj
+	Current : Herbalist Shield8_ Proj
+}
+
+HerbalistShield9_Proj :
+{
+	Origin : Herbalist Shield9_ Proj
+	Current : Herbalist Shield9_ Proj
+}
+
+HerbalistShieldVerdant_Proj :
+{
+	Origin : Herbalist Shield Verdant_ Proj
+	Current : Herbalist Shield Verdant_ Proj
+}
+
+HerbalistStar :
+{
+	Origin : Herbalist Star
+	Current : Herbalist Star
+}
+
+Herbitar_Proj :
+{
+	Origin : Herbitar_ Proj
+	Current : Herbitar_ Proj
+}
+
+Ice_Tier1 :
+{
+	Origin : Ice_ Tier1
+	Current : Ice_ Tier1
+}
+
+Ice_Tier2 :
+{
+	Origin : Ice_ Tier2
+	Current : Ice_ Tier2
+}
+
+Ice_Tier3 :
+{
+	Origin : Ice_ Tier3
+	Current : Ice_ Tier3
+}
+
+Ice_Tier4 :
+{
+	Origin : Ice_ Tier4
+	Current : Ice_ Tier4
+}
+
+Ice_Tier5 :
+{
+	Origin : Ice_ Tier5
+	Current : Ice_ Tier5
+}
+
+IncomingStorm_Proj :
+{
+	Origin : Incoming Storm_ Proj
+	Current : Incoming Storm_ Proj
+}
+
+Jungle_Leaf_Proj :
+{
+	Origin : Jungle_ Leaf_ Proj
+	Current : Jungle_ Leaf_ Proj
+}
+
+KaedeDamageBoss :
+{
+	Origin : Kaede Damage Boss
+	Current : Kaede Damage Boss
+}
+
+Leaf_Proj :
+{
+	Origin : Leaf_ Proj
+	Current : Leaf_ Proj
+}
+
+Leaf_Teleport :
+{
+	Origin : Leaf_ Teleport
+	Current : Leaf_ Teleport
+}
+
+LeafPortal_Proj :
+{
+	Origin : Leaf Portal_ Proj
+	Current : Leaf Portal_ Proj
+}
+
+LeaveSniperMode :
+{
+	Origin : Leave Sniper Mode
+	Current : Leave Sniper Mode
+}
+
+Legil_Projectile :
+{
+	Origin : Legil_ Projectile
+	Current : Legil_ Projectile
+}
+
+Light_Tier2 :
+{
+	Origin : Light_ Tier2
+	Current : Light_ Tier2
+}
+
+Light_Tier3 :
+{
+	Origin : Light_ Tier3
+	Current : Light_ Tier3
+}
+
+Light_Tier4 :
+{
+	Origin : Light_ Tier4
+	Current : Light_ Tier4
+}
+
+Light_Tier5 :
+{
+	Origin : Light_ Tier5
+	Current : Light_ Tier5
+}
+
+Lightning_Limits :
+{
+	Origin : Lightning_ Limits
+	Current : Lightning_ Limits
+}
+
+Lightning_Tier1 :
+{
+	Origin : Lightning_ Tier1
+	Current : Lightning_ Tier1
+}
+
+Lightning_Tier2 :
+{
+	Origin : Lightning_ Tier2
+	Current : Lightning_ Tier2
+}
+
+Lightning_Tier3 :
+{
+	Origin : Lightning_ Tier3
+	Current : Lightning_ Tier3
+}
+
+Lightning_Tier4 :
+{
+	Origin : Lightning_ Tier4
+	Current : Lightning_ Tier4
+}
+
+Lightning_Tier5 :
+{
+	Origin : Lightning_ Tier5
+	Current : Lightning_ Tier5
+}
+
+LustOutline :
+{
+	Origin : Lust Outline
+	Current : Lust Outline
+}
+
+MechaStoneGolemArm :
+{
+	Origin : Stone Arm
+	Current : Stone Arm
+}
+
+MechaStoneGolemBoulder :
+{
+	Origin : Mecha Stone Golem Boulder
+	Current : Mecha Stone Golem Boulder
+}
+
+MechaStoneGolemLaser :
+{
+	Origin : Laser
+	Current : Laser
+}
+
+MechaStoneGolemQuake :
+{
+	Origin : Earthquake
+	Current : Earthquake
+}
+
+MechaStoneGolemRock :
+{
+	Origin : Mecha Stone Golem Rock
+	Current : Mecha Stone Golem Rock
+}
+
+Mercury_Limits_Landing :
+{
+	Origin : Mercury_ Limits_ Landing
+	Current : Mercury_ Limits_ Landing
+}
+
+Mercury_Limits_Launch :
+{
+	Origin : Mercury_ Limits_ Launch
+	Current : Mercury_ Limits_ Launch
+}
+
+Mercury_Tier1 :
+{
+	Origin : Mercury_ Tier1
+	Current : Mercury_ Tier1
+}
+
+Mercury_Tier2 :
+{
+	Origin : Mercury_ Tier2
+	Current : Mercury_ Tier2
+}
+
+Mercury_Tier3 :
+{
+	Origin : Mercury_ Tier3
+	Current : Mercury_ Tier3
+}
+
+Mercury_Tier4 :
+{
+	Origin : Mercury_ Tier4
+	Current : Mercury_ Tier4
+}
+
+Mercury_Tier5 :
+{
+	Origin : Mercury_ Tier5
+	Current : Mercury_ Tier5
+}
+
+Mercury_Tier2_Hitbox :
+{
+	Origin : Mercury_ Tier2_ Hitbox
+	Current : Mercury_ Tier2_ Hitbox
+}
+
+Mercury_Tier3_Hitbox :
+{
+	Origin : Mercury_ Tier3_ Hitbox
+	Current : Mercury_ Tier3_ Hitbox
+}
+
+Mercury_Tier4_Hitbox :
+{
+	Origin : Mercury_ Tier4_ Hitbox
+	Current : Mercury_ Tier4_ Hitbox
+}
+
+Mirror_Tier1 :
+{
+	Origin : Mirror_ Tier1
+	Current : Mirror_ Tier1
+}
+
+Mirror_Tier2 :
+{
+	Origin : Mirror_ Tier2
+	Current : Mirror_ Tier2
+}
+
+Mirror_Tier3 :
+{
+	Origin : Mirror_ Tier3
+	Current : Mirror_ Tier3
+}
+
+Mirror_Tier4 :
+{
+	Origin : Mirror_ Tier4
+	Current : Mirror_ Tier4
+}
+
+Mirror_Tier5 :
+{
+	Origin : Mirror_ Tier5
+	Current : Mirror_ Tier5
+}
+
+Mirror_Tier4_Hitbox :
+{
+	Origin : Mirror_ Tier4_ Hitbox
+	Current : Mirror_ Tier4_ Hitbox
+}
+
+Mischief_Tier1 :
+{
+	Origin : Mischief_ Tier1
+	Current : Mischief_ Tier1
+}
+
+Mischief_Tier2 :
+{
+	Origin : Mischief_ Tier2
+	Current : Mischief_ Tier2
+}
+
+Mischief_Tier3 :
+{
+	Origin : Mischief_ Tier3
+	Current : Mischief_ Tier3
+}
+
+Mischief_Tier4 :
+{
+	Origin : Mischief_ Tier4
+	Current : Mischief_ Tier4
+}
+
+Mischief_Tier5 :
+{
+	Origin : Mischief_ Tier5
+	Current : Mischief_ Tier5
+}
+
+Mischief_Tier1_Hitbox :
+{
+	Origin : Mischief_ Tier1_ Hitbox
+	Current : Mischief_ Tier1_ Hitbox
+}
+
+Mjolnir_Projectile :
+{
+	Origin : Mjolnir
+	Current : Mjolnir
+}
+
+Moon_Tier2_Proj :
+{
+	Origin : Moon_ Tier2_ Proj
+	Current : Moon_ Tier2_ Proj
+}
+
+Moon_Tier3_Proj_Rotate :
+{
+	Origin : Moon_ Tier3_ Proj_ Rotate
+	Current : Moon_ Tier3_ Proj_ Rotate
+}
+
+Moon_Tier4_Proj :
+{
+	Origin : Moon_ Tier4_ Proj
+	Current : Moon_ Tier4_ Proj
+}
+
+Moon_Tier5_Proj :
+{
+	Origin : Moon_ Tier5_ Proj
+	Current : Moon_ Tier5_ Proj
+}
+
+Music_Limits :
+{
+	Origin : Music_ Limits
+	Current : Music_ Limits
+}
+
+Music_Tier1 :
+{
+	Origin : Music_ Tier1
+	Current : Music_ Tier1
+}
+
+Music_Tier2 :
+{
+	Origin : Music_ Tier2
+	Current : Music_ Tier2
+}
+
+Music_Tier3 :
+{
+	Origin : Music_ Tier3
+	Current : Music_ Tier3
+}
+
+Music_Tier4 :
+{
+	Origin : Music_ Tier4
+	Current : Music_ Tier4
+}
+
+Music_Tier5 :
+{
+	Origin : Music_ Tier5
+	Current : Music_ Tier5
+}
+
+MySisterMadeThis_Hitbox :
+{
+	Origin : My Sister Made This_ Hitbox
+	Current : My Sister Made This_ Hitbox
+}
+
+NatureConsumption_Proj :
+{
+	Origin : Nature Consumption_ Proj
+	Current : Nature Consumption_ Proj
+}
+
+OblivionEnclose :
+{
+	Origin : Oblivion Enclose
+	Current : Oblivion Enclose
+}
+
+OblivionExplosion :
+{
+	Origin : Oblivion Explosion
+	Current : Oblivion Explosion
+}
+
+OblivionMoose_Enclose :
+{
+	Origin : Moose Beam
+	Current : Moose Beam
+}
+
+OblivionMoose_Explosion :
+{
+	Origin : Oblivion Moose_ Explosion
+	Current : Oblivion Moose_ Explosion
+}
+
+Paint_Tier2 :
+{
+	Origin : Paint_ Tier2
+	Current : Paint_ Tier2
+}
+
+Paint_Tier3 :
+{
+	Origin : Paint_ Tier3
+	Current : Paint_ Tier3
+}
+
+Paint_Tier4 :
+{
+	Origin : Paint_ Tier4
+	Current : Paint_ Tier4
+}
+
+Paint_Tier5 :
+{
+	Origin : Paint_ Tier5
+	Current : Paint_ Tier5
+}
+
+Paint_Tier3_Hitbox :
+{
+	Origin : Paint_ Tier3_ Hitbox
+	Current : Paint_ Tier3_ Hitbox
+}
+
+PapaLeafMinion :
+{
+	Origin : Papa Leaf Minion
+	Current : Papa Leaf Minion
+}
+
+Pincer_Proj :
+{
+	Origin : Pincer_ Proj
+	Current : Pincer_ Proj
+}
+
+PitelPetal_Proj :
+{
+	Origin : Pitel Petal_ Proj
+	Current : Pitel Petal_ Proj
+}
+
+Plant_Tier2 :
+{
+	Origin : Plant_ Tier2
+	Current : Plant_ Tier2
+}
+
+Plant_Tier3 :
+{
+	Origin : Plant_ Tier3
+	Current : Plant_ Tier3
+}
+
+Plant_Tier4 :
+{
+	Origin : Plant_ Tier4
+	Current : Plant_ Tier4
+}
+
+Plant_Tier5 :
+{
+	Origin : Plant_ Tier5
+	Current : Plant_ Tier5
+}
+
+PlanterraBlade_Proj :
+{
+	Origin : Planterra Blade_ Proj
+	Current : Planterra Blade_ Proj
+}
+
+Plasma_Tier2 :
+{
+	Origin : Plasma_ Tier2
+	Current : Plasma_ Tier2
+}
+
+Plasma_Tier3 :
+{
+	Origin : Plasma_ Tier3
+	Current : Plasma_ Tier3
+}
+
+Plasma_Tier4 :
+{
+	Origin : Plasma_ Tier4
+	Current : Plasma_ Tier4
+}
+
+Plasma_Tier5 :
+{
+	Origin : Plasma_ Tier5
+	Current : Plasma_ Tier5
+}
+
+Poggers_Bullet1 :
+{
+	Origin : Poggers
+	Current : Poggers
+}
+
+Poggers_Bullet2 :
+{
+	Origin : Poggers
+	Current : Poggers
+}
+
+Poggers_Bullet3 :
+{
+	Origin : Poggers
+	Current : Poggers
+}
+
+Poison_Limits :
+{
+	Origin : Poison_ Limits
+	Current : Poison_ Limits
+}
+
+Poison_Tier1 :
+{
+	Origin : Poison_ Tier1
+	Current : Poison_ Tier1
+}
+
+Poison_Tier2 :
+{
+	Origin : Poison_ Tier2
+	Current : Poison_ Tier2
+}
+
+Poison_Tier3 :
+{
+	Origin : Poison_ Tier3
+	Current : Poison_ Tier3
+}
+
+Poison_Tier4 :
+{
+	Origin : Poison_ Tier4
+	Current : Poison_ Tier4
+}
+
+Poison_Tier5 :
+{
+	Origin : Poison_ Tier5
+	Current : Poison_ Tier5
+}
+
+Poison_Tier2_Hitbox :
+{
+	Origin : Poison_ Tier2_ Hitbox
+	Current : Poison_ Tier2_ Hitbox
+}
+
+Poison_Tier3_Hitbox :
+{
+	Origin : Poison_ Tier3_ Hitbox
+	Current : Poison_ Tier3_ Hitbox
+}
+
+Poison_Tier4_Hitbox :
+{
+	Origin : Poison_ Tier4_ Hitbox
+	Current : Poison_ Tier4_ Hitbox
+}
+
+PortalGuardian_SummonPortals :
+{
+	Origin : Portal Guardian_ Summon Portals
+	Current : Portal Guardian_ Summon Portals
+}
+
+PortalGuardianBlast :
+{
+	Origin : Portal Blast
+	Current : Portal Blast
+}
+
+PortalGuardianPortal_Active :
+{
+	Origin : Portal Guardian Portal_ Active
+	Current : Portal Guardian Portal_ Active
+}
+
+PortalGuardianPortal_Show :
+{
+	Origin : Portal Guardian Portal_ Show
+	Current : Portal Guardian Portal_ Show
+}
+
+PortalGuardianPortal_Spawn :
+{
+	Origin : Portal Guardian Portal_ Spawn
+	Current : Portal Guardian Portal_ Spawn
+}
+
+PortalGuardianProj :
+{
+	Origin : Portal Missile
+	Current : Portal Missile
+}
+
+PortalGuardianProj2 :
+{
+	Origin : Portal Missile
+	Current : Portal Missile
+}
+
+PortalGuardianProj_Friendly :
+{
+	Origin : Portal Guardian Proj_ Friendly
+	Current : Portal Guardian Proj_ Friendly
+}
+
+PortalGuardianServant_Attack :
+{
+	Origin : Servant Attack
+	Current : Servant Attack
+}
+
+PortalGuardianTrap :
+{
+	Origin : Awakening
+	Current : Awakening
+}
+
+PrideOutline :
+{
+	Origin : Pride Outline
+	Current : Pride Outline
+}
+
+Primaries_BleuExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_BleuMissileProj :
+{
+	Origin : Bleu Missile
+	Current : Bleu Missile
+}
+
+Primaries_BleuOrbProj :
+{
+	Origin : Bleu Orb
+	Current : Bleu Orb
+}
+
+Primaries_BleuTrackingProj :
+{
+	Origin : Bleu Missile
+	Current : Bleu Missile
+}
+
+Primaries_GreenExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_GreenProj :
+{
+	Origin : Green Enclosure
+	Current : Green Enclosure
+}
+
+Primaries_JauneExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_JauneMissileProj :
+{
+	Origin : Jaune Missile
+	Current : Jaune Missile
+}
+
+Primaries_JauneOrbProj :
+{
+	Origin : Jaune Orb
+	Current : Jaune Orb
+}
+
+Primaries_JauneTrackingProj :
+{
+	Origin : Jaune Missile
+	Current : Jaune Missile
+}
+
+Primaries_OrangeExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_OrangeProj :
+{
+	Origin : Orange Beam
+	Current : Orange Beam
+}
+
+Primaries_PurpleExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_PurpleProj :
+{
+	Origin : Purple Blade
+	Current : Purple Blade
+}
+
+Primaries_RougeExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_RougeMissileProj :
+{
+	Origin : Rouge Missile
+	Current : Rouge Missile
+}
+
+Primaries_RougeOrbProj :
+{
+	Origin : Rouge Orb
+	Current : Rouge Orb
+}
+
+Primaries_RougeTrackingProj :
+{
+	Origin : Rouge Missile
+	Current : Rouge Missile
+}
+
+Primaries_WhiteExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Primaries_WhiteSlashProj :
+{
+	Origin : Slashes
+	Current : Slashes
+}
+
+PrimaryBatsBleuBat :
+{
+	Origin : Primary Bats Bleu Bat
+	Current : Primary Bats Bleu Bat
+}
+
+PrimaryBatsJauneBat :
+{
+	Origin : Primary Bats Jaune Bat
+	Current : Primary Bats Jaune Bat
+}
+
+PrimaryBatsRougeBat :
+{
+	Origin : Primary Bats Rouge Bat
+	Current : Primary Bats Rouge Bat
+}
+
+PsychoFragAnimation :
+{
+	Origin : Psycho Frag Animation
+	Current : Psycho Frag Animation
+}
+
+Psychokinesis_AerialBeam :
+{
+	Origin : Psychokinesis_ Aerial Beam
+	Current : Psychokinesis_ Aerial Beam
+}
+
+Psychokinesis_Beam :
+{
+	Origin : Psychokinesis_ Beam
+	Current : Psychokinesis_ Beam
+}
+
+Psychokinesis_Cyclone :
+{
+	Origin : Psychokinesis_ Cyclone
+	Current : Psychokinesis_ Cyclone
+}
+
+Psychokinesis_Entangle :
+{
+	Origin : Psychokinesis_ Entangle
+	Current : Psychokinesis_ Entangle
+}
+
+Psychokinesis_Explosion :
+{
+	Origin : Psychokinesis_ Explosion
+	Current : Psychokinesis_ Explosion
+}
+
+Psychokinesis_LargeHitbox :
+{
+	Origin : Psychokinesis_ Large Hitbox
+	Current : Psychokinesis_ Large Hitbox
+}
+
+Psychokinesis_Laser :
+{
+	Origin : Psychokinesis_ Laser
+	Current : Psychokinesis_ Laser
+}
+
+Psychokinesis_Missile :
+{
+	Origin : Psychokinesis_ Missile
+	Current : Psychokinesis_ Missile
+}
+
+Psychokinesis_Proj1_Fortify1 :
+{
+	Origin : Psychokinesis_ Proj1_ Fortify1
+	Current : Psychokinesis_ Proj1_ Fortify1
+}
+
+Psychokinesis_SpawnAnimation :
+{
+	Origin : Psychokinesis_ Spawn Animation
+	Current : Psychokinesis_ Spawn Animation
+}
+
+Psychokinesis_UseAnimation2 :
+{
+	Origin : Psychokinesis_ Use Animation2
+	Current : Psychokinesis_ Use Animation2
+}
+
+Psychokinesis_UseAnimation3_Disappear :
+{
+	Origin : Psychokinesis_ Use Animation3_ Disappear
+	Current : Psychokinesis_ Use Animation3_ Disappear
+}
+
+Psychokinesis_UseAnimationEndMemorize :
+{
+	Origin : Psychokinesis_ Use Animation End Memorize
+	Current : Psychokinesis_ Use Animation End Memorize
+}
+
+Psychokinesis_UseAnimationMissile :
+{
+	Origin : Psychokinesis_ Use Animation Missile
+	Current : Psychokinesis_ Use Animation Missile
+}
+
+Psychokinesis_UseOutline :
+{
+	Origin : Psychokinesis_ Use Outline
+	Current : Psychokinesis_ Use Outline
+}
+
+Reaper_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Reaper_Skull :
+{
+	Origin : Reaper's Skull
+	Current : Reaper's Skull
+}
+
+Reloading :
+{
+	Origin : Reloading
+	Current : Reloading
+}
+
+Retribution_Projectile :
+{
+	Origin : Retribution_ Projectile
+	Current : Retribution_ Projectile
+}
+
+Revenant_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Revenant_Skull :
+{
+	Origin : Revenant's Skull
+	Current : Revenant's Skull
+}
+
+RitualRepeater_Projectile :
+{
+	Origin : Ritual Repeater_ Projectile
+	Current : Ritual Repeater_ Projectile
+}
+
+RoboticBear_Basball :
+{
+	Origin : Despairful Baseball
+	Current : Despairful Baseball
+}
+
+RoboticBear_DespairBullet :
+{
+	Origin : Truth Bullet (Despairful)
+	Current : Truth Bullet (Despairful)
+}
+
+RoboticBear_DespairOutline :
+{
+	Origin : Robotic Bear_ Despair Outline
+	Current : Robotic Bear_ Despair Outline
+}
+
+RoboticBear_TennisBall :
+{
+	Origin : Despairful Tennis Ball
+	Current : Despairful Tennis Ball
+}
+
+RoboticBear_TruthBullet :
+{
+	Origin : Truth Bullet
+	Current : Truth Bullet
+}
+
+RoboticBear_VisuaDespairlText :
+{
+	Origin : Robotic Bear_ Visua Despairl Text
+	Current : Robotic Bear_ Visua Despairl Text
+}
+
+RoboticBearDespairText1 :
+{
+	Origin : Robotic Bear Despair Text1
+	Current : Robotic Bear Despair Text1
+}
+
+RoboticBearDespairText10 :
+{
+	Origin : Robotic Bear Despair Text10
+	Current : Robotic Bear Despair Text10
+}
+
+RoboticBearDespairText2 :
+{
+	Origin : Robotic Bear Despair Text2
+	Current : Robotic Bear Despair Text2
+}
+
+RoboticBearDespairText3 :
+{
+	Origin : Robotic Bear Despair Text3
+	Current : Robotic Bear Despair Text3
+}
+
+RoboticBearDespairText4 :
+{
+	Origin : Robotic Bear Despair Text4
+	Current : Robotic Bear Despair Text4
+}
+
+RoboticBearDespairText5 :
+{
+	Origin : Robotic Bear Despair Text5
+	Current : Robotic Bear Despair Text5
+}
+
+RoboticBearDespairText6 :
+{
+	Origin : Robotic Bear Despair Text6
+	Current : Robotic Bear Despair Text6
+}
+
+RoboticBearDespairText7 :
+{
+	Origin : Robotic Bear Despair Text7
+	Current : Robotic Bear Despair Text7
+}
+
+RoboticBearDespairText8 :
+{
+	Origin : Robotic Bear Despair Text8
+	Current : Robotic Bear Despair Text8
+}
+
+RoboticBearDespairText9 :
+{
+	Origin : Robotic Bear Despair Text9
+	Current : Robotic Bear Despair Text9
+}
+
+RoboticBearDespairTextCommon :
+{
+	Origin : Robotic Bear Despair Text Common
+	Current : Robotic Bear Despair Text Common
+}
+
+RoboticBearHopeText1 :
+{
+	Origin : Robotic Bear Hope Text1
+	Current : Robotic Bear Hope Text1
+}
+
+RoboticBearHopeText2 :
+{
+	Origin : Robotic Bear Hope Text2
+	Current : Robotic Bear Hope Text2
+}
+
+RoboticBearHopeText3 :
+{
+	Origin : Robotic Bear Hope Text3
+	Current : Robotic Bear Hope Text3
+}
+
+RoboticBearHopeText4 :
+{
+	Origin : Robotic Bear Hope Text4
+	Current : Robotic Bear Hope Text4
+}
+
+RoboticBearHopeText5 :
+{
+	Origin : Robotic Bear Hope Text5
+	Current : Robotic Bear Hope Text5
+}
+
+RoboticBearHopeText6 :
+{
+	Origin : Robotic Bear Hope Text6
+	Current : Robotic Bear Hope Text6
+}
+
+RoboticBearHopeText7 :
+{
+	Origin : Robotic Bear Hope Text7
+	Current : Robotic Bear Hope Text7
+}
+
+RoboticBearHopeText8 :
+{
+	Origin : Robotic Bear Hope Text8
+	Current : Robotic Bear Hope Text8
+}
+
+RoboticBearHopeTextCommon :
+{
+	Origin : Robotic Bear Hope Text Common
+	Current : Robotic Bear Hope Text Common
+}
+
+RoboticBearSpawnIn :
+{
+	Origin : Robotic Bear Spawn In
+	Current : Robotic Bear Spawn In
+}
+
+RoboticBearSpawnItem :
+{
+	Origin : Robotic Bear Spawn Item
+	Current : Robotic Bear Spawn Item
+}
+
+RoboticBearUnknownText1 :
+{
+	Origin : Robotic Bear Unknown Text1
+	Current : Robotic Bear Unknown Text1
+}
+
+RoboticBearUnknownText2 :
+{
+	Origin : Robotic Bear Unknown Text2
+	Current : Robotic Bear Unknown Text2
+}
+
+RoboticBearUnknownText3 :
+{
+	Origin : Robotic Bear Unknown Text3
+	Current : Robotic Bear Unknown Text3
+}
+
+RoboticBearUnknownText4 :
+{
+	Origin : Robotic Bear Unknown Text4
+	Current : Robotic Bear Unknown Text4
+}
+
+Rock :
+{
+	Origin : Rock
+	Current : Rock
+}
+
+Rotting_Tier1 :
+{
+	Origin : Rotting_ Tier1
+	Current : Rotting_ Tier1
+}
+
+Rotting_Tier2 :
+{
+	Origin : Rotting_ Tier2
+	Current : Rotting_ Tier2
+}
+
+Rotting_Tier3 :
+{
+	Origin : Rotting_ Tier3
+	Current : Rotting_ Tier3
+}
+
+Rotting_Tier4 :
+{
+	Origin : Rotting_ Tier4
+	Current : Rotting_ Tier4
+}
+
+Rotting_Tier5 :
+{
+	Origin : Rotting_ Tier5
+	Current : Rotting_ Tier5
+}
+
+SaberLevelUp :
+{
+	Origin : Saber Level Up
+	Current : Saber Level Up
+}
+
+Shadow_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Shadow_Skull :
+{
+	Origin : Shadow's Skull
+	Current : Shadow's Skull
+}
+
+ShadowMoon_Proj :
+{
+	Origin : Shadow Moon_ Proj
+	Current : Shadow Moon_ Proj
+}
+
+Sight_1 :
+{
+	Origin : Sight_1
+	Current : Sight_1
+}
+
+Sight_2 :
+{
+	Origin : Sight_2
+	Current : Sight_2
+}
+
+Sight_3 :
+{
+	Origin : Sight_3
+	Current : Sight_3
+}
+
+Sight_4 :
+{
+	Origin : Sight_4
+	Current : Sight_4
+}
+
+SinsOutline :
+{
+	Origin : Sins Outline
+	Current : Sins Outline
+}
+
+Skin_TierAll :
+{
+	Origin : Skin_ Tier All
+	Current : Skin_ Tier All
+}
+
+SkullProj :
+{
+	Origin : Skull
+	Current : Skull
+}
+
+SkullProj_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Sky_Leaf_Proj :
+{
+	Origin : Sky_ Leaf_ Proj
+	Current : Sky_ Leaf_ Proj
+}
+
+SlashAnimation1 :
+{
+	Origin : Slash Animation1
+	Current : Slash Animation1
+}
+
+SlashAnimation2 :
+{
+	Origin : Slash Animation2
+	Current : Slash Animation2
+}
+
+SlashAnimation3 :
+{
+	Origin : Slash Animation3
+	Current : Slash Animation3
+}
+
+SlashAnimation4 :
+{
+	Origin : Slash Animation4
+	Current : Slash Animation4
+}
+
+SlashAnimation5 :
+{
+	Origin : Slash Animation5
+	Current : Slash Animation5
+}
+
+SlashAnimation7 :
+{
+	Origin : Slash Animation7
+	Current : Slash Animation7
+}
+
+SlothOutline :
+{
+	Origin : Sloth Outline
+	Current : Sloth Outline
+}
+
+Smoke_Tier1 :
+{
+	Origin : Smoke_ Tier1
+	Current : Smoke_ Tier1
+}
+
+Smoke_Tier2 :
+{
+	Origin : Smoke_ Tier2
+	Current : Smoke_ Tier2
+}
+
+Smoke_Tier3 :
+{
+	Origin : Smoke_ Tier3
+	Current : Smoke_ Tier3
+}
+
+Smoke_Tier4 :
+{
+	Origin : Smoke_ Tier4
+	Current : Smoke_ Tier4
+}
+
+Smoke_Tier5 :
+{
+	Origin : Smoke_ Tier5
+	Current : Smoke_ Tier5
+}
+
+Smoke_Tier3_Hitbox :
+{
+	Origin : Smoke_ Tier3_ Hitbox
+	Current : Smoke_ Tier3_ Hitbox
+}
+
+SniperGlint :
+{
+	Origin : Sniper Glint
+	Current : Sniper Glint
+}
+
+Snow_Leaf_Proj :
+{
+	Origin : Snow_ Leaf_ Proj
+	Current : Snow_ Leaf_ Proj
+}
+
+SoulServantMinion :
+{
+	Origin : Soul Servant Minion
+	Current : Soul Servant Minion
+}
+
+Soulsiphon_Projectile :
+{
+	Origin : Soulsiphon_ Projectile
+	Current : Soulsiphon_ Projectile
+}
+
+Spatial_Limits :
+{
+	Origin : Spatial_ Limits
+	Current : Spatial_ Limits
+}
+
+Spatial_Tier1 :
+{
+	Origin : Spatial_ Tier1
+	Current : Spatial_ Tier1
+}
+
+Spatial_Tier2 :
+{
+	Origin : Spatial_ Tier2
+	Current : Spatial_ Tier2
+}
+
+Spatial_Tier3 :
+{
+	Origin : Spatial_ Tier3
+	Current : Spatial_ Tier3
+}
+
+Spatial_Tier5 :
+{
+	Origin : Spatial_ Tier5
+	Current : Spatial_ Tier5
+}
+
+Spatial_Tier4_1 :
+{
+	Origin : Spatial_ Tier4_1
+	Current : Spatial_ Tier4_1
+}
+
+Spatial_Tier4_2 :
+{
+	Origin : Spatial_ Tier4_2
+	Current : Spatial_ Tier4_2
+}
+
+Spirit_Explosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Spirit_Heal :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+Spirit_Skull :
+{
+	Origin : Spirit's Skull
+	Current : Spirit's Skull
+}
+
+SpiritAnimal_Arrow :
+{
+	Origin : Spirit Animal_ Arrow
+	Current : Spirit Animal_ Arrow
+}
+
+SpiritDoggoExplosion :
+{
+	Origin : Spirit Doggo Explosion
+	Current : Spirit Doggo Explosion
+}
+
+SpiritDoggoMinion :
+{
+	Origin : Bork Bork Nom Nom
+	Current : Bork Bork Nom Nom
+}
+
+Star_Tier2 :
+{
+	Origin : Star_ Tier2
+	Current : Star_ Tier2
+}
+
+Star_Tier3 :
+{
+	Origin : Star_ Tier3
+	Current : Star_ Tier3
+}
+
+Star_Tier4 :
+{
+	Origin : Star_ Tier4
+	Current : Star_ Tier4
+}
+
+Star_Tier5 :
+{
+	Origin : Star_ Tier5
+	Current : Star_ Tier5
+}
+
+Star_Tier2_Proj :
+{
+	Origin : Star_ Tier2_ Proj
+	Current : Star_ Tier2_ Proj
+}
+
+Star_Tier3_Proj_Rotate :
+{
+	Origin : Star_ Tier3_ Proj_ Rotate
+	Current : Star_ Tier3_ Proj_ Rotate
+}
+
+Star_Tier4_Proj :
+{
+	Origin : Star_ Tier4_ Proj
+	Current : Star_ Tier4_ Proj
+}
+
+Star_Tier5_Proj :
+{
+	Origin : Star_ Tier5_ Proj
+	Current : Star_ Tier5_ Proj
+}
+
+String_Limits :
+{
+	Origin : String_ Limits
+	Current : String_ Limits
+}
+
+String_Limits_Fate :
+{
+	Origin : String_ Limits_ Fate
+	Current : String_ Limits_ Fate
+}
+
+String_Tier1 :
+{
+	Origin : String_ Tier1
+	Current : String_ Tier1
+}
+
+String_Tier2 :
+{
+	Origin : String_ Tier2
+	Current : String_ Tier2
+}
+
+String_Tier3 :
+{
+	Origin : String_ Tier3
+	Current : String_ Tier3
+}
+
+Sun_Tier2_Proj :
+{
+	Origin : Sun_ Tier2_ Proj
+	Current : Sun_ Tier2_ Proj
+}
+
+Sun_Tier3_Proj_Rotate :
+{
+	Origin : Sun_ Tier3_ Proj_ Rotate
+	Current : Sun_ Tier3_ Proj_ Rotate
+}
+
+Sun_Tier4_Proj :
+{
+	Origin : Sun_ Tier4_ Proj
+	Current : Sun_ Tier4_ Proj
+}
+
+Sun_Tier5_Proj :
+{
+	Origin : Sun_ Tier5_ Proj
+	Current : Sun_ Tier5_ Proj
+}
+
+SurpassLimitsOutline :
+{
+	Origin : Surpass Limits Outline
+	Current : Surpass Limits Outline
+}
+
+SycamoreStar_Child :
+{
+	Origin : Sycamore Star_ Child
+	Current : Sycamore Star_ Child
+}
+
+SycamoreStar_Mother :
+{
+	Origin : Sycamore Star_ Mother
+	Current : Sycamore Star_ Mother
+}
+
+SycamoreStar_MotherExplosion :
+{
+	Origin : Explosion
+	Current : Explosion
+}
+
+TardSkeetShot :
+{
+	Origin : Tard Skeet Shot
+	Current : Tard Skeet Shot
+}
+
+Techno_MeleeRobot :
+{
+	Origin : Techo Magic: Melee Robot
+	Current : Techo Magic: Melee Robot
+}
+
+Techno_RangedRobot :
+{
+	Origin : Techo Magic: Ranged Robot
+	Current : Techo Magic: Ranged Robot
+}
+
+Techno_Tier1 :
+{
+	Origin : Techno_ Tier1
+	Current : Techno_ Tier1
+}
+
+Techno_Tier3 :
+{
+	Origin : Techno_ Tier3
+	Current : Techno_ Tier3
+}
+
+Techno_Tier5 :
+{
+	Origin : Techno_ Tier5
+	Current : Techno_ Tier5
+}
+
+Techno_Tier1_Explosion :
+{
+	Origin : Techno_ Tier1_ Explosion
+	Current : Techno_ Tier1_ Explosion
+}
+
+TeruteruPunishment :
+{
+	Origin : Teruteru Punishment
+	Current : Teruteru Punishment
+}
+
+Thought_AerialBeam :
+{
+	Origin : Thought_ Aerial Beam
+	Current : Thought_ Aerial Beam
+}
+
+Thought_Beam :
+{
+	Origin : Thought_ Beam
+	Current : Thought_ Beam
+}
+
+Thought_Cyclone :
+{
+	Origin : Thought_ Cyclone
+	Current : Thought_ Cyclone
+}
+
+Thought_Disappear :
+{
+	Origin : Thought_ Disappear
+	Current : Thought_ Disappear
+}
+
+Thought_Entangle :
+{
+	Origin : Thought_ Entangle
+	Current : Thought_ Entangle
+}
+
+Thought_Explosion :
+{
+	Origin : Thought_ Explosion
+	Current : Thought_ Explosion
+}
+
+Thought_Fortify :
+{
+	Origin : Thought_ Fortify
+	Current : Thought_ Fortify
+}
+
+Thought_Future :
+{
+	Origin : Thought_ Future
+	Current : Thought_ Future
+}
+
+Thought_Laser :
+{
+	Origin : Thought_ Laser
+	Current : Thought_ Laser
+}
+
+Thought_Missile :
+{
+	Origin : Thought_ Missile
+	Current : Thought_ Missile
+}
+
+Thought_Spawn :
+{
+	Origin : Thought_ Spawn
+	Current : Thought_ Spawn
+}
+
+Thought_Thoughtful :
+{
+	Origin : Thought_ Thoughtful
+	Current : Thought_ Thoughtful
+}
+
+Thusium_Projectile :
+{
+	Origin : Thusium_ Projectile
+	Current : Thusium_ Projectile
+}
+
+Time_Limits :
+{
+	Origin : Time_ Limits
+	Current : Time_ Limits
+}
+
+Time_Tier1 :
+{
+	Origin : Time_ Tier1
+	Current : Time_ Tier1
+}
+
+Time_Tier2 :
+{
+	Origin : Time_ Tier2
+	Current : Time_ Tier2
+}
+
+Time_Tier3 :
+{
+	Origin : Time_ Tier3
+	Current : Time_ Tier3
+}
+
+Time_Tier4 :
+{
+	Origin : Time_ Tier4
+	Current : Time_ Tier4
+}
+
+Time_Tier5 :
+{
+	Origin : Time_ Tier5
+	Current : Time_ Tier5
+}
+
+Time_Tier3_Tracking :
+{
+	Origin : Time_ Tier3_ Tracking
+	Current : Time_ Tier3_ Tracking
+}
+
+Transformation_Tier1 :
+{
+	Origin : Transformation_ Tier1
+	Current : Transformation_ Tier1
+}
+
+Transformation_Tier2 :
+{
+	Origin : Transformation_ Tier2
+	Current : Transformation_ Tier2
+}
+
+Transformation_Tier3 :
+{
+	Origin : Transformation_ Tier3
+	Current : Transformation_ Tier3
+}
+
+Transformation_Tier4 :
+{
+	Origin : Transformation_ Tier4
+	Current : Transformation_ Tier4
+}
+
+Transformation_Tier5 :
+{
+	Origin : Transformation_ Tier5
+	Current : Transformation_ Tier5
+}
+
+Trap_Tier1 :
+{
+	Origin : Trap_ Tier1
+	Current : Trap_ Tier1
+}
+
+Trap_Tier2 :
+{
+	Origin : Trap_ Tier2
+	Current : Trap_ Tier2
+}
+
+Trap_Tier3 :
+{
+	Origin : Trap_ Tier3
+	Current : Trap_ Tier3
+}
+
+Trap_Tier4 :
+{
+	Origin : Trap_ Tier4
+	Current : Trap_ Tier4
+}
+
+Trap_Tier5 :
+{
+	Origin : Trap_ Tier5
+	Current : Trap_ Tier5
+}
+
+TripleDouble_GunProj :
+{
+	Origin : Triple Double Shot
+	Current : Triple Double Shot
+}
+
+TripleDouble_Proj :
+{
+	Origin : Triple Double Gun
+	Current : Triple Double Gun
+}
+
+Truth_Bullet :
+{
+	Origin : Truth_ Bullet
+	Current : Truth_ Bullet
+}
+
+TruthBulletSniperShot :
+{
+	Origin : Truth Bullet Sniper Shot
+	Current : Truth Bullet Sniper Shot
+}
+
+Turtle_Shield :
+{
+	Origin : Turtle_ Shield
+	Current : Turtle_ Shield
+}
+
+Tuskian_Projectile :
+{
+	Origin : Tuskian_ Projectile
+	Current : Tuskian_ Projectile
+}
+
+VerdantWisp1 :
+{
+	Origin : Verdant Wisp
+	Current : Verdant Wisp
+}
+
+VerdantWisp2 :
+{
+	Origin : Verdant Wisp
+	Current : Verdant Wisp
+}
+
+VerdantWisp3 :
+{
+	Origin : Verdant Wisp
+	Current : Verdant Wisp
+}
+
+VerdantWisp4 :
+{
+	Origin : Verdant Wisp
+	Current : Verdant Wisp
+}
+
+Void_Tier1 :
+{
+	Origin : Void_ Tier1
+	Current : Void_ Tier1
+}
+
+Void_Tier2 :
+{
+	Origin : Void_ Tier2
+	Current : Void_ Tier2
+}
+
+Void_Tier3 :
+{
+	Origin : Void_ Tier3
+	Current : Void_ Tier3
+}
+
+Void_Tier5 :
+{
+	Origin : Void_ Tier5
+	Current : Void_ Tier5
+}
+
+Void_Tier5_Hitbox :
+{
+	Origin : Void_ Tier5_ Hitbox
+	Current : Void_ Tier5_ Hitbox
+}
+
+Warbringer_Rocket :
+{
+	Origin : Warbringer_ Rocket
+	Current : Warbringer_ Rocket
+}
+
+WarpIcon_Portal :
+{
+	Origin : Warp Icon_ Portal
+	Current : Warp Icon_ Portal
+}
+
+Water_Limits1 :
+{
+	Origin : Water_ Limits1
+	Current : Water_ Limits1
+}
+
+Water_Limits2 :
+{
+	Origin : Water_ Limits2
+	Current : Water_ Limits2
+}
+
+Water_Tier1 :
+{
+	Origin : Water_ Tier1
+	Current : Water_ Tier1
+}
+
+Water_Tier3 :
+{
+	Origin : Water_ Tier3
+	Current : Water_ Tier3
+}
+
+Water_Tier4 :
+{
+	Origin : Water_ Tier4
+	Current : Water_ Tier4
+}
+
+Water_Tier5_Kraken :
+{
+	Origin : Water_ Tier5_ Kraken
+	Current : Water_ Tier5_ Kraken
+}
+
+WhatsAnotherHeadMinion :
+{
+	Origin : Whats Another Head Minion
+	Current : Whats Another Head Minion
+}
+
+Wind_Limits_Animation :
+{
+	Origin : Wind_ Limits_ Animation
+	Current : Wind_ Limits_ Animation
+}
+
+Wind_Limits_Arrow :
+{
+	Origin : Wind_ Limits_ Arrow
+	Current : Wind_ Limits_ Arrow
+}
+
+Wind_Tier1 :
+{
+	Origin : Wind_ Tier1
+	Current : Wind_ Tier1
+}
+
+Wind_Tier2 :
+{
+	Origin : Wind_ Tier2
+	Current : Wind_ Tier2
+}
+
+Wind_Tier3 :
+{
+	Origin : Wind_ Tier3
+	Current : Wind_ Tier3
+}
+
+Wind_Tier4 :
+{
+	Origin : Wind_ Tier4
+	Current : Wind_ Tier4
+}
+
+Wind_Tier5 :
+{
+	Origin : Wind_ Tier5
+	Current : Wind_ Tier5
+}
+
+Wind_Tier4_Hitbox :
+{
+	Origin : Wind_ Tier4_ Hitbox
+	Current : Wind_ Tier4_ Hitbox
+}
+
+Word_Limits :
+{
+	Origin : Word_ Limits
+	Current : Word_ Limits
+}
+
+Word_Tier1 :
+{
+	Origin : Word_ Tier1
+	Current : Word_ Tier1
+}
+
+Word_Tier2 :
+{
+	Origin : Word_ Tier2
+	Current : Word_ Tier2
+}
+
+Word_Tier3 :
+{
+	Origin : Word_ Tier3
+	Current : Word_ Tier3
+}
+
+Word_Tier4 :
+{
+	Origin : Word_ Tier4
+	Current : Word_ Tier4
+}
+
+Word_Tier5 :
+{
+	Origin : Word_ Tier5
+	Current : Word_ Tier5
+}
+
+Word_Tier1_MP :
+{
+	Origin : Word_ Tier1_ M P
+	Current : Word_ Tier1_ M P
+}
+
+Word_Tier4_MP :
+{
+	Origin : Word_ Tier4_ M P
+	Current : Word_ Tier4_ M P
+}
+
+WordBunny_Burn :
+{
+	Origin : Word Bunny_ Burn
+	Current : Word Bunny_ Burn
+}
+
+WordBunny_Despair :
+{
+	Origin : Word Bunny_ Despair
+	Current : Word Bunny_ Despair
+}
+
+WordBunny_Turn :
+{
+	Origin : Word Bunny_ Turn
+	Current : Word Bunny_ Turn
+}
+
+WrathOutline :
+{
+	Origin : Wrath Outline
+	Current : Wrath Outline
+}
+

@@ -1,0 +1,72 @@
+0 :
+{
+	Origin : Thoughtful Thinking
+	Current : Thoughtful Thinking
+}
+
+1 :
+{
+	Origin : Missile
+	Current : Missile
+}
+
+2 :
+{
+	Origin : Entangle
+	Current : Entangle
+}
+
+3 :
+{
+	Origin : Blast
+	Current : Blast
+}
+
+4 :
+{
+	Origin : Force Beam
+	Current : Force Beam
+}
+
+5 :
+{
+	Origin : Cyclone
+	Current : Cyclone
+}
+
+6 :
+{
+	Origin : True Explosion
+	Current : True Explosion
+}
+
+7 :
+{
+	Origin : Aerial Beam
+	Current : Aerial Beam
+}
+
+8 :
+{
+	Origin : Memorize
+	Current : Memorize
+}
+
+9 :
+{
+	Origin : Fortify
+	Current : Fortify
+}
+
+10 :
+{
+	Origin : Disappear
+	Current : Disappear
+}
+
+11 :
+{
+	Origin : Fortune Telling
+	Current : Fortune Telling
+}
+

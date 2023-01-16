@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Legil Ore
+	Current : Legil Ore
+}
+

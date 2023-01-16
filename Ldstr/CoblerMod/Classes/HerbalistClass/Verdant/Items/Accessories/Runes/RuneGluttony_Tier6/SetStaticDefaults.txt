@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0F2280:Gluttony] [c/FFFFFF:(Tier 6)]
+	Current : [c/383842:Rune of] [c/0F2280:Gluttony] [c/FFFFFF:(Tier 6)]
+}
+
+1 :
+{
+	Origin : 
+		Increases range damage by 20%
+		All projectiles now fire 2 additional projectiles
+		Immune to hunger
+		Player is well fed and regenerates faster
+		Player drops food and other helpful Items
+		Increased armor penetration
+	Current : 
+		Increases range damage by 20%
+		All projectiles now fire 2 additional projectiles
+		Immune to hunger
+		Player is well fed and regenerates faster
+		Player drops food and other helpful Items
+		Increased armor penetration
+}
+

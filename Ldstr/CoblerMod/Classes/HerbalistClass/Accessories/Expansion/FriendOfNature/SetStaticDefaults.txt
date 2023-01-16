@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased herbalist crit by 5
+		Increased herbalis knockback by 10%
+		All friendly animals will not take damage from the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist crit by 5
+		Increased herbalis knockback by 10%
+		All friendly animals will not take damage from the player
+		[c/0EA300:Herbalist Class]
+}
+

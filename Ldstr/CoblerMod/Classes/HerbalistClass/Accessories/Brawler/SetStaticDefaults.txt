@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Herbalist Badge: Brawler
+	Current : Herbalist Badge: Brawler
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 8%
+		[c/0EA300:Herbalist Class]
+}
+

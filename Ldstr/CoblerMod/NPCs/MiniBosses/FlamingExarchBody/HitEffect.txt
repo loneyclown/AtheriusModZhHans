@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : FlamingExarchBody_Arm
+	Current : FlamingExarchBody_Arm
+}
+
+1 :
+{
+	Origin : FlamingExarchBody_Head
+	Current : FlamingExarchBody_Head
+}
+

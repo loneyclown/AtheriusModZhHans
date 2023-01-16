@@ -1,0 +1,94 @@
+0 :
+{
+	Origin : 's starting to get on my nerves... What is it even supposed to be?
+	Current : 's starting to get on my nerves... What is it even supposed to be?
+}
+
+1 :
+{
+	Origin : Has
+	Current : Has
+}
+
+2 :
+{
+	Origin : gotten back to selling snipers? Probably not since he knows I'm here.
+	Current : gotten back to selling snipers? Probably not since he knows I'm here.
+}
+
+3 :
+{
+	Origin : I hope
+	Current : I hope
+}
+
+4 :
+{
+	Origin : lets me shoot his gun sometimes. I bet I could shoot it further.
+	Current : lets me shoot his gun sometimes. I bet I could shoot it further.
+}
+
+5 :
+{
+	Origin : said he likes the guns I sell. What would he know about that though?
+	Current : said he likes the guns I sell. What would he know about that though?
+}
+
+6 :
+{
+	Origin : 
+		Did I tell you about the time wh-
+		... ... ...
+		Sorry what was I saying?
+	Current : 
+		Did I tell you about the time wh-
+		... ... ...
+		Sorry what was I saying?
+}
+
+7 :
+{
+	Origin : See that bird over there? No, the one out in the horizon that looks like a speck?
+	Current : See that bird over there? No, the one out in the horizon that looks like a speck?
+}
+
+8 :
+{
+	Origin : I can see what you were doing over there.
+	Current : I can see what you were doing over there.
+}
+
+9 :
+{
+	Origin : 
+		... ... ...
+		... ... ...
+		... ... ...
+	Current : 
+		... ... ...
+		... ... ...
+		... ... ...
+}
+
+10 :
+{
+	Origin : 
+		... ... ...
+		Huh? Oh hi I didn't see you right in front of me.
+	Current : 
+		... ... ...
+		Huh? Oh hi I didn't see you right in front of me.
+}
+
+11 :
+{
+	Origin : I feel like it wouldn't be difficult to shoot the Wall of Flesh
+	Current : I feel like it wouldn't be difficult to shoot the Wall of Flesh
+}
+
+12 :
+{
+	Origin : A unicorn was charging at me today. I thought only squirrels did that?
+	Current : A unicorn was charging at me today. I thought only squirrels did that?
+}
+

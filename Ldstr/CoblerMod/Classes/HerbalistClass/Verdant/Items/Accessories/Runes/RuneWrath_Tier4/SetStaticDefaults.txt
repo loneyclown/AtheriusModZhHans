@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/A10303:Wrath] [c/FFFFFF:(Tier 4)]
+	Current : [c/383842:Rune of] [c/A10303:Wrath] [c/FFFFFF:(Tier 4)]
+}
+
+1 :
+{
+	Origin : 
+		Increases melee damage by 15%
+		Player is given the rage buff
+		Defense is cut in half
+		If players health is less than 12.5%, damage is increased
+		Accelerated running speed
+		Immune to Weak
+	Current : 
+		Increases melee damage by 15%
+		Player is given the rage buff
+		Defense is cut in half
+		If players health is less than 12.5%, damage is increased
+		Accelerated running speed
+		Immune to Weak
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		40% less damage taken from enemies
+		25% less damage taken from bosses
+		Along with this, player heals by 10% of the damage given
+		10% increases in generic damage
+		Player has a ~10% chance of getting a protective dome when their health is below 25%
+	Current : 
+		40% less damage taken from enemies
+		25% less damage taken from bosses
+		Along with this, player heals by 10% of the damage given
+		10% increases in generic damage
+		Player has a ~10% chance of getting a protective dome when their health is below 25%
+}
+

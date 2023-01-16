@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : IncomingStorm
+	Current : IncomingStorm
+}
+
+1 :
+{
+	Origin : Warbringer
+	Current : Warbringer
+}
+
+2 :
+{
+	Origin : HerosCarbine
+	Current : HerosCarbine
+}
+
+3 :
+{
+	Origin : Narcoleptic
+	Current : Narcoleptic
+}
+

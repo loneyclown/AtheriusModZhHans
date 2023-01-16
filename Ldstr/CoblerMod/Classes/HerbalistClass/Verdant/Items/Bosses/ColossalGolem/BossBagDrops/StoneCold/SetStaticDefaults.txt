@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Throws shirukens
+		Really big shirukens
+	Current : 
+		Throws shirukens
+		Really big shirukens
+}
+

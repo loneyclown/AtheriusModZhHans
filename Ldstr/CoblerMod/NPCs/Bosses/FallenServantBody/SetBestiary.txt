@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Once a power entity now fallen to the depths of failure.
+		You must be the one to give it hope or end its suffering.
+	Current : 
+		Once a power entity now fallen to the depths of failure.
+		You must be the one to give it hope or end its suffering.
+}
+

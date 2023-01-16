@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Thusium Leggings
+	Current : Thusium Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased movement speed by 10%
+		Armor Set: Increased jump height
+	Current : 
+		Increased movement speed by 10%
+		Armor Set: Increased jump height
+}
+

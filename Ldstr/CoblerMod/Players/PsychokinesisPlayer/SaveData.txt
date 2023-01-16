@@ -1,0 +1,48 @@
+0 :
+{
+	Origin : numberOfPsychUses
+	Current : numberOfPsychUses
+}
+
+1 :
+{
+	Origin : numberOfSkillsLearned
+	Current : numberOfSkillsLearned
+}
+
+2 :
+{
+	Origin : psychoLevel
+	Current : psychoLevel
+}
+
+3 :
+{
+	Origin : memorizeItemsList
+	Current : memorizeItemsList
+}
+
+4 :
+{
+	Origin : currentMemoryCount
+	Current : currentMemoryCount
+}
+
+5 :
+{
+	Origin : fragmentsGiven
+	Current : fragmentsGiven
+}
+
+6 :
+{
+	Origin : initialComment
+	Current : initialComment
+}
+
+7 :
+{
+	Origin : itemSpawned
+	Current : itemSpawned
+}
+

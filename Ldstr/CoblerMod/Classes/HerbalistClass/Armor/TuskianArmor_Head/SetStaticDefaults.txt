@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Tuskian Helmet
+	Current : Tuskian Helmet
+}
+
+1 :
+{
+	Origin : Increased ranged damage by 12%
+	Current : Increased ranged damage by 12%
+}
+

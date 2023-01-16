@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Dumbbell (45 LBS)
+	Current : Dumbbell (45 LBS)
+}
+
+1 :
+{
+	Origin : 
+		I'm starting to see some muscle show!
+		Oh baby!
+		Need at least 20 defense in order to use
+	Current : 
+		I'm starting to see some muscle show!
+		Oh baby!
+		Need at least 20 defense in order to use
+}
+

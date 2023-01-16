@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Dumbbell (85 LBS)
+	Current : Dumbbell (85 LBS)
+}
+
+1 :
+{
+	Origin : 
+		85 lbs??? That's my max!
+		You're my new lifting bro!
+		Gives weak debuff to enemies...
+		Need at least 40 defense in order to use
+	Current : 
+		85 lbs??? That's my max!
+		You're my new lifting bro!
+		Gives weak debuff to enemies...
+		Need at least 40 defense in order to use
+}
+

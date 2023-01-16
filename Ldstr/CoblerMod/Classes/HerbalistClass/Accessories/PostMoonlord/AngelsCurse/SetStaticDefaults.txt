@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		For every critter around you, your attack and defense increases
+		'I have an army'
+		[c/0EA300:Herbalist Class]
+	Current : 
+		For every critter around you, your attack and defense increases
+		'I have an army'
+		[c/0EA300:Herbalist Class]
+}
+

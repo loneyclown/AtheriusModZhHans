@@ -1,0 +1,36 @@
+0 :
+{
+	Origin : [c/800606:
+	Current : [c/800606:
+}
+
+1 :
+{
+	Origin : always did love her Windroots...]
+	Current : always did love her Windroots...]
+}
+
+2 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+3 :
+{
+	Origin : ]
+	Current : ]
+}
+
+4 :
+{
+	Origin : [c/800606:The herbalist always did love her Windroots...] [i:
+	Current : [c/800606:The herbalist always did love her Windroots...] [i:
+}
+
+5 :
+{
+	Origin : ]
+	Current : ]
+}
+

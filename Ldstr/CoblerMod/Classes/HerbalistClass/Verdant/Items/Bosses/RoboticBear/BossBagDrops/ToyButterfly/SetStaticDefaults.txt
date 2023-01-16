@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Gain a small buff when around butterflies
+	Current : 
+		Increased generic damage by 10%
+		Gain a small buff when around butterflies
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Waypoint
+	Current : Waypoint
+}
+
+1 :
+{
+	Origin : Incrementing damage
+	Current : Incrementing damage
+}
+

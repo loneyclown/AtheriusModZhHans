@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Portal Guardian
+	Current : Portal Guardian
+}
+
+1 :
+{
+	Origin : All Portal Guardian moves will do 1.5x the damage on the player
+	Current : All Portal Guardian moves will do 1.5x the damage on the player
+}
+

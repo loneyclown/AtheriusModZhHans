@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Might of the Forgotten
+	Current : Might of the Forgotten
+}
+
+1 :
+{
+	Origin : 
+		This is a mutant saber!
+		Level it up 5 times by getting a number of kills with this sword!
+		Each level will give you a new and stronger skill to use!
+		You can only use 1 of each sword. Once it levels up you cannot get a new one to start using
+	Current : 
+		This is a mutant saber!
+		Level it up 5 times by getting a number of kills with this sword!
+		Each level will give you a new and stronger skill to use!
+		You can only use 1 of each sword. Once it levels up you cannot get a new one to start using
+}
+

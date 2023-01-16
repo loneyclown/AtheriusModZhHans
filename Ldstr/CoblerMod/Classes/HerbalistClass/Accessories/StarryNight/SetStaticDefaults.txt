@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Leaves will appear randomly
+		Increase max HP by 25
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Leaves will appear randomly
+		Increase max HP by 25
+		[c/0EA300:Herbalist Class]
+}
+

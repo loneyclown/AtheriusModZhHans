@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 6)]
+	Current : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 6)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Ranged Damage by 20%
+		Normal bullets and arrows are stronger now
+		Player immune to cursed and silence
+		Increased ranged knockback, crit, and attack speed by 12%
+		Conserve more ammo and pick up hearts further away
+		Boosted jump as well
+		Envious for the mob, you take 10 damage every time you hit one of them
+		In exchange, there is a 20% chance the mob will take 5x damage
+		This will apply to bosses
+	Current : 
+		Increases Ranged Damage by 20%
+		Normal bullets and arrows are stronger now
+		Player immune to cursed and silence
+		Increased ranged knockback, crit, and attack speed by 12%
+		Conserve more ammo and pick up hearts further away
+		Boosted jump as well
+		Envious for the mob, you take 10 damage every time you hit one of them
+		In exchange, there is a 20% chance the mob will take 5x damage
+		This will apply to bosses
+}
+

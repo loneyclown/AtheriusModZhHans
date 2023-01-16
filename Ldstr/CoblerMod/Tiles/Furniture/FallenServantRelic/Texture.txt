@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/RelicPedestal
+	Current : CoblerMod/Tiles/Furniture/RelicPedestal
+}
+

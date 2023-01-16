@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Found on all of those shot down by one willful sniper
+		Sniper Material
+	Current : 
+		Found on all of those shot down by one willful sniper
+		Sniper Material
+}
+

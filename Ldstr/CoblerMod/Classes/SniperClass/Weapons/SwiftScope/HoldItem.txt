@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : SwiftScope
+	Current : SwiftScope
+}
+

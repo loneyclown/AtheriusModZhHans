@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Become immune to anything that could harm plants (i.e. fire)
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Become immune to anything that could harm plants (i.e. fire)
+		[c/0EA300:Herbalist Class]
+}
+

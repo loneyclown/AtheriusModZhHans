@@ -1,0 +1,28 @@
+0 :
+{
+	Origin : 
+		Increased herbalist healing by 100
+		Increased herbalist plant bonus by 10
+		Increased spirit dog damage by 25%
+		Increased spirit dog scale by 15%
+		Spirit dog will fire leaves and give various debuffsIncreased critter life by 25
+		Increased critter life regen by 2
+		Immunity to poison, acid venom, and confused
+		
+		[c/0EA300:Mother Nature's True Blessing. The Life of All Creatures]
+		[c/0EA300:Including the Creatures Now in the Afterlife...]
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist healing by 100
+		Increased herbalist plant bonus by 10
+		Increased spirit dog damage by 25%
+		Increased spirit dog scale by 15%
+		Spirit dog will fire leaves and give various debuffsIncreased critter life by 25
+		Increased critter life regen by 2
+		Immunity to poison, acid venom, and confused
+		
+		[c/0EA300:Mother Nature's True Blessing. The Life of All Creatures]
+		[c/0EA300:Including the Creatures Now in the Afterlife...]
+		[c/0EA300:Herbalist Class]
+}
+

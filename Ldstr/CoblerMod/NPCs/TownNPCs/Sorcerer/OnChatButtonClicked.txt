@@ -1,0 +1,256 @@
+0 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+1 :
+{
+	Origin : :The current magic level for this grimoire is 
+	Current : :The current magic level for this grimoire is 
+}
+
+2 :
+{
+	Origin : 
+		]
+		
+	Current : 
+		]
+		
+}
+
+3 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+4 :
+{
+	Origin : :This grimoire is at its max level]
+	Current : :This grimoire is at its max level]
+}
+
+5 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+6 :
+{
+	Origin : :The current magic level for this grimoire is 
+	Current : :The current magic level for this grimoire is 
+}
+
+7 :
+{
+	Origin : 
+		]
+		
+	Current : 
+		]
+		
+}
+
+8 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+9 :
+{
+	Origin : :You need 
+	Current : :You need 
+}
+
+10 :
+{
+	Origin : 
+		 ]
+	Current : 
+		 ]
+}
+
+11 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+12 :
+{
+	Origin : :more kills to level it up]
+	Current : :more kills to level it up]
+}
+
+13 :
+{
+	Origin : You need to have a Grimoire in your hands...
+	Current : You need to have a Grimoire in your hands...
+}
+
+14 :
+{
+	Origin : Asta
+	Current : Asta
+}
+
+15 :
+{
+	Origin : 
+		Now, now what are you doing here?
+		You have no magic! I feel as though you don't deserve a grimoire!
+		...
+		I suppose you can have this trash I found on the ground...
+	Current : 
+		Now, now what are you doing here?
+		You have no magic! I feel as though you don't deserve a grimoire!
+		...
+		I suppose you can have this trash I found on the ground...
+}
+
+16 :
+{
+	Origin : Noelle
+	Current : Noelle
+}
+
+17 :
+{
+	Origin : 
+		Well if it isn't miss royalty.
+		I know! I know!
+		You do not need to explain to me again...
+	Current : 
+		Well if it isn't miss royalty.
+		I know! I know!
+		You do not need to explain to me again...
+}
+
+18 :
+{
+	Origin : Yuno
+	Current : Yuno
+}
+
+19 :
+{
+	Origin : 
+		Ah yes, the 4-leaf boy
+		How has your wind magic been progressing?
+	Current : 
+		Ah yes, the 4-leaf boy
+		How has your wind magic been progressing?
+}
+
+20 :
+{
+	Origin : Luck
+	Current : Luck
+}
+
+21 :
+{
+	Origin : What brings you back here Luck?Did you wanna fight me again?
+	Current : What brings you back here Luck?Did you wanna fight me again?
+}
+
+22 :
+{
+	Origin : Magna
+	Current : Magna
+}
+
+23 :
+{
+	Origin : 
+		Welcome back peasant
+		I've noticed you're on the Black Bulls
+		Are you able to keep up with them?
+	Current : 
+		Welcome back peasant
+		I've noticed you're on the Black Bulls
+		Are you able to keep up with them?
+}
+
+24 :
+{
+	Origin : Yami
+	Current : Yami
+}
+
+25 :
+{
+	Origin : 
+		Ah the captain of the Black Bulls!
+		Tell me, is that sword all for show?
+	Current : 
+		Ah the captain of the Black Bulls!
+		Tell me, is that sword all for show?
+}
+
+26 :
+{
+	Origin : Grey
+	Current : Grey
+}
+
+27 :
+{
+	Origin : 
+		...
+		...
+		Do you ever say anything?
+	Current : 
+		...
+		...
+		Do you ever say anything?
+}
+
+28 :
+{
+	Origin : Gausche
+	Current : Gausche
+}
+
+29 :
+{
+	Origin : How's your sister these days?
+	Current : How's your sister these days?
+}
+
+30 :
+{
+	Origin : Vanessa
+	Current : Vanessa
+}
+
+31 :
+{
+	Origin : 
+		I heard you got a pet cat!
+		May I see it sometimes?
+	Current : 
+		I heard you got a pet cat!
+		May I see it sometimes?
+}
+
+32 :
+{
+	Origin : Finral
+	Current : Finral
+}
+
+33 :
+{
+	Origin : 
+		How have the ladies been Finral?
+		I assume you are being as successful as your brother no?
+	Current : 
+		How have the ladies been Finral?
+		I assume you are being as successful as your brother no?
+}
+

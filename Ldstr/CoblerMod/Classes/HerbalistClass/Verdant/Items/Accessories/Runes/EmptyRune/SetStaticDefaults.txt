@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Empty Rune
+	Current : Empty Rune
+}
+

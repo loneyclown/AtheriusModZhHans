@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Player gets 2x more damage to enemies in the crimson biome
+	Current : Player gets 2x more damage to enemies in the crimson biome
+}
+

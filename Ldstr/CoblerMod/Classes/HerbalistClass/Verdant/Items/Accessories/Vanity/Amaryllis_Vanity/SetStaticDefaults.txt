@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Amaryllis (Vanity Flower)
+	Current : Amaryllis (Vanity Flower)
+}
+
+1 :
+{
+	Origin : So Perty.
+	Current : So Perty.
+}
+

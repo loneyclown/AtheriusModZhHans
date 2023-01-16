@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Nature Whisperer Breastplate
+	Current : Nature Whisperer Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Armor Set: Critters drop herbalist plants at a faster rate
+	Current : 
+		Increased herbalist damage by 8%
+		Armor Set: Critters drop herbalist plants at a faster rate
+}
+

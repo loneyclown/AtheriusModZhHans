@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Oblivious
+	Current : Oblivious
+}
+
+1 :
+{
+	Origin : Deal no damage to the enemy
+	Current : Deal no damage to the enemy
+}
+

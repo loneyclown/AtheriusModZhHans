@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Harden
+	Current : Harden
+}
+
+1 :
+{
+	Origin : Increased Melee Damage and Defense
+	Current : Increased Melee Damage and Defense
+}
+

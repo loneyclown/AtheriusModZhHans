@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Dumbbell (25 LBS)
+	Current : Dumbbell (25 LBS)
+}
+
+1 :
+{
+	Origin : 
+		Gone up some weight I see!
+		We're making gains!
+		Need at least 10 defense in order to use
+	Current : 
+		Gone up some weight I see!
+		We're making gains!
+		Need at least 10 defense in order to use
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Custom swing animation
+		Fires a swarm of color RBY discs weaving
+	Current : 
+		Custom swing animation
+		Fires a swarm of color RBY discs weaving
+}
+

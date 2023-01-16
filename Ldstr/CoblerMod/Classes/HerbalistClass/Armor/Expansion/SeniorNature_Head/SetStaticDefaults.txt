@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Senior Nature Helmet
+	Current : Senior Nature Helmet
+}
+
+1 :
+{
+	Origin : 
+		Herbalist weapons increase 10% in size
+		Herbalist knockback increased by 20%
+		Armor Set: berries heal an addtional 10 HP
+	Current : 
+		Herbalist weapons increase 10% in size
+		Herbalist knockback increased by 20%
+		Armor Set: berries heal an addtional 10 HP
+}
+

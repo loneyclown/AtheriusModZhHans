@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		A gold coin spawns every 30 seconds
+	Current : 
+		Increased generic damage by 10%
+		A gold coin spawns every 30 seconds
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : MapObject.Relic
+	Current : MapObject.Relic
+}
+

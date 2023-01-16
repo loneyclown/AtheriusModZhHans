@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Hunter Chestplate
+	Current : Hunter Chestplate
+}
+
+1 :
+{
+	Origin : 12% increased movement speed
+	Current : 12% increased movement speed
+}
+

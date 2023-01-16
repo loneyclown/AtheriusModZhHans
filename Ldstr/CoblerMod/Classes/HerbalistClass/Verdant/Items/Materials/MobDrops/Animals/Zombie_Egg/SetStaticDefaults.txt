@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Zombie Egg
+	Current : Zombie Egg
+}
+

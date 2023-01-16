@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		It's pretty heavy
+		But it can send 'em flying
+		Fires big rock arms
+	Current : 
+		It's pretty heavy
+		But it can send 'em flying
+		Fires big rock arms
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Tuskian Leggings
+	Current : Tuskian Leggings
+}
+
+1 :
+{
+	Origin : Increased ranged damage by 10%
+	Current : Increased ranged damage by 10%
+}
+

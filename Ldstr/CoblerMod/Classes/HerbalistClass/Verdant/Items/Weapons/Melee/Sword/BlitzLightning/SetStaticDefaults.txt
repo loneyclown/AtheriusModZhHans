@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Deals 2x damage to most fish and enemies in the water
+	Current : Deals 2x damage to most fish and enemies in the water
+}
+

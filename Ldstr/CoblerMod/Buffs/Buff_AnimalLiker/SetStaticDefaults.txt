@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Animal Liker
+	Current : Animal Liker
+}
+
+1 :
+{
+	Origin : The more animals around, the stronger the herbalist knockback
+	Current : The more animals around, the stronger the herbalist knockback
+}
+

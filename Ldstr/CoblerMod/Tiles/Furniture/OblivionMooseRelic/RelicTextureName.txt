@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/OblivionMooseRelic
+	Current : CoblerMod/Tiles/Furniture/OblivionMooseRelic
+}
+

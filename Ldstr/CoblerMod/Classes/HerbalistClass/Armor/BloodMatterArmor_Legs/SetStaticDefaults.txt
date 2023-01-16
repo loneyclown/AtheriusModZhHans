@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Blood Matter Leggings
+	Current : Blood Matter Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased melee speed by 10%
+		Increased movement speed by 5%
+		Armor Set: Player is immune to bleeding
+	Current : 
+		Increased melee speed by 10%
+		Increased movement speed by 5%
+		Armor Set: Player is immune to bleeding
+}
+

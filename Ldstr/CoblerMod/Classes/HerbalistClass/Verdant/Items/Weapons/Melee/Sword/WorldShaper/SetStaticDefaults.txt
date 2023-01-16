@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Has a higher crit chance against bosses
+	Current : Has a higher crit chance against bosses
+}
+

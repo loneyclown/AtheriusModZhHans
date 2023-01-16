@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Abyssal Eye Of Despair
+	Current : Abyssal Eye Of Despair
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/AbyssalEyeOfDespair_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/AbyssalEyeOfDespair_Bestiary
+}
+

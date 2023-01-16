@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires 2 guns in a clockwork fashion
+		Those 2 guns then start firing bullets
+	Current : 
+		Fires 2 guns in a clockwork fashion
+		Those 2 guns then start firing bullets
+}
+

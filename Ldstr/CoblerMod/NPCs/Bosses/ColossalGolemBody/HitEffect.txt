@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : ColossalGolemBody_Arm
+	Current : ColossalGolemBody_Arm
+}
+
+1 :
+{
+	Origin : ColossalGolemBody_Head
+	Current : ColossalGolemBody_Head
+}
+

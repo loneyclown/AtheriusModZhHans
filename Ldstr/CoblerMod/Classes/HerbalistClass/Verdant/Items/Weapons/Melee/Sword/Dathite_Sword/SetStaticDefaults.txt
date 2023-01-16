@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Dathite Sword
+	Current : Dathite Sword
+}
+

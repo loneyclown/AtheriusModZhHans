@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Nature's Guardian
+	Current : Nature's Guardian
+}
+
+1 :
+{
+	Origin : 
+		Spawns in magic herbalist circles
+		If your furry little nature friends are near the circle, they will not perish
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spawns in magic herbalist circles
+		If your furry little nature friends are near the circle, they will not perish
+		[c/0EA300:Herbalist Class]
+}
+

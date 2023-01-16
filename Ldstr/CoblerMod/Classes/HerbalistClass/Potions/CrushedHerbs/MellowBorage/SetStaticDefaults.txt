@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		For 2 minutes critical hits are nullified
+		[c/0EA300:Herbalist Class]
+	Current : 
+		For 2 minutes critical hits are nullified
+		[c/0EA300:Herbalist Class]
+}
+

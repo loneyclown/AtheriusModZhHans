@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Cracked Lunar Sphere
+	Current : Cracked Lunar Sphere
+}
+
+1 :
+{
+	Origin : I wonder what this is for...
+	Current : I wonder what this is for...
+}
+

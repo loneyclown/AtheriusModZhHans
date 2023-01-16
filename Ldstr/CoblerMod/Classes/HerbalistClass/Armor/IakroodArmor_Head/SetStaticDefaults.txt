@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Iakrood Helmet
+	Current : Iakrood Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Armor Set: Increased jump speed and height
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 8%
+		Armor Set: Increased jump speed and height
+		[c/0EA300:Herbalist Class]
+}
+

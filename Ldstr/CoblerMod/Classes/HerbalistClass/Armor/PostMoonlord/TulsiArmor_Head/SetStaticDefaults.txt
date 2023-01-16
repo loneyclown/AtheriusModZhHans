@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Tulsi Helmet
+	Current : Tulsi Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased critter damage by 10%
+		Increased critter life regen
+		Upon death, critters will fire a burst of leaves
+		Armor Set: Critters can turn dirt blocks into grass blocks
+	Current : 
+		Increased critter damage by 10%
+		Increased critter life regen
+		Upon death, critters will fire a burst of leaves
+		Armor Set: Critters can turn dirt blocks into grass blocks
+}
+

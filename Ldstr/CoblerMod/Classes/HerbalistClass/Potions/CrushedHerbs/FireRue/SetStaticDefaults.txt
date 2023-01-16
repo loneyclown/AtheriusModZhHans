@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Become immune to fire
+		Also casts a fire ring around them
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Become immune to fire
+		Also casts a fire ring around them
+		[c/0EA300:Herbalist Class]
+}
+

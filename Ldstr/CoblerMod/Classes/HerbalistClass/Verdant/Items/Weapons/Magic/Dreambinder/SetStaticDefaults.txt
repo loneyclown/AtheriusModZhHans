@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fire beams that you can control
+		Also leaves pretty music notes
+	Current : 
+		Fire beams that you can control
+		Also leaves pretty music notes
+}
+

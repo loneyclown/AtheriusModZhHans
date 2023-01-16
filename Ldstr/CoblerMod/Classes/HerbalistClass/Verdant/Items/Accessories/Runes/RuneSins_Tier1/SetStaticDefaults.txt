@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 1)]
+	Current : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 1)]
+}
+
+1 :
+{
+	Origin : Increases Generic damage by 5%
+	Current : Increases Generic damage by 5%
+}
+

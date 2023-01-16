@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Along with heavy damage, it spawns in magic healing circles
+		If a critter walks into it and has less than half its health,
+		then the healing circle will activate, healing the poor critters
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Along with heavy damage, it spawns in magic healing circles
+		If a critter walks into it and has less than half its health,
+		then the healing circle will activate, healing the poor critters
+		[c/0EA300:Herbalist Class]
+}
+

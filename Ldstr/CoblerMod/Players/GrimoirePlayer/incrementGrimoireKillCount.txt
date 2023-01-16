@@ -1,0 +1,264 @@
+0 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+1 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+2 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+3 :
+{
+	Origin : grimoire is now level 2!
+	Current : grimoire is now level 2!
+}
+
+4 :
+{
+	Origin : Press
+	Current : Press
+}
+
+5 :
+{
+	Origin : to change between skills]
+	Current : to change between skills]
+}
+
+6 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+7 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+8 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+9 :
+{
+	Origin : grimoire is now level 2!
+	Current : grimoire is now level 2!
+}
+
+10 :
+{
+	Origin : Press (Unassigned Keybinding) to change between skills]
+	Current : Press (Unassigned Keybinding) to change between skills]
+}
+
+11 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+12 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+13 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+14 :
+{
+	Origin : grimoire is now level 3!
+	Current : grimoire is now level 3!
+}
+
+15 :
+{
+	Origin : Press
+	Current : Press
+}
+
+16 :
+{
+	Origin : to change between skills]
+	Current : to change between skills]
+}
+
+17 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+18 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+19 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+20 :
+{
+	Origin : grimoire is now level 3!
+	Current : grimoire is now level 3!
+}
+
+21 :
+{
+	Origin : Press (Unassigned Keybinding) to change between skills]
+	Current : Press (Unassigned Keybinding) to change between skills]
+}
+
+22 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+23 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+24 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+25 :
+{
+	Origin : grimoire is now level 4!
+	Current : grimoire is now level 4!
+}
+
+26 :
+{
+	Origin : Press
+	Current : Press
+}
+
+27 :
+{
+	Origin : to change between skills]
+	Current : to change between skills]
+}
+
+28 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+29 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+30 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+31 :
+{
+	Origin : grimoire is now level 4!
+	Current : grimoire is now level 4!
+}
+
+32 :
+{
+	Origin : Press (Unassigned Keybinding) to change between skills]
+	Current : Press (Unassigned Keybinding) to change between skills]
+}
+
+33 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+34 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+35 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+36 :
+{
+	Origin : grimoire is now level 5!
+	Current : grimoire is now level 5!
+}
+
+37 :
+{
+	Origin : Press
+	Current : Press
+}
+
+38 :
+{
+	Origin : to change between skills]
+	Current : to change between skills]
+}
+
+39 :
+{
+	Origin : ^^^^^
+	Current : ^^^^^
+}
+
+40 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+41 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+42 :
+{
+	Origin : grimoire is now level 5!
+	Current : grimoire is now level 5!
+}
+
+43 :
+{
+	Origin : Press (Unassigned Keybinding) to change between skills]
+	Current : Press (Unassigned Keybinding) to change between skills]
+}
+

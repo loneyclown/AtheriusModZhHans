@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : Corruptor
+	Current : Corruptor
+}
+
+1 :
+{
+	Origin : Comet
+	Current : Comet
+}
+
+2 :
+{
+	Origin : KingOfNines
+	Current : KingOfNines
+}
+
+3 :
+{
+	Origin : Popeye
+	Current : Popeye
+}
+
+4 :
+{
+	Origin : HerosCarbine
+	Current : HerosCarbine
+}
+

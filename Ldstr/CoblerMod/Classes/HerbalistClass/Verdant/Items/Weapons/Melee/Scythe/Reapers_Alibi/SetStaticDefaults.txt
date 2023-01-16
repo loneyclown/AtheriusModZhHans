@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Reaper's Alibi
+	Current : Reaper's Alibi
+}
+
+1 :
+{
+	Origin : 
+		[c/00FFC0:All fall silent to this scythe-like axe]
+		Gives fear and spawns blood clouds to slaughter.
+	Current : 
+		[c/00FFC0:All fall silent to this scythe-like axe]
+		Gives fear and spawns blood clouds to slaughter.
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : ${ProjectileName.AOT_ManeuverGearProjectile}
+	Current : ${ProjectileName.AOT_ManeuverGearProjectile}
+}
+

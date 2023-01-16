@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Herbalist's Trick
+	Current : Herbalist's Trick
+}
+
+1 :
+{
+	Origin : Click a spot on the map, it will spawn leaves there and dash back to the player
+	Current : Click a spot on the map, it will spawn leaves there and dash back to the player
+}
+

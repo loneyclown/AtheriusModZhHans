@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Lotus Breastplate
+	Current : Lotus Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist knockback by 10%
+		Armor Set: Increased Herbalist Damage by 5%
+		For every 100 HP missing
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist knockback by 10%
+		Armor Set: Increased Herbalist Damage by 5%
+		For every 100 HP missing
+		[c/0EA300:Herbalist Class]
+}
+

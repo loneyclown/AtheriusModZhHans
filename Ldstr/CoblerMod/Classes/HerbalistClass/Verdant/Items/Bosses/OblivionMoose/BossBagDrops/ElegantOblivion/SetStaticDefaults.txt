@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic attack speed and damage by 10%
+		Upon being touched, enemies have a 25% chance of dying
+	Current : 
+		Increased generic attack speed and damage by 10%
+		Upon being touched, enemies have a 25% chance of dying
+}
+

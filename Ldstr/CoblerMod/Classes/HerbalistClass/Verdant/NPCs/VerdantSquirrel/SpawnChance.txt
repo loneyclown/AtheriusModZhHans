@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Verdant
+	Current : Verdant
+}
+
+1 :
+{
+	Origin : InVerdant
+	Current : InVerdant
+}
+

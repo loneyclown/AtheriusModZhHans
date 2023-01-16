@@ -1,0 +1,240 @@
+0 :
+{
+	Origin : BossChecklist
+	Current : BossChecklist
+}
+
+1 :
+{
+	Origin : BossChecklist
+	Current : BossChecklist
+}
+
+2 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+3 :
+{
+	Origin : Mecha Stone Golem
+	Current : Mecha Stone Golem
+}
+
+4 :
+{
+	Origin : Spawns anywhere at night time using the Stone Disk
+	Current : Spawns anywhere at night time using the Stone Disk
+}
+
+6 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+7 :
+{
+	Origin : Undead Executioner
+	Current : Undead Executioner
+}
+
+8 :
+{
+	Origin : 
+		Spawns anywhere at night time using the Bones To Ashes
+		He is always lurking...
+	Current : 
+		Spawns anywhere at night time using the Bones To Ashes
+		He is always lurking...
+}
+
+10 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+11 :
+{
+	Origin : Flaming Exarch
+	Current : Flaming Exarch
+}
+
+12 :
+{
+	Origin : Small chance of spawning naturally in the underworld biome.
+	Current : Small chance of spawning naturally in the underworld biome.
+}
+
+14 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+15 :
+{
+	Origin : Robotic Bear
+	Current : Robotic Bear
+}
+
+16 :
+{
+	Origin : 
+		Spawns anywhere at any time as long as the player is on the ground and not flying around
+		[c/8A0A0A:Puhuhuhuhuhuhuhuhu]
+	Current : 
+		Spawns anywhere at any time as long as the player is on the ground and not flying around
+		[c/8A0A0A:Puhuhuhuhuhuhuhuhu]
+}
+
+18 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+19 :
+{
+	Origin : Fallen Servant
+	Current : Fallen Servant
+}
+
+20 :
+{
+	Origin : Spawns in the sky biome at night time using the Curious Gem
+	Current : Spawns in the sky biome at night time using the Curious Gem
+}
+
+22 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+23 :
+{
+	Origin : Aqua Magi
+	Current : Aqua Magi
+}
+
+24 :
+{
+	Origin : Spawns in the beach biome at any time using the Turning Tide
+	Current : Spawns in the beach biome at any time using the Turning Tide
+}
+
+26 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+27 :
+{
+	Origin : Colossal Golem
+	Current : Colossal Golem
+}
+
+28 :
+{
+	Origin : Spawns anywhere at night time and in the jungle using the Burned Moss
+	Current : Spawns anywhere at night time and in the jungle using the Burned Moss
+}
+
+30 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+31 :
+{
+	Origin : Oblivion Moose
+	Current : Oblivion Moose
+}
+
+32 :
+{
+	Origin : Spawns anywhere at night time using the Oblivion Cube
+	Current : Spawns anywhere at night time using the Oblivion Cube
+}
+
+34 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+35 :
+{
+	Origin : Abyssal Eyes
+	Current : Abyssal Eyes
+}
+
+36 :
+{
+	Origin : 
+		Spawns anywhere at night time using the Dim Candles
+		Stop the Abyssal Eye of Despair before it manages to kill the Abyssal Eye of Hope...
+	Current : 
+		Spawns anywhere at night time using the Dim Candles
+		Stop the Abyssal Eye of Despair before it manages to kill the Abyssal Eye of Hope...
+}
+
+38 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+39 :
+{
+	Origin : Portal Guardian
+	Current : Portal Guardian
+}
+
+40 :
+{
+	Origin : Spawns in the hallow biome at night time using the Warped Fate
+	Current : Spawns in the hallow biome at night time using the Warped Fate
+}
+
+42 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+43 :
+{
+	Origin : The Primaries
+	Current : The Primaries
+}
+
+44 :
+{
+	Origin : Spawns anywhere at night time using 3 Shades of Gray
+	Current : Spawns anywhere at night time using 3 Shades of Gray
+}
+
+46 :
+{
+	Origin : AddBoss
+	Current : AddBoss
+}
+
+47 :
+{
+	Origin : Hell's Angel
+	Current : Hell's Angel
+}
+
+48 :
+{
+	Origin : Spawns anywhere at night time using the 'Broken' Skull
+	Current : Spawns anywhere at night time using the 'Broken' Skull
+}
+

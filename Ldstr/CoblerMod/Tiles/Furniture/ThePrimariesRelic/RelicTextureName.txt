@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/ThePrimariesRelic
+	Current : CoblerMod/Tiles/Furniture/ThePrimariesRelic
+}
+

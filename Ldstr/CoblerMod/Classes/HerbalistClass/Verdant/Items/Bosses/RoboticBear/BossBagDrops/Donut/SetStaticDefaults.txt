@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Donuts = Good at swimming!
+		You can hold you breath underwater
+	Current : 
+		Increased generic damage by 10%
+		Donuts = Good at swimming!
+		You can hold you breath underwater
+}
+

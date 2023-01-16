@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Summons a blood portal on use
+		Any nearby enemies on use will take damage as well
+	Current : 
+		Summons a blood portal on use
+		Any nearby enemies on use will take damage as well
+}
+

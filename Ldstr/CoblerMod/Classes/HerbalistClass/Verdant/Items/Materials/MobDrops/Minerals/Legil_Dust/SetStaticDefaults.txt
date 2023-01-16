@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Legil Dust
+	Current : Legil Dust
+}
+

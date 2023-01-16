@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Mellow Borage
+	Current : Mellow Borage
+}
+
+1 :
+{
+	Origin : For 2 minutes critical hits are nullified
+	Current : For 2 minutes critical hits are nullified
+}
+

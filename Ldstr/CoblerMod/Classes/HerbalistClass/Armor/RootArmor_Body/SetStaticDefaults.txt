@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Root Breastplate
+	Current : Root Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased health from plant consumption by 3
+		Armor Set: Increased herbalist damage by 6%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased health from plant consumption by 3
+		Armor Set: Increased herbalist damage by 6%
+		[c/0EA300:Herbalist Class]
+}
+

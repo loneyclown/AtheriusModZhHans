@@ -1,0 +1,84 @@
+0 :
+{
+	Origin : is out hitting golf balls again. What kind of activity is that?
+	Current : is out hitting golf balls again. What kind of activity is that?
+}
+
+1 :
+{
+	Origin : was shooting at something earlier. I bet it was a bird.
+	Current : was shooting at something earlier. I bet it was a bird.
+}
+
+2 :
+{
+	Origin : I believe
+	Current : I believe
+}
+
+3 :
+{
+	Origin : is a sinner, but what good would that do if he doesn't care anyway?
+	Current : is a sinner, but what good would that do if he doesn't care anyway?
+}
+
+4 :
+{
+	Origin : I know what
+	Current : I know what
+}
+
+5 :
+{
+	Origin : has done in the past. He's more than just a painter... Or rather less...
+	Current : has done in the past. He's more than just a painter... Or rather less...
+}
+
+6 :
+{
+	Origin : I sense a dark aura coming from you. What did you just kill?
+	Current : I sense a dark aura coming from you. What did you just kill?
+}
+
+7 :
+{
+	Origin : 
+		I have a bad habit of hearing voices
+		... ... ...
+		... ... ...
+		But sometimes they are friendly
+	Current : 
+		I have a bad habit of hearing voices
+		... ... ...
+		... ... ...
+		But sometimes they are friendly
+}
+
+8 :
+{
+	Origin : What happened to that sins rune? I wish to dispose of it...
+	Current : What happened to that sins rune? I wish to dispose of it...
+}
+
+9 :
+{
+	Origin : 
+		Sinners aren't winners but cleansers are fleansers.
+		Don't beleive me? Look it up...
+	Current : 
+		Sinners aren't winners but cleansers are fleansers.
+		Don't beleive me? Look it up...
+}
+
+10 :
+{
+	Origin : The giant skeleton appears to be a poor soul that is trapped. I hope it is cleansed soon...
+	Current : The giant skeleton appears to be a poor soul that is trapped. I hope it is cleansed soon...
+}
+
+11 :
+{
+	Origin : What's this? All alone? NO MAIDEN?
+	Current : What's this? All alone? NO MAIDEN?
+}
+

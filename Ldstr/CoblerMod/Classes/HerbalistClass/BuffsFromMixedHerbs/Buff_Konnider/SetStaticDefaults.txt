@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Konnider
+	Current : Konnider
+}
+
+1 :
+{
+	Origin : Immunity to frozen
+	Current : Immunity to frozen
+}
+

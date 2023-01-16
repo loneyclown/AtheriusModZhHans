@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Fire's a dark seed for projectiles
+		When in contact, the target will become cursed,
+		taking constant damage over time while healing the player
+		Can only be on one NPC at a time
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fire's a dark seed for projectiles
+		When in contact, the target will become cursed,
+		taking constant damage over time while healing the player
+		Can only be on one NPC at a time
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		You and all allies get 10% increased in
+		Damage, Knockback, and Crit
+	Current : 
+		You and all allies get 10% increased in
+		Damage, Knockback, and Crit
+}
+

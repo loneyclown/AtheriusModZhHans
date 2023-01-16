@@ -1,0 +1,22 @@
+Header :
+{
+	Origin : Grimoire Config
+	Current : Grimoire Config
+}
+
+Label :
+{
+	Origin : Debug Mode
+	Current : Debug Mode
+}
+
+Tooltip :
+{
+	Origin : 
+		All grimoires will be maxed out and will do 0 damage to enemies
+		This way you can check what all the spells do/look like to determine what grimoire you'd want to master
+	Current : 
+		All grimoires will be maxed out and will do 0 damage to enemies
+		This way you can check what all the spells do/look like to determine what grimoire you'd want to master
+}
+

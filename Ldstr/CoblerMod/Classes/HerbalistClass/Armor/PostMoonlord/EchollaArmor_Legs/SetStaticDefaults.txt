@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Echolla Leggings
+	Current : Echolla Leggings
+}
+
+1 :
+{
+	Origin : 
+		Berries heal by an addtional 10 HP
+		Leaves will begin to burst out of the player
+		Armor Set: Spawn a wind orb upon getting hit
+		This will push back all enemies around the area
+	Current : 
+		Berries heal by an addtional 10 HP
+		Leaves will begin to burst out of the player
+		Armor Set: Spawn a wind orb upon getting hit
+		This will push back all enemies around the area
+}
+

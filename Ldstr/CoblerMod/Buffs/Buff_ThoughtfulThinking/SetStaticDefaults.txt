@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Thoughtful Thinking
+	Current : Thoughtful Thinking
+}
+
+1 :
+{
+	Origin : You're playing terraria. Life is good.
+	Current : You're playing terraria. Life is good.
+}
+

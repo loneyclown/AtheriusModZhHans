@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : 
+		Increased number of herbalist rings by 5
+		All means of herbalist healing is increased by 40%
+		This includes passive, berries, potions, etc.
+		Increased attack speed by 12%
+		Increased potion drop rate from critters
+		
+		While the player is in the air, there is a chance
+		of stopping any incoming projectiles and changing it to leaves
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased number of herbalist rings by 5
+		All means of herbalist healing is increased by 40%
+		This includes passive, berries, potions, etc.
+		Increased attack speed by 12%
+		Increased potion drop rate from critters
+		
+		While the player is in the air, there is a chance
+		of stopping any incoming projectiles and changing it to leaves
+		[c/0EA300:Herbalist Class]
+}
+

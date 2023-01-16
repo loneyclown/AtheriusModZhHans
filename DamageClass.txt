@@ -1,0 +1,6 @@
+HerbalistDamageClass :
+{
+	Origin : HerbalistDamageClass
+	Current : HerbalistDamageClass
+}
+

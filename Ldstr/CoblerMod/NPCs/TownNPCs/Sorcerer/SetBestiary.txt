@@ -1,0 +1,32 @@
+0 :
+{
+	Origin : 
+		'You're a wizard'
+		'I'm not a wizard I'm just 
+	Current : 
+		'You're a wizard'
+		'I'm not a wizard I'm just 
+}
+
+1 :
+{
+	Origin : 
+		'
+		'No just 
+	Current : 
+		'
+		'No just 
+}
+
+2 :
+{
+	Origin : . You're a wizard'
+	Current : . You're a wizard'
+}
+
+3 :
+{
+	Origin : Mods.CoblerMod.NPCs.Sorcerer
+	Current : Mods.CoblerMod.NPCs.Sorcerer
+}
+

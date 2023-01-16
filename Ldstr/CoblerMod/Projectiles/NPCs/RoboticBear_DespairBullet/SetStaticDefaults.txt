@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Truth Bullet (Despairful)
+	Current : Truth Bullet (Despairful)
+}
+

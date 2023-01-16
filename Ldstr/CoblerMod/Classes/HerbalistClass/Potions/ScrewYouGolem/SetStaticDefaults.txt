@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Herbalist damage is doubled when fighting the golem
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Herbalist damage is doubled when fighting the golem
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Dinner Bell
+	Current : Dinner Bell
+}
+
+1 :
+{
+	Origin : Increased number of herbalist circles
+	Current : Increased number of herbalist circles
+}
+

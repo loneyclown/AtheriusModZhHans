@@ -1,0 +1,98 @@
+0 :
+{
+	Origin : is so inspiring to listen to! Listen to his mind of course...
+	Current : is so inspiring to listen to! Listen to his mind of course...
+}
+
+1 :
+{
+	Origin : Do you think
+	Current : Do you think
+}
+
+2 :
+{
+	Origin : knows how to fix brains too?
+	Current : knows how to fix brains too?
+}
+
+3 :
+{
+	Origin : 's mind is too much for me to handle. On one hand it's inventions but then he starts thinking about 50 shades of green...
+	Current : 's mind is too much for me to handle. On one hand it's inventions but then he starts thinking about 50 shades of green...
+}
+
+4 :
+{
+	Origin : Last time I read
+	Current : Last time I read
+}
+
+5 :
+{
+	Origin : 's mind, I was ready to go psycho myself.
+	Current : 's mind, I was ready to go psycho myself.
+}
+
+6 :
+{
+	Origin : 
+		My favorite color is purple!
+		...
+		You probably already knew that.
+	Current : 
+		My favorite color is purple!
+		...
+		You probably already knew that.
+}
+
+7 :
+{
+	Origin : It's really easy to tell when people have a headache.
+	Current : It's really easy to tell when people have a headache.
+}
+
+8 :
+{
+	Origin : Violet, Purple, Indigo, Wendigo, wait no not that...
+	Current : Violet, Purple, Indigo, Wendigo, wait no not that...
+}
+
+9 :
+{
+	Origin : Looking away isn't going to change that I can still control your mind.
+	Current : Looking away isn't going to change that I can still control your mind.
+}
+
+10 :
+{
+	Origin : Don't go exploding the houses now! I've had bad experiences before
+	Current : Don't go exploding the houses now! I've had bad experiences before
+}
+
+11 :
+{
+	Origin : 
+		What're you up to today?
+		...
+		...
+		What're you up t-
+		Hey I know what you tried to do it won't work on me!
+	Current : 
+		What're you up to today?
+		...
+		...
+		What're you up t-
+		Hey I know what you tried to do it won't work on me!
+}
+
+12 :
+{
+	Origin : 
+		You've been consuming a lot of Psycho Frags now...
+		Your brain looks like it works out.
+	Current : 
+		You've been consuming a lot of Psycho Frags now...
+		Your brain looks like it works out.
+}
+

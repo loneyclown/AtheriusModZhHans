@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Bunny
+	Current : Bunny
+}
+
+1 :
+{
+	Origin : With an herbalist accessory, you get a small trait from the bunny
+	Current : With an herbalist accessory, you get a small trait from the bunny
+}
+

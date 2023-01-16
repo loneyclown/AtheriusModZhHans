@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 4)]
+	Current : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 4)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Summon damage by 15%
+		Increased max number of minions by 1 
+		Max Life moderately increased
+		Player can fly above others for longer
+	Current : 
+		Increases Summon damage by 15%
+		Increased max number of minions by 1 
+		Max Life moderately increased
+		Player can fly above others for longer
+}
+

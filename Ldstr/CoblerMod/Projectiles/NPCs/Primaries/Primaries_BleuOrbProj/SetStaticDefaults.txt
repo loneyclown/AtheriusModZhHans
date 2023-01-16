@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Bleu Orb
+	Current : Bleu Orb
+}
+

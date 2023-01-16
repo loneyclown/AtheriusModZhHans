@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Summons a barrage of explosions
+		The more NPCs around, the more explosions
+		Player also gains berserker buff while using this
+	Current : 
+		Summons a barrage of explosions
+		The more NPCs around, the more explosions
+		Player also gains berserker buff while using this
+}
+

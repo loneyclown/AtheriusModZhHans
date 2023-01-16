@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : Mother Nature's Compass
+	Current : Mother Nature's Compass
+}
+
+1 :
+{
+	Origin : 
+		Gives 350 herbalist shield defense
+		Can go in the custom accessory slot for herbalist shields
+		Press the assigned keybinding to enable your shield
+		The amount it can absorb will be based on the amount of nature you consume
+		The shield will break once you run out of damage absorbed, you cancel it, or 30 seconds pass
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Gives 350 herbalist shield defense
+		Can go in the custom accessory slot for herbalist shields
+		Press the assigned keybinding to enable your shield
+		The amount it can absorb will be based on the amount of nature you consume
+		The shield will break once you run out of damage absorbed, you cancel it, or 30 seconds pass
+		[c/0EA300:Herbalist Class]
+}
+

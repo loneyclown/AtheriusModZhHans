@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Start shimmering!
+		Player will be granted an extra slot for 2 minutes
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Start shimmering!
+		Player will be granted an extra slot for 2 minutes
+		[c/0EA300:Herbalist Class]
+}
+

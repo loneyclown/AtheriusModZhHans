@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		An elegant creature from the Verdant biome
+		While it cannot be released, it will give aid to the herbalist
+		[c/0EA300:Herbalist Class]
+	Current : 
+		An elegant creature from the Verdant biome
+		While it cannot be released, it will give aid to the herbalist
+		[c/0EA300:Herbalist Class]
+}
+

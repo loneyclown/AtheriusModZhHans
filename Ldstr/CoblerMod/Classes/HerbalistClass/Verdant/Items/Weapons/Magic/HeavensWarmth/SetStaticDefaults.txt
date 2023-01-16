@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Heals all friends in the area by half their health
+	Current : Heals all friends in the area by half their health
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		10% chance to not die when really... you should
+	Current : 
+		Increased generic damage by 10%
+		10% chance to not die when really... you should
+}
+

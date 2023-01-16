@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Also America
+	Current : Also America
+}
+
+1 :
+{
+	Origin : 
+		It's the same gun. Just not painted.
+		And yet it is weaker because it is not painted 'AMERICA'.
+		7.5% chance not to consume ammo.
+	Current : 
+		It's the same gun. Just not painted.
+		And yet it is weaker because it is not painted 'AMERICA'.
+		7.5% chance not to consume ammo.
+}
+

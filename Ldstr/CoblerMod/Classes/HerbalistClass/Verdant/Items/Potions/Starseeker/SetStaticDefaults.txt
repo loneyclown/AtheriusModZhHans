@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Starseeker Potion
+	Current : Starseeker Potion
+}
+
+1 :
+{
+	Origin : Gives the starseeker buff.
+	Current : Gives the starseeker buff.
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased melee damage by 15%
+		Increased movement and hit speed when it is raining
+	Current : 
+		Increased melee damage by 15%
+		Increased movement and hit speed when it is raining
+}
+

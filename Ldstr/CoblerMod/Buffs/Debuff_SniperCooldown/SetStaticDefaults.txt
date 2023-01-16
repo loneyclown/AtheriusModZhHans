@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Sniper Cooldown
+	Current : Sniper Cooldown
+}
+
+1 :
+{
+	Origin : Cannot go back into sniper mode until this is gone
+	Current : Cannot go back into sniper mode until this is gone
+}
+

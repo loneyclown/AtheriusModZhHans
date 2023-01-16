@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires various moon shots from the sky
+		Also spawns in an orbiting moon for the player
+	Current : 
+		Fires various moon shots from the sky
+		Also spawns in an orbiting moon for the player
+}
+

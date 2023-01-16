@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Click a spot on the map, it will spawn daggers there and dash back to the player
+		While dashing back to the player, it will fire additional projectiles at enemies
+	Current : 
+		Click a spot on the map, it will spawn daggers there and dash back to the player
+		While dashing back to the player, it will fire additional projectiles at enemies
+}
+

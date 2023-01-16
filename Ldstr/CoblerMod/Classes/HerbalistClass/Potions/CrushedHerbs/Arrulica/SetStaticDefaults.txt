@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Player has no dash delay
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Player has no dash delay
+		[c/0EA300:Herbalist Class]
+}
+

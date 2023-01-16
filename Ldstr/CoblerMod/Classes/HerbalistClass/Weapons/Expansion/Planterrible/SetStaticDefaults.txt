@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		This name is just plan terrible
+		Spawns in a trap that when activated poisons and confuses all nearby enemies
+		[c/0EA300:Herbalist Class]
+	Current : 
+		This name is just plan terrible
+		Spawns in a trap that when activated poisons and confuses all nearby enemies
+		[c/0EA300:Herbalist Class]
+}
+

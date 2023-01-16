@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		The badge of the fallen
+		Those that wear it are reminded everyday of their failures
+	Current : 
+		The badge of the fallen
+		Those that wear it are reminded everyday of their failures
+}
+

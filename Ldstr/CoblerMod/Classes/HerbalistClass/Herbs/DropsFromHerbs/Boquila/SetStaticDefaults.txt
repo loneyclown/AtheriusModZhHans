@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		These are good nutrition for the herbalist!
+		[c/0EA300:Herbalist Class]
+	Current : 
+		These are good nutrition for the herbalist!
+		[c/0EA300:Herbalist Class]
+}
+

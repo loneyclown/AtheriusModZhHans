@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Summons the Abyssal Eye of Hope
+		It is now in your debt. It will serve you well
+	Current : 
+		Summons the Abyssal Eye of Hope
+		It is now in your debt. It will serve you well
+}
+

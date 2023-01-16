@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Morning Wood
+	Current : Morning Wood
+}
+
+1 :
+{
+	Origin : Trees will do more damage when firing leaves
+	Current : Trees will do more damage when firing leaves
+}
+

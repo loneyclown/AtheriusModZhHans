@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : [c/00FF00:The world is blessed with more nature.]
+	Current : [c/00FF00:The world is blessed with more nature.]
+}
+

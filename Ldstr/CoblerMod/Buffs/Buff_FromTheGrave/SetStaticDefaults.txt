@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : From the Grave
+	Current : From the Grave
+}
+
+1 :
+{
+	Origin : Enemies are in for a surprise upon death
+	Current : Enemies are in for a surprise upon death
+}
+

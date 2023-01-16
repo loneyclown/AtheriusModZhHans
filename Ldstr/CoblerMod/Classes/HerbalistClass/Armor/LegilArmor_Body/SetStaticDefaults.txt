@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Legil Chestplate
+	Current : Legil Chestplate
+}
+
+1 :
+{
+	Origin : Increased generic crit by 5%
+	Current : Increased generic crit by 5%
+}
+

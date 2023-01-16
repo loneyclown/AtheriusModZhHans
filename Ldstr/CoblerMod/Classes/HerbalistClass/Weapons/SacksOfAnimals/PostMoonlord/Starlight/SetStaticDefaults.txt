@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : The Herbalist's Starlight
+	Current : The Herbalist's Starlight
+}
+
+1 :
+{
+	Origin : 
+		Sends down falling stars from the sky
+		When they collapse, tremors will cause rock formations to spawn
+		Leaves will also burst out wherever the star lands
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Sends down falling stars from the sky
+		When they collapse, tremors will cause rock formations to spawn
+		Leaves will also burst out wherever the star lands
+		[c/0EA300:Herbalist Class]
+}
+

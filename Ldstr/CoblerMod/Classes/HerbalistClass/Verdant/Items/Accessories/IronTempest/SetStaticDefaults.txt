@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Combines the stats of
+		Sheer Iron and Hallow Burn
+	Current : 
+		Combines the stats of
+		Sheer Iron and Hallow Burn
+}
+

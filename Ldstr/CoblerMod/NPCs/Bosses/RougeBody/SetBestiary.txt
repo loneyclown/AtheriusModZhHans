@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		'Rouge' is one of the 3 primaries. It revolves around red.
+		
+		From blood to roses. From the sunset to medium rare steak. Red is controlled by this being.
+	Current : 
+		'Rouge' is one of the 3 primaries. It revolves around red.
+		
+		From blood to roses. From the sunset to medium rare steak. Red is controlled by this being.
+}
+

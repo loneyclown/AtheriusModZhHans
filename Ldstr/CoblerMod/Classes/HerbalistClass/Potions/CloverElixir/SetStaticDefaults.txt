@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		You felt lucky making this
+		Heals an unknown amount of health
+		[c/0EA300:Herbalist Class]
+	Current : 
+		You felt lucky making this
+		Heals an unknown amount of health
+		[c/0EA300:Herbalist Class]
+}
+

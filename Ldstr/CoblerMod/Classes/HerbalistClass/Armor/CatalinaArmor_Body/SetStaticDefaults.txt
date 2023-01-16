@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Catalina Breastplate
+	Current : Catalina Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased passive life regen by 3
+		Increased herbalist damage by 8%
+		Armor Set: All herbalist plants have a 2x drop rate
+	Current : 
+		Increased passive life regen by 3
+		Increased herbalist damage by 8%
+		Armor Set: All herbalist plants have a 2x drop rate
+}
+

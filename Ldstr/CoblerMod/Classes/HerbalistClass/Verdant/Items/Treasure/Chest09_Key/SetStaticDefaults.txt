@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Chest Key
+	Current : Chest Key
+}
+
+1 :
+{
+	Origin : 
+		Find the chest for this key to open it
+		The chests can be found somewhere within the world
+		[c/F5FAAF:Key 9]
+	Current : 
+		Find the chest for this key to open it
+		The chests can be found somewhere within the world
+		[c/F5FAAF:Key 9]
+}
+

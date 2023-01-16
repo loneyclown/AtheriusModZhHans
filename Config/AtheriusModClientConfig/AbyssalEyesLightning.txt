@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Abyssal Eyes Lightning
+	Current : Abyssal Eyes Lightning
+}
+
+Tooltip :
+{
+	Origin : Enables lightning effects while fighting the Abyssal Eyes.
+	Current : Enables lightning effects while fighting the Abyssal Eyes.
+}
+

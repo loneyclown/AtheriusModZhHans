@@ -1,0 +1,126 @@
+Blucium_Ore :
+{
+	0 :
+	{
+		Origin : Blucium Ore
+		Current : 蓝矿
+	}
+}
+
+BoquilaHerb :
+{
+	0 :
+	{
+		Origin : Boquila Herb
+		Current : 波奇拉香草
+	}
+}
+
+Cebalt_Ore :
+{
+	0 :
+	{
+		Origin : Cebalt Ore
+		Current : 钴矿<mod>
+	}
+}
+
+CiligetteHerb :
+{
+	0 :
+	{
+		Origin : Ciligette Herb
+		Current : 香草
+	}
+}
+
+CourgetteHerb :
+{
+	0 :
+	{
+		Origin : Courgette Herb
+		Current : 西葫芦药草
+	}
+}
+
+Dathite_Ore :
+{
+	0 :
+	{
+		Origin : Dathite Ore
+		Current : 硅铝矿
+	}
+}
+
+FigusHerb :
+{
+	0 :
+	{
+		Origin : Figus Herb
+		Current : 无花果草
+	}
+}
+
+Flaycium_Ore :
+{
+	0 :
+	{
+		Origin : Flaycium Ore
+		Current : 铁链矿石
+	}
+}
+
+Legil_Ore :
+{
+	0 :
+	{
+		Origin : Legil Ore
+		Current : 雷吉尔矿石
+	}
+}
+
+ObolaHerb :
+{
+	0 :
+	{
+		Origin : Obola Herb
+		Current : 奥博拉药草
+	}
+}
+
+PygmyPearHerb :
+{
+	0 :
+	{
+		Origin : Pygmy Pear Herb
+		Current : 侏儒梨香草
+	}
+}
+
+Rose_Ore :
+{
+	0 :
+	{
+		Origin : Rose Ore
+		Current : 玫瑰矿石
+	}
+}
+
+Thusium_Ore :
+{
+	0 :
+	{
+		Origin : Thusium Ore
+		Current : 铯矿
+	}
+}
+
+Tuskian_Ore :
+{
+	0 :
+	{
+		Origin : Tuskian Ore
+		Current : 图斯基亚矿石
+	}
+}
+

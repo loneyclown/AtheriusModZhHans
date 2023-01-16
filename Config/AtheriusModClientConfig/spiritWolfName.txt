@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Name of Spirit Wolf
+	Current : Name of Spirit Wolf
+}
+
+Tooltip :
+{
+	Origin : Give a name to the spirit doggo who aides the herbalist throughout
+	Current : Give a name to the spirit doggo who aides the herbalist throughout
+}
+

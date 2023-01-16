@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 5)]
+	Current : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 5)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Generic damage by 18%
+		Given endurance and gravitation
+		Immune to withered armor and weapon
+		Get an extra accessory slot
+		Looks like it's starting to rain...
+	Current : 
+		Increases Generic damage by 18%
+		Given endurance and gravitation
+		Immune to withered armor and weapon
+		Get an extra accessory slot
+		Looks like it's starting to rain...
+}
+

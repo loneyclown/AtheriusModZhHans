@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Devil's Awakening
+	Current : Devil's Awakening
+}
+
+1 :
+{
+	Origin : 
+		Player will gain back 1 health on a would be death
+		This only applies in pre-hardmode
+	Current : 
+		Player will gain back 1 health on a would be death
+		This only applies in pre-hardmode
+}
+

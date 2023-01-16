@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Portal Guardian Trophy
+	Current : Portal Guardian Trophy
+}
+

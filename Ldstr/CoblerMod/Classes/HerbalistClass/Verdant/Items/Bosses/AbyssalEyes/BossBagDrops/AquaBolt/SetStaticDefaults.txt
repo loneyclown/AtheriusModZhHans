@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires a bunch of water bolts
+		And I mean a bunch
+	Current : 
+		Fires a bunch of water bolts
+		And I mean a bunch
+}
+

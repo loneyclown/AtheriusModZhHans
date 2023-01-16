@@ -1,0 +1,120 @@
+0 :
+{
+	Origin : herbalistDamage
+	Current : herbalistDamage
+}
+
+1 :
+{
+	Origin : herbalistDamage
+	Current : herbalistDamage
+}
+
+2 :
+{
+	Origin : herbalistLife
+	Current : herbalistLife
+}
+
+3 :
+{
+	Origin : herbalistLife
+	Current : herbalistLife
+}
+
+4 :
+{
+	Origin : herbalistMana
+	Current : herbalistMana
+}
+
+5 :
+{
+	Origin : herbalistMana
+	Current : herbalistMana
+}
+
+6 :
+{
+	Origin : onePlantAtATime
+	Current : onePlantAtATime
+}
+
+7 :
+{
+	Origin : onePlantAtATime
+	Current : onePlantAtATime
+}
+
+8 :
+{
+	Origin : gavePureWindroot
+	Current : gavePureWindroot
+}
+
+9 :
+{
+	Origin : gavePureWindroot
+	Current : gavePureWindroot
+}
+
+10 :
+{
+	Origin : EnableHerbalistShield
+	Current : EnableHerbalistShield
+}
+
+11 :
+{
+	Origin : EnableHerbalistShield
+	Current : EnableHerbalistShield
+}
+
+12 :
+{
+	Origin : herbalistPlantsInBag
+	Current : herbalistPlantsInBag
+}
+
+13 :
+{
+	Origin : herbalistPlantsInBag
+	Current : herbalistPlantsInBag
+}
+
+14 :
+{
+	Origin : herbalistCountInBag
+	Current : herbalistCountInBag
+}
+
+15 :
+{
+	Origin : herbalistCountInBag
+	Current : herbalistCountInBag
+}
+
+16 :
+{
+	Origin : herbalistPlantsInBagPlus
+	Current : herbalistPlantsInBagPlus
+}
+
+17 :
+{
+	Origin : herbalistPlantsInBagPlus
+	Current : herbalistPlantsInBagPlus
+}
+
+18 :
+{
+	Origin : herbalistCountInBagPlus
+	Current : herbalistCountInBagPlus
+}
+
+19 :
+{
+	Origin : herbalistCountInBagPlus
+	Current : herbalistCountInBagPlus
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : But think twice before showing
+	Current : But think twice before showing
+}
+
+1 :
+{
+	Origin : ...
+	Current : ...
+}
+
+2 :
+{
+	Origin : But think twice before showing the herbalist...
+	Current : But think twice before showing the herbalist...
+}
+

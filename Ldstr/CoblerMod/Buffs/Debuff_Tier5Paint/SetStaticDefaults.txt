@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Canvas Cooldown
+	Current : Canvas Cooldown
+}
+
+1 :
+{
+	Origin : Cannot use Canvas
+	Current : Cannot use Canvas
+}
+

@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : [c/710193:The world of Psychokinesis. Your mind starts running...]
+	Current : [c/710193:The world of Psychokinesis. Your mind starts running...]
+}
+

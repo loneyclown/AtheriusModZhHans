@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		A pistol that shoots fireballs? Who'd guess?!
+		20% chance each shot to get a fire ring around player
+	Current : 
+		A pistol that shoots fireballs? Who'd guess?!
+		20% chance each shot to get a fire ring around player
+}
+

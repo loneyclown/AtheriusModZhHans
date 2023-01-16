@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fires poison darts, believe it or not.
+	Current : Fires poison darts, believe it or not.
+}
+

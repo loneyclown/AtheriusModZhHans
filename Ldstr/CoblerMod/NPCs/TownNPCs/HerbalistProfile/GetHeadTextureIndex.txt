@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/NPCs/TownNPCs/Herbalist_Head
+	Current : CoblerMod/NPCs/TownNPCs/Herbalist_Head
+}
+

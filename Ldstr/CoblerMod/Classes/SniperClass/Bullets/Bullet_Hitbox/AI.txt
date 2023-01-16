@@ -1,0 +1,48 @@
+0 :
+{
+	Origin : Corruptor
+	Current : Corruptor
+}
+
+1 :
+{
+	Origin : Comet
+	Current : Comet
+}
+
+2 :
+{
+	Origin : Discharge
+	Current : Discharge
+}
+
+3 :
+{
+	Origin : Extermination
+	Current : Extermination
+}
+
+4 :
+{
+	Origin : ForsakenRifle
+	Current : ForsakenRifle
+}
+
+5 :
+{
+	Origin : Leviathan
+	Current : Leviathan
+}
+
+6 :
+{
+	Origin : Narcoleptic
+	Current : Narcoleptic
+}
+
+7 :
+{
+	Origin : Popeye
+	Current : Popeye
+}
+

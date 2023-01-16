@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased melee and ranged damage by 20%
+		Increased max health and mana by 100
+		A yellow, blue, and red orb will constantly circle the player
+		They will fire projectiles at nearby enemies
+	Current : 
+		Increased melee and ranged damage by 20%
+		Increased max health and mana by 100
+		A yellow, blue, and red orb will constantly circle the player
+		They will fire projectiles at nearby enemies
+}
+

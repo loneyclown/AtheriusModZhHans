@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Some say you can hear 'sniper on the roof' in their language
+	Current : Some say you can hear 'sniper on the roof' in their language
+}
+

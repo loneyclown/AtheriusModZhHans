@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 
+		Enemies will become infected after getting hit
+		This only works on one enemy at a time
+		Right click to start charging up
+		The first 3 seconds will damage nearby enemies by half their health
+		Also throughout these 3 seconds, dirt blocks will become grass blocks
+		Finishing with an explosion in the end
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Enemies will become infected after getting hit
+		This only works on one enemy at a time
+		Right click to start charging up
+		The first 3 seconds will damage nearby enemies by half their health
+		Also throughout these 3 seconds, dirt blocks will become grass blocks
+		Finishing with an explosion in the end
+		[c/0EA300:Herbalist Class]
+}
+

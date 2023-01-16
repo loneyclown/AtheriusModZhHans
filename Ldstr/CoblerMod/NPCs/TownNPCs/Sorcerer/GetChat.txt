@@ -1,0 +1,144 @@
+0 :
+{
+	Origin : 
+		 thinks he's everything and a bag of daffodils! How can he even think when he's all metal?
+		...
+		...
+		Do you think it's magic?
+	Current : 
+		 thinks he's everything and a bag of daffodils! How can he even think when he's all metal?
+		...
+		...
+		Do you think it's magic?
+}
+
+1 :
+{
+	Origin : What kind of magic does
+	Current : What kind of magic does
+}
+
+2 :
+{
+	Origin : do? It's interesting.
+	Current : do? It's interesting.
+}
+
+3 :
+{
+	Origin : likes bombs. I wonder if he knows explosion magic?
+	Current : likes bombs. I wonder if he knows explosion magic?
+}
+
+4 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+5 :
+{
+	Origin : ]
+	Current : ]
+}
+
+6 :
+{
+	Origin : Where's
+	Current : Where's
+}
+
+7 :
+{
+	Origin : ? It's time for us to play hide the wand again!
+	Current : ? It's time for us to play hide the wand again!
+}
+
+8 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+9 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+10 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+11 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+12 :
+{
+	Origin : ]
+	Current : ]
+}
+
+13 :
+{
+	Origin : Fire Magic. Water Magic. Lightning Magic. So much magic...
+	Current : Fire Magic. Water Magic. Lightning Magic. So much magic...
+}
+
+14 :
+{
+	Origin : 
+		Demon Magic? What kind of nonsense is that?
+		Go kill a demon or something if you want demon magic!
+	Current : 
+		Demon Magic? What kind of nonsense is that?
+		Go kill a demon or something if you want demon magic!
+}
+
+15 :
+{
+	Origin : If I had to suggest... Time, Dream, and Dark magic are very poggers...
+	Current : If I had to suggest... Time, Dream, and Dark magic are very poggers...
+}
+
+16 :
+{
+	Origin : Do a magic trick? Do I look like an old man to you?
+	Current : Do a magic trick? Do I look like an old man to you?
+}
+
+17 :
+{
+	Origin : Grimoires
+	Current : Grimoires
+}
+
+18 :
+{
+	Origin : There's another wizard selling grimoires? I bet that cheap ass only gives one and that's it!
+	Current : There's another wizard selling grimoires? I bet that cheap ass only gives one and that's it!
+}
+
+19 :
+{
+	Origin : Let me know if you see a wizard in a green robe. I have personal business with him.
+	Current : Let me know if you see a wizard in a green robe. I have personal business with him.
+}
+
+20 :
+{
+	Origin : I can sense you getting stronger. It must be thanks to my grimoires.
+	Current : I can sense you getting stronger. It must be thanks to my grimoires.
+}
+
+21 :
+{
+	Origin : The wall of flesh was a ruthless demon. I am happy that it is gone now.
+	Current : The wall of flesh was a ruthless demon. I am happy that it is gone now.
+}
+

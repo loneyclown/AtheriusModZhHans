@@ -1,0 +1,144 @@
+0 :
+{
+	Origin : downedPortalGuardianBoss
+	Current : downedPortalGuardianBoss
+}
+
+1 :
+{
+	Origin : downedPortalGuardianBoss
+	Current : downedPortalGuardianBoss
+}
+
+2 :
+{
+	Origin : downedStoneGolemBoss
+	Current : downedStoneGolemBoss
+}
+
+3 :
+{
+	Origin : downedStoneGolemBoss
+	Current : downedStoneGolemBoss
+}
+
+4 :
+{
+	Origin : downedRoboticBearBoss
+	Current : downedRoboticBearBoss
+}
+
+5 :
+{
+	Origin : downedRoboticBearBoss
+	Current : downedRoboticBearBoss
+}
+
+6 :
+{
+	Origin : downedUndeadExecutionerBoss
+	Current : downedUndeadExecutionerBoss
+}
+
+7 :
+{
+	Origin : downedUndeadExecutionerBoss
+	Current : downedUndeadExecutionerBoss
+}
+
+8 :
+{
+	Origin : downedFallenServantBoss
+	Current : downedFallenServantBoss
+}
+
+9 :
+{
+	Origin : downedFallenServantBoss
+	Current : downedFallenServantBoss
+}
+
+10 :
+{
+	Origin : downedColossalGolemBoss
+	Current : downedColossalGolemBoss
+}
+
+11 :
+{
+	Origin : downedColossalGolemBoss
+	Current : downedColossalGolemBoss
+}
+
+12 :
+{
+	Origin : downedAquaMagiBoss
+	Current : downedAquaMagiBoss
+}
+
+13 :
+{
+	Origin : downedAquaMagiBoss
+	Current : downedAquaMagiBoss
+}
+
+14 :
+{
+	Origin : downedAbyssalEyesBoss
+	Current : downedAbyssalEyesBoss
+}
+
+15 :
+{
+	Origin : downedAbyssalEyesBoss
+	Current : downedAbyssalEyesBoss
+}
+
+16 :
+{
+	Origin : downedAbyssalEyesBoss
+	Current : downedAbyssalEyesBoss
+}
+
+17 :
+{
+	Origin : downedHellsAngelBoss
+	Current : downedHellsAngelBoss
+}
+
+18 :
+{
+	Origin : downedFlamingExarchBoss
+	Current : downedFlamingExarchBoss
+}
+
+19 :
+{
+	Origin : downedFlamingExarchBoss
+	Current : downedFlamingExarchBoss
+}
+
+20 :
+{
+	Origin : downedAbyssalEyesBoss
+	Current : downedAbyssalEyesBoss
+}
+
+21 :
+{
+	Origin : downedOblivionMooseBoss
+	Current : downedOblivionMooseBoss
+}
+
+22 :
+{
+	Origin : downedAbyssalEyesBoss
+	Current : downedAbyssalEyesBoss
+}
+
+23 :
+{
+	Origin : downedHellsAngelBoss
+	Current : downedHellsAngelBoss
+}
+

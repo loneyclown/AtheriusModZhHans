@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Undead Executioner
+	Current : Undead Executioner
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/UndeadExecutioner_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/UndeadExecutioner_Bestiary
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		This is the basic modded sword. 
+		I decided that it could stay =).
+	Current : 
+		This is the basic modded sword. 
+		I decided that it could stay =).
+}
+

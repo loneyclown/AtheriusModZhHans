@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fires a sack of ice that freezes the target on impact before bursting
+	Current : Fires a sack of ice that freezes the target on impact before bursting
+}
+

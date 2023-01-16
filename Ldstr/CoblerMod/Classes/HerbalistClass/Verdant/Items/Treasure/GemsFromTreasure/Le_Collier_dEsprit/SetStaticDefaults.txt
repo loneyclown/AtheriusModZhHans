@@ -1,0 +1,30 @@
+0 :
+{
+	Origin : Le Collier d'Esprit
+	Current : Le Collier d'Esprit
+}
+
+1 :
+{
+	Origin : 
+		Increased generic damage by 25%
+		Increased defense by 15
+		You and all nearby players have a permanent wrath buff
+		Max life increased by 100
+		Max mana increased by 100
+		All potions that give buffs now give buffs that last twice as long
+		
+		Something appear to be short circuiting?
+		Well, this is an unknown power after all... But a strong power...
+	Current : 
+		Increased generic damage by 25%
+		Increased defense by 15
+		You and all nearby players have a permanent wrath buff
+		Max life increased by 100
+		Max mana increased by 100
+		All potions that give buffs now give buffs that last twice as long
+		
+		Something appear to be short circuiting?
+		Well, this is an unknown power after all... But a strong power...
+}
+

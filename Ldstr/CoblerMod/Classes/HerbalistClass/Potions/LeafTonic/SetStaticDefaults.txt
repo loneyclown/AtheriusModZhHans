@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Leaves start falling...
+		Slightly increase herbalist damage
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Leaves start falling...
+		Slightly increase herbalist damage
+		[c/0EA300:Herbalist Class]
+}
+

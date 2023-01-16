@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		The rune smith likes to talk about runes.
+		Sins too but he gets very sad while talking about that.
+	Current : 
+		The rune smith likes to talk about runes.
+		Sins too but he gets very sad while talking about that.
+}
+
+1 :
+{
+	Origin : Mods.CoblerMod.NPCs.RuneSmith
+	Current : Mods.CoblerMod.NPCs.RuneSmith
+}
+

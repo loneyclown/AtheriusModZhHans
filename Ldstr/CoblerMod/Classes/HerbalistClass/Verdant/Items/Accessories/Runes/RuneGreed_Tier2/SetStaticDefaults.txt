@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/3F8C30:Greed] [c/FFFFFF:(Tier 2)]
+	Current : [c/383842:Rune of] [c/3F8C30:Greed] [c/FFFFFF:(Tier 2)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Herbalist damage by 8%
+		Herbalist passive heal increased by 3 HP
+	Current : 
+		Increases Herbalist damage by 8%
+		Herbalist passive heal increased by 3 HP
+}
+

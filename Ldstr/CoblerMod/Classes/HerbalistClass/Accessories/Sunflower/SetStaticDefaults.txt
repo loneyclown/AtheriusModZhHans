@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Slight increase in herbalist crit
+		Increased herbalist healing passive by 5
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Slight increase in herbalist crit
+		Increased herbalist healing passive by 5
+		[c/0EA300:Herbalist Class]
+}
+

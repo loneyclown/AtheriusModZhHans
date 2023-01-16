@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Earth Strider Leggings
+	Current : Earth Strider Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased critter damage by 25%
+		Increased max number of herbalist rings by 2
+		Armor Set: All critters have increased health and all plants / berries heal 10 more HP
+	Current : 
+		Increased critter damage by 25%
+		Increased max number of herbalist rings by 2
+		Armor Set: All critters have increased health and all plants / berries heal 10 more HP
+}
+

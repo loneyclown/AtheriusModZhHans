@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Fires constant lasers
+		It builds up in speed over time
+		It gets faster and faster and faster
+		Until it just becomes a laser
+	Current : 
+		Fires constant lasers
+		It builds up in speed over time
+		It gets faster and faster and faster
+		Until it just becomes a laser
+}
+

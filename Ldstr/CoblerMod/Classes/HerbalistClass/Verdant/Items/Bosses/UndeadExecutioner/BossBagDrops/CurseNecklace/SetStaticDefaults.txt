@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Potentially gives one of various debuffs when hitting an enemy
+	Current : Potentially gives one of various debuffs when hitting an enemy
+}
+

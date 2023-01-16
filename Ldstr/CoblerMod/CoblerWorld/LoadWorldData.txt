@@ -1,0 +1,36 @@
+0 :
+{
+	Origin : herbalistScrollCount
+	Current : herbalistScrollCount
+}
+
+1 :
+{
+	Origin : herbalistScrollCount
+	Current : herbalistScrollCount
+}
+
+2 :
+{
+	Origin : herbalistScrollNumber
+	Current : herbalistScrollNumber
+}
+
+3 :
+{
+	Origin : herbalistScrollNumber
+	Current : herbalistScrollNumber
+}
+
+4 :
+{
+	Origin : herbalistPlantsEnabled
+	Current : herbalistPlantsEnabled
+}
+
+5 :
+{
+	Origin : herbalistPlantsEnabled
+	Current : herbalistPlantsEnabled
+}
+

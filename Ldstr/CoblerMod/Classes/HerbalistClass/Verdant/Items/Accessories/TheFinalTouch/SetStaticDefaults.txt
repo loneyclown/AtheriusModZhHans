@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 30%
+		Increased generic crit by 5
+		Increased max life by 100
+		Increased max mana by 100
+		Player is immune for an additional second after each hit
+	Current : 
+		Increased generic damage by 30%
+		Increased generic crit by 5
+		Increased max life by 100
+		Increased max mana by 100
+		Player is immune for an additional second after each hit
+}
+

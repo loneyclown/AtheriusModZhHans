@@ -1,0 +1,78 @@
+Content :
+{
+	Origin : I got my sniper, my glass bottles and my head. I'm good to go.
+	Current : I got my sniper, my glass bottles and my head. I'm good to go.
+}
+
+DislikeBiome :
+{
+	Origin : This place is sickening to me! Who would want to live here?
+	Current : This place is sickening to me! Who would want to live here?
+}
+
+DislikeCrowded :
+{
+	Origin : Looking down my sights in this room makes me dizzy. I'm ready to leave.
+	Current : Looking down my sights in this room makes me dizzy. I'm ready to leave.
+}
+
+DislikeNPC :
+{
+	Origin : How are there people like the Clothier who like selling clothes for a living? No thanks.
+	Current : How are there people like the Clothier who like selling clothes for a living? No thanks.
+}
+
+FarFromHome :
+{
+	Origin : I'm a ways from home. Not to worry though I can see it from here with my scope.
+	Current : I'm a ways from home. Not to worry though I can see it from here with my scope.
+}
+
+HateBiome :
+{
+	Origin : Nowhere to live. Nowhere to hide. Nothing to shoot. Get me out of here.
+	Current : Nowhere to live. Nowhere to hide. Nothing to shoot. Get me out of here.
+}
+
+HateNPC :
+{
+	Origin : What is that Truffle even supposed to be. I might ADS on it one of these days...
+	Current : What is that Truffle even supposed to be. I might ADS on it one of these days...
+}
+
+LikeBiome :
+{
+	Origin : This is peaceful. Nothing to interrupt my focus.
+	Current : This is peaceful. Nothing to interrupt my focus.
+}
+
+LikeNPC :
+{
+	Origin : How far do you think the Pirate can shoot his Blunderbuss?
+	Current : How far do you think the Pirate can shoot his Blunderbuss?
+}
+
+LoveBiome :
+{
+	Origin : The open land of trees and nature. I feel home right now.
+	Current : The open land of trees and nature. I feel home right now.
+}
+
+LoveNPC :
+{
+	Origin : The Arms Dealer and I go way back. He stopped using snipers since I beat him every time.
+	Current : The Arms Dealer and I go way back. He stopped using snipers since I beat him every time.
+}
+
+LoveSpace :
+{
+	Origin : The vast area is clear to me. I have my sights on everything.
+	Current : The vast area is clear to me. I have my sights on everything.
+}
+
+NoHome :
+{
+	Origin : No home? What's another night of sleeping in the mountains?
+	Current : No home? What's another night of sleeping in the mountains?
+}
+

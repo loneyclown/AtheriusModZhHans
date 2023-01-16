@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Herbalist damage is doubled if the player is higher up in the sky
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Herbalist damage is doubled if the player is higher up in the sky
+		[c/0EA300:Herbalist Class]
+}
+

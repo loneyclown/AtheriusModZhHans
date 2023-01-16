@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		The next 10 hits on the player will do half damage
+		[c/0EA300:Herbalist Class]
+	Current : 
+		The next 10 hits on the player will do half damage
+		[c/0EA300:Herbalist Class]
+}
+

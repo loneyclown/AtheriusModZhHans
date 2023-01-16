@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Maneuever Gear (Vanity)
+	Current : Maneuever Gear (Vanity)
+}
+
+1 :
+{
+	Origin : OP starts up
+	Current : OP starts up
+}
+

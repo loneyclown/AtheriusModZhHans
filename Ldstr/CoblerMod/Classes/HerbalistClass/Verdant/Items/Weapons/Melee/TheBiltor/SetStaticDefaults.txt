@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Chances of various random bugs occurring while using this item
+		Shoutout to 'Biltor' for the help with pointing out/fixing all the bugs in this mod!
+	Current : 
+		Chances of various random bugs occurring while using this item
+		Shoutout to 'Biltor' for the help with pointing out/fixing all the bugs in this mod!
+}
+

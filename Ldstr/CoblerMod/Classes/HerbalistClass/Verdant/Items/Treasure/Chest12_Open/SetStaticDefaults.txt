@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Lost Chest (Opened)
+	Current : Lost Chest (Opened)
+}
+
+1 :
+{
+	Origin : 
+		Congrats! You found the chest and key!
+		You can now sell this for a good price or keep it as a collection item!
+	Current : 
+		Congrats! You found the chest and key!
+		You can now sell this for a good price or keep it as a collection item!
+}
+

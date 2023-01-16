@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Abyssal Eye Of Hope
+	Current : Abyssal Eye Of Hope
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/AbyssalEyeOfHope_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/AbyssalEyeOfHope_Bestiary
+}
+

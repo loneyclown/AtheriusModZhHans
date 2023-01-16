@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Whenever someone dies
+		You get a surge of buffs (or debuffs) that last 3 minutes
+	Current : 
+		Increased generic damage by 10%
+		Whenever someone dies
+		You get a surge of buffs (or debuffs) that last 3 minutes
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Iakrood Breastplate
+	Current : Iakrood Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased Healing from Herbalist potions by 25 HP
+		Armor Set: Increased jump speed and height
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased Healing from Herbalist potions by 25 HP
+		Armor Set: Increased jump speed and height
+		[c/0EA300:Herbalist Class]
+}
+

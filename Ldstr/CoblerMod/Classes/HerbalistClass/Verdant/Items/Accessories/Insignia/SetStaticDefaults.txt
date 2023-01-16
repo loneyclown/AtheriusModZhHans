@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage and crit
+		Try swinging a certain sword with it...
+	Current : 
+		Increased generic damage and crit
+		Try swinging a certain sword with it...
+}
+

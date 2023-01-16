@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 3 Shades of Gray
+	Current : 3 Shades of Gray
+}
+
+1 :
+{
+	Origin : Summons The Primaries
+	Current : Summons The Primaries
+}
+

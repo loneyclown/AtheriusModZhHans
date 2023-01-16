@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Pistol AK-47
+	Current : Pistol AK-47
+}
+
+1 :
+{
+	Origin : 
+		You see Ivan...
+		When shooting pistol AK47,
+		You shoot small but angry bullet.
+		Yes, yes. Not as nice a big AK47.
+		Gun is inaccurate and you get tipsy while shooting it.
+	Current : 
+		You see Ivan...
+		When shooting pistol AK47,
+		You shoot small but angry bullet.
+		Yes, yes. Not as nice a big AK47.
+		Gun is inaccurate and you get tipsy while shooting it.
+}
+

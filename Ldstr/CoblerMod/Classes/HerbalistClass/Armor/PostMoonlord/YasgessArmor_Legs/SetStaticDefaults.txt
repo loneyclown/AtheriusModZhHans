@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : Yasgess Leggings
+	Current : Yasgess Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased critter fire speed by 25%
+		Increased critter healing by 25 HP
+		Increased movement speed by 15%
+		Armor Set: You will gain a random herbalist stat buff
+		depending on the biome you're in
+		The amount of critters around you will also affect its significance
+	Current : 
+		Increased critter fire speed by 25%
+		Increased critter healing by 25 HP
+		Increased movement speed by 15%
+		Armor Set: You will gain a random herbalist stat buff
+		depending on the biome you're in
+		The amount of critters around you will also affect its significance
+}
+

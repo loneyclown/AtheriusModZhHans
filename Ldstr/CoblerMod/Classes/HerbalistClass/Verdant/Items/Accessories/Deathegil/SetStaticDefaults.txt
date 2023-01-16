@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		If Player's health is below 10%,
+		They will gain 5 seconds of immunity from each hit
+	Current : 
+		If Player's health is below 10%,
+		They will gain 5 seconds of immunity from each hit
+}
+

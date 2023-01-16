@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Rosa Armor Buff
+	Current : Rosa Armor Buff
+}
+
+1 :
+{
+	Origin : Slightly increased defense
+	Current : Slightly increased defense
+}
+

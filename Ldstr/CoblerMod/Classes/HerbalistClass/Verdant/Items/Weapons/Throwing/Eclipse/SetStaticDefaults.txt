@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Click a spot on the map, it will spawn daggers there and dash back to the player
+	Current : Click a spot on the map, it will spawn daggers there and dash back to the player
+}
+

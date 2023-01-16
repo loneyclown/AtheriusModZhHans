@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 6)]
+	Current : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 6)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Summon damage by 20%
+		Increased max number of minions by 3 
+		Max Life moderately increased
+		Player can fly above others for longer
+		Immune to Webbed and Despair
+		Player also has thorns
+	Current : 
+		Increases Summon damage by 20%
+		Increased max number of minions by 3 
+		Max Life moderately increased
+		Player can fly above others for longer
+		Immune to Webbed and Despair
+		Player also has thorns
+}
+

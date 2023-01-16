@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 3)]
+	Current : [c/383842:Rune of] [c/FFFFFF:The 7 Sins] [c/FFFFFF:(Tier 3)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Generic damage by 12%
+		Given endurance
+		Immune to withered armor and weapon
+	Current : 
+		Increases Generic damage by 12%
+		Given endurance
+		Immune to withered armor and weapon
+}
+

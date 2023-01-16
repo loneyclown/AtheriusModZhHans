@@ -1,0 +1,42 @@
+0 :
+{
+	Origin : 0A911E
+	Current : 0A911E
+}
+
+1 :
+{
+	Origin : Herbalist Plants will not appear
+	Current : Herbalist Plants will not appear
+}
+
+2 :
+{
+	Origin : Herbalist Plants will not appear
+	Current : Herbalist Plants will not appear
+}
+
+3 :
+{
+	Origin : 0A911E
+	Current : 0A911E
+}
+
+4 :
+{
+	Origin : Herbalist Plants will appear
+	Current : Herbalist Plants will appear
+}
+
+5 :
+{
+	Origin : Herbalist Plants will appear
+	Current : Herbalist Plants will appear
+}
+
+6 :
+{
+	Origin : 0A911E
+	Current : 0A911E
+}
+

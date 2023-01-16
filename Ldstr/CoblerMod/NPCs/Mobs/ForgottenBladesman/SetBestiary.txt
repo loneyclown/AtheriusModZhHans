@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		It helplessly wanders through the nights now.
+		Trying to follow the footsteps of its past, but to no avail.
+	Current : 
+		It helplessly wanders through the nights now.
+		Trying to follow the footsteps of its past, but to no avail.
+}
+

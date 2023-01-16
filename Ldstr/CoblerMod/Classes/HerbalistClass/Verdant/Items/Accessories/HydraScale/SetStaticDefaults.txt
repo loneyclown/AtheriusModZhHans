@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Gain 15 defense
+	Current : Gain 15 defense
+}
+

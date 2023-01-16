@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Uses turtles as ammo to spawn in defending turtles
+		They will be your shield
+		Can only have a max of 3 of these at a time
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Uses turtles as ammo to spawn in defending turtles
+		They will be your shield
+		Can only have a max of 3 of these at a time
+		[c/0EA300:Herbalist Class]
+}
+

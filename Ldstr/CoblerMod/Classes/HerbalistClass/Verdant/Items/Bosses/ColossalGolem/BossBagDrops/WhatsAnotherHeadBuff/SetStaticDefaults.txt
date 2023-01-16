@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : SWhat's Another Head?
+	Current : SWhat's Another Head?
+}
+
+1 :
+{
+	Origin : Watch him go!
+	Current : Watch him go!
+}
+

@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Aspiscus Helmet
+	Current : Aspiscus Helmet
+}
+
+1 :
+{
+	Origin : 
+		Critical hits will cause for leaves to burst out of the enemy
+		Increased swing speed by 10%
+		Increased herbalist life and mana potion bonus by 50
+		Armor Set: Increased herbalist damage based on the biome you're in
+		Corruption and Crimson biome do not harm herbalist damage anymore
+	Current : 
+		Critical hits will cause for leaves to burst out of the enemy
+		Increased swing speed by 10%
+		Increased herbalist life and mana potion bonus by 50
+		Armor Set: Increased herbalist damage based on the biome you're in
+		Corruption and Crimson biome do not harm herbalist damage anymore
+}
+

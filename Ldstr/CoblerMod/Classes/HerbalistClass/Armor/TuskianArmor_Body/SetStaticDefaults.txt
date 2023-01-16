@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Tuskian Chestplate
+	Current : Tuskian Chestplate
+}
+
+1 :
+{
+	Origin : Increased ranged damage by 15%
+	Current : Increased ranged damage by 15%
+}
+

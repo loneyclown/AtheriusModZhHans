@@ -1,0 +1,130 @@
+0 :
+{
+	Origin : Don't worry about it! Tell me more about this thing...
+	Current : Don't worry about it! Tell me more about this thing...
+}
+
+1 :
+{
+	Origin : 
+		Holy Bosrite! I need to investigate this!
+		
+		*
+	Current : 
+		Holy Bosrite! I need to investigate this!
+		
+		*
+}
+
+2 :
+{
+	Origin : begins pulling off parts of Plantera.*
+	Current : begins pulling off parts of Plantera.*
+}
+
+3 :
+{
+	Origin : 
+		Now now That's for another time! Here, take this.
+		*She holds out a mystical looking blade*
+		See you back in town!
+	Current : 
+		Now now That's for another time! Here, take this.
+		*She holds out a mystical looking blade*
+		See you back in town!
+}
+
+4 :
+{
+	Origin : 
+		Windroo-!... Windroot?
+		...
+		...
+		...
+		What is this beautiful anomoly?...
+	Current : 
+		Windroo-!... Windroot?
+		...
+		...
+		...
+		What is this beautiful anomoly?...
+}
+
+5 :
+{
+	Origin : That's a really cool weapon! Did you use Windroot to make it??? Tell me you have spare Windroot!
+	Current : That's a really cool weapon! Did you use Windroot to make it??? Tell me you have spare Windroot!
+}
+
+6 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+7 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+8 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+9 :
+{
+	Origin : ]
+	Current : ]
+}
+
+10 :
+{
+	Origin : Tell me you have windroot?! That plant is so beautiful!
+	Current : Tell me you have windroot?! That plant is so beautiful!
+}
+
+11 :
+{
+	Origin : [i:
+	Current : [i:
+}
+
+12 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+13 :
+{
+	Origin : ][i:
+	Current : ][i:
+}
+
+14 :
+{
+	Origin : ]
+	Current : ]
+}
+
+15 :
+{
+	Origin : You did have some to spare! I knew I could count on you for these plants!
+	Current : You did have some to spare! I knew I could count on you for these plants!
+}
+
+16 :
+{
+	Origin : You did have windroot! I think we'll get along just fine!
+	Current : You did have windroot! I think we'll get along just fine!
+}
+
+17 :
+{
+	Origin : Windroot! I promise you won't regret giving me this!
+	Current : Windroot! I promise you won't regret giving me this!
+}
+

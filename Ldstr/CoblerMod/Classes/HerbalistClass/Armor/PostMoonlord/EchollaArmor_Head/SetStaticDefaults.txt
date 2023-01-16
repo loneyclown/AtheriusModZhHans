@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Echolla Helmet
+	Current : Echolla Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist crit by 6
+		Every 3rd critical hit starts a leaf storm
+		
+		Armor Set: Spawn a wind orb upon getting hit
+		This will push back all enemies around the area
+	Current : 
+		Increased herbalist crit by 6
+		Every 3rd critical hit starts a leaf storm
+		
+		Armor Set: Spawn a wind orb upon getting hit
+		This will push back all enemies around the area
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		[c/3CE348:Plant Tier: 2]
+		[c/0EA300:Herbalist Class]
+	Current : 
+		[c/3CE348:Plant Tier: 2]
+		[c/0EA300:Herbalist Class]
+}
+

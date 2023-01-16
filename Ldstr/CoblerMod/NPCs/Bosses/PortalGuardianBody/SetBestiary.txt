@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		An ancient guardian for the travelers far and beyond.
+		He wishes to use this world as a new outpost.
+	Current : 
+		An ancient guardian for the travelers far and beyond.
+		He wishes to use this world as a new outpost.
+}
+

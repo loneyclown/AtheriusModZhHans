@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Demon Friend
+	Current : Demon Friend
+}
+
+1 :
+{
+	Origin : Little buddy
+	Current : Little buddy
+}
+

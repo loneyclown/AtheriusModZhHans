@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : FallenServantBody_Head
+	Current : FallenServantBody_Head
+}
+
+1 :
+{
+	Origin : FallenServantBody_Arm
+	Current : FallenServantBody_Arm
+}
+

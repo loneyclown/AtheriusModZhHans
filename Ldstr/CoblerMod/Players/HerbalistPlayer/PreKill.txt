@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : [c/39993A:The squirrel came to your aid yet again]
+	Current : [c/39993A:The squirrel came to your aid yet again]
+}
+

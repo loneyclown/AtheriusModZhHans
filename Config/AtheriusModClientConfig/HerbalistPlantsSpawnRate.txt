@@ -1,0 +1,18 @@
+Header :
+{
+	Origin : Herbalist Config
+	Current : Herbalist Config
+}
+
+Label :
+{
+	Origin : Herbalist Plants Lesser Spawn Rate
+	Current : Herbalist Plants Lesser Spawn Rate
+}
+
+Tooltip :
+{
+	Origin : The higher the number, the lesser chance of Herbalist plants spawning. 1 is the highest spawn rate.
+	Current : The higher the number, the lesser chance of Herbalist plants spawning. 1 is the highest spawn rate.
+}
+

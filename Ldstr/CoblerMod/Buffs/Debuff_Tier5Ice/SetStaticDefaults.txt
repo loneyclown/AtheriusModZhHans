@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Shattered Ice Cooldown
+	Current : Shattered Ice Cooldown
+}
+
+1 :
+{
+	Origin : Cannot use Shattered Ice
+	Current : Cannot use Shattered Ice
+}
+

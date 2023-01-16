@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Curse Grimoire
+	Current : Curse Grimoire
+}
+
+1 :
+{
+	Origin : 
+		This is a magic book!
+		Level it up 5 times by getting a number of kills with this book!
+		Each level will give you a new and stronger skill to use!
+		Damage depends on the level and how many mana the player still has
+	Current : 
+		This is a magic book!
+		Level it up 5 times by getting a number of kills with this book!
+		Each level will give you a new and stronger skill to use!
+		Damage depends on the level and how many mana the player still has
+}
+

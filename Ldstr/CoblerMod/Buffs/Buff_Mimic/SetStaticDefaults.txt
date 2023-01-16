@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Mimic
+	Current : Mimic
+}
+
+1 :
+{
+	Origin : Steal the stats of another entity
+	Current : Steal the stats of another entity
+}
+

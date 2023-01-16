@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Increased magic and ranged damage by 30%
+	Current : Increased magic and ranged damage by 30%
+}
+

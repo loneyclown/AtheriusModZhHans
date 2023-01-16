@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Those hit cannot use magic
+		Gives a lucky buff to the player
+		Increased damage on demons
+		Sword will be much bigger with [c/00FFC0:a certain badge equipped...]
+	Current : 
+		Those hit cannot use magic
+		Gives a lucky buff to the player
+		Increased damage on demons
+		Sword will be much bigger with [c/00FFC0:a certain badge equipped...]
+}
+

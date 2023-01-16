@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Fires water bolts
+		If a player is nearby and has less than 1/5 health,
+		A water dome will spawn around them on use
+		Also soaks enemies
+	Current : 
+		Fires water bolts
+		If a player is nearby and has less than 1/5 health,
+		A water dome will spawn around them on use
+		Also soaks enemies
+}
+

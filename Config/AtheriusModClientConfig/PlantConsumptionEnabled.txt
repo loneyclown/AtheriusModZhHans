@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Enable Plant Consumption
+	Current : Enable Plant Consumption
+}
+
+Tooltip :
+{
+	Origin : Enables plant consumption whenever you hold down right click while holding an herbalist weapon.
+	Current : Enables plant consumption whenever you hold down right click while holding an herbalist weapon.
+}
+

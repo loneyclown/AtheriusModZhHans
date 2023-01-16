@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Aspiscus Chestplate
+	Current : Aspiscus Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist plant drop rate
+		If player is not in the corruption biome, they will take gain 5 more armor
+		Occasionally spawn an explosion around the player
+		Armor Set: Increased herbalist damage based on the biome you're in
+		Corruption and Crimson biome do not harm herbalist damage anymore
+	Current : 
+		Increased herbalist plant drop rate
+		If player is not in the corruption biome, they will take gain 5 more armor
+		Occasionally spawn an explosion around the player
+		Armor Set: Increased herbalist damage based on the biome you're in
+		Corruption and Crimson biome do not harm herbalist damage anymore
+}
+

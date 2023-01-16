@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Teleport to wherever you click
+		Leaving only dust and leaves behind
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Teleport to wherever you click
+		Leaving only dust and leaves behind
+		[c/0EA300:Herbalist Class]
+}
+

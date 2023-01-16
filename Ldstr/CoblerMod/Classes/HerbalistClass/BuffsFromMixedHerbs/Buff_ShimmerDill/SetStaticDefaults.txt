@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Shimmer Dill
+	Current : Shimmer Dill
+}
+
+1 :
+{
+	Origin : 
+		Start shimmering!
+		Player will be granted an extra slot
+		
+	Current : 
+		Start shimmering!
+		Player will be granted an extra slot
+		
+}
+

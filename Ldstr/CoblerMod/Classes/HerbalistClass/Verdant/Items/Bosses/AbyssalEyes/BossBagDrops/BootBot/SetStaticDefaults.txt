@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : B-0OT B0-T
+	Current : B-0OT B0-T
+}
+
+1 :
+{
+	Origin : 
+		Increased summon damage by 25%
+		Increased max number of minions by 5
+		Increased moving speed
+	Current : 
+		Increased summon damage by 25%
+		Increased max number of minions by 5
+		Increased moving speed
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Fallen Servant
+	Current : Fallen Servant
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/FallenServant_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/FallenServant_Bestiary
+}
+

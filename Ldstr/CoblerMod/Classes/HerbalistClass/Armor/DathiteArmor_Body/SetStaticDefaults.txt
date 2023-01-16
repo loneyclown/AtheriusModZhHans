@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Dathite Chestplate
+	Current : Dathite Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased melee crit by 10%
+		Armor Set: Immune to posion
+	Current : 
+		Increased melee crit by 10%
+		Armor Set: Immune to posion
+}
+

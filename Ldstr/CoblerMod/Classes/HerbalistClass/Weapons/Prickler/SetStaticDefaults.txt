@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Prickler
+	Current : Prickler
+}
+
+1 :
+{
+	Origin : 
+		Chance of getting a thorn everytime you hit an enemy
+		Poisons Enemy
+		Leaves fall from the sky
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Chance of getting a thorn everytime you hit an enemy
+		Poisons Enemy
+		Leaves fall from the sky
+		[c/0EA300:Herbalist Class]
+}
+

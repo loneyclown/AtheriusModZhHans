@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Rosa Breastplate
+	Current : Rosa Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 4%
+		Armor Set: Slightly increased defense after consuming an herb
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 4%
+		Armor Set: Slightly increased defense after consuming an herb
+		[c/0EA300:Herbalist Class]
+}
+

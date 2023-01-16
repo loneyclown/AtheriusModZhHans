@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Lingering Shades
+	Current : Lingering Shades
+}
+
+1 :
+{
+	Origin : Color Wheel around player
+	Current : Color Wheel around player
+}
+

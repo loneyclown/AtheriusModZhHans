@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Codename 'St1ng3r', this scorpion does't care much about other living things. it just wants a bunch of bunnies.
+	Current : Codename 'St1ng3r', this scorpion does't care much about other living things. it just wants a bunch of bunnies.
+}
+

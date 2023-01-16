@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increases the max HP of the next critter spawned in by 5
+		This can stack infinitely and will go back to 0 after spawning in the next critter
+		This only applies to the special critters
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increases the max HP of the next critter spawned in by 5
+		This can stack infinitely and will go back to 0 after spawning in the next critter
+		This only applies to the special critters
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Cebalt Chestplate
+	Current : Cebalt Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased minion crit by 8%
+		Armor Set: Decreased mana costs by 10%
+	Current : 
+		Increased minion crit by 8%
+		Armor Set: Decreased mana costs by 10%
+}
+

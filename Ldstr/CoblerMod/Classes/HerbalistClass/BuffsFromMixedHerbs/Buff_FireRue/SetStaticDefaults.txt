@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Fire Rue
+	Current : Fire Rue
+}
+
+1 :
+{
+	Origin : 
+		Become immune to fire
+		Also casts a fire ring around them
+	Current : 
+		Become immune to fire
+		Also casts a fire ring around them
+}
+

@@ -1,0 +1,78 @@
+Content :
+{
+	Origin : Magic is something we are all capable of. And the mana inside each of us has no boundaries.
+	Current : Magic is something we are all capable of. And the mana inside each of us has no boundaries.
+}
+
+DislikeBiome :
+{
+	Origin : What is this biome? I cannot sense anything here with my magic.
+	Current : What is this biome? I cannot sense anything here with my magic.
+}
+
+DislikeCrowded :
+{
+	Origin : There's too many people here. I'm about to start blasting!
+	Current : There's too many people here. I'm about to start blasting!
+}
+
+DislikeNPC :
+{
+	Origin : Blowing up things is not magic. Tell that to Demo Boy over there.
+	Current : Blowing up things is not magic. Tell that to Demo Boy over there.
+}
+
+FarFromHome :
+{
+	Origin : It would appear I took my broom a little too far from home...
+	Current : It would appear I took my broom a little too far from home...
+}
+
+HateBiome :
+{
+	Origin : The magic here is weak and almost unexistant! Next biome please!
+	Current : The magic here is weak and almost unexistant! Next biome please!
+}
+
+HateNPC :
+{
+	Origin : When are we getting ride of R2-PO over there? His mechs are stenching up this place! =(
+	Current : When are we getting ride of R2-PO over there? His mechs are stenching up this place! =(
+}
+
+LikeBiome :
+{
+	Origin : A small but delightful biome. This is what I enjoy.
+	Current : A small but delightful biome. This is what I enjoy.
+}
+
+LikeNPC :
+{
+	Origin : The Dryad is capable of very strong plant magic. Perhaps I should introduce myself...
+	Current : The Dryad is capable of very strong plant magic. Perhaps I should introduce myself...
+}
+
+LoveBiome :
+{
+	Origin : The magic here is strong. And that is exactly where I flourish the most!
+	Current : The magic here is strong. And that is exactly where I flourish the most!
+}
+
+LoveNPC :
+{
+	Origin : There's the wizard! I hope he's able to play catch the wyveryn later today!
+	Current : There's the wizard! I hope he's able to play catch the wyveryn later today!
+}
+
+LoveSpace :
+{
+	Origin : The space here is refreshing. No demons in sight to annoy me either.
+	Current : The space here is refreshing. No demons in sight to annoy me either.
+}
+
+NoHome :
+{
+	Origin : No tower to continue my research in. Better go practice my magic again.
+	Current : No tower to continue my research in. Better go practice my magic again.
+}
+

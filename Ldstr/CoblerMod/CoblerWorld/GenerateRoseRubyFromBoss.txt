@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : [c/FF0000:Rose Ruby begins to grow in your world...]
+	Current : [c/FF0000:Rose Ruby begins to grow in your world...]
+}
+
+1 :
+{
+	Origin : Rose Ruby begins to grow in your world...
+	Current : Rose Ruby begins to grow in your world...
+}
+

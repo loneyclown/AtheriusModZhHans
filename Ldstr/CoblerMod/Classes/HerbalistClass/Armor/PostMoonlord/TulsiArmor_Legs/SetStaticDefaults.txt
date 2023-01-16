@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Tulsi Leggings
+	Current : Tulsi Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased critter life by 75
+		There is a 10% chance for a critter to be resurrected after dying
+		Armor Set: Critters can turn dirt blocks into grass blocks
+	Current : 
+		Increased critter life by 75
+		There is a 10% chance for a critter to be resurrected after dying
+		Armor Set: Critters can turn dirt blocks into grass blocks
+}
+

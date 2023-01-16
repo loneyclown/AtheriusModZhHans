@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Banshee's Skull
+	Current : Banshee's Skull
+}
+

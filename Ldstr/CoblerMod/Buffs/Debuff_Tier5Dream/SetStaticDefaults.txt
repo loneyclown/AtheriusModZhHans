@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Dream World
+	Current : Dream World
+}
+
+1 :
+{
+	Origin : Cannot use Dream World
+	Current : Cannot use Dream World
+}
+

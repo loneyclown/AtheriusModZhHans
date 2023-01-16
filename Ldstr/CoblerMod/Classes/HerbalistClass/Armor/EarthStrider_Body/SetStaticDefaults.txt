@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Earth Strider Breastplate
+	Current : Earth Strider Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased potion bonus for mana and life by 100
+		Increased max life by 100
+		Increased max mana by 60
+		Armor Set: All critters have increased health and all plants / berries heal 10 more HP
+	Current : 
+		Increased potion bonus for mana and life by 100
+		Increased max life by 100
+		Increased max mana by 60
+		Armor Set: All critters have increased health and all plants / berries heal 10 more HP
+}
+

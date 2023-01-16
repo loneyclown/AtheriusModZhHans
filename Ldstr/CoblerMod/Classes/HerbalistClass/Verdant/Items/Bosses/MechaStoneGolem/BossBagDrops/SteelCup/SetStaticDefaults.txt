@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Turn dirt into rocks when stepping on those tiles
+	Current : 
+		Increased generic damage by 10%
+		Turn dirt into rocks when stepping on those tiles
+}
+

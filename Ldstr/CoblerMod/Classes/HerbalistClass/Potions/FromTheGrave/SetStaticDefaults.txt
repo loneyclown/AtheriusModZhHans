@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Shoot a bunch of very strong leaves upon death
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Shoot a bunch of very strong leaves upon death
+		[c/0EA300:Herbalist Class]
+}
+

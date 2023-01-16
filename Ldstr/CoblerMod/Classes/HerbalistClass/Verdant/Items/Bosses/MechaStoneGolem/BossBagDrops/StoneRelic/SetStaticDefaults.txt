@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 10%
+		Enemies around you have a chance to start taking damage
+	Current : 
+		Increased generic damage by 10%
+		Enemies around you have a chance to start taking damage
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires a surge of missiles
+		Also increases the players defense by 5 while being held
+		[c/00FFC0:A weapon from older times, back when it once served]
+	Current : 
+		Fires a surge of missiles
+		Also increases the players defense by 5 while being held
+		[c/00FFC0:A weapon from older times, back when it once served]
+}
+

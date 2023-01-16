@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Nature Whisperer Leggings
+	Current : Nature Whisperer Leggings
+}
+
+1 :
+{
+	Origin : 
+		Passive healing buff increased by 6 HP
+		Armor Set: Critters drop herbalist plants at a faster rate
+	Current : 
+		Passive healing buff increased by 6 HP
+		Armor Set: Critters drop herbalist plants at a faster rate
+}
+

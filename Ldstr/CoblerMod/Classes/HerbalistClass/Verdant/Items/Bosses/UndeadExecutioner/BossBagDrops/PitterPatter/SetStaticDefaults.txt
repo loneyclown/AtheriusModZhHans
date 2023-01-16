@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fires spread of bone arrows
+	Current : Fires spread of bone arrows
+}
+

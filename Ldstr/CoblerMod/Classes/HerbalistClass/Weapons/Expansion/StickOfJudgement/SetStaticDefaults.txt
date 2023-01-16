@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Spawns in strong wind formations
+		These count as herbalist circles
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Spawns in strong wind formations
+		These count as herbalist circles
+		[c/0EA300:Herbalist Class]
+}
+

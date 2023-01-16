@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Severence
+	Current : Severence
+}
+
+1 :
+{
+	Origin : 
+		Shiny stabbies
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Shiny stabbies
+		[c/0EA300:Herbalist Class]
+}
+

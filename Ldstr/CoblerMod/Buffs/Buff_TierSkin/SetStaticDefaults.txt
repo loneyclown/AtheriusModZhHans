@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Skin Magic
+	Current : Skin Magic
+}
+
+1 :
+{
+	Origin : Changes color of skin
+	Current : Changes color of skin
+}
+

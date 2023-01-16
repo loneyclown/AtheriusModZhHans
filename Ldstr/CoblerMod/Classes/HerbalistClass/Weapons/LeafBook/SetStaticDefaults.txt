@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		You're never gonna guess what this book shoots
+		[c/0EA300:Herbalist Class]
+	Current : 
+		You're never gonna guess what this book shoots
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		There's so much in nature
+		And mother loves all
+		But some plants corrupt
+		And dwindle so small
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+	Current : 
+		There's so much in nature
+		And mother loves all
+		But some plants corrupt
+		And dwindle so small
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : JauneBody_Head
+	Current : JauneBody_Head
+}
+
+1 :
+{
+	Origin : JauneBody_Wing
+	Current : JauneBody_Wing
+}
+

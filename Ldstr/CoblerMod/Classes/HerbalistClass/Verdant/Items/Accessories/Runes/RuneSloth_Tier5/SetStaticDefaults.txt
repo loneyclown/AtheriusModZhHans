@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 5)]
+	Current : [c/383842:Rune of] [c/BFA300:Sloth] [c/FFFFFF:(Tier 5)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Magic damage by 18%
+		Spawn more projectiles when using magic items
+		Player can see all traps
+		Immune to Frozen and Slow
+		Any enemy you hit will be slow
+	Current : 
+		Increases Magic damage by 18%
+		Spawn more projectiles when using magic items
+		Player can see all traps
+		Immune to Frozen and Slow
+		Any enemy you hit will be slow
+}
+

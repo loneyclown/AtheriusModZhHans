@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : 
+		The mother of nature
+		How could she be slain?
+		Now plants start to grow more
+		To remember the pain
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+	Current : 
+		The mother of nature
+		How could she be slain?
+		Now plants start to grow more
+		To remember the pain
+		New parts of nature will begin to appear within the trees and various other parts of nature
+		You can enabled and disable the plants by pressing the keybinding
+}
+

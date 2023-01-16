@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		On use, all critters around the player will be killed,
+		Absorbing more power into the Herbalist
+		The more animals, the more damage of the next Herbalist attack
+		Resets to 0 every use. So if you consume a lot of animals, make it count
+		[c/0EA300:Herbalist Class]
+	Current : 
+		On use, all critters around the player will be killed,
+		Absorbing more power into the Herbalist
+		The more animals, the more damage of the next Herbalist attack
+		Resets to 0 every use. So if you consume a lot of animals, make it count
+		[c/0EA300:Herbalist Class]
+}
+

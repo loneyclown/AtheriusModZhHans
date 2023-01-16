@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Jaune
+	Current : Jaune
+}
+
+1 :
+{
+	Origin : Don't get hit by Rouge's or Bleu's projectiles...
+	Current : Don't get hit by Rouge's or Bleu's projectiles...
+}
+

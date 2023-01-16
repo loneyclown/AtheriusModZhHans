@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : V.E.N.O.M.
+	Current : V.E.N.O.M.
+}
+
+1 :
+{
+	Origin : 
+		Visually Enhanced Neon Omni Machete
+		Also comes with a little slot that shoots poison fangs!
+	Current : 
+		Visually Enhanced Neon Omni Machete
+		Also comes with a little slot that shoots poison fangs!
+}
+

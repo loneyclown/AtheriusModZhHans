@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 5%
+		Enemies around the player will potentially get poisoned
+	Current : 
+		Increased generic damage by 5%
+		Enemies around the player will potentially get poisoned
+}
+

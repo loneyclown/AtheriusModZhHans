@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 4)]
+	Current : [c/383842:Rune of] [c/0BE068:Envy] [c/FFFFFF:(Tier 4)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Ranged Damage by 15%
+		Normal bullets and arrows are stronger now
+		Player immune to cursed and slient
+		Increased ranged knockback by 10%
+	Current : 
+		Increases Ranged Damage by 15%
+		Normal bullets and arrows are stronger now
+		Player immune to cursed and slient
+		Increased ranged knockback by 10%
+}
+

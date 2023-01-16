@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Senioress Nature Helmet
+	Current : Senioress Nature Helmet
+}
+
+1 :
+{
+	Origin : 
+		Herbalist weapons increase 15% in size
+		Herbalist knockback increased by 15%
+		Armor Set: herbalist crit is doubled
+	Current : 
+		Herbalist weapons increase 15% in size
+		Herbalist knockback increased by 15%
+		Armor Set: herbalist crit is doubled
+}
+

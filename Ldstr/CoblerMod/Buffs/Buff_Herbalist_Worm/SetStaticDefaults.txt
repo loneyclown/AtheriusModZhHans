@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Worm
+	Current : Worm
+}
+
+1 :
+{
+	Origin : With an herbalist accessory, you get a small trait from the worm
+	Current : With an herbalist accessory, you get a small trait from the worm
+}
+

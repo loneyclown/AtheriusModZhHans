@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Grandpa's Rifle
+	Current : Grandpa's Rifle
+}
+
+1 :
+{
+	Origin : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+	Current : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+}
+

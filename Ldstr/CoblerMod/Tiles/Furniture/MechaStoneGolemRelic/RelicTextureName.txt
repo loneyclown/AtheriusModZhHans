@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/MechaStoneGolemRelic
+	Current : CoblerMod/Tiles/Furniture/MechaStoneGolemRelic
+}
+

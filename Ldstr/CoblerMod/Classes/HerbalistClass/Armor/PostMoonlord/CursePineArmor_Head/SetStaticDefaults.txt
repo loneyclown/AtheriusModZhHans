@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Curse Pine Helmet
+	Current : Curse Pine Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 15%
+		Any enemy above 500 HP will get cursed when hitting you
+		Armor Set: Gain a stat buff based on the biome you're in
+		The number of critters around you also increased the buff's effect
+	Current : 
+		Increased herbalist damage by 15%
+		Any enemy above 500 HP will get cursed when hitting you
+		Armor Set: Gain a stat buff based on the biome you're in
+		The number of critters around you also increased the buff's effect
+}
+

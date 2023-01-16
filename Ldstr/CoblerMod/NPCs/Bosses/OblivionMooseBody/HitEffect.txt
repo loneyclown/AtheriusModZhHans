@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : OblivionMooseBody_Half
+	Current : OblivionMooseBody_Half
+}
+

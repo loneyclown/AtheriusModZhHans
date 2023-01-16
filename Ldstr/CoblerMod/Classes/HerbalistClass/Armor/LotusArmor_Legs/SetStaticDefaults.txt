@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Lotus Leggings
+	Current : Lotus Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased Berry healing bonus by 3
+		Armor Set: Increased Herbalist Damage by 5%
+		For every 100 HP missing
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased Berry healing bonus by 3
+		Armor Set: Increased Herbalist Damage by 5%
+		For every 100 HP missing
+		[c/0EA300:Herbalist Class]
+}
+

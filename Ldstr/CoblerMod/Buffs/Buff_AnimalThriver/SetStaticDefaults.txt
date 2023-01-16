@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Animal Thriver
+	Current : Animal Thriver
+}
+
+1 :
+{
+	Origin : The more animals around, the stronger the herbalist crit
+	Current : The more animals around, the stronger the herbalist crit
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Robotic Bear
+	Current : Robotic Bear
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/RoboticBear_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/RoboticBear_Bestiary
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Legil Helmet
+	Current : Legil Helmet
+}
+
+1 :
+{
+	Origin : Increased generic knockback by 5%
+	Current : Increased generic knockback by 5%
+}
+

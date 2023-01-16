@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Upon what would've been a guaranteed death,
+		The player would recover with 10% of their max HP
+		Note: while the buff icon will only show for 10 seconds,
+		it will last as long as the player is alive
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Upon what would've been a guaranteed death,
+		The player would recover with 10% of their max HP
+		Note: while the buff icon will only show for 10 seconds,
+		it will last as long as the player is alive
+		[c/0EA300:Herbalist Class]
+}
+

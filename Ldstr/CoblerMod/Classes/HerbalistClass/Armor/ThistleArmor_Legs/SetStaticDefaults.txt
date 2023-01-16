@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Thistle Leggings
+	Current : Thistle Leggings
+}
+
+1 :
+{
+	Origin : 
+		10% Increased herbalist damage
+		Armor Set: Consuming an herb grants the player 40 temporary mana
+		[c/0EA300:Herbalist Class]
+	Current : 
+		10% Increased herbalist damage
+		Armor Set: Consuming an herb grants the player 40 temporary mana
+		[c/0EA300:Herbalist Class]
+}
+

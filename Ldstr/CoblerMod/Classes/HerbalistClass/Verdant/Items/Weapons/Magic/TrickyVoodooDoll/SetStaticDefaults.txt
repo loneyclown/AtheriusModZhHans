@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Right click to change between NPCs
+		They must be visible on your screen
+		You can also only switch between 2 NPCs at a time
+		Use the item to stab the voodoo doll
+		That NPC will begin losing health
+	Current : 
+		Right click to change between NPCs
+		They must be visible on your screen
+		You can also only switch between 2 NPCs at a time
+		Use the item to stab the voodoo doll
+		That NPC will begin losing health
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Portal Guardian
+	Current : Portal Guardian
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/PortalGuardian_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/PortalGuardian_Bestiary
+}
+

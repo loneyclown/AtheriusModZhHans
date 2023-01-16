@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Gain the thorns buff upon hitting enemies
+	Current : Gain the thorns buff upon hitting enemies
+}
+

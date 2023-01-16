@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Custom swing animation
+		Enemies start bleeding when they get hit
+		When you hit an enemy, an extra projectile will target any nearby enemeis
+	Current : 
+		Custom swing animation
+		Enemies start bleeding when they get hit
+		When you hit an enemy, an extra projectile will target any nearby enemeis
+}
+

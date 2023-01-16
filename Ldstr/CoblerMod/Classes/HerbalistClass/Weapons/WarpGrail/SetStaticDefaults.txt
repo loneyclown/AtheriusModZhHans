@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Warps enemies straight up
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Warps enemies straight up
+		[c/0EA300:Herbalist Class]
+}
+

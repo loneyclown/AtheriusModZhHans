@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : The final piece of hope is lost. The remaining eye blinks once and drfts off...
+	Current : The final piece of hope is lost. The remaining eye blinks once and drfts off...
+}
+

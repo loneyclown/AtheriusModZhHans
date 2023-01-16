@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Catalina Helmet
+	Current : Catalina Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increases the scale of all herbalist items
+		Increased max life by 50
+		Armor Set: All herbalist plants have a 2x drop rate
+	Current : 
+		Increases the scale of all herbalist items
+		Increased max life by 50
+		Armor Set: All herbalist plants have a 2x drop rate
+}
+

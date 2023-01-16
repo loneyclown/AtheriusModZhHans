@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Hero's Carbine
+	Current : Hero's Carbine
+}
+
+1 :
+{
+	Origin : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+	Current : 
+		Sniper Class
+		Middle click with it to enter sniper mode
+}
+

@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Astral Weaver
+	Current : Astral Weaver
+}
+
+1 :
+{
+	Origin : 
+		A weapon passed down for generations in the galaxy. 
+		It is known to have slaughtered countless leaders. 
+		
+		[c/00FFC0:Perhaps another boss is now at stake?]
+	Current : 
+		A weapon passed down for generations in the galaxy. 
+		It is known to have slaughtered countless leaders. 
+		
+		[c/00FFC0:Perhaps another boss is now at stake?]
+}
+

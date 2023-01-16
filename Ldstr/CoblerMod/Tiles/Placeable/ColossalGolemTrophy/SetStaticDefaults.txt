@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Colossal Golem Trophy
+	Current : Colossal Golem Trophy
+}
+

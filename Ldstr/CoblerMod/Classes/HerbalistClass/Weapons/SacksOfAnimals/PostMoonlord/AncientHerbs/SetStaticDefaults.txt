@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Fires poison saplings
+		Occasionally spawns in a poison gas cloud that comsumes the air
+		Also may bring in 'Dr. Nox' from time to time
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Fires poison saplings
+		Occasionally spawns in a poison gas cloud that comsumes the air
+		Also may bring in 'Dr. Nox' from time to time
+		[c/0EA300:Herbalist Class]
+}
+

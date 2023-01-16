@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Earth Strider Helmet
+	Current : Earth Strider Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased life for all critters
+		Increased drop rate for potions and plants from critters
+		Armor Set: All critters have increased life regen and all plants / berries heal 10 more HP
+	Current : 
+		Increased life for all critters
+		Increased drop rate for potions and plants from critters
+		Armor Set: All critters have increased life regen and all plants / berries heal 10 more HP
+}
+

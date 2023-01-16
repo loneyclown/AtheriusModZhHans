@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Senior Nature Breastplate
+	Current : Senior Nature Breastplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 8%
+		Critters drop herbalist plants at a faster rate
+		Armor Set: berries heal an additional 10 HP
+	Current : 
+		Increased herbalist damage by 8%
+		Critters drop herbalist plants at a faster rate
+		Armor Set: berries heal an additional 10 HP
+}
+

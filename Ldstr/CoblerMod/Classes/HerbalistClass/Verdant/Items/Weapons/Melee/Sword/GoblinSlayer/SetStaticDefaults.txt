@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Deals 2x damage to goblins
+	Current : Deals 2x damage to goblins
+}
+

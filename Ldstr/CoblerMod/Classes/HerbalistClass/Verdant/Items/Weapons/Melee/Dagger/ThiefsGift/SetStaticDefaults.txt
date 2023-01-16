@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Thief's Gift
+	Current : Thief's Gift
+}
+
+1 :
+{
+	Origin : Chance to get a gold coin on each hit
+	Current : Chance to get a gold coin on each hit
+}
+

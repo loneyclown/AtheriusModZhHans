@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : 
+		Increased herbalist healing passive by 15
+		Increased herbalist healing bonus by 100 HP
+		
+		Increased herbalist resource by 125
+		Increased herbalist resource regen by 100%
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist healing passive by 15
+		Increased herbalist healing bonus by 100 HP
+		
+		Increased herbalist resource by 125
+		Increased herbalist resource regen by 100%
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+}
+

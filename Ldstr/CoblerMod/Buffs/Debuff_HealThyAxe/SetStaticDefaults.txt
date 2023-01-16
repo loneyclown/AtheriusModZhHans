@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Heal Thy Axe
+	Current : Heal Thy Axe
+}
+
+1 :
+{
+	Origin : Using a weapon from the heart grimoire
+	Current : Using a weapon from the heart grimoire
+}
+

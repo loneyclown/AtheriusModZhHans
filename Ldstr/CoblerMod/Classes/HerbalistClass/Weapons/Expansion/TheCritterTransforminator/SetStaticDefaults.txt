@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Transform enemy NPCs into furry little critters!
+		Works only on zombies and skeletons
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Transform enemy NPCs into furry little critters!
+		Works only on zombies and skeletons
+		[c/0EA300:Herbalist Class]
+}
+

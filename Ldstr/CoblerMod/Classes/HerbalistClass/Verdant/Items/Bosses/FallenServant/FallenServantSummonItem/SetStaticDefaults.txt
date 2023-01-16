@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Curious Gem
+	Current : Curious Gem
+}
+
+1 :
+{
+	Origin : Summons Fallen Servant
+	Current : Summons Fallen Servant
+}
+

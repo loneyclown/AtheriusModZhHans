@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Chaotic Leggings
+	Current : Chaotic Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased melee knockback by 12%
+		Armor Set: Increased attack speed by 15%
+	Current : 
+		Increased melee knockback by 12%
+		Armor Set: Increased attack speed by 15%
+}
+

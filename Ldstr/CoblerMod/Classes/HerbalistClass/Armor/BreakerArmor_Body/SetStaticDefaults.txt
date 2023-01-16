@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Breaker Chestplate
+	Current : Breaker Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased ranged attack speed by 10%
+		Armor Set: Increased ranged knockback by 25%
+	Current : 
+		Increased ranged attack speed by 10%
+		Armor Set: Increased ranged knockback by 25%
+}
+

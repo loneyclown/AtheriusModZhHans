@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Increased herbalist passive healing by 2
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist passive healing by 2
+		Player gains the ability to redirect all leaf projectiles,
+		Changing their AI style
+		[c/0EA300:Herbalist Class]
+}
+

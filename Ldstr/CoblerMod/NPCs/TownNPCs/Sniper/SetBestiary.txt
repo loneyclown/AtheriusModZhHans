@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		He shushes you more often than not.
+		He's not being rude. He's just always listening to his surroundings.
+	Current : 
+		He shushes you more often than not.
+		He's not being rude. He's just always listening to his surroundings.
+}
+
+1 :
+{
+	Origin : Mods.CoblerMod.NPCs.Sniper
+	Current : Mods.CoblerMod.NPCs.Sniper
+}
+

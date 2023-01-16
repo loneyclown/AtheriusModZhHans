@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased generic damage by 20%
+		Incresed attack speed by 15%
+		Any NPC that touches you will die instantly
+		This does not include bosses
+		[c/AE1A0D:You've nearly touched death. Now you are capable of it]
+	Current : 
+		Increased generic damage by 20%
+		Incresed attack speed by 15%
+		Any NPC that touches you will die instantly
+		This does not include bosses
+		[c/AE1A0D:You've nearly touched death. Now you are capable of it]
+}
+

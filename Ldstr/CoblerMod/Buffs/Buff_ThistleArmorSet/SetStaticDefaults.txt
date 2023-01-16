@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Thistle Armor Buff
+	Current : Thistle Armor Buff
+}
+
+1 :
+{
+	Origin : Slightly increased mana
+	Current : Slightly increased mana
+}
+

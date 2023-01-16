@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Fires multiple rapid shots
+		It builds up in speed over time
+	Current : 
+		Fires multiple rapid shots
+		It builds up in speed over time
+}
+

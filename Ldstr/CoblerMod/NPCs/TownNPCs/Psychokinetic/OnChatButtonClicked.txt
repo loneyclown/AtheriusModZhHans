@@ -1,0 +1,126 @@
+0 :
+{
+	Origin : [c/AE0EC7:Your psychokinesis level is 
+	Current : [c/AE0EC7:Your psychokinesis level is 
+}
+
+1 :
+{
+	Origin : 
+		]
+		
+	Current : 
+		]
+		
+}
+
+2 :
+{
+	Origin : 
+		[c/AE0EC7:You have maxed out your psychokinesis abilities]
+		
+	Current : 
+		[c/AE0EC7:You have maxed out your psychokinesis abilities]
+		
+}
+
+3 :
+{
+	Origin : [c/AE0EC7:You have also consumed 
+	Current : [c/AE0EC7:You have also consumed 
+}
+
+4 :
+{
+	Origin : Psycho Frags]
+	Current : Psycho Frags]
+}
+
+5 :
+{
+	Origin : [c/AE0EC7:Your psychokinesis level is 
+	Current : [c/AE0EC7:Your psychokinesis level is 
+}
+
+6 :
+{
+	Origin : 
+		]
+		
+	Current : 
+		]
+		
+}
+
+7 :
+{
+	Origin : [c/AE0EC7:You need 
+	Current : [c/AE0EC7:You need 
+}
+
+8 :
+{
+	Origin : 
+		 ]
+	Current : 
+		 ]
+}
+
+9 :
+{
+	Origin : 
+		[c/AE0EC7:more kills/uses to level it up]
+		
+	Current : 
+		[c/AE0EC7:more kills/uses to level it up]
+		
+}
+
+10 :
+{
+	Origin : [c/AE0EC7:You have also consumed 
+	Current : [c/AE0EC7:You have also consumed 
+}
+
+11 :
+{
+	Origin : Psycho Frags]
+	Current : Psycho Frags]
+}
+
+12 :
+{
+	Origin : 
+		Oh? I see you've found one of the Amethyst Copaburtonite Psychokinetic Fragments...
+		I just call them Psycho Frags for shot...
+		Well, you seem like you have the potential.
+		Continue finding these and giving them to me. In return your mind will become stronger.
+	Current : 
+		Oh? I see you've found one of the Amethyst Copaburtonite Psychokinetic Fragments...
+		I just call them Psycho Frags for shot...
+		Well, you seem like you have the potential.
+		Continue finding these and giving them to me. In return your mind will become stronger.
+}
+
+13 :
+{
+	Origin : 
+		Another Psycho Frag I see.
+		Very well. May your mind grow stronger.
+	Current : 
+		Another Psycho Frag I see.
+		Very well. May your mind grow stronger.
+}
+
+14 :
+{
+	Origin : 
+		Fine. But this does not make me some fortune teller. I'm just repeating what you are really thinking about.
+		... [c/B97BC3:...] [c/B648C7:...]
+		
+	Current : 
+		Fine. But this does not make me some fortune teller. I'm just repeating what you are really thinking about.
+		... [c/B97BC3:...] [c/B648C7:...]
+		
+}
+

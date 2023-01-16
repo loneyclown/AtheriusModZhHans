@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Herbalist Shield
+	Current : Herbalist Shield
+}
+
+1 :
+{
+	Origin : Cannot get back your shield while this debuff is active
+	Current : Cannot get back your shield while this debuff is active
+}
+

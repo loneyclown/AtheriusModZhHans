@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : CoblerMod/Tiles/Furniture/RoboticBearRelic
+	Current : CoblerMod/Tiles/Furniture/RoboticBearRelic
+}
+

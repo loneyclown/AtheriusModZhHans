@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : CoblerMod/UI/HerbalistResourceBarFrame
+	Current : CoblerMod/UI/HerbalistResourceBarFrame
+}
+
+1 :
+{
+	Origin : 0/0
+	Current : 0/0
+}
+

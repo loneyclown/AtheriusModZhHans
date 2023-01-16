@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased magic damage by 10%
+		Immune to on fire debuff
+	Current : 
+		Increased magic damage by 10%
+		Immune to on fire debuff
+}
+

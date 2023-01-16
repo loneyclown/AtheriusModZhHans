@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Explosion Staff
+	Current : Explosion Staff
+}
+
+1 :
+{
+	Origin : EXPLOSION
+	Current : EXPLOSION
+}
+

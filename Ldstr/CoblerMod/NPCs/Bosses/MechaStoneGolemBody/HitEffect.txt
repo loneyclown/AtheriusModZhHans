@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : MechaStoneGolemBody_Body
+	Current : MechaStoneGolemBody_Body
+}
+
+1 :
+{
+	Origin : MechaStoneGolemBody_Arm
+	Current : MechaStoneGolemBody_Arm
+}
+

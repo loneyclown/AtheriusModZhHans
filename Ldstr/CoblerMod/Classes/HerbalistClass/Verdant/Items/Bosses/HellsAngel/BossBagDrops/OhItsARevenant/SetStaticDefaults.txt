@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Oh Heck It's A Revenant!
+	Current : Oh Heck It's A Revenant!
+}
+
+1 :
+{
+	Origin : 
+		Increased melee damage by 35%
+		Increased melee crit and knockback by 10%
+		Whenever an enemy is visible, [c/AE1A0D:you gain the urge to charge at them]
+		You will pick up 10% in movement and attack speed for every enemy on your screen
+		If there are a lot of enemies, there is a lot of speed
+	Current : 
+		Increased melee damage by 35%
+		Increased melee crit and knockback by 10%
+		Whenever an enemy is visible, [c/AE1A0D:you gain the urge to charge at them]
+		You will pick up 10% in movement and attack speed for every enemy on your screen
+		If there are a lot of enemies, there is a lot of speed
+}
+

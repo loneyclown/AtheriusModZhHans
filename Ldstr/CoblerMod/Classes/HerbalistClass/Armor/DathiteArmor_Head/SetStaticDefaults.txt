@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Dathite Helmet
+	Current : Dathite Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased melee knockback by 10%
+		Armor Set: Immune to posion
+	Current : 
+		Increased melee knockback by 10%
+		Armor Set: Immune to posion
+}
+

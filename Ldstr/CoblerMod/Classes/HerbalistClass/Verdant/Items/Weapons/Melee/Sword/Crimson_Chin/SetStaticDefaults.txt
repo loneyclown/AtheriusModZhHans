@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Crimson Chin
+	Current : Crimson Chin
+}
+
+1 :
+{
+	Origin : You need to chant the tune everytime you swing it.
+	Current : You need to chant the tune everytime you swing it.
+}
+

@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : 
+		Increased herbalist resource by 100
+		
+		Increased herbalist resource regen rate by 25%
+		Doubles herbalist knockback
+		For every piece of wood in the players inventory,
+		herbalist damage is increased by 0.003%
+		(1 full stack of 999 = ~3 damage increase)
+		This only applies to normal wood
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist resource by 100
+		
+		Increased herbalist resource regen rate by 25%
+		Doubles herbalist knockback
+		For every piece of wood in the players inventory,
+		herbalist damage is increased by 0.003%
+		(1 full stack of 999 = ~3 damage increase)
+		This only applies to normal wood
+		[c/0EA300:Herbalist Class]
+}
+

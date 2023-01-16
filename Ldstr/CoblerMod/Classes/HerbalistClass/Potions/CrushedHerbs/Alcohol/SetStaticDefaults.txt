@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Nice job herbalist. You now know which plants are alcoholic
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Nice job herbalist. You now know which plants are alcoholic
+		[c/0EA300:Herbalist Class]
+}
+

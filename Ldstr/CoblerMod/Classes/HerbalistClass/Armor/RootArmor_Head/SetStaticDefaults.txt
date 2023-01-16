@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Root Helmet
+	Current : Root Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased max health by 25
+		Armor Set: Increased herbalist damage by 6%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased max health by 25
+		Armor Set: Increased herbalist damage by 6%
+		[c/0EA300:Herbalist Class]
+}
+

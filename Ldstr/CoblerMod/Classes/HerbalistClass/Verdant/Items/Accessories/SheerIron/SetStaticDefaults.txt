@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Player is immune to knockback
+		Increase knockback by 10%
+	Current : 
+		Player is immune to knockback
+		Increase knockback by 10%
+}
+

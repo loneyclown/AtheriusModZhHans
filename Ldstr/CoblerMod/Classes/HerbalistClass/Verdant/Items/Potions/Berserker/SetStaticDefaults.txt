@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Berserker Potion
+	Current : Berserker Potion
+}
+
+1 :
+{
+	Origin : Gives the berserker buff.
+	Current : Gives the berserker buff.
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Treasure Bag
+	Current : Treasure Bag
+}
+
+1 :
+{
+	Origin : {$CommonItemTooltip.RightClickToOpen}
+	Current : {$CommonItemTooltip.RightClickToOpen}
+}
+

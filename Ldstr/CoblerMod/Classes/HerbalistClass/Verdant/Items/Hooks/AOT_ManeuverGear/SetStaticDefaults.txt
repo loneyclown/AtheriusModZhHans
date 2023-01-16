@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Maneuver Gear (Grappling Hook)
+	Current : Maneuver Gear (Grappling Hook)
+}
+
+1 :
+{
+	Origin : 
+		OP starts up...
+		Fires two hooks and has a strong pull
+		Good hook for getting places quickly
+		Also allows for wall climbing
+	Current : 
+		OP starts up...
+		Fires two hooks and has a strong pull
+		Good hook for getting places quickly
+		Also allows for wall climbing
+}
+

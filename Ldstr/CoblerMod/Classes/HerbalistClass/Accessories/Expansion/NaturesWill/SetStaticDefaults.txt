@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Nature's Will
+	Current : Nature's Will
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Slight increase in herbalist crit
+		When the player walks near a tree, the tree will fire leaves at nearby enemies
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Slight increase in herbalist crit
+		When the player walks near a tree, the tree will fire leaves at nearby enemies
+		[c/0EA300:Herbalist Class]
+}
+

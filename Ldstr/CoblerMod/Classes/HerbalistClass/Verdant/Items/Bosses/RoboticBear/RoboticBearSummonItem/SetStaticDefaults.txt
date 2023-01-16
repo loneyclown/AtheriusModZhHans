@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Mysterious Badge
+	Current : Mysterious Badge
+}
+
+1 :
+{
+	Origin : Summons Robotic Bear
+	Current : Summons Robotic Bear
+}
+

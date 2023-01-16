@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Herbalist Seeds
+	Current : Herbalist Seeds
+}
+
+1 :
+{
+	Origin : 
+		Place these in the world
+		Once grown, they will give small buffs to the herbalist class
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Place these in the world
+		Once grown, they will give small buffs to the herbalist class
+		[c/0EA300:Herbalist Class]
+}
+

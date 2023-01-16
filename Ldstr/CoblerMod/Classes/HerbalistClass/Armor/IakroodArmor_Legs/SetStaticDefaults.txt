@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Iakrood Leggings
+	Current : Iakrood Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased Herbalist passive healing by 5
+		Armor Set: Increased jump speed and height
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased Herbalist passive healing by 5
+		Armor Set: Increased jump speed and height
+		[c/0EA300:Herbalist Class]
+}
+

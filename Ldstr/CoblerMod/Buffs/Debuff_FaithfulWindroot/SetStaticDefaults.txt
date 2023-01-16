@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Faithful Windroot Cooldown
+	Current : Faithful Windroot Cooldown
+}
+
+1 :
+{
+	Origin : Cannot use Faithful Windroot skill
+	Current : Cannot use Faithful Windroot skill
+}
+

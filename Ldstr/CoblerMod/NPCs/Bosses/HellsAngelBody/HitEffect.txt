@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : HellsAngelBody_Arm
+	Current : HellsAngelBody_Arm
+}
+
+1 :
+{
+	Origin : HellsAngelBody_Head
+	Current : HellsAngelBody_Head
+}
+
+2 :
+{
+	Origin : HellsAngelBody_Wing
+	Current : HellsAngelBody_Wing
+}
+

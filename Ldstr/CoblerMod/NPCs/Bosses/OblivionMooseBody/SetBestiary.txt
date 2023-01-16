@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		One of the old legends that came around even before myths like the chupacabra.
+		The Oblivion Moose had been known to erupt entire meadows up in flames with it's bright gem.
+	Current : 
+		One of the old legends that came around even before myths like the chupacabra.
+		The Oblivion Moose had been known to erupt entire meadows up in flames with it's bright gem.
+}
+

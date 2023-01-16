@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Trees do more damage when firing leaves
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Trees do more damage when firing leaves
+		[c/0EA300:Herbalist Class]
+}
+

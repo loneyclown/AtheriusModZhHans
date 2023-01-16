@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Blade of the Heavens
+	Current : Blade of the Heavens
+}
+
+1 :
+{
+	Origin : 
+		Every swing sends down heaven's wrath
+		[c/00FFC0:A weapon crafted for the Gods]
+	Current : 
+		Every swing sends down heaven's wrath
+		[c/00FFC0:A weapon crafted for the Gods]
+}
+

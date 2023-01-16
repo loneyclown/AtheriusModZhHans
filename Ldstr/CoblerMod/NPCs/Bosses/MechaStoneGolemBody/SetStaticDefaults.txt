@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Mecha Stone Golem
+	Current : Mecha Stone Golem
+}
+
+1 :
+{
+	Origin : CoblerMod/NPCs/Bestiary/MechaStoneGolem_Bestiary
+	Current : CoblerMod/NPCs/Bestiary/MechaStoneGolem_Bestiary
+}
+

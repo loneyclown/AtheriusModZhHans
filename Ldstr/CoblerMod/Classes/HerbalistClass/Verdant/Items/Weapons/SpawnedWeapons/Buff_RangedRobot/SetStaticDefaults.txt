@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Ranged Robot
+	Current : Ranged Robot
+}
+
+1 :
+{
+	Origin : Pew pew
+	Current : Pew pew
+}
+

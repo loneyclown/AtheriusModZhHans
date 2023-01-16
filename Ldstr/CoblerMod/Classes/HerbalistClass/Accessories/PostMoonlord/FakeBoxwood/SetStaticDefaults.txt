@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : 
+		Increased herbalist damage by 15%
+		Increase in herbalist crit by 8
+		If the player is on the ground, all hostile projectiles will be
+		intercepted by a rock formation popping up, protecting the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 15%
+		Increase in herbalist crit by 8
+		If the player is on the ground, all hostile projectiles will be
+		intercepted by a rock formation popping up, protecting the player
+		[c/0EA300:Herbalist Class]
+}
+

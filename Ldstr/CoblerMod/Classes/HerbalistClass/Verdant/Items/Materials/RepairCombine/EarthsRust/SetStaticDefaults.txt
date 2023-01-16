@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Earth's Rust
+	Current : Earth's Rust
+}
+
+1 :
+{
+	Origin : I wonder what this is for...
+	Current : I wonder what this is for...
+}
+

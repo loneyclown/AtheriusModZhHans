@@ -1,0 +1,288 @@
+AbyssalEyeOfDespairBody :
+{
+	Origin : Abyssal Eye Of Despair
+	Current : 深渊绝望之眼
+}
+
+AbyssalEyeOfHopeBody :
+{
+	Origin : Abyssal Eye Of Hope
+	Current : 深渊的希望之眼
+}
+
+AquaMagiBody :
+{
+	Origin : Aqua Magi
+	Current : 水魔法师
+}
+
+Banshee :
+{
+	Origin : Banshee
+	Current : 女妖
+}
+
+BleuBody :
+{
+	Origin : Bleu
+	Current : 布勒
+}
+
+BloodBird :
+{
+	Origin : Blood Bird
+	Current : 血鸟
+}
+
+BullFrog :
+{
+	Origin : Bull Frog
+	Current : 牛蛙
+}
+
+ChaosDuck :
+{
+	Origin : Chaos Duck
+	Current : 混沌鸭
+}
+
+ColossalGolemBody :
+{
+	Origin : Colossal Golem
+	Current : 巨型魔像
+}
+
+FallenServantBody :
+{
+	Origin : Fallen Servant
+	Current : 堕落的仆人
+}
+
+FlamingExarchBody :
+{
+	Origin : Flaming Exarch
+	Current : 火焰君主
+}
+
+ForgottenBladesman :
+{
+	Origin : Forgotten Bladesman
+	Current : 被遗忘的剑客
+}
+
+ForgottenBladesmaster :
+{
+	Origin : Forgotten Bladesmaster
+	Current : 被遗忘的剑术大师
+}
+
+GolemBossMinion :
+{
+	Origin : Colossal Golem Minion
+	Current : 巨型傀儡仆从
+}
+
+HellsAngelBody :
+{
+	Origin : Hell's Angel
+	Current : 地狱天使
+}
+
+Herbalist :
+{
+	Origin : Herbalist
+	Current : 药师
+}
+
+JauneBody :
+{
+	Origin : Jaune
+	Current : 佳娜
+}
+
+KamikazeBird :
+{
+	Origin : Kamikaze Bird
+	Current : 敢死鸟
+}
+
+LovingBunny :
+{
+	Origin : Loving Bunny
+	Current : 可爱兔
+}
+
+MageSquirrel :
+{
+	Origin : Mage Squirrel
+	Current : 松鼠法师
+}
+
+MarksmanPenguin :
+{
+	Origin : Marksman Penguin
+	Current : 企鹅射手
+}
+
+MechaStoneGolemBody :
+{
+	Origin : Mecha Stone Golem
+	Current : 人型投石机
+}
+
+MilitiaBunny :
+{
+	Origin : Militia Bunny
+	Current : 民兵兔
+}
+
+OblivionMooseBody :
+{
+	Origin : Oblivion Moose
+	Current : 遗忘驼鹿
+}
+
+PixieButterfly :
+{
+	Origin : Pixie Butterfly
+	Current : 蝴蝶精灵
+}
+
+PoisonDartFrog :
+{
+	Origin : Poison Dart Frog
+	Current : 毒箭蛙
+}
+
+PortalGuardianBody :
+{
+	Origin : Portal Guardian
+	Current : 守门人
+}
+
+PortalGuardianServant :
+{
+	Origin : Servant
+	Current : 仆从
+}
+
+PsychoDuck :
+{
+	Origin : Psycho Duck
+	Current : 神志不清的鸭子
+}
+
+Psychokinetic :
+{
+	Origin : Psychokinetic
+	Current : 心灵致动
+}
+
+Reaper :
+{
+	Origin : Reaper
+	Current : 收割者
+}
+
+Revenant :
+{
+	Origin : Revenant
+	Current : 归来者
+}
+
+RoboticBearBody :
+{
+	Origin : Robotic Bear
+	Current : 机器熊
+}
+
+RougeBody :
+{
+	Origin : Rouge
+	Current : 胭脂
+}
+
+RuneSmith :
+{
+	Origin : Rune Smith
+	Current : 鲁恩·史密斯
+}
+
+SacrificialSquirrel :
+{
+	Origin : Nibbles
+	Current : 小不点
+}
+
+Shadow :
+{
+	Origin : Shadow
+	Current : 阴影
+}
+
+ShieldTurtle :
+{
+	Origin : Shield Turtle
+	Current : 盾龟
+}
+
+Sniper :
+{
+	Origin : Sniper
+	Current : 狙击手
+}
+
+SnowPenguin :
+{
+	Origin : Snow Penguin
+	Current : 雪企鹅
+}
+
+Sorcerer :
+{
+	Origin : Sorcerer
+	Current : 男巫
+}
+
+Spirit :
+{
+	Origin : Spirit
+	Current : 仙子
+}
+
+TransformationScorpion :
+{
+	Origin : St1ng3r
+	Current : 第三级
+}
+
+UndeadExecutionerBody :
+{
+	Origin : Undead Executioner
+	Current : 亡灵刽子手
+}
+
+UniversalSquirrel :
+{
+	Origin : Universal Squirrel
+	Current : 普通松鼠
+}
+
+VerdantSquirrel :
+{
+	Origin : Verdant Squirrel
+	Current : 碧绿松鼠
+}
+
+VoidScorpion :
+{
+	Origin : Void Scorpion
+	Current : 虚空蝎子
+}
+
+WordBunny :
+{
+	Origin : Snowball
+	Current : 雪球
+}
+

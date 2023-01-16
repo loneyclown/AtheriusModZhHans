@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		This ancient being has been known to fire fireballs at fires despite being told that it would be fired
+		as a result. Now it's on fire when it comes to burning its enemies...
+		
+		It also is really good at baking I hear!
+	Current : 
+		This ancient being has been known to fire fireballs at fires despite being told that it would be fired
+		as a result. Now it's on fire when it comes to burning its enemies...
+		
+		It also is really good at baking I hear!
+}
+

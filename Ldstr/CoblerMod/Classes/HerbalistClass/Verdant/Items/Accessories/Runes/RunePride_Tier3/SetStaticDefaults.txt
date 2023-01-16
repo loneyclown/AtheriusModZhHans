@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 3)]
+	Current : [c/383842:Rune of] [c/E39414:Pride] [c/FFFFFF:(Tier 3)]
+}
+
+1 :
+{
+	Origin : 
+		Increases Summon damage by 12%
+		Increased max number of minions by 1
+		Max Life slightly increased
+	Current : 
+		Increases Summon damage by 12%
+		Increased max number of minions by 1
+		Max Life slightly increased
+}
+

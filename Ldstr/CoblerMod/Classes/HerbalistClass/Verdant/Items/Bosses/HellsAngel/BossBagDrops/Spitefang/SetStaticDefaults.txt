@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		Fires a surge of blood arrows
+		On contact the enemy might begin losing blood and fast
+		Player will also heal whenever this happens
+	Current : 
+		Fires a surge of blood arrows
+		On contact the enemy might begin losing blood and fast
+		Player will also heal whenever this happens
+}
+

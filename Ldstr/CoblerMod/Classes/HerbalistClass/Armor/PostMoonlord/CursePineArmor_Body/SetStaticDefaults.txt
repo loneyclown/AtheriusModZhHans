@@ -1,0 +1,22 @@
+0 :
+{
+	Origin : Curse Pine Chestplate
+	Current : Curse Pine Chestplate
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist knockback by 15%
+		Increased herbalist healing by 100
+		Chance to spawn in a wind guardian whenever you get hit
+		Armor Set: Gain a stat buff based on the biome you're in
+		The number of critters around you also increased the buff's effect
+	Current : 
+		Increased herbalist knockback by 15%
+		Increased herbalist healing by 100
+		Chance to spawn in a wind guardian whenever you get hit
+		Armor Set: Gain a stat buff based on the biome you're in
+		The number of critters around you also increased the buff's effect
+}
+

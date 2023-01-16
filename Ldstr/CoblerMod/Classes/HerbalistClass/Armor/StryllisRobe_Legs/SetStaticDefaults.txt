@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Stryllis Legging
+	Current : Stryllis Legging
+}
+
+1 :
+{
+	Origin : 
+		Increased max run speed
+		Armor Set: Increase herbalist damage by 25%
+	Current : 
+		Increased max run speed
+		Armor Set: Increase herbalist damage by 25%
+}
+

@@ -1,0 +1,48 @@
+0 :
+{
+	Origin : 
+		This weapon will get stronger after beating Moonlord
+		And then again after beating the Portal Guardian
+		Now critters will turn into [c/1DD4F5:spirits] after death
+		As long as this weapon stays in the players inventory
+		These [c/1DD4F5:spirits] will give one final charge at the enemy
+		Additionally, once you beat the moon lord, right click to start charging up
+		All trees and grass around you will be [c/0EA300:consumed]
+		The more [c/0EA300:consumed], the more [c/800606:powerful]
+		Through those 5 seconds of consumption, [c/800606:havoc] will spread
+		
+	Current : 
+		This weapon will get stronger after beating Moonlord
+		And then again after beating the Portal Guardian
+		Now critters will turn into [c/1DD4F5:spirits] after death
+		As long as this weapon stays in the players inventory
+		These [c/1DD4F5:spirits] will give one final charge at the enemy
+		Additionally, once you beat the moon lord, right click to start charging up
+		All trees and grass around you will be [c/0EA300:consumed]
+		The more [c/0EA300:consumed], the more [c/800606:powerful]
+		Through those 5 seconds of consumption, [c/800606:havoc] will spread
+		
+}
+
+1 :
+{
+	Origin : [c/800606:The herbalist always did love her Windroots...] [i:
+	Current : [c/800606:The herbalist always did love her Windroots...] [i:
+}
+
+2 :
+{
+	Origin : 
+		]
+		
+	Current : 
+		]
+		
+}
+
+3 :
+{
+	Origin : [c/0EA300:Herbalist Class]
+	Current : [c/0EA300:Herbalist Class]
+}
+

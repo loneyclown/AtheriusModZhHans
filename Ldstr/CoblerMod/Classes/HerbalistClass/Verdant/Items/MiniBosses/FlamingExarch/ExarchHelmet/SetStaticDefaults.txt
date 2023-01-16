@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Increased defense by 10%
+		Immune to cursed inferno debuff
+	Current : 
+		Increased defense by 10%
+		Immune to cursed inferno debuff
+}
+

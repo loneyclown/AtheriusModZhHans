@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Skull
+	Current : Skull
+}
+
+1 :
+{
+	Origin : 
+		That's just another part of nature...
+		Drop 25 of this kind the world to repel some NPCs
+		With 100 of these in your inventory, death will forgive you one time
+	Current : 
+		That's just another part of nature...
+		Drop 25 of this kind the world to repel some NPCs
+		With 100 of these in your inventory, death will forgive you one time
+}
+

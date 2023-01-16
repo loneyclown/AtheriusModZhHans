@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Burned Moss
+	Current : Burned Moss
+}
+
+1 :
+{
+	Origin : Summons Colossal Golem
+	Current : Summons Colossal Golem
+}
+

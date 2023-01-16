@@ -1,0 +1,36 @@
+0 :
+{
+	Origin : Shop
+	Current : Shop
+}
+
+1 :
+{
+	Origin : Where did you?...
+	Current : Where did you?...
+}
+
+2 :
+{
+	Origin : About Plantera...
+	Current : About Plantera...
+}
+
+3 :
+{
+	Origin : How did you tele-?
+	Current : How did you tele-?
+}
+
+4 :
+{
+	Origin : Give
+	Current : Give
+}
+
+5 :
+{
+	Origin : Give
+	Current : Give
+}
+

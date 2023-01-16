@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Critter Buffs
+	Current : Critter Buffs
+}
+
+Tooltip :
+{
+	Origin : Gain buffs as the herbalist around all your friendly critters
+	Current : Gain buffs as the herbalist around all your friendly critters
+}
+

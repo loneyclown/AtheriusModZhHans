@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Stone Disk
+	Current : Stone Disk
+}
+
+1 :
+{
+	Origin : Summons Mecha Stone Golem
+	Current : Summons Mecha Stone Golem
+}
+

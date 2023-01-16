@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Dathite Leggings
+	Current : Dathite Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased melee damage by 10%
+		Armor Set: Immune to posion
+	Current : 
+		Increased melee damage by 10%
+		Armor Set: Immune to posion
+}
+

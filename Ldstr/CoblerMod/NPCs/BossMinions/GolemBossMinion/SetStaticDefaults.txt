@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Colossal Golem Minion
+	Current : Colossal Golem Minion
+}
+

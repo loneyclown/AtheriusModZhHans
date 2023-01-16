@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Herbalist Weapon
+		Heal 20 HP every hit
+		Sets enemy on fire
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Herbalist Weapon
+		Heal 20 HP every hit
+		Sets enemy on fire
+		[c/0EA300:Herbalist Class]
+}
+

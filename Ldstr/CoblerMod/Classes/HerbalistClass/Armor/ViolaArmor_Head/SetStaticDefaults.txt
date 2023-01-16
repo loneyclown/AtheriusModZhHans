@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : Viola Helmet
+	Current : Viola Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased max mana by 20
+		Armor Set: Increased max speed by 6%
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased max mana by 20
+		Armor Set: Increased max speed by 6%
+		[c/0EA300:Herbalist Class]
+}
+

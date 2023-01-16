@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : 
+		5% increased damage in snipers
+		Increased speed of the special shots
+		Sniper Class
+	Current : 
+		5% increased damage in snipers
+		Increased speed of the special shots
+		Sniper Class
+}
+

@@ -1,0 +1,14 @@
+0 :
+{
+	Origin : 
+		Fires an array of beams
+		If the targets health drops below half upon hit, they will die instantly
+		But if the targets health is higher, they will gain a quarter of their health
+		Does not apply to bosses
+	Current : 
+		Fires an array of beams
+		If the targets health drops below half upon hit, they will die instantly
+		But if the targets health is higher, they will gain a quarter of their health
+		Does not apply to bosses
+}
+

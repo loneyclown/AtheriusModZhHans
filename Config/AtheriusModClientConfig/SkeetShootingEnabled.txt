@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Enable Skeet Shooting
+	Current : Enable Skeet Shooting
+}
+
+Tooltip :
+{
+	Origin : Enables Range trait for sending out skeet shots. Right click while holding a range weapon to do so.
+	Current : Enables Range trait for sending out skeet shots. Right click while holding a range weapon to do so.
+}
+

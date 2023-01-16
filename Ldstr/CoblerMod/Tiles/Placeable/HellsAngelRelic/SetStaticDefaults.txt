@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Hell's Angel Relic
+	Current : Hell's Angel Relic
+}
+

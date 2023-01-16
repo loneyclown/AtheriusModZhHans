@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : Mjolnir
+	Current : Mjolnir
+}
+
+1 :
+{
+	Origin : 
+		Throws like a booomerang
+		Spawns lightning on nearby enemies
+		[c/00FFC0:Can only throw if the type is godly]
+		There is a 1 in 5 chance of such
+	Current : 
+		Throws like a booomerang
+		Spawns lightning on nearby enemies
+		[c/00FFC0:Can only throw if the type is godly]
+		There is a 1 in 5 chance of such
+}
+

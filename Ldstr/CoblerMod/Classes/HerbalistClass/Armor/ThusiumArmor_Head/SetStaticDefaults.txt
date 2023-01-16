@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Thusium Helmet
+	Current : Thusium Helmet
+}
+
+1 :
+{
+	Origin : 
+		Increased movement speed by 15%
+		Armor Set: Increased jump height
+	Current : 
+		Increased movement speed by 15%
+		Armor Set: Increased jump height
+}
+

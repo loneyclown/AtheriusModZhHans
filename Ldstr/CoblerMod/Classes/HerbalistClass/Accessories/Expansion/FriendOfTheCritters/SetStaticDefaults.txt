@@ -1,0 +1,20 @@
+0 :
+{
+	Origin : 
+		Increased herbalist crit by 15
+		Increased herbalist knockback by 10%
+		All friendly animals will not take damage from the player
+		When spawned in, critters will have 50 more HP
+		They will also have increased life regen
+		Critters will not take damage from the player
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist crit by 15
+		Increased herbalist knockback by 10%
+		All friendly animals will not take damage from the player
+		When spawned in, critters will have 50 more HP
+		They will also have increased life regen
+		Critters will not take damage from the player
+		[c/0EA300:Herbalist Class]
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		While fighting, be sure to listen for that screech.
+		You'll regret it otherwise...
+	Current : 
+		While fighting, be sure to listen for that screech.
+		You'll regret it otherwise...
+}
+

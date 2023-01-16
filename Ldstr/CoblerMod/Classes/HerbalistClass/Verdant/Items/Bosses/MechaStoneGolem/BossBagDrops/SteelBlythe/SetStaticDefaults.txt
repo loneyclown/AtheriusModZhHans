@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : Fires rocks when swung
+	Current : Fires rocks when swung
+}
+

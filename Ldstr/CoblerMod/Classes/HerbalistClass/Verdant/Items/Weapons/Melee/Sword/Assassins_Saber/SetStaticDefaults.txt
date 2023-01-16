@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Assassin's Saber
+	Current : Assassin's Saber
+}
+
+1 :
+{
+	Origin : Despite the size, you are able to do quick swipes.
+	Current : Despite the size, you are able to do quick swipes.
+}
+

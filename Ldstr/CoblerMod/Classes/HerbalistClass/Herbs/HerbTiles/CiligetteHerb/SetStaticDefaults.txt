@@ -1,0 +1,6 @@
+1 :
+{
+	Origin : Ciligette Herb
+	Current : Ciligette Herb
+}
+

@@ -1,0 +1,16 @@
+0 :
+{
+	Origin : Cebalt Leggings
+	Current : Cebalt Leggings
+}
+
+1 :
+{
+	Origin : 
+		Increased minion damage by 12%
+		Armor Set: Decreased mana costs by 10%
+	Current : 
+		Increased minion damage by 12%
+		Armor Set: Decreased mana costs by 10%
+}
+

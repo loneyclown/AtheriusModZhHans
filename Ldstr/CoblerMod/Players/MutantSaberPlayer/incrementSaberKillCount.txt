@@ -1,0 +1,96 @@
+0 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+1 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+2 :
+{
+	Origin : has become
+	Current : has become
+}
+
+3 :
+{
+	Origin : !]
+	Current : !]
+}
+
+4 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+5 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+6 :
+{
+	Origin : has become
+	Current : has become
+}
+
+7 :
+{
+	Origin : !]
+	Current : !]
+}
+
+8 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+9 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+10 :
+{
+	Origin : has become
+	Current : has become
+}
+
+11 :
+{
+	Origin : !]
+	Current : !]
+}
+
+12 :
+{
+	Origin : [c/
+	Current : [c/
+}
+
+13 :
+{
+	Origin : :Level up! You're 
+	Current : :Level up! You're 
+}
+
+14 :
+{
+	Origin : has become
+	Current : has become
+}
+
+15 :
+{
+	Origin : !]
+	Current : !]
+}
+

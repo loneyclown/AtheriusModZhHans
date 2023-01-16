@@ -1,0 +1,18 @@
+0 :
+{
+	Origin : What's Another Nature Ring?
+	Current : What's Another Nature Ring?
+}
+
+1 :
+{
+	Origin : 
+		Increased herbalist damage by 6%
+		Increased number of herbalist rings by 1
+		[c/0EA300:Herbalist Class]
+	Current : 
+		Increased herbalist damage by 6%
+		Increased number of herbalist rings by 1
+		[c/0EA300:Herbalist Class]
+}
+

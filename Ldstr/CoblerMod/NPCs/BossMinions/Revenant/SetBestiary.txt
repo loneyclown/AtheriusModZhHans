@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		Don't let it see you.
+		You'll regret it if it sees you.
+	Current : 
+		Don't let it see you.
+		You'll regret it if it sees you.
+}
+

@@ -1,0 +1,10 @@
+0 :
+{
+	Origin : 
+		20% summon damage
+		+1 Max minions
+	Current : 
+		20% summon damage
+		+1 Max minions
+}
+
