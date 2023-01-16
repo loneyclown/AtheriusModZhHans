@@ -4,7 +4,7 @@
 		It helplessly wanders through the nights now.
 		Trying to remember how to use it's blades.
 	Current : 
-		It helplessly wanders through the nights now.
-		Trying to remember how to use it's blades.
+		现在它无助地在夜晚徘徊。
+		试图记住如何使用它的刀片。
 }
 

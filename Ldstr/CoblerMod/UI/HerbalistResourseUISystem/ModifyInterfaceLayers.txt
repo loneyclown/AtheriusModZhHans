@@ -1,6 +1,6 @@
 0 :
 {
 	Origin : HerbalistMod: Herbalist Resource Bar
-	Current : HerbalistMod: Herbalist Resource Bar
+	Current : HerbalistMod: 草药师资源栏
 }
 

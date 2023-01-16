@@ -6,9 +6,9 @@
 		
 		It also is really good at baking I hear!
 	Current : 
-		This ancient being has been known to fire fireballs at fires despite being told that it would be fired
-		as a result. Now it's on fire when it comes to burning its enemies...
-		
-		It also is really good at baking I hear!
+		众所周知，这个古老的生物会在火上发射火球，尽管被告知它会被解雇
+		因此。 现在它在燃烧它的敌人时着火了......
+
+		我听说它也很擅长烘焙！
 }
 

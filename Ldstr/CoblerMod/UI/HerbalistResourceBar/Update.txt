@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : [c/0E9D05:Nature: 
-	Current : [c/0E9D05:Nature: 
+	Current : [c/0E9D05:自然之力: 
 }
 
 1 :

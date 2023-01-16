@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Flaming Exarch
-	Current : Flaming Exarch
+	Current : 烈焰主教
 }
 
 1 :

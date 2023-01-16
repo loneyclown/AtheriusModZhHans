@@ -4,7 +4,7 @@
 		It helplessly wanders through the nights now.
 		Trying to follow the footsteps of its past, but to no avail.
 	Current : 
-		It helplessly wanders through the nights now.
-		Trying to follow the footsteps of its past, but to no avail.
+		现在它无助地在夜晚徘徊。
+		试图追随它过去的脚步，但无济于事。
 }
 

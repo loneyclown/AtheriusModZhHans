@@ -7,12 +7,12 @@
 1 :
 {
 	Origin : Lucky
-	Current : Lucky
+	Current : 幸运的
 }
 
 2 :
 {
 	Origin : Wow! I guess I am just really [c/36CF25:lucky]...
-	Current : Wow! I guess I am just really [c/36CF25:lucky]...
+	Current : 哇！ 我想我只是真的 [c/36CF25:幸运的]...
 }
 
