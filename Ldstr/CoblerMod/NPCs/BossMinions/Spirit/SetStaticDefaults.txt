@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Spirit
-	Current : Spirit
+	Current : 精神
 }
 
 1 :

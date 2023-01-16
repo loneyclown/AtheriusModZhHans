@@ -4,7 +4,7 @@
 		Don't let it see you.
 		You'll regret it if it sees you.
 	Current : 
-		Don't let it see you.
-		You'll regret it if it sees you.
+		不要让它看到你。
+		如果它看到你，你会后悔的。
 }
 

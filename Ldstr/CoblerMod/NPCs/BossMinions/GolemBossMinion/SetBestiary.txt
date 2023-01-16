@@ -1,6 +1,6 @@
 0 :
 {
 	Origin : A minion willing to sacrifice its life for its mother golem. It's not just another head, it's another life.
-	Current : A minion willing to sacrifice its life for its mother golem. It's not just another head, it's another life.
+	Current : 一个愿意为它的母傀儡牺牲自己生命的仆从。 这不仅仅是另一个头，这是另一个生命。
 }
 

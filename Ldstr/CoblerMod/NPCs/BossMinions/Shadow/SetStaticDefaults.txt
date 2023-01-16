@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Shadow
-	Current : Shadow
+	Current : 阴影
 }
 
 1 :

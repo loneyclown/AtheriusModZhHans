@@ -4,7 +4,7 @@
 		Spirits are friendlier.
 		They try to heal more than harm.
 	Current : 
-		Spirits are friendlier.
-		They try to heal more than harm.
+		精神更友好。
+		他们试图治愈而不是伤害。
 }
 

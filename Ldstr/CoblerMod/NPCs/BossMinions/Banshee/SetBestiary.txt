@@ -4,7 +4,7 @@
 		While fighting, be sure to listen for that screech.
 		You'll regret it otherwise...
 	Current : 
-		While fighting, be sure to listen for that screech.
-		You'll regret it otherwise...
+		战斗时，一定要听那声尖叫。
+		不然你会后悔的...
 }
 

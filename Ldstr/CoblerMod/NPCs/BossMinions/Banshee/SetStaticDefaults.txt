@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Banshee
-	Current : Banshee
+	Current : 女妖
 }
 
 1 :

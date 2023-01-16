@@ -1,6 +1,6 @@
 0 :
 {
 	Origin : Servant Attack
-	Current : Servant Attack
+	Current : 从者攻击
 }
 

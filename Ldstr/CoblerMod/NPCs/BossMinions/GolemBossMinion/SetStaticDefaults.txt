@@ -1,6 +1,6 @@
 0 :
 {
 	Origin : Colossal Golem Minion
-	Current : Colossal Golem Minion
+	Current : 巨大的傀儡仆从
 }
 

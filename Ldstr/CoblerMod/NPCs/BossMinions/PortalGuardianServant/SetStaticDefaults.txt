@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Servant
-	Current : Servant
+	Current : 仆人
 }
 
 1 :

@@ -1,7 +1,7 @@
 0 :
 {
 	Origin : Revenant
-	Current : Revenant
+	Current : 亡魂
 }
 
 1 :
