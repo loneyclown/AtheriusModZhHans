@@ -911,12 +911,12 @@ Buff_Tombstone :
 	Name :
 	{
 		Origin : Tombstone
-		Current : Tombstone
+		Current : 墓碑
 	}
 	Description :
 	{
 		Origin : Next time you're about to die, you won't =)
-		Current : Next time you're about to die, you won't =)
+		Current : 下次你要死的时候，你不会=）
 	}
 }
 
@@ -925,12 +925,12 @@ Buff_ViperNigella :
 	Name :
 	{
 		Origin : Viper Nigella
-		Current : Viper Nigella
+		Current : 毒蛇黑种草
 	}
 	Description :
 	{
 		Origin : Weapons deal poison
-		Current : Weapons deal poison
+		Current : 武器有毒
 	}
 }
 
@@ -939,12 +939,12 @@ Buff_Waypoint :
 	Name :
 	{
 		Origin : Waypoint
-		Current : Waypoint
+		Current : 航点
 	}
 	Description :
 	{
 		Origin : Incrementing damage
-		Current : Incrementing damage
+		Current : 增加伤害
 	}
 }
 
@@ -958,7 +958,7 @@ Debuff_Bleu :
 	Description :
 	{
 		Origin : Don't get hit by Jaune's or Rouge's projectiles...
-		Current : Don't get hit by Jaune's or Rouge's projectiles...
+		Current : 不要被 Jaune 或 Rouge 的射弹击中...
 	}
 }
 
@@ -967,12 +967,12 @@ Debuff_DarkSword :
 	Name :
 	{
 		Origin : Dark Sword
-		Current : Dark Sword
+		Current : 黑暗之剑
 	}
 	Description :
 	{
 		Origin : Using a weapon from the dark grimoire
-		Current : Using a weapon from the dark grimoire
+		Current : 使用黑暗魔法书中的武器
 	}
 }
 
@@ -981,12 +981,12 @@ Debuff_DemonSword :
 	Name :
 	{
 		Origin : Demon Sword
-		Current : Demon Sword
+		Current : 魔剑
 	}
 	Description :
 	{
 		Origin : Using a weapon from the demon grimoire
-		Current : Using a weapon from the demon grimoire
+		Current : 使用恶魔魔典中的武器
 	}
 }
 
@@ -995,12 +995,12 @@ Debuff_Despair :
 	Name :
 	{
 		Origin : Despair
-		Current : Despair
+		Current : 绝望
 	}
 	Description :
 	{
 		Origin : Succomb to despair. Puhuhu.
-		Current : Succomb to despair. Puhuhu.
+		Current : 屈服于绝望。 扑呼呼。
 	}
 }
 
@@ -1009,12 +1009,12 @@ Debuff_DevilsAwakening :
 	Name :
 	{
 		Origin : Devil's Awakening
-		Current : Devil's Awakening
+		Current : 恶魔的觉醒
 	}
 	Description :
 	{
 		Origin : Will die next time hit by a boss
-		Current : Will die next time hit by a boss
+		Current : 下次被老板打会死
 	}
 }
 
@@ -1023,12 +1023,12 @@ Debuff_ExplosionStaff :
 	Name :
 	{
 		Origin : Explosion Staff
-		Current : Explosion Staff
+		Current : 爆破法杖
 	}
 	Description :
 	{
 		Origin : EXPLOSION
-		Current : EXPLOSION
+		Current : 爆炸
 	}
 }
 
@@ -1037,12 +1037,12 @@ Debuff_FaithfulWindroot :
 	Name :
 	{
 		Origin : Faithful Windroot Cooldown
-		Current : Faithful Windroot Cooldown
+		Current : 忠实风根冷却
 	}
 	Description :
 	{
 		Origin : Cannot use Faithful Windroot skill
-		Current : Cannot use Faithful Windroot skill
+		Current : 无法使用忠实风根技能
 	}
 }
 
@@ -1051,12 +1051,12 @@ Debuff_FallenAngel :
 	Name :
 	{
 		Origin : Fallen Angel
-		Current : Fallen Angel
+		Current : 堕天使
 	}
 	Description :
 	{
 		Origin : Cannot fly
-		Current : Cannot fly
+		Current : 不能飞
 	}
 }
 
@@ -1065,12 +1065,12 @@ Debuff_GoldenSword :
 	Name :
 	{
 		Origin : Golden Sword
-		Current : Golden Sword
+		Current : 金剑
 	}
 	Description :
 	{
 		Origin : Using a weapon from the gold grimoire
-		Current : Using a weapon from the gold grimoire
+		Current : 使用黄金魔典中的武器
 	}
 }
 
@@ -1079,12 +1079,12 @@ Debuff_HealThyAxe :
 	Name :
 	{
 		Origin : Heal Thy Axe
-		Current : Heal Thy Axe
+		Current : 治愈你的斧头
 	}
 	Description :
 	{
 		Origin : Using a weapon from the heart grimoire
-		Current : Using a weapon from the heart grimoire
+		Current : 使用来自心之魔法书的武器
 	}
 }
 
@@ -1093,12 +1093,12 @@ Debuff_HeavensWarmth :
 	Name :
 	{
 		Origin : Heaven's Warmth
-		Current : Heaven's Warmth
+		Current : 天堂的温暖
 	}
 	Description :
 	{
 		Origin : Needs to recharge
-		Current : Needs to recharge
+		Current : 需要充电
 	}
 }
 
@@ -1107,12 +1107,12 @@ Debuff_Hellreaver :
 	Name :
 	{
 		Origin : Heallreaver Cooldown
-		Current : Heallreaver Cooldown
+		Current : 治疗掠夺者冷却时间
 	}
 	Description :
 	{
 		Origin : Cannot use Hellreaver skill
-		Current : Cannot use Hellreaver skill
+		Current : 无法使用地狱掠夺者技能
 	}
 }
 
@@ -1121,12 +1121,12 @@ Debuff_HerbalistShield :
 	Name :
 	{
 		Origin : Herbalist Shield
-		Current : Herbalist Shield
+		Current : 草药师之盾
 	}
 	Description :
 	{
 		Origin : Cannot get back your shield while this debuff is active
-		Current : Cannot get back your shield while this debuff is active
+		Current : 当这个 debuff 处于活动状态时无法取回你的盾牌
 	}
 }
 
@@ -1140,7 +1140,7 @@ Debuff_Jaune :
 	Description :
 	{
 		Origin : Don't get hit by Rouge's or Bleu's projectiles...
-		Current : Don't get hit by Rouge's or Bleu's projectiles...
+		Current : 不要被 Rouge 或 Bleu 的射弹击中...
 	}
 }
 
@@ -1149,12 +1149,12 @@ Debuff_Oblivious :
 	Name :
 	{
 		Origin : Oblivious
-		Current : Oblivious
+		Current : 不经意的
 	}
 	Description :
 	{
 		Origin : Deal no damage to the enemy
-		Current : Deal no damage to the enemy
+		Current : 不对敌人造成伤害
 	}
 }
 
@@ -1163,12 +1163,12 @@ Debuff_PortalGuardian :
 	Name :
 	{
 		Origin : Portal Guardian
-		Current : Portal Guardian
+		Current : 门户守护者
 	}
 	Description :
 	{
 		Origin : All Portal Guardian moves will do 1.5x the damage on the player
-		Current : All Portal Guardian moves will do 1.5x the damage on the player
+		Current : 所有门户守护者动作都会对玩家造成 1.5 倍的伤害
 	}
 }
 
@@ -1182,7 +1182,7 @@ Debuff_Rouge :
 	Description :
 	{
 		Origin : Don't get hit by Jaune's or Bleu's projectiles...
-		Current : Don't get hit by Jaune's or Bleu's projectiles...
+		Current : 不要被 Jaune 或 Bleu 的射弹击中...
 	}
 }
 
@@ -1191,12 +1191,12 @@ Debuff_SniperCooldown :
 	Name :
 	{
 		Origin : Sniper Cooldown
-		Current : Sniper Cooldown
+		Current : 狙击冷却时间
 	}
 	Description :
 	{
 		Origin : Cannot go back into sniper mode until this is gone
-		Current : Cannot go back into sniper mode until this is gone
+		Current : 在这消失之前无法返回狙击模式
 	}
 }
 
@@ -1205,12 +1205,12 @@ Debuff_SpiritBow :
 	Name :
 	{
 		Origin : Spirit Bow
-		Current : Spirit Bow
+		Current : 灵弓
 	}
 	Description :
 	{
 		Origin : Using a weapon from the wind grimoire
-		Current : Using a weapon from the wind grimoire
+		Current : 使用风之宝典的武器
 	}
 }
 
@@ -1219,12 +1219,12 @@ Debuff_Tier5Dream :
 	Name :
 	{
 		Origin : Dream World
-		Current : Dream World
+		Current : 梦想世界
 	}
 	Description :
 	{
 		Origin : Cannot use Dream World
-		Current : Cannot use Dream World
+		Current : 无法使用梦幻世界
 	}
 }
 
@@ -1233,12 +1233,12 @@ Debuff_Tier5Gold :
 	Name :
 	{
 		Origin : Gold Tier 5 Cooldown
-		Current : Gold Tier 5 Cooldown
+		Current : 黄金 5 级冷却时间
 	}
 	Description :
 	{
 		Origin : Cannot use Gold Tier 5
-		Current : Cannot use Gold Tier 5
+		Current : 不能使用黄金 5 级
 	}
 }
 
@@ -1247,12 +1247,12 @@ Debuff_Tier5Ice :
 	Name :
 	{
 		Origin : Shattered Ice Cooldown
-		Current : Shattered Ice Cooldown
+		Current : 碎冰冷却
 	}
 	Description :
 	{
 		Origin : Cannot use Shattered Ice
-		Current : Cannot use Shattered Ice
+		Current : 不能使用碎冰
 	}
 }
 
@@ -1261,12 +1261,12 @@ Debuff_Tier5Paint :
 	Name :
 	{
 		Origin : Canvas Cooldown
-		Current : Canvas Cooldown
+		Current : 画布冷却时间
 	}
 	Description :
 	{
 		Origin : Cannot use Canvas
-		Current : Cannot use Canvas
+		Current : 无法使用画布
 	}
 }
 
@@ -1275,12 +1275,12 @@ Debuff_Tier5Void :
 	Name :
 	{
 		Origin : Pitch Black Cooldown
-		Current : Pitch Black Cooldown
+		Current : 漆黑冷却时间
 	}
 	Description :
 	{
 		Origin : Cannot use Pitch Black
-		Current : Cannot use Pitch Black
+		Current : 不能使用漆黑
 	}
 }
 
@@ -1289,12 +1289,12 @@ Debuff_Tombstone :
 	Name :
 	{
 		Origin : Tombstone used
-		Current : Tombstone used
+		Current : 使用的墓碑
 	}
 	Description :
 	{
 		Origin : You're welcome
-		Current : You're welcome
+		Current : 别客气
 	}
 }
 
@@ -1303,12 +1303,12 @@ Debuff_Turn :
 	Name :
 	{
 		Origin : Turn
-		Current : Turn
+		Current : 转动
 	}
 	Description :
 	{
 		Origin : Turn
-		Current : Turn
+		Current : 转动
 	}
 }
 
@@ -1317,12 +1317,12 @@ Debuff_VoidSaber :
 	Name :
 	{
 		Origin : Void Saber
-		Current : Void Saber
+		Current : 虚空刀
 	}
 	Description :
 	{
 		Origin : Using a weapon from the void grimoire
-		Current : Using a weapon from the void grimoire
+		Current : 使用虚空魔法书中的武器
 	}
 }
 
@@ -1331,12 +1331,12 @@ DemonFriendBuff :
 	Name :
 	{
 		Origin : Demon Friend
-		Current : Demon Friend
+		Current : 恶魔朋友
 	}
 	Description :
 	{
 		Origin : Little buddy
-		Current : Little buddy
+		Current : 小伙伴
 	}
 }
 
@@ -1345,12 +1345,12 @@ EarthfireBuff :
 	Name :
 	{
 		Origin : Earthfire Minion
-		Current : Earthfire Minion
+		Current : 地火爪牙
 	}
 	Description :
 	{
 		Origin : EarthfireBuff
-		Current : EarthfireBuff
+		Current : 地火增益
 	}
 }
 
@@ -1359,12 +1359,12 @@ EchoBuff :
 	Name :
 	{
 		Origin : Echo Minion
-		Current : Echo Minion
+		Current : 回声仆从
 	}
 	Description :
 	{
 		Origin : His name is Echo
-		Current : His name is Echo
+		Current : 他的名字叫回声
 	}
 }
 
@@ -1373,12 +1373,12 @@ EyeForAnEyeBuff :
 	Name :
 	{
 		Origin : Eye For An Eye
-		Current : Eye For An Eye
+		Current : 以眼还眼
 	}
 	Description :
 	{
 		Origin : He will serve you well
-		Current : He will serve you well
+		Current : 他会很好地为你服务
 	}
 }
 
@@ -1387,12 +1387,12 @@ PapaLeafBuff :
 	Name :
 	{
 		Origin : Papa Leaf Minion
-		Current : Papa Leaf Minion
+		Current : 小黄人仆从
 	}
 	Description :
 	{
 		Origin : Someone's feelin sappy
-		Current : Someone's feelin sappy
+		Current : 有人觉得很傻
 	}
 }
 
@@ -1401,12 +1401,12 @@ PrimaryBatsBuff :
 	Name :
 	{
 		Origin : Primary Bats
-		Current : Primary Bats
+		Current : 初级蝙蝠
 	}
 	Description :
 	{
 		Origin : 3 little bats of RBY
-		Current : 3 little bats of RBY
+		Current : RBY小蝙蝠3只
 	}
 }
 
@@ -1415,12 +1415,12 @@ SoulServantBuff :
 	Name :
 	{
 		Origin : Soul Servant Minion
-		Current : Soul Servant Minion
+		Current : 灵魂仆从
 	}
 	Description :
 	{
 		Origin : He'll be your sword
-		Current : He'll be your sword
+		Current : 他会是你的剑
 	}
 }
 
@@ -1434,7 +1434,7 @@ SpiritDoggoBuff :
 	Description :
 	{
 		Origin : The herbalist's loyal spirit wolf comes to it's aid
-		Current : The herbalist's loyal spirit wolf comes to it's aid
+		Current : 草药师忠诚的灵狼前来帮助它
 	}
 }
 
@@ -1443,12 +1443,12 @@ WhatsAnotherHeadBuff :
 	Name :
 	{
 		Origin : SWhat's Another Head?
-		Current : SWhat's Another Head?
+		Current : 什么是另一个头？
 	}
 	Description :
 	{
 		Origin : Watch him go!
-		Current : Watch him go!
+		Current : 看着他走！
 	}
 }
 
