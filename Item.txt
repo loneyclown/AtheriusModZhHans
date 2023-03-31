@@ -1182,7 +1182,7 @@ Arrulica :
 			Player has no dash delay
 			[c/0EA300:Herbalist Class]
 		Current : 
-			玩家没有破折号延迟
+			清除玩家冲刺延迟
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -1474,7 +1474,7 @@ BanditsLongrifle :
 			Sniper Class
 			Middle click with it to enter sniper mode
 		Current : 
-			狙击班
+			Sniper Class
 			中键点击进入狙击模式
 	}
 }
@@ -1558,8 +1558,12 @@ Berserker :
 	}
 	Tooltip :
 	{
-		Origin : Gives the berserker buff.
-		Current : 给予狂战士增益。
+		Origin : 
+			Gives the berserker buff.
+			This buff increases attack while decreasing defense and life regen.
+		Current : 
+			给予狂战士增益。
+			此增益会增加攻击力，同时降低防御力和生命恢复速度。
 	}
 }
 
@@ -1576,7 +1580,7 @@ Betsy :
 			Sniper Class
 			Middle click with it to enter sniper mode
 		Current : 
-			狙击班
+			Sniper Class
 			中键点击进入狙击模式
 	}
 }
@@ -6053,7 +6057,7 @@ Eruptor :
 	Tooltip :
 	{
 		Origin : Haha arrows go boom
-		Current : 哈哈箭去繁荣
+		Current : Haha arrows go boom
 	}
 }
 
@@ -6145,7 +6149,7 @@ ExtendedMagazine :
 			增加狙击击退
 			所有狙击武器都没有弹药消耗
 			是的，这是一本杂志
-			狙击班
+			Sniper Class
 	}
 }
 
@@ -6162,7 +6166,7 @@ Extermination :
 			Sniper Class
 			Middle click with it to enter sniper mode
 		Current : 
-			狙击班
+			Sniper Class
 			中键点击进入狙击模式
 	}
 }
@@ -6287,8 +6291,8 @@ FaithNecklace :
 			if the player has less than half their health
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Upon getting hit, a healing circle will appear
-			if the player has less than half their health
+			被击中后，会出现一个治疗圈
+			如果玩家的健康状况不到一半
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -6309,10 +6313,10 @@ FakeBoxwood :
 			intercepted by a rock formation popping up, protecting the player
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist damage by 15%
-			Increase in herbalist crit by 8
-			If the player is on the ground, all hostile projectiles will be
-			intercepted by a rock formation popping up, protecting the player
+			草药师的伤害提高 15%
+			草药师暴击增加8
+			如果玩家在地面上，所有敌对射弹都会
+			被弹出的岩层拦截，保护玩家
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -6330,7 +6334,7 @@ Fall :
 			Fall Like a leaf
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Fall Like a leaf
+			像树叶一样落下
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -6425,10 +6429,10 @@ FatherNature :
 			'Father Nature is a lot more chilled back. He'll let you pass on some things'
 			[c/0EA300:Herbalist Class]
 		Current : 
-			While swinging, leaves will start falling from the sky
-			If the player is on the ground, rock formations will start sprouting up
-			Every 3 swings the rocks get bigger before returning to normal size
-			'Father Nature is a lot more chilled back. He'll let you pass on some things'
+			摆动时，树叶会开始从天而降
+			如果玩家在地面上，岩层将开始萌芽
+			每摆动 3 次，岩石就会变大，然后恢复到正常大小
+			'大自然之父要冷静得多。 他会让你传递一些东西'
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -6467,10 +6471,10 @@ FermentedSeed :
 			Can only be on one NPC at a time
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Fire's a dark seed for projectiles
-			When in contact, the target will become cursed,
-			taking constant damage over time while healing the player
-			Can only be on one NPC at a time
+			火是射弹的黑暗种子
+			接触时，目标会受到诅咒，
+			在治疗玩家的同时随着时间的推移不断受到伤害
+			一次只能在一个 NPC 身上
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13131,8 +13135,8 @@ PassionfruitAnimalpeno :
 			Increased damage from animals by 15%
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist passive healing by 2
-			Increased damage from animals by 15%
+			草药师被动治疗增加 2
+			来自动物的伤害提高 15%
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13184,9 +13188,9 @@ PeakLeaf :
 			Leaf projectiles deal double damage
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased passive berry healing by 5
-			Increased herbalist knockback by 10%
-			Leaf projectiles deal double damage
+			被动浆果治疗增加 5
+			草药师击退增加 10%
+			树叶射弹造成双倍伤害
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13242,9 +13246,9 @@ Petals :
 			Herbalist passive heal increased by 3 during the daytime as well
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Herbalist plants heal by 10 more HP during the daytime
-			However, herbalist plants heal by 3 less HP damage during the nighttime
-			Herbalist passive heal increased by 3 during the daytime as well
+			草药师植物在白天恢复 10 点以上的生命值
+			然而，草药师植物在夜间治疗的 HP 伤害减少 3
+			草药师的被动治疗在白天也增加了 3
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13263,8 +13267,8 @@ PetuniaGem :
 			Herbalist weapons increase in scale
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist damage by 6%
-			Herbalist weapons increase in scale
+			草药师的伤害提高 6%
+			草药师武器规模增加
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13370,9 +13374,9 @@ Pincer :
 			This will continue until a leaf loses contact with an NPC
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Spawns 3 leaves
-			When the leaves hit, 2 more leaves will spawn from the player
-			This will continue until a leaf loses contact with an NPC
+			产生 3 片叶子
+			当树叶击中时，玩家会再生成 2 个树叶
+			这将一直持续到叶子与 NPC 失去联系
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13461,8 +13465,8 @@ PixieButterfly :
 			While it cannot be released, it will give aid to the herbalist
 			[c/0EA300:Herbalist Class]
 		Current : 
-			An elegant creature from the Verdant biome
-			While it cannot be released, it will give aid to the herbalist
+			来自 Verdant 生物群落的优雅生物
+			虽然它不能被释放，但它会帮助草药师
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13482,9 +13486,9 @@ Plague :
 			Spirit Dog is bigger in size
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Spirit dog poisons enemies on hit
-			Also has a chance to curse enemies on hit
-			Spirit Dog is bigger in size
+			灵犬击中敌人会中毒
+			也有机会在击中时诅咒敌人
+			灵犬体型更大
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13517,8 +13521,8 @@ PlanterraBlade :
 			Many herbalists in the past have avoided this weapon
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Spawns in rotating petals that constantly fire leaves
-			Many herbalists in the past have avoided this weapon
+			在不断发射叶子的旋转花瓣中产卵
+			过去许多草药师都避免使用这种武器
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13537,8 +13541,8 @@ Planterrible :
 			Spawns in a trap that when activated poisons and confuses all nearby enemies
 			[c/0EA300:Herbalist Class]
 		Current : 
-			This name is just plan terrible
-			Spawns in a trap that when activated poisons and confuses all nearby enemies
+			这个名字简直太可怕了
+			在陷阱中生成，当激活时会毒害并迷惑附近的所有敌人
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13556,7 +13560,7 @@ PlantHam :
 			Puts the Ham in Plant Ham
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Puts the Ham in Plant Ham
+			将火腿放入植物火腿中
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13574,7 +13578,7 @@ PlantHeart :
 			Herbalist plants, berries, and nuts will heal an additional 10
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Herbalist plants, berries, and nuts will heal an additional 10
+			草药师的植物、浆果和坚果会额外治疗 10
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13616,12 +13620,12 @@ PlantScroll10 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 10)
-		Current : Herbalist Plant Modifier (Tier 10)
+		Current : 草药师植物改良剂（10 阶）
 	}
 	Tooltip :
 	{
 		Origin : Equip this to only find plants given from scroll 10
-		Current : Equip this to only find plants given from scroll 10
+		Current : 装备它只找到卷轴 10 给出的植物
 	}
 }
 
@@ -13630,7 +13634,7 @@ PlantScroll2 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 2)
-		Current : Herbalist Plant Modifier (Tier 2)
+		Current : 草药师植物改良剂（2 阶）
 	}
 	Tooltip :
 	{
@@ -13644,7 +13648,7 @@ PlantScroll3 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 3)
-		Current : Herbalist Plant Modifier (Tier 3)
+		Current : 草药师植物改良剂（3 阶）
 	}
 	Tooltip :
 	{
@@ -13658,7 +13662,7 @@ PlantScroll4 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 4)
-		Current : Herbalist Plant Modifier (Tier 4)
+		Current : 草药师植物改良剂（4 阶）
 	}
 	Tooltip :
 	{
@@ -13672,12 +13676,12 @@ PlantScroll5 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 5)
-		Current : Herbalist Plant Modifier (Tier 5)
+		Current : 草药师植物改良剂（5 阶）
 	}
 	Tooltip :
 	{
 		Origin : Equip this to only find plants given from scroll 5
-		Current : Equip this to only find plants given from scroll 5
+		Current : 装备它只找到卷轴 5 给出的植物
 	}
 }
 
@@ -13686,12 +13690,12 @@ PlantScroll6 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 6)
-		Current : Herbalist Plant Modifier (Tier 6)
+		Current : 草药师植物改良剂（6 阶）
 	}
 	Tooltip :
 	{
 		Origin : Equip this to only find plants given from scroll 6
-		Current : Equip this to only find plants given from scroll 6
+		Current : 装备它只找到卷轴 6 给出的植物
 	}
 }
 
@@ -13700,12 +13704,12 @@ PlantScroll7 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 7)
-		Current : Herbalist Plant Modifier (Tier 7)
+		Current : 草药师植物改良剂（7 阶）
 	}
 	Tooltip :
 	{
 		Origin : Equip this to only find plants given from scroll 7
-		Current : Equip this to only find plants given from scroll 7
+		Current : 装备它只找到卷轴 7 给出的植物
 	}
 }
 
@@ -13714,12 +13718,12 @@ PlantScroll8 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 8)
-		Current : Herbalist Plant Modifier (Tier 8)
+		Current : 草药师植物改良剂（8 阶）
 	}
 	Tooltip :
 	{
 		Origin : Equip this to only find plants given from scroll 8
-		Current : Equip this to only find plants given from scroll 8
+		Current : 装备它只找到卷轴 8 给出的植物
 	}
 }
 
@@ -13728,12 +13732,12 @@ PlantScroll9 :
 	Name :
 	{
 		Origin : Herbalist Plant Modifier (Tier 9)
-		Current : Herbalist Plant Modifier (Tier 9)
+		Current : 草药师植物改良剂（9 阶）
 	}
 	Tooltip :
 	{
 		Origin : Equip this to only find plants given from scroll 9
-		Current : Equip this to only find plants given from scroll 9
+		Current : 装备它只找到卷轴 9 给出的植物
 	}
 }
 
@@ -13757,14 +13761,14 @@ PlantSpiral :
 			This only applies to normal wood
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist resource by 100
+			草药资源增加 100
 			
-			Increased herbalist resource regen rate by 25%
-			Doubles herbalist knockback
-			For every piece of wood in the players inventory,
-			herbalist damage is increased by 0.003%
-			(1 full stack of 999 = ~3 damage increase)
-			This only applies to normal wood
+			草药资源再生率提高 25%
+			草药师造成双倍击退
+			对于玩家背包中的每有一块木头，
+			草药师伤害增加 0.003%
+			（1 组 999 = ~3 伤害增加）
+			这仅适用于普通木材
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13801,8 +13805,8 @@ PoisonCrest :
 			Enemies hit will become poisoned
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Gain an immunity to poison
-			Enemies hit will become poisoned
+			获得对毒素的免疫力
+			被击中的敌人会中毒
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13821,7 +13825,7 @@ Popeye :
 			Middle click with it to enter sniper mode
 		Current : 
 			Sniper Class
-			Middle click with it to enter sniper mode
+			中键点击进入狙击模式
 	}
 }
 
@@ -13924,8 +13928,12 @@ PouchOfAshes :
 	}
 	Tooltip :
 	{
-		Origin : Hold on to this. It may come in handy one day
-		Current : 坚持下去。 也许有一天会派上用场
+		Origin : 
+			Hold on to this. It may come in handy one day
+			There is a 12.5% chance of not taking damage upon getting hit
+		Current : 
+			坚持下去。 也许有一天会派上用场
+			被击中时有 12.5% 的几率不受伤害
 	}
 }
 
@@ -13956,7 +13964,7 @@ Prick :
 			Chance of getting a thorn everytime you hit an enemy
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Chance of getting a thorn everytime you hit an enemy
+			每次击中敌人时有几率获得荆棘
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13975,8 +13983,8 @@ Prickle :
 			Poisons Enemy
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Chance of getting a thorn everytime you hit an enemy
-			Poisons Enemy
+			每次击中敌人时有几率获得荆棘
+			使敌人中毒
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -13996,9 +14004,9 @@ Prickler :
 			Leaves fall from the sky
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Chance of getting a thorn everytime you hit an enemy
-			Poisons Enemy
-			Leaves fall from the sky
+			每次击中敌人时有几率获得荆棘
+			使敌人中毒
+			树叶从天而降
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14032,7 +14040,7 @@ PrimaryShield :
 	{
 		Origin : 
 			Increased defense by 20
-			Increased health by 150 H
+			Increased health by 150
 			Players attack will increased based on the color of their hair
 			It will be added via the 3 RGB numbers divided by 20
 			So if your hair color is (100, 100, 100), you will gain 300 or 15% increased attack
@@ -14123,8 +14131,8 @@ PureWindroot :
 			But think twice before showing the herbalist...
 			[c/0EA300:Herbalist Class]
 		Current : 
-			I don't know where you found this
-			But think twice before showing the herbalist...
+			我不知道你在哪里找到这个
+			但在向草药师展示之前请三思……
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14142,7 +14150,7 @@ Putirine :
 			Less than half mana will grant a mana star every 5 seconds
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Less than half mana will grant a mana star every 5 seconds
+			少于一半的法力值将每 5 秒授予一个法力星
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14160,7 +14168,7 @@ PygmyPear :
 			These are good nutrition for the herbalist!
 			[c/0EA300:Herbalist Class]
 		Current : 
-			These are good nutrition for the herbalist!
+			这些对草药师来说是很好的营养！
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14179,8 +14187,8 @@ PygmyPearSeeds :
 			Once grown, they will give small buffs to the herbalist class
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Place these in the world
-			Once grown, they will give small buffs to the herbalist class
+			把这些放在世界上
+			一旦长大，他们会给草药师职业带来小的增益
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14198,7 +14206,7 @@ QuietPalm :
 			I think we can repair this
 			[c/0EA300:Herbalist Class]
 		Current : 
-			I think we can repair this
+			我想我们可以修复这个
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14221,12 +14229,12 @@ QuietTulip :
 			'I have an army'
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist passive healing by 10
-			Enemies on the ground will sometimes have an earthquake spawn under them
-			This could potentially chain attack, leading to bigger and bigger earthquakes
-			Will stop once the NPC is dead or on its own
-			For every critter around you, your attack and defense increases
-			'I have an army'
+			草药师被动治疗增加 10
+			地面上的敌人有时会在他们脚下产生地震
+			这可能会引发连锁攻击，导致越来越大的地震
+			一旦 NPC 死亡或自行停止
+			你身边的每一个小动物，你的攻击和防御都会增加
+			'我拥有一支军队'
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14246,9 +14254,9 @@ RabbitFeet :
 			Immunity to poison and bleeding
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Small increase in herbalist crit
-			Spirit Dog will fire projectiles at enemies
-			Immunity to poison and bleeding
+			小幅增加药师暴击
+			灵犬会向敌人发射弹丸
+			免疫毒素和流血
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14365,7 +14373,7 @@ Rapture :
 			Middle click with it to enter sniper mode
 		Current : 
 			Sniper Class
-			Middle click with it to enter sniper mode
+			中键点击进入狙击模式
 	}
 }
 
@@ -14425,8 +14433,8 @@ RedRoot :
 			Increased herbalist healing passive by 5
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist knockback by 5%
-			Increased herbalist healing passive by 5
+			草药师击退增加 5%
+			草药治疗被动增加 5
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14537,7 +14545,7 @@ RitualRepeater :
 			Middle click with it to enter sniper mode
 		Current : 
 			Sniper Class
-			Middle click with it to enter sniper mode
+			中键点击进入狙击模式
 	}
 }
 
@@ -14631,10 +14639,10 @@ RockInABox :
 			Increased number of herbalist rings by 2
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist damage by 6%
-			Increased herbalist healing by 50 HP
-			Increased herbalist mana restoration by 50 Mana
-			Increased number of herbalist rings by 2
+			草药师的伤害提高 6%
+			草药治疗增加 50 HP
+			草药师法力恢复增加 50 法力
+			草药师戒指数量增加 2
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14666,7 +14674,7 @@ RocouDeDiable :
 			The next 10 hits on the player will do half damage
 			[c/0EA300:Herbalist Class]
 		Current : 
-			The next 10 hits on the player will do half damage
+			接下来对玩家的 10 次攻击将造成一半伤害
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14685,8 +14693,8 @@ RootArmor_Body :
 			Armor Set: Increased herbalist damage by 6%
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased health from plant consumption by 3
-			Armor Set: Increased herbalist damage by 6%
+			食用植物使健康增加 3
+			护甲套装：草药师的伤害提高 6%
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14705,8 +14713,8 @@ RootArmor_Head :
 			Armor Set: Increased herbalist damage by 6%
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased max health by 25
-			Armor Set: Increased herbalist damage by 6%
+			最大生命值增加 25
+			护甲套装：草药师的伤害提高 6%
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14725,8 +14733,8 @@ RootArmor_Legs :
 			Armor Set: Increased herbalist damage by 6%
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased health from plant consumption by 2
-			Armor Set: Increased herbalist damage by 6%
+			食用植物增加健康值 2
+			护甲套装：草药师的伤害提高 6%
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14744,7 +14752,7 @@ Roots :
 			Gain rapid healing
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Gain rapid healing
+			获得快速治疗
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14785,8 +14793,8 @@ RosaArmor_Body :
 			Armor Set: Slightly increased defense after consuming an herb
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist damage by 4%
-			Armor Set: Slightly increased defense after consuming an herb
+			草药师的伤害提高 4%
+			护甲套装：食用草药后略微增加防御力
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14805,8 +14813,8 @@ RosaArmor_Head :
 			Armor Set: Slightly increased defense after consuming an herb
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Slightly increased health regen
-			Armor Set: Slightly increased defense after consuming an herb
+			略微增加健康恢复
+			护甲套装：食用草药后略微增加防御力
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14825,8 +14833,8 @@ RosaArmor_Legs :
 			Armor Set: Slightly increased defense after consuming an herb
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist damage by 4%
-			Armor Set: Slightly increased defense after consuming an herb
+			草药师的伤害提高 4%
+			护甲套装：食用草药后略微增加防御力
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14845,8 +14853,8 @@ Rose :
 			Increased herbalist healing passive by 5
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist damage by 5%
-			Increased herbalist healing passive by 5
+			草药师的伤害提高 5%
+			草药治疗被动增加 5
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -14908,9 +14916,9 @@ RoseBulb :
 			Changing their AI style
 			[c/0EA300:Herbalist Class]
 		Current : 
-			Increased herbalist passive healing by 2
-			Player gains the ability to redirect all leaf projectiles,
-			Changing their AI style
+			草药师被动治疗增加 2
+			玩家获得重定向所有叶子射弹的能力，
+			改变他们的人工智能风格
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -15273,7 +15281,7 @@ RuneGreed_Tier1 :
 	Tooltip :
 	{
 		Origin : Increases Herbalist damage by 5%
-		Current : Increases Herbalist damage by 5%
+		Current : 草药师的伤害提高 5%
 	}
 }
 
@@ -15290,8 +15298,8 @@ RuneGreed_Tier2 :
 			Increases Herbalist damage by 8%
 			Herbalist passive heal increased by 3 HP
 		Current : 
-			Increases Herbalist damage by 8%
-			Herbalist passive heal increased by 3 HP
+			草药师的伤害提高 8%
+			草药师被动治疗增加 3 HP
 	}
 }
 
@@ -15309,9 +15317,9 @@ RuneGreed_Tier3 :
 			Herbalist passive heal increased by 3 HP 
 			Increased block range
 		Current : 
-			Increases Herbalist damage by 12%
-			Herbalist passive heal increased by 3 HP 
-			Increased block range
+			草药师的伤害提高 12%
+			草药师被动治疗增加 3 HP
+			增加格挡范围
 	}
 }
 
@@ -15331,11 +15339,11 @@ RuneGreed_Tier4 :
 			Increased block range
 			Immune to confused
 		Current : 
-			Increases Herbalist damage by 15%
-			Player now have permanent spelunker
-			Herbalist passive heal increased by 4 HP 
-			Increased block range
-			Immune to confused
+			草药师的伤害提高 15%
+			玩家现在拥有永久的洞穴探险者
+			草药师被动治疗增加 4 HP
+			增加格挡范围
+			对困惑免疫
 	}
 }
 
@@ -15356,12 +15364,12 @@ RuneGreed_Tier5 :
 			Immune to Confused and Stoned
 			10% chance of dropping 1-5 gold coins everytime you kill an enemy
 		Current : 
-			Increases Herbalist damage by 18%
-			Player now have permanent spelunker
-			Herbalist passive heal increased by 4 HP 
-			Increased block range
-			Immune to Confused and Stoned
-			10% chance of dropping 1-5 gold coins everytime you kill an enemy
+			草药师的伤害提高 18%
+			玩家现在拥有永久的洞穴探险者
+			草药师被动治疗增加 4 HP
+			增加格挡范围
+			免疫困惑和投石
+			每次杀死敌人时有 10% 的几率掉落 1-5 金币
 	}
 }
 
@@ -15384,14 +15392,14 @@ RuneGreed_Tier6 :
 			An Item will randomly appear where you last died every time
 			It could be dirt... It could be a lunar bar...
 		Current : 
-			Increases Herbalist damage by 20%
-			Player now have permanent spelunker
-			Herbalist passive heal increased by 5 HP
-			Increased block range
-			Immune to Confused and Stoned
-			10% chance of dropping 1-5 gold coins everytime you kill an enemy
-			An Item will randomly appear where you last died every time
-			It could be dirt... It could be a lunar bar...
+			草药师的伤害提高 20%
+			玩家现在拥有永久的洞穴探险者
+			草药师被动治疗增加 5 HP
+			增加格挡范围
+			免疫困惑和投石
+			每次杀死敌人时有 10% 的几率掉落 1-5 金币
+			每次你最后一次死亡的地方都会随机出现一个物品
+			可能是泥土……可能是月球吧……
 	}
 }
 
@@ -20746,4 +20754,3 @@ Zuin :
 		Current : [c/0EA300:Herbalist Class]
 	}
 }
-
