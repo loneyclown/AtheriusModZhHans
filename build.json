@@ -5,7 +5,5 @@
   "package_name": "package",
   "display_name": "MyPackage",
   "culture": "zh-Hans",
-  "version": "0.0"
-}: "zh-Hans",
   "version": "0.1"
 }
