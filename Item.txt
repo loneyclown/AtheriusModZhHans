@@ -35,7 +35,7 @@ AbyssalCloud :
 	Name :
 	{
 		Origin : Abyssal Cloud
-		Current : 深渊云
+		Current : 深渊之云
 	}
 	Tooltip :
 	{
@@ -105,7 +105,7 @@ AbyssalSphere :
 	Name :
 	{
 		Origin : Abyssal Sphere
-		Current : 深渊球体
+		Current : 深渊之球
 	}
 	Tooltip :
 	{
@@ -119,7 +119,7 @@ AbyssVanilla :
 	Name :
 	{
 		Origin : Abyss Vanilla
-		Current : 深渊香草
+		Current : 最初的深渊
 	}
 	Tooltip :
 	{
@@ -137,7 +137,7 @@ Accelerator :
 	Name :
 	{
 		Origin : Accelerator
-		Current : 加速器
+		Current : 加速镜头
 	}
 	Tooltip :
 	{
@@ -148,7 +148,7 @@ Accelerator :
 		Current : 
 			狙击手的伤害增加 5%
 			提高特殊镜头的速度
-			Sniper Class
+			适用于狙击手
 	}
 }
 
@@ -165,7 +165,7 @@ Aculus :
 			[c/3CE348:Plant Tier: 4]
 			[c/0EA300:Herbalist Class]
 		Current : 
-			[c/3CE348:Plant Tier: 4]
+			[c/3CE348:植物阶层: 4]
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -186,7 +186,7 @@ AdmiredFate :
 		Current : 
 			射出水伏
 			紧随其后的是一连串的巨龙
-			紧随其后的是一连串的巨龙
+			也会浸湿敌人
 	}
 }
 
@@ -195,7 +195,7 @@ Aethiper :
 	Name :
 	{
 		Origin : Aethiper
-		Current : 走开
+		Current : 乙醚
 	}
 	Tooltip :
 	{
@@ -217,7 +217,7 @@ Afries :
 			[c/3CE348:Plant Tier: 2]
 			[c/0EA300:Herbalist Class]
 		Current : 
-			[c/3CE348:Plant Tier: 2]
+			[c/3CE348:植物阶层: 2]
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -239,12 +239,12 @@ AgrathScroll :
 			New parts of nature will begin to appear within the trees and various other parts of nature
 			You can enabled and disable the plants by pressing the keybinding
 		Current : 
-			你杀了你的第一个老板
-			但你还需要9个
+			你杀了你的第一个BOSS
+			你还需要再击杀9个BOSS
 			获得大自然的一切
-			在地板上
-			自然界的新部分将开始出现在树木和自然界的其他各个部分中
-			您可以通过按键绑定启用和禁用植物
+			在大地之上
+			你的世界将出现新的树木和草药以及材料
+			你可以通过按键绑定启用和禁用植物
 	}
 }
 
@@ -253,7 +253,7 @@ AIComputer :
 	Name :
 	{
 		Origin : Computer AI
-		Current : 计算机人工智能
+		Current : 计算机 AI
 	}
 	Tooltip :
 	{
@@ -271,7 +271,7 @@ Aiwow :
 	Name :
 	{
 		Origin : Aiwow
-		Current : 爱哇
+		Current : Aiwow
 	}
 	Tooltip :
 	{
@@ -307,7 +307,7 @@ Alcohol :
 			Nice job herbalist. You now know which plants are alcoholic
 			[c/0EA300:Herbalist Class]
 		Current : 
-			干得好草药师。 你现在知道哪些植物是酒精了
+			干得好草药师。你现在知道哪些植物是酒精了
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -329,7 +329,7 @@ All_Sigils_Together :
 		Current : 
 			近战伤害提高 15%
 			增加最大法力值和生命值
-			比较幸运
+			比较幸运	
 	}
 }
 
@@ -338,7 +338,7 @@ AloeVeryMuch :
 	Name :
 	{
 		Origin : Aloe Very Much
-		Current : 芦荟很多
+		Current : 非常芦荟
 	}
 	Tooltip :
 	{
@@ -350,7 +350,7 @@ AloeVeryMuch :
 		Current : 
 			在魔法治疗圈中生成
 			如果一个玩家走进去并且生命值不到一半，
-			然后治疗圈将激活
+			那么治疗圈就会激活
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -360,7 +360,7 @@ Also_America :
 	Name :
 	{
 		Origin : Also America
-		Current : 还有美国
+		Current : 没有涂'美国'之枪
 	}
 	Tooltip :
 	{
@@ -369,8 +369,8 @@ Also_America :
 			And yet it is weaker because it is not painted 'AMERICA'.
 			7.5% chance not to consume ammo.
 		Current : 
-			这是同一把枪。 就是没画。
-			但它更弱，因为它没有涂上“美国”字样。
+			这是同一把枪。
+			但是它更弱，因为它没有涂上“美国”字样。
 			7.5% 的几率不消耗弹药。
 	}
 }
@@ -380,7 +380,7 @@ Alstroemeria :
 	Name :
 	{
 		Origin : Alstroemeria
-		Current : Alstroemeria
+		Current : 六出花
 	}
 	Tooltip :
 	{
@@ -388,7 +388,7 @@ Alstroemeria :
 			[c/3CE348:Plant Tier: 8]
 			[c/0EA300:Herbalist Class]
 		Current : 
-			[c/3CE348:Plant Tier: 8]
+			[c/3CE348:植物阶层: 8]
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -398,7 +398,7 @@ AlwaysEast :
 	Name :
 	{
 		Origin : Always East
-		Current : Always East
+		Current : 永恒之东
 	}
 	Tooltip :
 	{
@@ -406,8 +406,8 @@ AlwaysEast :
 			Special shots will always head east
 			Sniper Class
 		Current : 
-			特殊镜头将始终向东
-			Sniper Class
+			狙击手的特殊镜头始终指向东方
+			适用于狙击手
 	}
 }
 
@@ -416,7 +416,7 @@ AlwaysNorth :
 	Name :
 	{
 		Origin : Always North
-		Current : Always North
+		Current : 永恒之北
 	}
 	Tooltip :
 	{
@@ -424,8 +424,8 @@ AlwaysNorth :
 			Special shots will always head north
 			Sniper Class
 		Current : 
-			特殊镜头永远向北
-			Sniper Class
+			狙击手的特殊镜头始终指向北方
+			适用于狙击手
 	}
 }
 
@@ -434,7 +434,7 @@ AlwaysSouth :
 	Name :
 	{
 		Origin : Always South
-		Current : Always South
+		Current : 永恒之南
 	}
 	Tooltip :
 	{
@@ -442,8 +442,8 @@ AlwaysSouth :
 			Special shots will always head south
 			Sniper Class
 		Current : 
-			特殊镜头总是向南
-			Sniper Class
+			狙击手的特殊镜头始终指向南方
+			适用于狙击手
 	}
 }
 
@@ -452,7 +452,7 @@ AlwaysWest :
 	Name :
 	{
 		Origin : Always West
-		Current : Always West
+		Current : 永恒之西
 	}
 	Tooltip :
 	{
@@ -460,8 +460,8 @@ AlwaysWest :
 			Special shots will always head west
 			Sniper Class
 		Current : 
-			特殊镜头将始终向西
-			Sniper Class
+			狙击手的特殊镜头始终指向西方
+			适用于狙击手
 	}
 }
 
@@ -478,7 +478,7 @@ Amabacca :
 			[c/3CE348:Plant Tier: 2]
 			[c/0EA300:Herbalist Class]
 		Current : 
-			[c/3CE348:Plant Tier: 2]
+			[c/3CE348:植物阶层: 2]
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -496,7 +496,7 @@ Amaryllis :
 			[c/3CE348:Plant Tier: 1]
 			[c/0EA300:Herbalist Class]
 		Current : 
-			[c/3CE348:Plant Tier: 1]
+			[c/3CE348:植物阶层: 1]
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -511,7 +511,7 @@ Amaryllis_Vanity :
 	Tooltip :
 	{
 		Origin : So Perty.
-		Current : 所以珀蒂。
+		Current : 如此美丽。
 	}
 }
 
@@ -520,12 +520,12 @@ America :
 	Name :
 	{
 		Origin : [c/FF0000:A][c/FFFFFF:m][c/0000FF:e][c/FF0000:r][c/FFFFFF:i][c/0000FF:c][c/FF0000:a]
-		Current : [c/FF0000:A][c/FFFFFF:m][c/0000FF:e][c/FF0000:r][c/FFFFFF:i][c/0000FF:c][c/FF0000:a]
+		Current : [c/FF0000:“漂亮”][c/FFFFFF:“国”]
 	}
 	Tooltip :
 	{
 		Origin : [c/FF0000:No description] [c/FFFFFF:is needed to describe] [c/0000FF:this beauty]
-		Current : [c/FF0000:No description] [c/FFFFFF:is needed to describe] [c/0000FF:this beauty]
+		Current : [c/FF0000:没有说明] [c/FFFFFF:这不需要说明] [c/0000FF:他就这么的“漂亮”]
 	}
 }
 
@@ -534,7 +534,7 @@ AmuletteDeCeleste :
 	Name :
 	{
 		Origin : Amulette De Celeste
-		Current : 天界护身符
+		Current : 德塞莱斯特护身符
 	}
 	Tooltip :
 	{
@@ -547,9 +547,9 @@ AmuletteDeCeleste :
 		Current : 
 			在神圣生物群落中时，一般伤害增加 35%
 			在神圣生物群落中时，通用击退增加 25%
-			在神圣生物群落中时，普通暴击增加 15%
-			在神圣生物群落中时攻击速度提高 10%
-			否则，所有统计数据在任何其他生物群系中都会增加一半
+			在神圣生物群落中时，通用暴击增加 15%
+			在神圣生物群落中时，攻击速度提高 10%
+			在其他生物群里中时，以上加成效果减半。
 	}
 }
 
@@ -558,7 +558,7 @@ AncientAntler :
 	Name :
 	{
 		Origin : Ancient Antler
-		Current : 古鹿角
+		Current : 远古鹿角
 	}
 	Tooltip :
 	{
@@ -566,7 +566,7 @@ AncientAntler :
 			Found on all of those shot down by one willful sniper
 			Sniper Material
 		Current : 
-			在所有被一名蓄意狙击手击落的人身上发现
+			所有的蓄意狙击手都会掉落
 			狙击材料
 	}
 }
@@ -576,7 +576,7 @@ AncientBone :
 	Name :
 	{
 		Origin : Ancient Bone
-		Current : 古骨
+		Current : 远古骨头
 	}
 	Tooltip :
 	{
@@ -584,7 +584,7 @@ AncientBone :
 			Found on all of those shot down by one willful sniper
 			Sniper Material
 		Current : 
-			在所有被一名蓄意狙击手击落的人身上发现
+			所有的蓄意狙击手都会掉落
 			狙击材料
 	}
 }
@@ -602,7 +602,7 @@ AncientFeather :
 			Found on all of those shot down by one willful sniper
 			Sniper Material
 		Current : 
-			在所有被一名蓄意狙击手击落的人身上发现
+			所有的蓄意狙击手都会掉落
 			狙击材料
 	}
 }
@@ -612,7 +612,7 @@ AncientFiber :
 	Name :
 	{
 		Origin : Ancient Fiber
-		Current : 古代纤维
+		Current : 远古纤维
 	}
 	Tooltip :
 	{
@@ -620,7 +620,7 @@ AncientFiber :
 			Found on all of those shot down by one willful sniper
 			Sniper Material
 		Current : 
-			在所有被一名蓄意狙击手击落的人身上发现
+			所有的蓄意狙击手都会掉落
 			狙击材料
 	}
 }
@@ -630,7 +630,7 @@ AncientHerbs :
 	Name :
 	{
 		Origin : Ancient Herbs
-		Current : 古代草药
+		Current : 远古草药
 	}
 	Tooltip :
 	{
@@ -642,7 +642,7 @@ AncientHerbs :
 		Current : 
 			点燃毒树苗
 			偶尔会在消耗空气的毒气云中生成
-			也可能带来'博士。 Nox'不时
+			'Dr. Nox'有时也会带来
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -652,7 +652,7 @@ AncientRibs :
 	Name :
 	{
 		Origin : Ancient Ribs
-		Current : 古排骨
+		Current : 远古肋骨
 	}
 	Tooltip :
 	{
@@ -660,7 +660,7 @@ AncientRibs :
 			Found on all of those shot down by one willful sniper
 			Sniper Material
 		Current : 
-			在所有被一名蓄意狙击手击落的人身上发现
+			所有的蓄意狙击手都会掉落
 			狙击材料
 	}
 }
@@ -670,7 +670,7 @@ AncientTooth :
 	Name :
 	{
 		Origin : Ancient Tooth
-		Current : 古牙
+		Current : 远古牙齿
 	}
 	Tooltip :
 	{
@@ -678,7 +678,7 @@ AncientTooth :
 			Found on all of those shot down by one willful sniper
 			Sniper Material
 		Current : 
-			在所有被一名蓄意狙击手击落的人身上发现
+			所有的蓄意狙击手都会掉落
 			狙击材料
 	}
 }
@@ -696,7 +696,7 @@ Anemone :
 			[c/3CE348:Plant Tier: 1]
 			[c/0EA300:Herbalist Class]
 		Current : 
-			[c/3CE348:Plant Tier: 1]
+			[c/3CE348:植物阶层: 1]
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -711,7 +711,7 @@ Anemone_Vanity :
 	Tooltip :
 	{
 		Origin : So Perty.
-		Current : 所以珀蒂。
+		Current : 如此美丽。
 	}
 }
 
@@ -725,7 +725,7 @@ AngelGem :
 	Tooltip :
 	{
 		Origin : Immunity to Fallen Angel
-		Current : 堕落天使免疫
+		Current : 免疫堕落天使减益
 	}
 }
 
@@ -763,8 +763,8 @@ AngelsCurse :
 			'I have an army'
 			[c/0EA300:Herbalist Class]
 		Current : 
-			你身边的每一个小动物，你的攻击和防御都会增加
-			'我有一支军队'
+			你周围每有一个小动物，你的攻击和防御都会增加
+			'我就是虫族女王！'
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -774,7 +774,7 @@ AnimalCaretaker :
 	Name :
 	{
 		Origin : Animal Caretaker
-		Current : 动物管理员
+		Current : 动物管理者
 	}
 	Tooltip :
 	{
@@ -782,7 +782,7 @@ AnimalCaretaker :
 			Increase herbalist healing when animals are around
 			[c/0EA300:Herbalist Class]
 		Current : 
-			当动物在附近时增加草药治疗
+			当有小动物在附近时增加草药师的治疗量
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -792,7 +792,7 @@ AnimalLiker :
 	Name :
 	{
 		Origin : Animal Liker
-		Current : 动物喜欢
+		Current : 动物欢喜者
 	}
 	Tooltip :
 	{
@@ -800,7 +800,7 @@ AnimalLiker :
 			Increase herbalist knockback when animals are around
 			[c/0EA300:Herbalist Class]
 		Current : 
-			当动物在附近时增加草药师的击退
+			当有小动物在附近时增加草药师的击退
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -818,7 +818,7 @@ AnimalLover :
 			Increase herbalist damage when animals are around
 			[c/0EA300:Herbalist Class]
 		Current : 
-			当动物在附近时增加草药师的伤害
+			当有小动物在附近时增加草药师的伤害
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -838,7 +838,7 @@ AnimalsCallToArms :
 			[c/0EA300:Herbalist Class]
 		Current : 
 			草药师的伤害提高 6%
-			玩家附近的所有友好动物都会随机发射射弹
+			玩家附近的所有友好动物都会随机发射弹幕
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -848,7 +848,7 @@ AnimalSignal :
 	Name :
 	{
 		Origin : Animal Signal
-		Current : 动物信号
+		Current : 动物·信号
 	}
 	Tooltip :
 	{
@@ -856,7 +856,7 @@ AnimalSignal :
 			All friendly animals near the player will randomly fire projectiles
 			[c/0EA300:Herbalist Class]
 		Current : 
-			玩家附近的所有友好动物都会随机发射射弹
+			玩家附近的所有友好动物都会随机发射弹幕
 			[c/0EA300:Herbalist Class]
 	}
 }
@@ -866,7 +866,7 @@ AnimalThriver :
 	Name :
 	{
 		Origin : Animal Thriver
-		Current : 动物茁壮成长
+		Current : 动物·茁壮成长
 	}
 	Tooltip :
 	{
@@ -895,9 +895,9 @@ AOT_ManeuverGear :
 			Also allows for wall climbing
 		Current : 
 			OP启动...
-			发射两个钩子并具有强大的拉力
-			快速到达位置的好钩子
-			还允许爬墙
+			发射两个具有强大拉力的钩子
+			可以快速到达钩子的位置
+			允许爬墙
 	}
 }
 
@@ -934,7 +934,7 @@ APartOfNature_Body :
 	Name :
 	{
 		Origin : 'A Part of Nature' Breastplate
-		Current : “自然的一部分”胸甲
+		Current : “自然碎片”胸甲
 	}
 	Tooltip :
 	{
@@ -944,8 +944,8 @@ APartOfNature_Body :
 			Armor Set: No damage to critters
 		Current : 
 			草药师的伤害提高 8%
-			落叶强度增加
-			盔甲套装：不会对小动物造成伤害
+			落叶伤害增加
+			套装：不会对小动物造成伤害
 	}
 }
 
@@ -954,7 +954,7 @@ APartOfNature_Head :
 	Name :
 	{
 		Origin : 'A Part of Nature' Helmet
-		Current : “自然的一部分”头盔
+		Current : “自然碎片”头盔
 	}
 	Tooltip :
 	{
@@ -962,8 +962,8 @@ APartOfNature_Head :
 			Increased berry healing by 5 HP
 			Armor Set: No damage to critters
 		Current : 
-			浆果治疗增加 5 HP
-			盔甲套装：不会对小动物造成伤害
+			浆果的治疗量增加 5 HP
+			套装：不会对小动物造成伤害
 	}
 }
 
@@ -972,7 +972,7 @@ APartOfNature_Legs :
 	Name :
 	{
 		Origin : 'A Part of Nature' Leggings
-		Current : “A Part of Nature”紧身裤
+		Current : “自然碎片”护胫
 	}
 	Tooltip :
 	{
@@ -983,7 +983,7 @@ APartOfNature_Legs :
 		Current : 
 			略微增加草药师的暴击率
 			恢复法力的草药师药水可多恢复 50 点法力
-			盔甲套装：不会对小动物造成伤害
+			套装：不会对小动物造成伤害
 	}
 }
 
@@ -1008,8 +1008,8 @@ ApolloScroll :
 			一个赤裸裸的老板
 			自从在雪地生物群落中
 			它会冻结在那个区域
-			自然界的新部分将开始出现在树木和自然界的其他各个部分中
-			您可以通过按键绑定启用和禁用植物
+			你的世界将出现新的树木和草药以及材料
+			你可以通过按键绑定启用和禁用植物
 	}
 }
 
@@ -1082,7 +1082,7 @@ AquaMagiSummonItem :
 	Name :
 	{
 		Origin : Turning Tide
-		Current : 力挽狂澜
+		Current : 潮汐拐杖
 	}
 	Tooltip :
 	{
